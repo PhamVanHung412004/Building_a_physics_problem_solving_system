@@ -1,0 +1,151 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2" pages="4">
+  <diagram name="Chung" id="1FoMSWkm9_SNxIPSl9T7">
+    <mxGraphModel dx="1092" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aMDc0ogjUVT3O0cqrBSF-1" target="aMDc0ogjUVT3O0cqrBSF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-1" value="Xử lý data bên khách gửi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212" y="542" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aMDc0ogjUVT3O0cqrBSF-3" target="aMDc0ogjUVT3O0cqrBSF-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-3" value="clear data" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="412" y="542" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aMDc0ogjUVT3O0cqrBSF-5" target="aMDc0ogjUVT3O0cqrBSF-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gu_vAIdBrhblXCff4Hf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aMDc0ogjUVT3O0cqrBSF-5" target="3gu_vAIdBrhblXCff4Hf-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-5" value="Yêu cầu khá cao về kĩ năng lập trình" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="612" y="542" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMDc0ogjUVT3O0cqrBSF-7" value="Hải Nguyễn với Hùng thiết module" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="612" y="402" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3gu_vAIdBrhblXCff4Hf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3gu_vAIdBrhblXCff4Hf-1" target="3gu_vAIdBrhblXCff4Hf-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gu_vAIdBrhblXCff4Hf-1" value="Clear data (Hùng vs Long Đàm)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="612" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60JaqU898T7gX4jEot_o-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3gu_vAIdBrhblXCff4Hf-3" target="60JaqU898T7gX4jEot_o-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3gu_vAIdBrhblXCff4Hf-3" value="Triển khai và hệ thống RAG" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="812" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60JaqU898T7gX4jEot_o-1" value="Tạo giao diện web&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2lSjoUxdCjAN5ycpojH-" name="Hải Nguyễn vs Hùng(Viết package)">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-1" target="cVEK9zPW5AbZZCOHT2im-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-1" target="cVEK9zPW5AbZZCOHT2im-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-1" value="Ý tưởng triển module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="68" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-2" target="cVEK9zPW5AbZZCOHT2im-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-2" value="Read_File(word, pdf,json) (Hải)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227" y="165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-5" target="cVEK9zPW5AbZZCOHT2im-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-5" value="Embedding dataset&lt;div&gt;vector (Hải)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="163" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-7" target="cVEK9zPW5AbZZCOHT2im-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-7" value="Conver data -&amp;gt; file json (Hải vs Hùng)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227" y="306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-10" target="cVEK9zPW5AbZZCOHT2im-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-10" value="model embedding:&amp;nbsp;&lt;div&gt;1.all-MiniLM_L6-V2&lt;div&gt;2.bge-small-en-v1.5&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="887" y="163" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVEK9zPW5AbZZCOHT2im-14" value="KMeans để optimize tăng tốc độ tìm kiếm(Hải vs Hùng)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="352" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gvKj_mTu8ALJ3Z4N9vot" name="Long Đàm vs Hùng (clear data)">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HYnO4OKYrhGcpIdDIySz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYnO4OKYrhGcpIdDIySz-1" target="HYnO4OKYrhGcpIdDIySz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYnO4OKYrhGcpIdDIySz-1" value="Làm sạch bộ data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="553" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYnO4OKYrhGcpIdDIySz-3" value="viết vào file json" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="753" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="c2xUrXTIrEztm6njLUYL" name="Ý tưởng thiết kế web(Đức Hải)">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JNnjb51UXDVoa2Za45yW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JNnjb51UXDVoa2Za45yW-1" target="JNnjb51UXDVoa2Za45yW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-1" value="Build lại front-end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JNnjb51UXDVoa2Za45yW-2" target="JNnjb51UXDVoa2Za45yW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-2" value="Back-end" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-3" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JNnjb51UXDVoa2Za45yW-4" target="JNnjb51UXDVoa2Za45yW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-4" value="Tạo tài khoản bằng gmail.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-10" value="Trang 2 chatbot" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="689" y="265" width="343" height="343" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-11" value="Lịch sử trò chuyện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="702" y="283" width="81" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-12" value="nhập văn bản, tải file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="796" y="564" width="222" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="JNnjb51UXDVoa2Za45yW-13" value="Trang 1&lt;div&gt;tạo tài khoản&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="265" width="269" height="333" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
