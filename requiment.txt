@@ -1,4 +1,0 @@
-pandas
-pypdf
-docx
-os
