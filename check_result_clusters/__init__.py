@@ -1,6 +1,12 @@
-import numpy as np
-from numpy.typing import NDArray
-from sklearn.metrics import silhouette_score
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from package import (
+    numpy as np,
+    NDArray,
+    silhouette_score
+)
 
 class Check_Score:
     def __init__(self, data : NDArray[np.int32], labels : NDArray[np.int32]) -> None:

@@ -1,7 +1,13 @@
-from labels_points import np
-from typing import Dict
-from read_file import Get_Path
-import json
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from package import (
+    numpy as np,
+    Dict,
+    Get_Path,
+    json
+)
 
 def convert_ndarray(obj):
     '''

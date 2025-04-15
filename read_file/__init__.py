@@ -1,7 +1,13 @@
-import pandas as pd
-from pypdf import PdfReader
-from docx import Document
+import sys
+import os
+# thêm path thủ công 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+from package import (
+    pandas as pd,
+    PdfReader,
+    PdfReader
+)
 
 class Get_Path:
     def __init__(self,path:str)->None:
@@ -17,7 +23,7 @@ class Read_File_CSV(Get_Path):
         Kế thừa đường dẫn từ class Get_Path
         '''
     
-    def Read(self)-> pd :
+    def Read(self)-> pd:
         return pd.read_csv(self.path)
     
 class Read_File_PDF(Get_Path):

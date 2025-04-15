@@ -1,9 +1,14 @@
-import numpy as np
-from numpy.typing import NDArray
-from sklearn.cluster import KMeans
-from yellowbrick.cluster import KElbowVisualizer
-import matplotlib.pyplot as plt
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+from package import (
+    numpy as np,
+    NDArray,
+    KMeans,
+    KElbowVisualizer,
+    plt
+)
 class Eblow:
     def __init__(self, data : NDArray[np.float32]) -> None:
         '''

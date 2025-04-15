@@ -1,11 +1,14 @@
 import sys
-import numpy as np
-from selection_clusters_good import NDArray
-from save_file_json import (
-    Dict, 
-    Save_File_Json
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from package import (
+    numpy as np,
+    NDArray,
+    Dict,
+    Save_File_Json,
+    Get_Path
 )
-from read_file import Get_Path
 
 class Convert_Labels_Points(Get_Path):
     def __init__(self, path : str, data : NDArray[np.float32] , labels : NDArray[np.int32], n_clusters : int) -> None:

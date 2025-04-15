@@ -1,8 +1,12 @@
-from selection_clusters_good import (
-    np,
-    NDArray
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from package import (
+    numpy as np,
+    NDArray,
+    KMeans
 )
-from sklearn.cluster import KMeans
 
 class Build_KMeans:
     def __init__(self, n_clusters : int, data : NDArray[np.float32]) -> None:
