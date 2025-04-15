@@ -1,13 +1,13 @@
+import sys
 import numpy as np
 from selection_clusters_good import NDArray
-from Init_KMeans import Build_KMeans
 from save_file_json import (
     Dict, 
     Save_File_Json
 )
 from read_file import Get_Path
 
-class Convert_labels_points(Get_Path):
+class Convert_Labels_Points(Get_Path):
     def __init__(self, path : str, data : NDArray[np.float32] , labels : NDArray[np.int32], n_clusters : int) -> None:
         '''
         path : đường dẫn đến thư mục cần lưu
