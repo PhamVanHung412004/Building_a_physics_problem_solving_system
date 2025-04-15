@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2lSjoUxdCjAN5ycpojH-" name="Hải Nguyễn vs Hùng(Viết package)">
-    <mxGraphModel dx="985" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,13 +66,13 @@
         <mxCell id="cVEK9zPW5AbZZCOHT2im-2" value="Read_File(word, pdf,json) (Hải)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="373" y="398" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pDE3h0UDHs9apXdnytgA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-5" target="cVEK9zPW5AbZZCOHT2im-7">
+        <mxCell id="pDE3h0UDHs9apXdnytgA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cVEK9zPW5AbZZCOHT2im-5" target="cVEK9zPW5AbZZCOHT2im-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cVEK9zPW5AbZZCOHT2im-5" value="Embedding dataset&lt;div&gt;vector (Hải)&lt;/div&gt;&lt;div&gt;model embedding:&amp;nbsp;&lt;div&gt;1.all-MiniLM_L6-V2&lt;div&gt;2.bge-small-en-v1.5&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="791" y="520.5" width="149" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="pDE3h0UDHs9apXdnytgA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cVEK9zPW5AbZZCOHT2im-7" target="cVEK9zPW5AbZZCOHT2im-14">
+        <mxCell id="pDE3h0UDHs9apXdnytgA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cVEK9zPW5AbZZCOHT2im-7" target="cVEK9zPW5AbZZCOHT2im-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cVEK9zPW5AbZZCOHT2im-7" value="Conver data -&amp;gt; file json (Hải vs Hùng)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -99,10 +99,10 @@
         <mxCell id="tacKPmJL9OTPzJYhaKV6-7" value="Lưu lại nhãn kèm theo điểm đó thuộc nhãn" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="644" y="692" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pDE3h0UDHs9apXdnytgA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pDE3h0UDHs9apXdnytgA-19" target="cVEK9zPW5AbZZCOHT2im-1">
+        <mxCell id="pDE3h0UDHs9apXdnytgA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pDE3h0UDHs9apXdnytgA-19" target="cVEK9zPW5AbZZCOHT2im-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pDE3h0UDHs9apXdnytgA-19" value="Package chứa tất cả các thư viện sử dụng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pDE3h0UDHs9apXdnytgA-19" value="Package chứa tất cả các thư viện sử dụng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="589" y="139" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
