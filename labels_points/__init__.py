@@ -21,7 +21,7 @@ class Convert_Labels_Points(Get_Path):
         super().__init__(path)
         self.__labels : NDArray[np.int32] = labels
         self.__data : NDArray[np.float32] = data
-        self.__n_clusters = n_clusters
+        self.__n_clusters : int = n_clusters
     
     def conver_array_to_dict(self) -> Dict[int , NDArray[np.float32]]:
         data_dict = {i : [] for i in range(self.__n_clusters)}
