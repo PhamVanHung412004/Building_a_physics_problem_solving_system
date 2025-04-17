@@ -6,9 +6,10 @@ from package import (
     numpy as np,
     NDArray,
     Dict,
-    Save_File_Json,
     Get_Path
 )
+
+from read_file_json import Save_File_Json
 
 class Convert_Labels_Points(Get_Path):
     def __init__(self, path : str, data : NDArray[np.float32] , labels : NDArray[np.int32], n_clusters : int) -> None:

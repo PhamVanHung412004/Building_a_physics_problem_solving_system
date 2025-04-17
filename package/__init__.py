@@ -9,3 +9,7 @@ from sklearn.cluster import KMeans
 from yellowbrick.cluster import KElbowVisualizer
 import matplotlib.pyplot as plt
 from sklearn.metrics import silhouette_score
+
+from read_file import (
+    Get_Path,
+)
