@@ -7,7 +7,4 @@ from labels_points import Convert_Labels_Points
 
 def main():
     path = Path(__file__).parent / "cau_hoi_vat_ly.json"
-
-    
-
 main()
