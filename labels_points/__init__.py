@@ -9,7 +9,8 @@ from package import (
     Get_Path
 )
 
-from read_file_json import Save_File_Json
+from read_file import Get_Path
+from save_file_json import Save_File_Json
 
 class Convert_Labels_Points(Get_Path):
     def __init__(self, path : str, data : NDArray[np.float32] , labels : NDArray[np.int32], n_clusters : int) -> None:
@@ -23,7 +24,7 @@ class Convert_Labels_Points(Get_Path):
         self.__labels : NDArray[np.int32] = labels
         self.__data : NDArray[np.float32] = data
         self.__n_clusters : int = n_clusters
-    
+        
     def conver_array_to_dict(self) -> Dict[int , NDArray[np.float32]]:
         data_dict = {i : [] for i in range(self.__n_clusters)}
 
