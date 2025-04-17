@@ -1,6 +1,5 @@
 import sys
 import os
-
 # thêm path thủ công 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
@@ -11,14 +10,14 @@ from package import (
 )
 
 class Get_Path:
-    def __init__(self,path:str)->None:
+    def __init__(self,path : str)->None:
         '''
         path: Đường dẫn đầu vào
         '''
         self.path = path
 
 class Read_File_CSV(Get_Path):
-    def __init__(self, path):
+    def __init__(self, path : str) -> None:
         super().__init__(path)
         '''
         Kế thừa đường dẫn từ class Get_Path
@@ -28,10 +27,10 @@ class Read_File_CSV(Get_Path):
         return pd.read_csv(self.path)
     
 class Read_File_PDF(Get_Path):
-    def __init__(self, path):
+    def __init__(self, path : str) -> None:
         super().__init__(path)
         '''
-        Kế thừa đường dẫn từ class Get_Path
+        Kế thừa đường dẫn từ class Get_Paths
         '''
     
     def Read(self):
@@ -43,7 +42,7 @@ class Read_File_PDF(Get_Path):
         
 
 class Read_File_WORD(Get_Path):
-    def __init__(self, path):
+    def __init__(self, path : str) -> None:
         super().__init__(path)
         '''
         Kế thừa đường dẫn từ class Get_Path
@@ -58,11 +57,7 @@ class Read_File_WORD(Get_Path):
         return texts
 
 
-
-
-
-
-
-
-
+# class Read_File_Json(Get_Path):
+#     def __init__(self, path : str) -> None:
+#         pass
 
