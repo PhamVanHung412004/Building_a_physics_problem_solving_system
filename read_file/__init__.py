@@ -1,14 +1,20 @@
-import sys
-import os
 
 # thêm path thủ công 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from package import (
-    pandas as pd,
-    PdfReader,
-    Document
-)
+# from package import (
+#     pandas as pd,
+#     PdfReader,
+#     Document
+# )
+
+# 2 chú thích trên nếu dùng bị lỗi ImportError: cannot import name 'Get_Path' from partially initialized module 'read_file' (most likely due to a circular import) (C:\Users\DELL\Documents\Project LLM\Building_a_physics_problem_solving_system\read_file\__init__.py)
+
+import pandas as pd
+from pypdf import PdfReader
+from docx import Document
+
+
 
 class Get_Path:
     def __init__(self,path:str)->None:
