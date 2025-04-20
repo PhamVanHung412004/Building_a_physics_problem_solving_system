@@ -6,3 +6,9 @@ flask
 flask-cors
 flask-restful
 flask-sqlalchemy
+python-dotenv
+Flask-SQLAlchemy
+Flask-Login
+Flask-Bcrypt
+Flask-WTF
+Flask-Mail
