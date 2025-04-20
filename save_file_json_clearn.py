@@ -15,7 +15,10 @@ def solution(dict_new : Dict[str, str]) -> Dict[str, str]:
         data_new[key] = value
     return data_new
 
-def convert(value_dict : Dict[str, str]) -> Dict[str, str]:
+def convert(value_dict : Dict[str, str]) -> Dict[str, 	str]:
+data = []
+for i in range(len(data)):
+
     ...
 def main():
     file_path_read_file_json = Path(__file__).parent / "input.json" 
