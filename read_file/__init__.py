@@ -50,8 +50,9 @@ class Read_File_WORD(Get_Path):
         '''
     
     def Read(self) -> str:
-        for doc in docs.paragraphs:
         texts = ""
+        docs = Document(self.path)
+        for doc in docs.paragraphs:
             texts += doc.text
         return texts
 

@@ -11,9 +11,9 @@ chrome_options.add_argument('--disable-gpu')
 
 driver = webdriver.Chrome(options=chrome_options)
 
-list_url = ['https://www.vietjack.com/vat-li-10-kn/index.jsp',  # doi link
-            'https://www.vietjack.com/vat-li-10-ct/index.jsp',
-            'https://www.vietjack.com/vat-li-10-cd/index.jsp']
+list_url = ['https://www.vietjack.com/vat-li-11-kn/index.jsp',  # doi link
+            'https://www.vietjack.com/vat-li-11-ct/index.jsp',
+            'https://www.vietjack.com/vat-li-11-cd/index.jsp']
 
 ds_cau_hoi = []
 for url in list_url:
@@ -51,18 +51,18 @@ for url in list_url:
         for a in links:
             text = a.text.strip()
             href = a.get_attribute("href")
-            if href and "Vật Lí 10:" in text:  # sua lop
-                match = re.search(r'/vat-li-10-[^/]+/', href)  # sua lop
+            if href and "Vật Lí 11:" in text:  # sua lop
+                match = re.search(r'/vat-li-11-[^/]+/', href)  # sua lop
                 if match:
                     ds_cau_hoi.append({
                         "text": text,
                         "link": href
                     })
 
-with open("danh_sach_cau_hoi_vat_li_10.json", "w", encoding="utf-8") as f:  # sua lop
+with open("danh_sach_cau_hoi_vat_li_11.json", "w", encoding="utf-8") as f:  # sua lop
     json.dump(ds_cau_hoi, f, ensure_ascii=False, indent=2)
 
-with open("danh_sach_cau_hoi_vat_li_10.json", "r", encoding="utf-8") as f:  # sua lop
+with open("danh_sach_cau_hoi_vat_li_11.json", "r", encoding="utf-8") as f:  # sua lop
     danh_sach = json.load(f)
 
 ket_qua = []
@@ -110,5 +110,5 @@ for i, cau in enumerate(danh_sach):
 
 driver.quit()
 
-with open("bai_tap_10.json", "w", encoding="utf-8") as f:  # sua lop
+with open("cau_hoi_11.json", "w", encoding="utf-8") as f:  # sua lop
   json.dump(ket_qua, f, ensure_ascii=False, indent=2)
