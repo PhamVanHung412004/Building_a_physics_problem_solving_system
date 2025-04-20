@@ -46,5 +46,505 @@
     "Phản ứng nhiệt hạch là phản ứng": "hai hạt nhân nhẹ kết hợp thành một hạt nhân nặng hơn.",
     "Năng lượng nguyên tử được giải phóng từ": "khối lượng bị chuyển hóa thành năng lượng.",
     "Bức xạ ion hóa có thể": "làm tổn thương tế bào sinh học.",
-    "Đơn vị đo năng lượng trong vật lý hạt nhân thường dùng là": "MeV (mega electron volt)."
+    "Đơn vị đo năng lượng trong vật lý hạt nhân thường dùng là": "MeV (mega electron volt).",
+    "Hình vẽ bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t của một vật dao động điều hòa. Mô tả dao động của vật.": " ",
+    "Một chất điểm dao động điều hòa có li độ phụ thuộc vào thời gian theo hàm cosin như hình vẽ. Mô tả dao động của vật.":" ",
+    "Đồ thị hình bên dưới biểu diễn sự phụ thuộc của li độ vào thời gian của một vật dao động điều hòa. Đoạn PR trên trục thời gian t biểu thị":" ",
+    "Đồ thị dưới đây biểu diễn x = Acos(ωt + φ). Phương trình dao động là": " ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số góc của dao động là": " ",
+    "Hình vẽ bên là đồ thị phụ thuộc thời gian của li độ dao động điều hòa. Chu kì dao động là":"",
+    "Một vật dao động điều hòa có đồ thị vận tốc như hình vẽ. Nhận định nào sau đây đúng?":" ",
+    "Hình vẽ là đồ thi biễu diễn độ dời của dao động x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Một vật dao động điều hòa có đồ thị li độ phụ thuộc thời gian như hình bên. Phương trình gia tốc của vật là?":" ",
+    "Đồ thị li độ của một vật dao động điều hòa có dạng như hình vẽ. Mô tả dao động của vật. Viết phương trình x, v, a của vật": " ",
+    "Một dao động điều hòa có đồ thị như hình vẽ. Kết luận nào sau đây sai": " ",
+    "Câu 12:  Một dao động điều hòa có đồ thị như hình vẽ. Li độ của vật tại thời điểm t=2018s là" : " ",
+    "Một con lắc lò xo dao động điều hòa có đồ thị như hình vẽ bên. Phương trình dao động điều hòa của chất điểm là": " ",
+    "Đồ thị hình bên biểu diễn sự biến thiên của li độ x theo thời gian t của một vật dao động điều hòa. Điểm nào trong các điểm M, N, K và Q có gia tốc và vận tốc của vật ngược hướng nhau": " ",
+    "Cho đồ thị như hình vẽ. Biết t2 = (t_1+t_3)/2=1/2 s. Phương trình dao động của vật là": " ",
+    " Một chất điểm dao động điều hòa có đồ thị biểu diễn sự phụ thuộc của gia tốc a vào thời gian t như hình vẽ. Ở thời điểm t = 0, vận tốc của chất điểm là": " ",
+    "Một vật dao động điều hòa có đồ thị của vận tốc theo thời gian như hình vẽ. Phương trình dao động của vật là": " ",
+    "Có hai dao động cùng phương, cùng tần số được mô tả trong đồ thị sau. Dựa vào đồ thị có thể kết luận":" ",
+    "Dao động của một vật là tổng hợp của hai dao động điều hòa cùng tần số. Đồ thị li độ - thời gian của hai dao động thành phần được cho như hình vẽ. Xác định độ lệch pha giữa hai dao động.": " ",
+    "Đồ thị biểu diễn hai dao động điều hòa cùng phương, cùng tần số. Nhìn vào đồ thị hãy cho biết hai vật chuyển động như thế nào với nhau?":"",
+    "Hai vật dao động điều hòa có đồ thị biểu diễn li độ phụ thuộc thời gian như hình vẽ. Kể từ lúc t = 0 đến thời điểm 2 vật cùng trở lại trạng thái ban đầu lần thứ 2 thì tỉ lệ quãng đường đi được S_1/S_2  của hai vật bằng": " ",
+    "Cho 2 dao động điều hòa x1; x2 cùng phương, cùng tần số, cùng vị trí cân bằng có đồ thị như hình vẽ. Tại tời điểm 1,25s khoảng cách giữa 2 vật là?": " ",
+    "Đồ thị của hai dao động điều hòa cùng tần số có dạng như hình vẽ. Độ lệch pha giữa hai dao động là bao nhiêu?":" ",
+    "Một vật thực hiện đồng thời 2 dao động điều hòa cùng phương, li độ x1 và x2 phụ thuộc thời gian như hình vẽ. Độ lệch pha của 2 dao động tại t = 0.13s":" ",
+    "Phương trình dao động điều hoà là  . Hãy cho biết biên  độ, pha ban đầu và pha ở thời điểm t của dao động?":" ",
+    "Một chất điểm dao động điều hoà có phương trình li độ theo thời gian là: x=8cos((pi/6)t-(pi/6)  .a) Tính quãng đường vật đi được sau 2 dao động.  b) Tính li độ của vật khi t = 6 s.":" ",
+    "Đồ thị li độ theo thời gian x1, x2 của hai chất điểm dao động điều hòa được mô tả như Hình 1.1. Xác định biên độ và pha ban đầu của mỗi dao động?":" ",
+    "Xét cơ cấu truyền chuyển động Hình 1.2. Hãy giải thích tại sao khi bánh xe quay đều thì pít-tông dao động điều hòa": " ",
+    "Phương trình dao động điều hoà là x=5cos(10*pi*t-pi/2)cm . Tính thời gian để  vật đi được quãng đường 2,5cm kể từ thời điểm t = 0. ": " ",
+    "Đồ thị li độ theo thời gian của một chất điểm dao động điều hoà được mô tả  như Hình 2.1.
+    a/ Xác định biên độ, chu kì và pha ban đầu của dao động?
+    b/ Viết phương trình dao động?
+    c/ Xác định li độ của vật ở các thời điểm 0,4s,  0,6s và 0,8s?
+    ":" ",
+    "Thị li độ theo thời gian x1 x2 của hai chất điểm dao động điều hòa được mô tả như hình 2.2 
+    a) Xác định độ lệch pha của hai dao dao động?
+    b) Viết phương trình dao động của x1, x2 ?
+    ":" ",
+    "Một chất điêmt dao động điều hoà với chu khí T = 2 s. trong 3 s vật đi được  quãng đường 60 cm. Khi t = 0 vật đi qua vị trí cân và hướng về vị trí biên  dương. Hãy viết phương trình dao động của vật?":" ",
+    "Một chất điểm dao động điều hoà theo phương trình x=10cos(2*pi*t + (5*pi/6) . Tính quãng đường vật đi được trong khoảng thời gian từ t = 1 s đến t = 2,5 s?":" ",
+    "Một dao động điều hoà trên đoạn thẳng dài 10 cm và thực hiện được 50 dao  động trong thời gian 78,5s. Tìm vận tốc và gia tốc của vật khi đi qua vị trí có li  độ x = –3 cm theo chiều hướng về vị trí cân bằng.":" ",
+    "Một vật dao động điều hoà với tần số góc ω = 5 rad/s. Khi t = 0, vật đi qua vị  trí có li độ x = –2 cm và có vận tốc 10 cm/s hướng về vị trí biên gần nhất. Hãy  viết phương trình dao động của vật?":" ",
+    "Hình 3.1 mô tả sự biến thiên vận tốc theo thời gian của một vật dao động  điều hoà. 
+    a) Viết phương trình vận tốc theo thời gian?
+    b) Viết phương trình li độ và gia tốc theo thời gian.
+    ":" ",
+    "Một chất điểm có khối lượng 100 g dao động điều hoà trên quỹ đạo là đoạn  thẳng MN (dài hơn 8 cm). Tại điểm P cách M 4 cm và tại điểm Q cách N 2 cm  chất điểm có động năng tương ứng là  32.10-3J và 18. 10-3J. Tính tốc độ  trung bình khi vật đi từ M đến N?":" ",
+    "Một con lắc lò xo treo thẳng đứng vào điểm I cố định, quả cầu có khối lượng  100 g. Con lắc dao động điều hoà theo phương trình:  với t tính theo giây. Lấy g = 10 m/s2. Tính lực đàn hồi cực đại và cực tiểu do lò  xo tác dụng lên điểm I.":" ",
+    "Một con lắc lò xo treo thẳng đứng. Biết rằng trong quá trình dao động tỉ số  giữa lực đàn hồi cực đại và cực tiểu là 7/3, biên độ dao động là 10cm. Lấy g =  10 m/s2. Tính tần số dao động của vật?":" ",
+    "Tại nơi có gia tốc trọng trường g, một con lắc đơn dao động điều hoà với biên  độ góc αmax nhỏ. Lấy mốc thế năng tại vị trí cân bằng. Tính li độ góc α của con  lắc khi nó chuyển động nhanh dần theo chiều dương đến vị trí có động năng  bằng thế năng?":" ",
+    "Một con lắc lò xo gồm một lò xo nhẹ có độ cứng k và một vật có khối lượng  m = 100 g, được treo thẳng đứng vào một giá cố định. Tại vị trí cân bằng O  của vật, lò xo giãn 2,5 cm. Kéo vật dọc theo trục của lò xo xuống dưới cách  vị trí cân bằng O một đoạn 2 cm rồi truyền cho nó vận tốc   theo  phương thẳng đứng hướng xuống dưới. Chọn trục tọa độ Ox theo phương  thẳng đứng, gốc tai O, chiều dương hướng lên trên, gốc thời gian là lúc  vật bắt đầu dao động. Lấy g = 10 m/s2. Biết chiều dài tự nhiên của của lò  xo là 50 cm. 
+    a) Tính độ cứng của lò xo, viết phương trình dao động và tính cơ năng  của vật?
+    b) Xác định li độ và vận tốc của vật khi thế năng bằng 1/3 động năng?
+    c) Tính thế năng, động năng và vận tốc của vật tại vị trí có li độ x = 2 cm?
+    d) Tính chiều dài, lực đàn hồi cực đại, cực tiểu của lò xo trong quá trình dao động?
+    ":" ",
+    "Hãy phân tích sự chuyển hoá năng  lượng giữa động năng và thế năng  trong hệ gồm hai lò xo và vật nặng  m được mắc như Hình 5.1. Khi  quả nặng được thả cho dao động ":" ",
+    "Một người khối lượng 83 kg treo  mình vào sợi dây bungee đàn hồi  có độ cứng k = 270 N/m (Hình 5.2).  Từ vị trí cân bằng người này được  kéo đến vị trí mà sợi dây dãn thêm  5 m so với chiều dài tự nhiên và dao động điều hoà. Xác định vị trí  và vận tốc của người này sau 2 s? ":" ",
+    "Một con lắc lò xo dao động với chu kì T = 0,1π (s) khối lượng không đáng kể,  gắn quả nặng có khối lượng m = 0,25 kg. Con lắc dao động cững bức theo  phương trùng với trục của lò xo dưới tác dụng của ngoại lực tuần hoàn  F = F0cosωt (N). Khi thay đổi ω thì biên độ dao động của viên bi thay đổi. Khi  ω lần lượt là 10 rad/s và 15 rad/s thì biên độ dao động tương ứng của viên bi  lần lượt là A1 và A2. Hãy so sánh A1 và A2 ?":" ",
+    "Một con lắc lo xo gồm vật nhỏ khối lượng m = 0,2 kg, lò xo nhẹ có độ cứng  k = 20 N/m được đặt trên mặt phẳng nằm ngang. Hệ số ma sát trượt giữa vật  và mặt phẳng nằm ngang là µ = 0,01. Từ vị trí lo xo không bị biến dạng, truyền  cho vật vận tốc ban đầu có độ lớn v0 = 1 m/s dọc theo trục lò xo. Con lắc dao  động tắt dần trong giới hạn đàn hồi của lò xo (Lấy g = 10 m/s2). Tính độ lớn lực  đàn hồi cực đại của lò xo trong quá trình dao động?":" ",
+    "Một con lắc lò xo gồm vật nhỏ có khối lượng m = 0,03 kg và lò xo có độ  cứng k = 1,5 N/m. Vật nhỏ được đặt trên giá đỡ cố định nằm ngang dọc theo  trục của lò xo. Hệ số ma sát trượt giữa giá đỡ và vật nhỏ là µ = 0,2. Ban đầu giữ vật ở vị trí lò xo bị dãn một đoạn ∆l0 = 15 cm rồi buông nhẹ để con lắc dao  động tắt dần. Lấy g = 10 m/s2. Tính tốc độ lớn nhất vật nhỏ đạt được trong quá  trình dao động?":" ",
+    "Một con lắc lò xo gồm vật nhỏ khối lượng m = 0,02 kg và lò xo có độ cứng  k = 1 N/m. Vật nhỏ được đặt trên giá đỡ cố định nằm ngang dọc theo trục lò  xo. Hệ số ma sát trượt giữa giá đỡ và vật nhỏ là µ = 0,1. Ban đầu giữ vật ở  vị trí lò xo bị nén ∆l0 = 10 cm rồi buông nhẹ để con lắc dao động tắt dần. Lấy  g = 10 m/s2. Tính độ giảm thế năng của con lắc trong giai đoạn từ khi buông tới  vị trí mà tốc độ dao động của con lắc cực đại lần đầu?":" ",
+    "Hình I.1 là đồ thị li độ - thời gian của  một dao động điều hoà. Tại thời điểm  nào thì vectơ gia tốc của vật cùng chiều  với vectơ vận tốc là":" ",
+    "Một vật dao động điều hoà với chu kì T, nếu vào thời điểm ban đầu, vật đi qua vị  trí cân bằng thì vào thời điểm T/12  tính tỉ số giữa động năng và thế năng của vật?":" ",
+    "Một vật dao động điều hoà dọc theo trục Ox nằm ngang, gốc O và mốc thế  năng ở vị trí cân bằng. Cứ sau 0,5 s thì động năng lại bằng thế năng và trong  thời gian 0,5 s vật đi được đoạn đường dài nhất bằng 4*sqrt(2)cm . Chọn t = 0  là lúc vật qua vị trí cân bằng theo chiều dương. Viết phương trình dao động  của vật?":" ",
+    "Một con lắc lò xo gồm lò xo có độ cứng k = 160 N/m và vật nặng có khối lượng  m = 400 g, đặt trên mặt phẳng nằm ngang. Hệ số ma sát trượt giữa vật và mặt  phẳng nằm ngang là μ = 0,0005. Lấy g = 10 m/s2. Kéo vật lệch khỏi vị trí cân  bằng một đoạn 5 cm (theo phương của trục lò xo). Tại t = 0, buông nhẹ để vật  dao động, xem rằng tần số dao động không đổi. Tính thời gian kể từ lúc vật bắt  đầu dao động cho đến khi vật dừng hẳn?":" ",
+    "Hình I.2 mô tả sự biến thiên gia tốc theo thời gian của một vật dao động  điều hoà. 
+    a) Viết phương trình gia tốc theo thời gian?
+    b) Viết phương trình li độ và vận tốc theo thời gian?
+    ":" ",
+    "Hình I.3 là sơ đồ của một bàn xoay hình tròn, có gắn một thanh nhỏ cách tâm  bàn 15 cm. Bàn xoay được chiếu sáng từ bên cạnh phía trước màn để bóng  đổ lên màn hình. Một con lắc đơn được đặt sau bàn xoay và làm cho dao động  điều hoà với biên độ bằng khoảng cách từ thanh nhỏ đến tâm bàn xoay. 
+    a) Tại sao nói bóng của thanh nhỏ và  quả lắc là đồng pha?  
+    b) Viết phương trình mô tả ki độ x của  con lắc khỏi vị trí cân. Chọn gốc  thời gian là lúc con lắc ở vị trí hiển  thị trong sơ đồ?
+    c) Bàn xoay đi một góc 60° từ vị trí ban  đầu. Tính li độ của con lắc và tốc độ  của nó tại thời điểm này. Bàn xoay  phải quay thêm một góc nào nữa  trước khi nó có tốc độ này trở lại?
+    ":" ",
+    "Một chất điểm dao động điều hoà với chu kì T = 2s. trong thời gian 3s vật đi được quãng đường 60cm. khi t = 0 vật đi qua VTCB và hướng về vị trí biên dương. Hãy viết phương trình dao động của vật":" ",
+    "Đồ thị li độ - thời gian của một vật dao động điều hoà được mô tả như hình vẽ
+    Xác định biên độ và li độ của vật ở các thời điểm t =0; t = 0,5s; t = 2 s
+    ":" ",
+    "Hình vẽ là đồ thị dao động điều hoà của một vật Hãy xác định: a. Biên độ, chu kì, tần số của dao động  b.Nêu thời điểm mà vật có li độ x=0;x=0.1 m":" ",
+    "Một vật dao động điều hoà với tần số góc 5rad/s. Khi t = 0 vật đi qua vị trí có li độ x = -2cm và có vận tốc 10cm/s hướng về vị trí biên gần nhất. Hãy viết phương trình dao động của vật":" ",
+    "Hình vẽ mô tả sự biến thiên vận tốc theo thời của một vật dao động điều hoà 
+    a)	Viết phương trình vận tốc theo thời gian
+    b)	Viết phương trình li độ và gia tốc theo thời gian
+    ":" ",
+    "Một vật dao động điều hòa với biên độ 10 cm. Trong khoảng thời gian 90 giây, vật thực hiện được 180 dao động. Lấy π2 = 10.
+    a) Tính chu kỳ, tần số dao động của vật.
+    b) Tính tốc độ cực đại và gia tốc cực đại của vật.
+    ":" ",
+    "Một vật dđ điều hòa có vmax = 16π (cm/s); amax = 6,4 (m/s2 ). Lấy π2 = 10.
+    a) Tính chu kỳ, tần số dao động của vật.
+    b) Tính độ dài quỹ đạo chuyển động của vật.
+    ":" ",
+    "Một vật dao động điều hòa với biên độ A = 5cm, Trong 10 giây vật thực hiện được 20 dao động. Xác định phương trình dao động của vật biết rằng tại thời điểm ban đầu vật tại ví trí cân bằng theo chiều dương.":" ",
+    "Một vật dao động điều hòa trên quỹ đạo dài 6cm, Biết cứ 2s vật thực hiện được một dao động, tại thời điểm ban đầu vật đang ở vị trí biên dương. Xác định phương trình dao động của vật.":" ",
+    "Một vật dao động điều hòa với vận tốc khi đi qua vị trí cân bằng là v = 20cm/s. Khi vật đến vị trí biên thì có giá trị của gia tốc là a = 200 cm/s2. Chọn gốc thời gian là lúc vận tốc của vật đạt giá trị cực đại theo chiều dương":" ",
+    "Một vật dđđh với tần số góc 10π rad/s, tại thời điểm t = 0 vật đi qua vị trí có li độ x = 2√2π cm thì vận tốc của vật là 20√2 cm/s. Xác định phương trình d/động của vật?":" ",
+    "Một vật dao động điều hòa trên quỹ đạo thẳng dài 20cm, với tần số góc 10rad/s. Tính độ lớn vận tốc cực đại và gia tốc cực đại của vật.":" ",
+    "Một vật dao động điều hòa trên quỹ đạo thẳng dài 40cm, khi vật ở vị trí có li độ x = 10cm thì vận tốc 20√3cm/s. Tính độ lớn vận tốc cực đại và gia tốc cực đại của vật.":" ",
+    "Một chất điểm dao động điều hòa với chu kì 0,314s và biên độ 8cm. Lấy  = 3,14. Tính vận tốc của chất điểm khi nó đi qua vị trí cân bằng và khi nó đi qua vị trí có li độ 5cm.":" ",
+    "Một chất điểm dao động điều hòa theo phương trình x=2,5 cos⁡( 10t)(cm). Vào thời điểm nào thì pha dao động đạt giá trị (π/3)rad? Lúc đó li độ, vận tốc, gia tốc của vật bằng bao nhiêu?:" :" ",
+    "Một vật dao động điều hòa với biên độ 5cm, chu kì 0,5s. Viết phương trình dao động của con lắc trong các trường hợp sau:
+    a.	t = 0 khi vật qua VTCB theo chiều dương
+    b.	t = 0 khi vật cách VTCB 5cm theo chiều dương
+    c.	t = 0 khi vật cách VTCB 2,5cm theo chiều dương
+    ":" ",
+    "Một vật dao động điều hòa cới tần số góc 5rad/s. Lúc t = 0 vật qua cí trí có li độ x = -2cm và có vận tốc 10cm/s. Viết phương trình dao động của vật.":" ",
+    "Một vật dao động điều hòa khi đi qua VTCB theo chiều dương ở thời điểm ban đầu. Khi vật có li độ 3cm thì vận tốc của vật bằng 8cm/s và khi có li độ 2cm thì vận tốc của vật bằng 6 cm/s. Viết phương trình dao động của vật.":" ",
+    "Một vật dao động điều hòa trong một chu kì dao động vật đi được 40cm và thực hiện được 120 dao động trong 1 phút. Khi t = 0 vật đi qua vị trí có li độ 5cm và đang đi theo chiều hướng về VTCB. Viết phương trình dao động.":" ",
+    "Một chất điểm có khối lượng 100g, dđộng điều hòa theo phương trình x=5 cos⁡( 2πt+π/6)(cm). Lấy pi*2 = 10. Xác định li độ, vận tốc, gia tốc, lực phục hồi trong các trường hợp sau:
+	ở thời điểm t = 5s				b. khi pha dao động là 1200
+    ":" ",
+    "Một vật dao động điều hòa với phương trình x=10 cos⁡( 2πt+π/2)(cm). Xác định thời gian ngắn nhất khi :
+	Vật đi từ VTCB đến vị trí có li độ x = 5cm
+	Vật đi từ VTCB đến vị trí có li độ x = 5cm, theo chiều dương
+	Vật đi từ VTCB đến vị trí có li độ x = 5cm, theo chiều âm
+	Vật đi từ vị trí có li độ x= 5cm đến vị trí biên
+	Vật đi từ vị trí có li độ x= -5cm đến vị trí x = 5cm
+	Vật đi từ VTCB đến vị trí có li độ x = 5√2cm 
+    ":" ",
+    "Một vật dao động điều hòa với biên độ 4cm và chu kì 0,1s. 
+    a.	Viết phương trình dao động của vật khi chọn t = 0 là lúc vật qua VTCB theo chiều âm.
+    b.	Tính thời gian ngắn nhất để vật đi từ vị trí x1 = 2cm đến vị trí x2 = 4cm
+    ":" ",
+    "Một vật dao động điều hòa với phương trình x = 10cos(10*pi*t + pi/2)cm. Xác định thời điểm vật đi qua vị trí có li độ x = 5cm lần thứ 2024.":" ",
+    "Một vật dao động điều hòa với phương trình x = 10cos(2*pi*t + pi/2)cm. Xác định thời điểm vật đi qua vị trí có li độ x = 5cm lần thứ hai theo chiều dương.":" ",
+    "Một vật dao động điều hòa với phương trình x = 10cos(t - /2)cm. Xác định thời điểm vật đi qua vị trí có li độ x = -5√2cm lần thứ ba theo chiều âm.":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu":" ",
+    "Đồ thị li độ theo thời gian của hai vật dđ điều hòa A và B có cùng tần số được cho như hình vẽ. Tính độ lệch pha của dao động A so với dao động B trong các hình dưới đây?":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Chu kì của của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Đồ thị li độ của vật dao động điều hòa theo thời gian được biểu diễn như hình vẽ. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Đồ thị biểu diễn hai dao động điều hòa cùng phương, cùng tần số. Nhìn vào đồ thị hãy cho biết hai vật chuyển động như thế nào với nhau?":" ",
+    "Hai vật dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x1 của chất điểm A và li độ x2 của chất điểm B theo thời gian t. Vật A dao động sớm pha hơn vật B một góc": " ",
+    "Một vật dao động điều hòa có phương trình x = 4cos(2πt - π/2) cm. Đồ thị tọa độ - thời gian của vật là hình nào dưới đây?":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dao động của li độ là":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dao động của li độ là":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dao động của li độ là":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dđộng của li độ là":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dao động của li độ là":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dao động của li độ là":" ",
+    "Một vật dao động điều hoà trên trục Ox. Đồ thị biểu diễn sự phụ thuộc vào thời gian của li độ có dạng như hình vẽ bên. Phương trình dao động của li độ là":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu":" ",
+    "Đồ thị li độ theo thời gian của hai vật dđ điều hòa A và B có cùng tần số được cho như hình vẽ. Tính độ lệch pha của dao động A so với dao động B trong các hình dưới đây?":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Biên độ của vật dao động bằng ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số của dao động là ": " ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Chu kì của của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Đồ thị li độ của vật dao động điều hòa theo thời gian được biểu diễn như hình vẽ. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Đồ thị biểu diễn hai dao động điều hòa cùng phương, cùng tần số. Nhìn vào đồ thị hãy cho biết hai vật chuyển động như thế nào với nhau?":" ",
+    "Một vật dao động điều hòa với tần số góc 10 rad/s. Khi vật có li độ 3 cm thì vận tốc của vật có giá trị 40 cm/s. Hãy tính:
+    a) Gia tốc của vật khi x = 2,5 cm.	               b) Biên độ dao động của vật.
+    c) Độ lớn vận tốc cực đại và độ lớn gia tốc cực đại.
+    ":" ",
+    "Một vật dao động điều hòa với phương trình x=2 cos⁡(10t+π/3) (cm)
+    a) Tính độ lớn vận tốc cực đại và độ lớn gia tốc cực đại.
+    b) Tại thời điểm t = 2 s thì vận tốc của vật bằng bao nhiêu?
+    c) Khi vật có li độ x = 1 cm thì giá trị của gia tốc bằng bao nhiêu?
+    d) Khi li độ của vật bằng √3cm thì vận tốc của vật bằng bao nhiêu?
+    ":" ",
+    "Một máy cơ khí khi hoạt động sẽ tạo ra những dao động được xem gần đúng là dao động điều hòa với phương trình li độ có dạng x=2 cos⁡(180πt) (mm)
+    a) Hãy xác định biên độ, chu kì, tần số và tần số góc của dao động.
+    b) Viết phương trình vận tốc và gia tốc của vật dao động.
+    ":" ",
+    "Một chất điểm dao động điều hòa trên trục Ox, gốc tọa độ O tại vị trí cân bằng. Biết phương trình vận tốc của chất điểm là v=20π cos⁡(2πt+π/6) (cm/s). Hãy viết phương trình li độ và phương trình gia tốc của vật dao động.": " ",
+    "Một vật dđ điều hòa dọc theo trục Ox, quanh điểm gốc O, với biên độ A = 24 cm và chu kì T = 4 s. Tại thời điểm t = 0 li độ là +A
+    a) Viết phương trình dao động của vật.
+    b) Tính li độ, vận tốc và gia tốc của vật tại thời điểm t = 0,5 s.
+    c) Xác định thời điểm đầu tiên vật qua vị trí có li độ x = – 12 cm và tốc độ tại thời điểm đó.
+    ":" ",
+    "Một vật dao động điều hòa có đồ thị li độ – thời gian và vận tốc – thời gian như hình vẽ. Hãy viết phương trình li độ và những phương trình vận tốc của dao động này. Từ đó suy ra phương trình gia tốc của vật dao động":" ",
+    "Một vật có khối lượng m = 200 g đang dao động điều hòa với tần số góc 20 rad/s với biên độ A = 10 cm. Lấy  . Xác định :
+    a) Cơ năng của của con lắc.
+    b) Động năng của con lắc tại li độ x = 8 cm.
+    c) Li độ của vật tại thời điểm động năng của vật bằng thế năng của hệ.
+    d) Li độ của vật tại thời điểm động năng của vật bằng 3 lần thế năng của hệ.
+    e) Li độ của vật tại thời điểm thế năng của hệ bằng 3 lần động năng của vật.
+    g) Tần số góc của động năng và thế năng.
+    ":" ",
+    "Đồ thị hình bên mô tả sự thay đổi động năng theo li độ của của quả cầu có khối lượng 0,4 kg trong một con lắc lò xo treo thẳng đứng. Xác định:
+    a) Cơ năng của con lắc.
+    b) Tốc độ cực đại của quả cầu.
+    c) Thế năng của con lắc khi quả cầu ở vị trí có li độ 2 cm
+    ":" ",
+    "Cho đồ thị vận tốc theo thời gian của một vật dđđh như hình vẽ. Biết rằng khối lượng của vật m = 0,2 kg. Hãy xác định:
+    a) Chu kì và tần số góc của con lắc.
+    b) Độ lớn vận tốc cực đại của vật.
+    c) Cơ năng của con lắc.
+    d) Biên độ dao động của vật.
+    ":" ",
+    "Một vật khối lượng 400 g thực hiện dao động điều hòa. Đồ thị bên mô tả động năng Wđ vật theo thời gian t. Lấy  . Biên độ dao động của vật là":" ",
+    "Một vật có khối lượng 2 kg dao động điều hòa có đồ thị vận tốc theo thời gian như hình vẽ. Động năng cực đại của vật trong quá trình dđ bằng":" ",
+    "Đồ thị động năng theo thời gian của một vật có khối lượng 0,4 kg dao động điều hòa. Tại thời điểm ban đầu vật đang chuyển động theo chiều dương. Lấy  . Phương trình dao động của vật có dạng":" ",
+    "Một chất điểm có khối lượng 160 g đang dao động điều hòa. Hình bên là đồ thị biểu diễn sự phụ thuộc của động năng Wđ của chất điểm theo thời gian t. Lấy  . Biên độ dao động của chất điểm là":" ",
+    ""T = 2π" √(m/k)  (s)
+    Chu kì của con lắc tỉ lệ thuận với …………………………. của vật nặng, tỉ lệ nghịch ……………………………………..
+    ":" ",
+    "Tần số của con lắc tỉ lệ thuận với ………………………, tỉ lệ nghịch …………………":" ",
+    "Một con lắc đơn có chiều dài 1 m, khối lượng quả nặng bằng 100gam dao động với biên độ góc 30°tại nơi có g=10"m/" "s" ^2. Bỏ qua mọi ma sát. Cơ năng của con lắc đơn là bao nhiêu?":" ",
+    "Một con lắc đơn có khối lượng là 200" gam"  dđ với phương trình s=10 sin⁡(2πt) (cm). Ở thời điểm t=π/6 " s"  con lắc có động năng là bao nhiêu?":" ",
+    "Một con lắc đơn dao động điều hoà với biên độ góc α_0=5^0với li độ góc α bằng bao nhiêu thì động năng của con lắc gấp 2 lần thế năng?":" ",
+    "Một con lắc đơn có khối lượng vật nặng 〖m = 200 g〗⁡a m, dây treo có chiều dài l= 10"0 cm."  Kéo con lắc ra khỏi vị trí cân bằng một góc 60° rồi buông ra không vận tốc đầu. Lấy 〖g = 10 〗⁡m "/" "s" ^2. Năng lượng dđ của vật là bao nhiêu?":" ",
+    "Cho đồ thị vận tốc – thời gian của một con lắc đơn dđ như dưới đây. 
+    Đồ thị vận tốc – thời gian của con lắc đơn
+	Biết rằng khối lượng của vật treo vào sợi dây là 0,2 kg. Xác định:
+	a. Chu kì và tần số góc của con lắc.
+	b. Vận tốc cực đại của vật.
+	c. Cơ năng của con lắc.
+	d.	Biên độ của vật.
+    ":" ",
+    "Khi con lắc đơn dao động với phương trình s="5cos" ("10πt" )  ("mm" ) thì thế năng của nó biến thiên với tần số là bao nhiêu?":" ",
+    "Một con lắc đơn dao động với biên độ góc  α=6°. Con lắc có động năng bằng 3 lần thế năng tại vị trí có li độ góc là bao nhiêu độ?":" ",
+    "Một con lắc đơn có khối lượng vật nặng m = 0,2 kg, chiều dài dây treo l, dao động nhỏ với biên độ s_0= 5 cm và chu kì T = 2 s. Lấy g =⁡ π^2 = 10 "m/" "s" ^2. Cơ năng của con lắc là bao nhiêu?":" ",
+    "Đồ thị hình dưới đây mô tả sự thay đổi động năng theo li độ của quả cầu có khối lượng 0,4 kg trong một con lắc lò xo treo thẳng đứng. Xác định:	
+		a. Cơ năng của con lắc lò xo.
+		b. Vận tốc cực đại của quả cầu.
+	c. Thế năng của con lắc lò xo khi quả cầu ở vị trí có li độ 2c m.
+    ":" ",
+    "Cho hai con lắc đơn dao động điều hoà. Biết phương trình dao động của con lắc thứ nhất là x=20cos(20πt+π⁄2) (cm). Con lắc thứ hai có cùng biên độ và tần số nhưng lệch về thời gian so với con lắc thứ nhất một phần tư chu kì. Viết phương trình dao động của con lắc thứ hai.":" ",
+    "Cho hai con lắc đơn dao động điều hòa. Biết phương trình dao động của con lắc thứ nhất là   Con lắc thứ hai có cùng tần số, biên độ bằng quỹ đạo chuyển động của con lắc thứ nhất, nhưng sớm pha π/2 so với con lắc thứ nhất. Viết phương trình dao động của con lắc thứ hai.":" ",
+    "Hình vẽ bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t của một vật dao động điều hòa. Mô tả dao động của vật.":" ",
+    "Một chất điểm dao động điều hòa có li độ phụ thuộc thời gian theo hàm cosin như hình vẽ. Mô tả dao động của vật.":" ",
+    " Đồ thị hình bên dưới biểu diễn sự phụ thuộc của li độ vào thời gian của một vật dao động điều hòa. Đoạn PR trên trục thời gian t biểu thị":" ",
+    "Đồ thị dưới đây biểu diễn x = Acos(ωt + φ). Phương trình dao động là":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số góc của dao động là ":" ",
+    "Hình vẽ bên là đồ thị phụ thuộc thời gian của li độ dao động điều hòa. Chu kì dao động là: ":" ",
+    "Một vật dao động điều hòa có đồ thị li độ phụ thuộc thời gian như hình bên. Phương trình gia tốc của vật là?":" ",
+    "Đồ thị li độ của một vật dao động điều hòa có dạng như hình vẽ. Mô tả dao động của vật. Viết phương trình x, v, a của vật.":" ",
+    "Một vật dao động điều hòa có đồ thị vận tốc như hình vẽ. Nhận định nào sau đây đúng?":" ",
+    "Hình vẽ là đồ thi biễu diễn độ dời của dao động x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Một dao động điều hòa có đồ thị như hình vẽ. Kết luận nào sau đây sai":" ",
+    "Một dao động điều hòa có đồ thị như hình vẽ. Li độ của vật tại thời điểm t=2018s là: ":" ",
+    "Một con lắc lò xo dao động điều hòa có đồ thị như hình vẽ bên. Viết phương trình dao động điều hòa của chất điểm":" ",
+    "	Cho đồ thị như hình vẽ. Biết t2 = (t_1+t_3)/2=1/2 s. Phương trình dao động của vật là":" ",
+    "Một chất điểm dao động điều hòa có đồ thị biểu diễn sự phụ thuộc của gia tốc a vào thời gian t như hình vẽ. Ở thời điểm t = 0, vận tốc của chất điểm là":" ",
+    "Một vật dao động điều hòa có đồ thị của vận tốc theo thời gian như hình vẽ. Phương trình dao động của vật là":" ",
+    " Dao động của một vật là tổng hợp của hai dao động điều hòa cùng tần số. Đồ thị li độ - thời gian của hai dao động thành phần được cho như hình vẽ. Xác định độ lệch pha giữa hai dao động.":" ",
+    "Đồ thị biểu diễn hai dao động điều hòa cùng phương, cùng tần số. Nhìn vào đồ thị hãy cho biết hai vật chuyển động như thế nào với nhau?":" ",
+    "Hai vật dao động điều hòa có đồ thị biểu diễn li độ phụ thuộc thời gian như hình vẽ. Kể từ lúc t = 0 đến thời điểm 2 vật cùng trở lại trạng thái ban đầu lần thứ 2 thì tỉ lệ quãng đường đi được S_1/S_2  của hai vật bằng":" ",
+    "Cho 2 dao động điều hòa x1; x2 cùng phương, cùng tần số, cùng vị trí cân bằng có đồ thị như hình vẽ. Tại tời điểm 1,25s khoảng cách giữa 2 vật là?":" ",
+    "Đồ thị của hai dao động điều hòa cùng tần số có dạng như hình vẽ. Độ lệch pha giữa hai dao động là bao nhiêu ?":" ",
+    "Một vật thực hiện đồng thời 2 dao động điều hòa cùng phương, li độ x1 và x2 phụ thuộc thời gian như hình vẽ. Độ lệch pha của 2 dao động tại t = 0,13s":" ",
+    "Hai chất điểm dao động có li độ phụ thuộc theo thời gian được biểu diễn tương ứng bởi hai đồ thị (1) và (2) như hình vẽ. Nhận xét nào dưới đây đúng khi nói về dao động của hai chất điểm?":" ",
+    "Trên hình vẽ là một hệ dao động. Khi cho con lắc M dao động, thì các con lắc (1), (2), (3), (4) cũng dao động cưỡng bức theo. Hỏi con lắc nào dao động mạnh nhất trong 4 con lắc?":" ",
+    "Hãy nối những kí hiệu tương ứng ở cột A với những khái niệm tương ứng ở cột B":" ",
+    "Dao động có ………………. giảm dần theo thời gian gọi là dao động tắt dần.
+    Cụm từ thích hợp điền vào chỗ trống là:
+    ":" ",
+    "Biên độ của lực cưỡng bức càng lớn khi lực cản ………(1)………. và sự chênh lệch giữa f và f0 ………(2)……….
+    Các cụm từ thích hợp điền vào chỗ trống là:
+    ":" ",
+    "Nguyên nhân làm tắt dần dao động: là do ………(1)………. và lực cản của môi trường làm tiêu hao cơ năng của con lắc, chuyển hóa dần dần cơ năng thành ………(2)……….
+    Các cụm từ thích hợp điền vào chỗ trống là:
+    ":" ",
+    "Biên độ của dao động cưỡng bức phụ thuộc vào ………(1)………. của lực cưỡng bức, vào lực cản trong hệ và vào ………(2)………. giữa tần số cưỡng bức f và tần số riêng f0 của hệ.
+    Các cụm từ thích hợp điền vào chỗ trống là:
+    ":" ",
+    "Hiện tượng biên độ của dao động cưỡng bức tăng dần lên đến ………(1)……. khi tần số của lực cưỡng bức tiến đến ………(2)…… của hệ dao động gọi là hiện tượng cộng hưởng.
+    Các cụm từ thích hợp điền vào chỗ trống là:
+    ":" ",
+    "Dao động chịu tác dụng của một ………………………. gọi là dao động cưỡng bức.
+    Cụm từ thích hợp điền vào chỗ trống là:
+    ":" ",
+    "Một em bé đang chơi xích đu trong sân (Hình bên) a. Tại sao để xích đu tiếp tục dao động, người mẹ thỉnh thoảng lại đẩy nhẹ vào em bé?
+    b. Hãy giải thích tại sao dao động của em bé chơi xích đu lại tắt dần nếu không có người mẹ thỉnh thoảng đẩy nhẹ vào em bé.
+    ":" ",
+    "Hãy tìm trong thực tế ví dụ về dao động tắt dần và cho biết trong mỗi trường hợp thì dao động tắt dần có lợi hay có hại":" ",
+    "Tìm một số ví dụ về dao động cưỡng bức.":" ",
+    "Giải thích tại sao, trong môi trường có lực cản, dao động của các vật lại tắt dần?":" ",
+    "Bố trí thí nghiệm hệ con lắc Barton như hình bên. Mô hình gồm nhiều con lắc đơn có chiều dài dây treo khác nhau được gắn trên cùng một sợi dây đàn hồi. Khi con lắc số 1 được kích thích để dao động, nhưng con lắc còn lại (từ số 2 đến số 7) sẽ bắt đầu dao động. Giải thích vì sao chúng dao động và dự đoán về biên độ dao động của chúng.":" ",
+    "Một con lắc lò xo gồm lò xo có độ cứng 100 N/m và vật nhỏ có khối lượng m. Tác dụng lên vật ngoại lực F = 20cos10πt (N) (t tính bằng s) dọc theo trục lò xo thì xảy ra hiện tượng cộng hưởng. Lấy π2 = 10. Giá trị của m là?":" ",
+    "Một hành khách dùng dây cao su treo một chiếc ba lô lên trần toa tầu, ngay phía trên một trục bánh xe của toa tầu. Khối lượng của ba lô 16 (kg), hệ số cứng của dây cao su 900 (N/m), chiều dài mỗi thanh ray là 12,5 (m), ở chỗ nối hai thanh ray có một khe nhỏ. Hỏi tầu chạy với tốc độ bao nhiêu thì ba lô dao động mạnh nhất?":" ",
+    "Một con lắc đơn dài 0,3 m được treo vào trần của một toa xe lửa. Con lắc bị kích động mỗi khi bánh xe của toa xe gặp chỗ nối nhau của các đoạn đường ray. Biết chiều dài mỗi thanh ray là 12,5 (m) và lấy gia tốc trọng trường 9,8 m/s2. Hỏi tầu chạy với tốc độ bao nhiêu thì biên độ của con lắc lớn nhất?":" ",
+    "Một con lắc đơn có chiều dài 16 cm dao động trong không khí. Cho g = 10 m/s2 và π^2=10. Tác dụng lên con lắc một ngoại lực biến thiên tuần hoàn với biên độ có giá trị không đổi, nhưng tần số f có thể thay đổi được. Khi tần số của ngoại lực lần lượt có giá trị f1 = 0,7 Hz và f2 = 1,5 Hz thì biên độ dao động của vật tương ứng là A1 và A2. So sánh A1 và A2?":" ",
+    "Máy đo địa chấn được sử dụng để phát hiện và đo đạc những rung động địa chấn được tạo ra bởi sự dịch chuyển của lớp vỏ Trái Đất. Năng lượng từ các cơn địa chấn có khả năng kích thích con lắc lò xo bên trong máy đo làm đầu bút di chuyển để vẽ lên giấy (Hình bên) a. Dao động của con lắc lò xo trong máy đo địa chấn khi cơn địa chấn xuất hiện là loại dao động gì? Giải thích.
+    b. Tần số của những cơn địa chấn thường nằm trong khoảng 30Hz – 40Hz. Để kết quả ghi nhận là tốt nhất, hệ con lắc lò xo trong máy đo địa chấn cần được thiết kế để có tần số dao động riêng trong khoảng nào? .":" ",
+    "Đồ thị li độ theo thời gian của một chất điểm dđ điều hoà được mô tả như hình 2.1.
+ 
+    a. Xác định biên độ, chu kì và pha ban đầu của dao động.
+    b. Viết phương trình dao động => phương trình vận tốc và gia tốc của vật.
+    c. Xác định li độ, vận tốc và gia tốc của chất điểm tại các thời điểm 0,4 s, 0,6 s và 0,8 s."
+    "Đồ thị li độ theo thời gian x1; x2 của hai chất điểm dao động điều hoà được mô tả như hình 2.2
+    a. Xác định độ lệch pha giữa hai dao động.
+    b. Viết phương trình dao động, pt vận tốc và gia tốc của hai chất điểm.
+    ":" ",
+    "Hình 3.1 mô tả sự biến thiên vận tốc theo thời gian cùa một vật dđ điều hoà.
+ 
+    a. Viết phương trình vận tốc theo thời gian.
+    b. Viết phương trình li độ và gia tốc theo thời gian.
+    ":" ",
+    "Một con lắc lò xo treo thẳng đứng. Biết rằng trong quá trình dao động, tỉ số giữa độ lớn lực đàn hồi lớn nhất và nhỏ nhất là 7/3; biên độ dao động là 10 cm. Lấy g = 10 m/s2. Tính tần sổ dđ cùa vật.":" ",
+    "Một con lắc đơn dđ đh với biên độ góc amax. Lấy mốc cơ năng tại vị trí cân bằng. Tính li độ góc  của con lắc khi nó chuyển động nhanh dần theo chiều dương đến vih trí có động năng bằng thế năng.":" ",
+    "Một con lắc lò xo gồm một lò xo nhẹ có độ cứng k, được treo thẳng đứng vào một giá cố định và một vật có khối lượng m = 100 g. Khi vật ở vị trí cân bằng O, lò xo dãn 2,5 cm. Kéo vật dọc theo trục của lò xo xuống dưới cách vị trí cân bằng o một đoạn 2 cm rồi truyền cho nó vận tốc có độ lớn 40√3 cm/s theo phương thẳng đứng, hướng xuống dưới. Chọn trục toạ độ Ox theo phương thẳng đứng, gốc tại 0, chiều dương hướng lên trên, gốc thời gian là lúc vật bắt đầu dao động. Lấy g = 10 m/s2. Biết chiều dài tự nhiên của của lò xo là 50 cm.
+    a. Tính độ cứng của lò xo, viết phương trình dao động và tính cơ năng dao động của vật.
+    b. Xác định li độ và vận tốc của vật khi thế năng dao động bằng 1/3 động năng.
+    c. Tính thế năng dao động, động năng và vận tốc của vật tại vị trí có li độ x = 2 cm.
+    d. Tính chiều dài, lực đàn hồi cực đại, cực tiễu của lò xo trong quá trình dao động.
+    ":" ",
+    "Hình I.2 mô tả sự biến thiên gia tốc theo thời gian của một vật dao động điều hoà.
+ 
+    a. Viết phương trình gia tốc theo thời gian.
+    b. Viết phương trình li độ và vận tốc theo thời gian.
+    ":" ",
+    "Một con lắc lò xo gồm lò xo có độ cứng k = 160 N/m và vật nặng có khối lượng m = 400 g, đặt trên mặt phẳng nằm ngang. Hệ số ma sát trượt giữa vật và mặt phẳng nằm ngang là µ = 0,0005. Lấy g = 10 m/s2. Kéo vật lệch khỏi vị trí lò xo không biến dạng một đoạn 5 cm (theo phương của trục lò xo). Tại t = 0, buông nhẹ để vật dao động. Tính thời gian kể từ lúc vật bắt đầu dđ cho đến khi vật dừng hẳn.":" ",
+    "Một chất điẻm dao động điều hoà với chu kì T = 2 s. Trong 3 s vật đi được quãng đường 60 cm. Khi t = 0 vật đi qua VTCB và hướng về vị trí biên dương. Hãy viết phương trình dao động của vật.":" ",
+    "Một dao động điều hoà trên đoạn thẳng dài 10 cm và thực hiện được 50 dao động trong thời gian 78,5 s. Tìm vận tốc và gia tốc của vật khi đi qua vị trí có li độ x = -3 cm theo chiều hướng về VTCB":" ",
+    "Một vật dao động điều hoà với tần số góc ω = 5 rad/s. Khi t = 0, vật đi qua vị trí có li độ x = -2 cm và có vận tốc 10 cm/s hướng về vị trí biên gần hơn. Hãy viết phương trình dao động của vật.":" ",
+    "Đồ thị hình dưới đây mô tả sự thay đổi động năng theo li độ của quả cầu có khối lượng 0,4 kg trong một con lắc lò xo treo thẳng đứng. Xác định:	
+    a. Cơ năng của con lắc lò xo.
+    b. Vận tốc cực đại của quả cầu.
+    c. Thế năng của con lắc khi quả cầu ở vị trí có li độ 2cm.
+    ":" ",
+    "Hình 7.5 là đồ thị động năng theo thời gian của một vật khối lượng 0,4 kg dao động điều hoà. Tại thời điểm ban đầu vật đang chuyển động theo chiều dương, lấy π2 = 10. Viết phương trình dao động của vật.":" ",
+    "Đồ thị li độ theo thời gian của một chất điểm dđđh được mô tả như hình vẽ dưới đây.Tần số dao động là":" ",
+    "Một chất điểm thực hiện dao động điều hòa đi được đoạn đường 16 cm trong một chu kì T = 2s.
+    a) Chọn gốc thời gian là lúc chất điểm ở vị trí biên dương. Lập phương trình dao động của chất điểm.
+    b) Xác định li độ và vận tốc của vật vào thời điểm t = T/8.
+    c) Xác định các thời điểm mà chất điểm có li độ x = 2 cm.
+    d) Tìm vận trung bình khi vật đi từ vị trí biên âm đến vị trí biên dương.
+    ":" ",
+    "Một con lắc lò xo có độ cứng k = 100 N/m. Vật nặng dao động với biên độ A = 20 cm. Tính động năng của vật khi đi qua li độ x = 12 cm.":" ",
+    "Gắn một vật có khối lượng 0,2 kg vào một lò xo có độ cứng k = 80 N/m. Một đầu của lò xo được chuyển động kéo khỏi VTCB một đoạn 10 cm theo trục lò xo rồi thả nhẹ cho vật dđđh. Biết hệ số ma sát giữa vật và mặt phẳng là 0,1. Lấy g = 10 m/s2.
+    a) Tìm chiều dài quãng đường mà vật đi được cho tới lúc dừng.
+    b) Chứng minh tăng độ giảm biên độ dao động sau mỗi chu kì là không đổi.
+    ":" ",
+    "Một vật dao động điều hoà theo phương trình x = 4cos(2πt + π/3) cm. Biên độ dao động và tần số góc của vật":" ",
+    "Đối với dao động điều hòa, khoảng thời gian ngắn nhất sau đó trạng thái dao động lặp lại như cũ gọi là gì?":" ",
+    "Một vật dao động điều hòa theo phương trình x = 3cos(4πt + π/3) cm. Tính pha dao động tại thời điểm t = 0,5(s)":" ",
+    "Vận tốc tức thời trong dao động điều hòa lệch pha như thế nào so với li độ x, gia tốc a.":" ",
+    "Một chất điểm dao động điều hoà trên quỹ đạo AB = 40 cm, Tính biên độ dao động của vật ":" ",
+    "Công thức tính chu kì, tần số góc và tần số dao động của con lắc lò xo?":" ",
+    "Công thức tính chu kì, tần số góc và tần số dao động của con lắc đơn?":" ",
+    "Một vật dao động điều hoà với phương trình x = Acos(ωt + φ). Công thức tốc độ cực đại và gia tốc cực đại của chất điểm":" ",
+    "Một chất điểm khối lượng m = 500 (g), dao động điều hoà với phương trình x = 10cos(5t + π/3) cm. Tính cơ năng trong dao động điều hoà của chất điểm ?":" ",
+    "Năng lượng của một chất điểm dao động điều hòa?":" ",
+    "Một vật dao động điều hòa, trong thời gian 80 (s) con lắc thực hiện được 100 dao động. Tính chu kì và tần số dao động của vật":" ",
+    "Một vật dao động điều hòa, đặc điểm chuyển động của vật từ vị trí cân bằng đến vị trí biên và từ biên về VTCB":" ",
+    "Viết hệ thức đúng liên hệ giữa x, A, v, ω, a trong dao động điều hòa:":" ",
+    "Định nghĩa dao động điều hoà?":" ",
+    "Định nghĩa, đặ điểm dao động tự do, dao động tắt dần, dao động cưỡng bức và hiện tượng cộng hưởng":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Xác định chu kì, tần số góc, tần số của dao động là: ":" ",
+    "Một vật dao động điều hòa với tần số f = 5 Hz. Tại thời điểm t vật có li độ x = 6 cm và tốc độ v = 80π cm/s. Tính độ dài quỹ đạo của vật ":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc của gia tốc a theo thời gian t của một vật dao động điều hòa. Viết phương trình dao động của vật ? ":" ",
+    "Một vật dđđh có phương trình x = 20cos(4πt + 𝜋/2)( cm). Gốc thời gian được chọn là lúc nào":" ",
+    "Con lắc đơn chiều dài ℓ = 2 m, thực hiện 20 dao động mất 40 (s). Gia tốc trọng trường tại nơi thí nghiệm?":" ",
+    "Một vật dao động điều hòa với biên độ A = 6 cm, tần số dao động f = 5 Hz. Tại thời điểm ban đầu vật qua vị trí x = 3 cm theo chiều dương. Phương trình dao động điều hoà và phương trình vận tốc của vật?":" ",
+    "Con lắc lò xo có tần số là f = 5 Hz, m = 200 (g), lấy π2 = 10. Tính độ cứng của lò xo ?":" ",
+    "Một vật dao động điều hoà có vận tốc cực đại là vmax = 16π cm/s và gia tốc cực đại amax = 8π2 cm/s2. Tính chu kì dao động của vật.":" ",
+    "Cho hai dao động điều hoà có phương trình lần lượt là x1= A1cos(ωt + 𝜋/3) cm và x2 = A2sin(ωt + 𝜋/6) cm. Xác định độ lệch pha giữa 2 dao động.":" ",
+    "Một chất điểm dđ điều hoà với phương trình là x = 4cos(2πt + π/2) cm. Tính thời gian ngắn nhất vật đi từ lúc bắt đầu dao động đến lúc vật có li độ x = 2*sqrt(3) cm":" ",
+    "Một con lắc lò xo dao động với phương trình x = 5cos(10πt) cm. Tính quãng đường vật đi được trong thời gian 3 (s) kể từ lúc t = 0":" ",
+    "Một con lắc lò đơn chiều dài sợi dây l = 1m treo một vật 100g ở nơi có gia tốc trọng trường g =10m/s2. Con lắc dao động với biên độ nhỏ 80. Lấy π2=10.  Tính chu kì, tần số con lắc? Tính cơ năng của con lắc?":" ",
+    "Một vật dđ điều hoà với phương trình gia tốc là a=4π2cos(10 πt+ π/6) m/s2.
+    a.	Viết phương trình dao động của vật?
+    b.	Tính tốc độ cực đại của vật?
+    ":" ",
+    "Thực hiện thí nghiệm với thiết bị ghi đồ thị dao động điều hoà của một con lắc đơn, thu được kết quả như hình vẽ bên. Biết quả nặng có khối lượng 200g, dây treo có chiều dài 2m, lấy g ≈  m/s2. 
+    a. Viết phương trình dao động của vật?
+    b. Tính thời gian ngắn nhất kể từ thời điểm ban đầu đến khi vật qua vị trí cân bằng?
+    ":" ",
+    "Một chất điểm dđ điều hoà có phương trình x = 8cos(2πt + π/3)(x tính bằng cm; t tính bằng giây). Xác định biên độ, tần số góc và pha ban đàu của dao động":" ",
+    "Định nghĩa chu kì và tần số dao động điều hoà .":" ",
+    "Một chất điểm dao động điều hòa với phương trình x = Acos(ωt + φ), trong đó A, ω là các hằng số dương. Xác định pha của dao động ở thời điểm t.":" ",
+    "Công thức liên hệ giữa tần số góc ω, tần số f và chu kỳ T của dđ điều hòa?":" ",
+    "Tại nơi có gia tốc trọng trường g một con lắc đơn dao động điều hoà với biên độ góc nhỏ α_0. Biết khối lượng vật nhỏ là m, chiều dài dây treo là l. Viết biểu thức cơ năng của con lắc .":" ",
+    "Một con lắc lò xo có khối lượng vật nhỏ là m dao động điều hòa theo phương ngang với phương trình x=Acos(ωt). Mốc tính thế năng ở vị trí cân bằng. Biểu thức thế năng và cơ năng của con lắc .":" ",
+    "Một chất điểm dđ điều hoà với phương trình x=8cos⁡(2πt+π/3)(cm). Tính li độ của chất điểm khi pha dao động bằng (2π)":" ",
+    "Một chất điểm dao động điều hoà trong 5 dao động toàn phần đi được quãng đường dài 200" " cm. Tính biên độ dao động của vật ":" ",
+    "Một vật dao động điều hòa với tần số góc  = 10π rad/s, khi vật có li độ là 3 cm thì tốc độ là 40π cm/s. Hãy xác định biên độ của dao động?":" ",
+    "Một vật dao động điều hòa có phương trình x = 10cos(4πt – π/6) cm. Lấy π2 = 10, tính vận tốc và gia tốc của vật tại thời điểm t = 0,5 (s)":" ",
+    "Dạng đồ thị chỉ sự biến thiên của vận tốc theo li độ và của động năng theo li độ của một vật dao động điều hoà.":" ",
+    ". Một con lắc lò xo gồm vật nặng có khối lượng m = 0,4kg và lò xo có độ cứng k = 100 N/m. Kéo vật ra khỏi vị trí cân bằng 2 cm rồi truyền cho vật vận tốc đầu 15√5π cm/s. Lấy π2 = 10. Tính năng lượng dao động của vật.":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật dao động điều hoà được mô tả như hình vẽ. Hãy xác định biên độ, chu kì, tần số, tần số góc của dao động?":" ",
+    "Một con lắc lò xo dao động điều hoà theo phương nằm ngang có khối lượng m = 100g, độ cứng k = 10N/m. Kéo vật ra khỏi vị trí cân bằng một khoảng 3 cm rồi truyền cho vật một tốc độ 40cm/s theo phương dao động. Tính biên độ dao động của vật?":" ",
+    "Trên mặt thoáng của chất lỏng có 2 nguồn kết hợp A, B có phương trình dao động là :uA = uB = 2cos10πt (cm) . Tốc độ truyền sóng là 3m/s.
+    a) Viết phương trình sóng tại M cách A, B một khoảng lần lượt là d1=15cm, d2=20cm.
+    b) Tìm biên độ và và pha ban đầu của sóng tại N cách A 45cm, cách B 60cm.
+    ":" ",
+    "Hai nguồn A và B cách nhau 45mm ở trên mặt thoáng chất lỏng dao động  theo phương trình u1 = u2 = 2cos(100t)(mm). Trên mặt thoáng chất lỏng có hai điểm M và N ở cùng một phía đường trung trực của AB thoả mãn MA -MB = 15mm và NA - NB =35mm. Hau điểm đó đều nằm trên các vân giao thoa cùng loại và giữa chúng chỉ có 1 vân loại đó. Tính tốc độ truyền song.":" ",
+    ": Trong một thí nghiệm về giao thoa ánh sáng với hai khe Y-âng, khoảng cách giữa hẹp là hẹp là a = 2 mm, khoảng cách giữa mặt phẳng chứa hai khe với màn quan sát là D =1,2 m. Khe sáng hẹp phát đồng thời hai bức xạ đơn sắc màu đỏ λ1 = 0,66 μm và màu lục λ2 = 0,55 μm.
+    a.	Tính khoảng vân của hai ánh sáng màu đỏ và màu lục.
+    b.		Tính khoảng cách ngắn nhất giữa hai vân sáng cìuig màu với vân sáng trung tâm.
+    ":" ",
+    "Trong một thí nghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đon sắc. Khoảng cách giữa hai khe là 0,6 mm. Khoảng vân trên màn quan sát đo được là 1 mm. Tử vị trí ban đâu, nếu tịnh tiến màn quan sát một đoạn 25 cm lại gần mặt phẳng chứa hai khe thì khoảng vân mới trên màn là 0,8 mm. Tính bước sóng của ánh sáng dùng trong thí nghiệm.":" ",
+    "Trên một sợi dây đàn hồi dài 1,2 m, hai đầu cố định, đang có sóng dừng. Biết sóng truyền trên dây có tần số 100 Hz và tốc độ 80 m/s. Số bụng sóng trên dây là bao nhiêu?":" ",
+    "Một sợi dây AB dài 100 cm căng ngang, đầu B cố định, đầu A gắn với một nhánh của âm thoa dao động điều hòa với tần số 40 Hz. Trên dây AB có một sóng dừng ổn định, A được coi là nút sóng. Tốc độ truyền sóng trên dây là 20 m/s. Tìm số bụng sóng, số nút sóng.":" ",
+    "Quan sát sóng dừng trên sợi dây AB, đầu A dao động điều hòa theo phương vuông góc với sợi dây (coi A là nút). Với đầu B tự do và tần số dao động của đầu A là 22 Hz thì trên dây có 6 nút. Nếu đầu B cố định và coi tốc độ truyền sóng trên dây như cũ, để vẫn có 6 nút thì tần số dao động của đầu A phải bằng bao nhiêu?":" ",
+    "Một dây đàn hồi dài 0,6 m hai đầu cố định dao động với một bụng sóng.
+    a.	Tính bước sóng λ của sóng trên dây.
+    b.	Nếu dây dao động với 3 bụng sóng thì bước sóng là bao nhiêu?
+    ":" ",
+    "Trên sợi dây đàn hồi, có chiều dài L = 1,2 m người ta tạo ra sóng dừng có hình dạng được mô tả ở Hình 13.6. Biết tần số rung của sợi dây là f = 13,3 Hz. Xác định tốc độ truyền sóng trên dây. ":" ",
+    "Định nghĩa dao động điều hòa. ":" ",
+    "Viết biểu thức liên hệ giữa T, f và ω? ":" ",
+    "Hai dao động điều hòa có phương trình lần lượt là x_1=10 cos⁡(2πt+π/3) (cm) và x_2=10 cos⁡(2πt) (cm). Tính độ lệch pha của hai dao động này.":" ",
+    "Một vật dao động điều hòa trên trục Ox. Vận tốc của vật có đặc điểm gì?":" ",
+    "Viết biểu thức liên hệ giữa tần số góc ω thì gia tốc a và li độ x ":" ",
+    "Biểu thức động năng, thế năng và cơ năng của vật dao động điều hoà.":" ",
+    "Viết công thức tính chu kì, tần số góc và tần số dao động của con lắc đơn":" ",
+    "Đặc điểm về dao động cơ học tắt dần? ":" ",
+    "Đặc điểm của hiện tượng cộng hưởng cơ.":" ",
+    "Đặc điểm về sóng cơ.":" ",
+    "Định nghĩa sóng ngang  và sóng dọc ":" ",
+    "Đặc điểm về sóng âm, hạ âm và siêu âm":" ",
+    "Nêu tính chất của sóng điện từ.":" ",
+    "Tác dụng của tia hồng ngoại, tia tử ngoại và tia X.":" ",
+    "Công thức tính khoảng vân giao thoa trên màn.":" ",
+    "Điều kiện để có sóng dừng trên dây chiều dài l.":" ",
+    "Một chất điểm dao động điều hòa theo phương trình x = 10cos(πt+π/4) cm. 
+    a. Xác định tần số góc, chu kì, tần số, pha ban đầu và chiều dài quỹ đạo
+    b. Tính li độ của chất điểm tại thời điểm t = 1 s.
+    ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình vẽ bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. 
+    a.	Tính chu kì của dao động 
+    b.	Viết phương trình dao động của vật
+    ":" ",
+    "Một vật dao động điều hòa dọc theo trục Ox với biên độ 8cm, tần số góc 4π rad/s. Tại thời điểm t = 0 s vật có li độ -4 cm đang theo chiều dương. 
+    a. Viết phương trình dao động của vật 
+    b. Tính tốc độ cực đại và gia tốc cực đại của vật
+    ":" ",
+    "Sóng điện từ có tần số 30 MHz truyền với tốc độ "3.1" "0" ^8 "m/s" . Tính bước sóng":" ",
+    "Trên một sợi dây dài 4 m đang có sóng dừng với tần số 50 Hz, người ta thấy ngoài hai đầu dây cố định còn có 3 điểm khác luôn đứng yên. Tính tốc độ truyền sóng trên dây.":" ",
+    "Một sợi dây AB dài 100 cm căng ngang, 2 đầu cố định. Trên dây AB có một sóng dừng ổn định với tần số 40 Hz. Tốc độ truyền sóng trên dây là 20 m/s. Tính số bụng sóng và nút sóng trên dây ":" ",
+    "Một con lắc lò xo nằm ngang dao động điều hòa với biên độ 10cm, chu kỳ 1s; khối lượng của vật là 200g. Gốc thế năng tại vị trí cân bằng của vật; lấy π^2 = 10. 
+    Tính độ cứng của lò xo và cơ năng của hệ. 
+    ":" ",
+    "Trong một thí nghiệm về giao thoa sóng trên mặt nước, hai nguồn kết hợp A và B dao động với tần số 20 Hz và cùng pha. Tại một điểm M cách nguồn A và B những khoảng lần lượt là 12 cm và 28 cm, sóng có biên độ cực đại. Giữa M và đường trung trực của AB có 3 dãy cực đại khác. Tính tốc độ truyền sóng trên mặt nước?":" ",
+    "Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe là 1mm, khoảng cách từ hai khe đến màn là 3m, ánh sáng đơn sắc dùng trong thí nghiệm có bước sóng  (0,38m ≤  ≤ 0,75m). Tại vị trí M cách vân sáng trung tâm 2 mm là một vân sáng. Tính bước sóng của ánh sáng dùng trong thí nghiệm?":" ",
+    "Viết phương trình dao động điều hòa, phương trình vận tốc, pt gia tốc? Giải thích các đại lượng?":" ",
+    "Đồ thị li độ-thời gian của chất điểm dao động điều hòa có dạng là gì?":" ",
+    "Đồ thị gia tốc theo thời gian của một vật dao động điều hòa có dạng như hình vẽ. 
+    a. Gia tốc cực đại của vật.
+    b. Viết pt dao động điều hoà
+    ":" ",
+    "Một vật dao động điều hòa với phương trình x = Acos(2ωt + φ), Xác định giá trị cực đại của vận tốc và gia tốc.":" ",
+    "Viết công thức động năng, thế năng và cơ năng của con lắc lò xo.":" ",
+    "Một con lắc lò xo gồm viên bi nhỏ và lò xo nhẹ có độ cứng 200 N/m, dao động điều hòa với biên độ 5cm. Mốc thế năng ở vị trí cân bằng. Tính thế năng của con lắc khi ở vị trí biên.":" ",
+    "Định nghĩa chu kì sóng, tần số sóng và bước sóng.":" ",
+    "Hệ thức liên hệ giữa tần số f, tốc độ truyền sóng v và bước sóng λ. ":" ",
+    "Một người quan sát trên mặt biển thấy chiếc phao nhô lên cao 9 lần trong 36 giây. Khoảng cách giữa hai đỉnh sóng kề nhau là 2m. Tính chu kì và tốc độ truyền sóng.":" ",
+    "Tầng ozôn là tấm ‘áo giáp’ bảo vệ cho người và sinh vật trên mặt đất khỏi bị tác dụng hủy diệt của bức xạ nào ?":" ",
+    "Điều kiện để hai sóng cơ khi gặp nhau và xảy ra giao thoa.":" ",
+    "Khi có sóng dừng trên một sợi dây, xác định khoảng cách giữa hai nút sóng liên tiếp, 2 bụng sóng liên tiếp.":" ",
+    "Cho con lắc lò xo nằm ngang, dao động điều hòa với phương trình x = 4cos20t (cm), vật nhỏ có khối lượng 200g. Tính độ cứng của lò xo và  cơ năng của con lắc?":" ",
+    "Trong thí nghiệm giao thoa ánh sáng với khe Young, khoảng cách giữa hai khe là 1 mm; khoảng cách từ hai khe đến màn quan sát là 3 m. Nguồn sáng dùng trong thí nghiệm gồm hai bức xạ 450 nm và 600 nm. Trên màn quan sát, gọi A, B là hai điểm ở hai phía so với vân trung tâm và cách vân trung tâm lần lượt là 5 mm và 18 mm. Tìm khoảng cách ngắn nhất giữa hai vân sáng cùng màu với vân sáng trung tâm và số vân cùng màu với vân trung tâm trên đoạn AB?":" ",
+    "Từ hình ảnh sóng dừng trên dây như hình vẽ. Phát biểu nào sau đây là đúng?":" ",
+    "Một vật dđ điều hoà dọc theo trục 0x có đồ thị li độ - thời gian như hình vẽ. Chiều dài quỹ đạo của vật là: ":" ",
+    "Một vật nhỏ dao động điều hòa dọc theo trục Ox có đồ thị biểu diễn sự phụ thuộc của vận tốc theo thời gian như hình vẽ bên. Chu kỳ dao động của vật là ":" ",
+    "Một vật dao động điều hòa có chiều dài quỹ đạo là   Trong thời gian 1 phút, vật thực hiện được 40 dao động. 
+    a) Tính tần số góc của dao động.
+    b) Tính tốc độ của vật khi cách VTCB  
+    ":" ",
+    "Một vật có khối lượng  dao động điều hòa có đồ thị sự phụ thuộc của li độ x vào thời gian t như hình vẽ. Lấy  
+    a) Tính chiều dài quỹ đạo của vật.
+    b) Tính động năng của vật tại   
+    ":" ",
+    "Trong thí nghiệm Young về giao thoa với ánh sáng đơn sắc có bước sóng   Biết khoảng cách giữa hai khe là   khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là   Trên màn, hai điểm M và N nằm khác phía so với vân sáng trung tâm, cách vân trung tâm lần lượt là   và   Tìm số vân sáng trong khoảng giữa M và N.":" ",
+    "Một vật dao động điều hòa có chiều dài quỹ đạo là   Trong thời gian 1 phút, vật thực hiện được 40 dao động. 
+      a) Tính tần số góc của dao động.
+      b) Tính tốc độ của vật khi cách vị trí cân bằng 2 cm.
+    ":" ",
+    "Một vật có khối lượng  dao động điều hòa có đồ thị sự phụ thuộc của li độ x vào thời gian t như hình vẽ. Lấy  
+ 
+    a) Tính chiều dài quỹ đạo của vật.
+    b) Tính động năng của vật tại   
+    ":" ",
+    "Một sợi dây căng giữa hai điểm cố định cách nhau . Người ta tạo sóng dừng trên dây. Hai tần số gần nhau nhất cùng tạo ra sóng dừng trên dây là   và . Tính tốc độ truyền sóng trên dây.":" ",
+    "Một sợi dây   dài   có đầu dưới   để tự do, đầu trên   gắn với một cần rung với tần số   có thể thay đổi được. Ban đầu trên dây có sóng dừng với đầu   là bụng, đầu   là nút. Khi tần số   tăng thêm   thì số nút trên dây tăng thêm 18 nút và  vẫn là bụng   vẫn là nút. Tính tốc độ truyền sóng trên sợi dây.":" ",
+    "Ở mặt chất lỏng, tại hai điểm   và  cách nhau 28 cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi   và   là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng   và cách nhau  Biết số điểm cực đại giao thoa trên   và   tương ứng là 7 và 3. Tính số điểm cực đại giao thoa trên đoạn thẳng  ?":" ",
+    "Trong thí nghiệm Young về giao thoa với ánh sáng đơn sắc có bước sóng   Biết khoảng cách giữa hai khe là 0,6 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2 m. Trên màn, hai điểm M và N nằm khác phía so với vân sáng trung tâm, cách vân trung tâm lần lượt là  và   Tìm số vân sáng trong khoảng giữa M và N .":" ",
+    "] Một vật dao động điều hòa có chiều dài quỹ đạo là   Trong thời gian 1 phút, vật thực hiện được 40 dao động. 
+      a) Tính tần số góc của dao động.
+      b) Tính tốc độ của vật khi cách vị trí cân bằng 2 cm.":" ",
+    "] Một vật có khối lượng  dao động điều hòa có đồ thị sự phụ thuộc của li độ x vào thời gian t như hình vẽ. Lấy a) Tính chiều dài quỹ đạo của vật.
+    b) Tính động năng của vật tại   
+     ":" ",
+    "Một sợi dây căng giữa hai điểm cố định cách nhau . Người ta tạo sóng dừng trên dây. Hai tần số gần nhau nhất cùng tạo ra sóng dừng trên dây là   và . Tính tốc độ truyền sóng trên dây.":" ",
+    "Một sợi dây   dài   có đầu dưới   để tự do, đầu trên   gắn với một cần rung với tần số   có thể thay đổi được. Ban đầu trên dây có sóng dừng với đầu   là bụng, đầu   là nút. Khi tần số   tăng thêm   thì số nút trên dây tăng thêm 18 nút và  vẫn là bụng   vẫn là nút. Tính tốc độ truyền sóng trên sợi dây.":" ",
+    "Ở mặt chất lỏng, tại hai điểm   và  cách nhau 28 cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi   và   là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng   và cách nhau  Biết số điểm cực đại giao thoa trên   và   tương ứng là 7 và 3. Tính số điểm cực đại giao thoa trên đoạn thẳng  ?":" ",
+    "Trong thí nghiệm Young về giao thoa với ánh sáng đơn sắc có bước sóng   Biết khoảng cách giữa hai khe là 0,6 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2 m. Trên màn, hai điểm M và N nằm khác phía so với vân sáng trung tâm, cách vân trung tâm lần lượt là  và   Tìm số vân sáng trong khoảng giữa M và N .":" ",
+    "Tính điện trở tương đương của đoạn mạch có sơ đồ sau: 
+    Cho biết: : R1 =6Ω,R2 = 3Ω, R3 = 4Ω, R4 = 4Ω, Ra =0Ω.
+    ": " ",
+    "Cho mạch điện như hình vẽ :    
+    UAB = 6V ; R1 = R3 = R5 = 1 ; R2 = 3 ; 
+    Tính R4, biết cường độ dòng điện qua R4 là 1A.
+    ":" ",
+    ":  Cho mạch điện như hình vẽ: 
+    UAB = 12V ; R1 = 4 ; R3 = R4 = 3 ; R5 = 0,4.
+    Biết UMB = 7,2V, tìm điện trở R2.
+    ":" ",
+    
+
 }
