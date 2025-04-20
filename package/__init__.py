@@ -1,6 +1,7 @@
 import numpy 
 import pandas
 import json
+from pathlib import Path
 from pypdf import PdfReader
 from docx import Document
 from typing import Dict

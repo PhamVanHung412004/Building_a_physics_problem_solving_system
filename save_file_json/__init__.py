@@ -5,9 +5,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from package import (
     numpy as np,
     Dict,
-    Get_Path,
     json
 )
+from read_file import Get_Path
 
 def convert_ndarray(obj):
     '''
@@ -31,8 +31,8 @@ class Save_File_Json(Get_Path):
         '''
         self.__data = data
 
-    def save_file(self) -> None:
-        with open(self.path , "w") as file:
+    def save(self) -> None:
+        with open(self.path , "w", encoding="utf-8") as file:
             json.dump(convert_ndarray(self.__data), file, indent=4)
 
 
