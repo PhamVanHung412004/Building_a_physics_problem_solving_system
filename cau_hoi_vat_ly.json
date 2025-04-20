@@ -545,6 +545,641 @@
     UAB = 12V ; R1 = 4 ; R3 = R4 = 3 ; R5 = 0,4.
     Biết UMB = 7,2V, tìm điện trở R2.
     ":" ",
-    
+    "Tính điện trở tương đương của mạch (hình 4). Biết R1 =1Ω,R2 = 2Ω,R3 = 3Ω,R4 = 5Ω, R5 =0,5Ω. Rv = ∞	":" ",
+    "Cho mạch điện có  sơ đồ (như hình 5).Cho biết: R1 =6Ω,R2 = R3 = 20Ω,R4 = 2Ω,
+    a. Tính điện trở tương đương của đoạn mạch khi khóa k đóng và  mở.  
+    b. Khi khóa k đóng cho UAB = 24 V. Tính cường độ dòng điện qua R2.
+    ":" ",
+    "Cho mạch điện có sơ đồ như hình vẽ:Cho biết: R1 =3Ω,R2 = 6Ω, R3 = 6Ω, UAB = 3V. Tìm:  
+    a. Điện trở tương đương của đoạn mạch AC.
+    b. Cường độ dòng điện qua R3.
+    c. Hiệu điện thế giữa hai điếm A và C.
+    d. Cường độ dòng điện qua R1 và R2.
+    ":" ",
+    "Cho mạch điện như hình: UAB = 7,2V không đổi ; R1 = R2 = R3 = 2, R4 = 6. Điện trở của ampe kế và của khóa K nhỏ không đáng kể. Tính số chỉ của ampe kế khi: 
+    a) K mở. 
+    b) K đóng.	
+    ":" ",
+    "Cho mạch điện như hình vẽ. UAB = 90V ; R1 = R3 = 45 ; R2 = 90. Tìm R4, biết khi K mở và khi K đóng cường độ dòng điện qua R4 là như nhau.":" ",
+    "Cho mạch điện như hình.UAB = 6V không đổi. Bỏ qua điện trở của các ampe kế.Khi K mở, ampe kế (A1) chỉ 1,2A.Khi K đóng, ampe kế (A1) chỉ 1,4A, ampe kế (A2) chỉ 0,5A.Tính R1, R2, R3.":" ",
+    "Tính điện trở tương đương của mạch điện như hình vẽ, trong đó R1 = 10; R2 = 20; R3 =R4 = 30; R5 = 60; R6 = 90; R7 = 5; R8 = 15 ":" ",
+    "Cho mạch điện như hình vẽ. Trong đó hiệu điện thế giữa A, B không đổi UAB = 75V. Các điện trở R1 = 3; R2 = 6; R3 = 9; ampe kế G có điện trở không đáng kể
+    a.	Cho R4 = 2. Tính số chỉ của ampe kế G  
+    b.	G chỉ 0. Tính R4    
+    c.	G chỉ 2A. Tính R4 và cường độ dòng điện qua các điện trở   
+    ":" ",
+    "Cho mạch điện như hình vẽ. Trong đó R1 = R3 = 45; R2 = 90; Tụ điện có điện dung C = 2F, điện trở của khóa K và các dây nối không đáng kể; hiệu điện thế ở hai đầu đoạn mạch U = 90C không thay đổi. Biết rằng khi K ngắt và K đóng bóng đèn Đ đều sáng bình thường
+    a.	Tính điện trở của đèn 
+    b.	Tính hiệu điện thế định mức của đèn 
+    c.	Ban đầu K ngắt, sau đó K đóng: sau khoảng thời gian t = 10-3s tụ điện phóng hết điện tích. Tính cường độ dòng điện trung bình chạy qua khóa K trong khoảng thời gian trên 
+    ":" ",
+    "Một bàn ủi điện khi sử dụng với hiệu điện thế 220V thì dòng điện chạy qua nó có cường độ 5A.
+    a.	Nếu dòng điện chạy qua bàn ủi trong thời gian 20 phút thì nhiệt lượng tỏa ra là bao nhiêu J?
+    b.	Tính số tiền điện phải trả khi sử dụng bàn ủi trên trong  30 ngày, mỗi ngày sử dụng bàn ủi trong 20 phút. Cho biết giá điện 700 đ/(kW.h).
+    ":" ",
+    "Hai bóng đèn có công suất định mức lần lượt là 25W và 100W đều làm việc bình thường ở hiệu điện thế 110V. Hỏi : 
+    a) Cường độ dòng điện qua bóng đèn nào lớn hơn?
+    b) Điện trở của bóng đèn nào lớn hơn ?
+    c) Có thể mắc nối tiếp hai bóng đèn này vào mạng điện có hiệu điện thế 220V được không ? Đèn nào sẽ dễ hỏng (cháy) ?	":" ",
+    "Khi cho 2 điện trở giống nhau mắc song song rồi mắc vào hiệu điện thế U không đổi thì công suất tiêu thụ của chúng là 20W. Nếu mắc nối tiếp 2 điện trở trên rồi mắc lại vào hiệu điện thế trên thì công suất tiêu thụ của chúng có giá trị bằng bao nhiêu?":" ",
+    "Để bóng đèn loại 120V- 60W sáng bình thường ở mạng điện có hiệu điện thế 220V thì cần phải mắc thêm một điện trở có giá trị bằng bao nhiêu và mắc theo cách nào ?":" ",
+    "Một nguồn điện có điện trở trong là 0,1  được mắc với điện trở R = 4,8 thành mạch kín. Khi đó người ta đo được hiệu điện thế giữa 2 đầu nguồn điện là 12 V.
+    a.	Hãy tính cường độ dòng điện chạy trong mạch ?
+    b.	Suất điện động của nguồn điện bằng bao nhiêu ?
+    ":" ",
+    "Mắc một điện trở 28 vào hai cực của một nguồn điện có điện trở trong là 2  thì hiệu điện thế giữa hai cực của nguồn là 16,8V.
+    a. Tính cường độ dòng điện chạy trong mạch và suất điện động của nguồn điện. 
+    b. Tính công suất mạch ngoài và công suất của nguồn điện khi đó.
+    c. Tính hiệu suất của nguồn điện.
+    ":" ",
+    "Hai điện tích q1 = 2.10-8C; q2 = -10-8C đặt cách nhau 20cm trong không khí. Xác định độ lớn và vẽ hình lực tương tác giữa chúng?":" ",
+    "Hai điện tích q1 = 2.10-6C; q2 = -2.10-6C đặt tại hai điểm A và B trong không khí. Lực tương tác giữa chúng là 0,4N. Xác định khoảng cách AB và vẽ lực tương tác đó?":" ",
+    "Trong nguyên tử Hidro e chuyển động tròn quanh hạt nhân theo quỹ đạo tròn có bán kính 5.10-9cm.
+    a. Xác định lực trương tác giữa e và hạt nhân		
+    b. xác định tần số của e
+    ":" ",
+    "Hai điện tích điểm q1 = q2 = 5.10-10C đặt trong không khí cách nhau 10cm.
+    a.	Xác định lực tương tác giữa hai điện tích
+    b.	Đem hệ hai điện tích này đặt vào môi trường nước tinh khiết ( = 81), hỏi lực tương tác giữa hai điện tích sẽ thay đổi thế nào? Để lực tương tác giữa hai điện tích không thay đổi ( như đặt trong không khí) thì khoảng cách giữa hai điện tích là bao nhiêu? 
+    ":" ",
+    "/ Hai điện tích điểm bằng nhau, đặt trong chân không cách nhau 10cm. Lực đẩy giữa chúng là 9.10-5N.
+    a.	Xác định dấu và độ lớn của hai điện tích đó?
+    b.	Để lực tương tác giữa hai điện tích đó tăng 3 lần thì phải tăng hay giảm khoảng cách giữa hai điện tích đó bao nhiêu lần? Vì sai? Xác định khoảng cách giữa hai điện tích lúc đó.
+    ":" ",
+    "Hai vật nhỏ tích điện đặt cách nhau 50cm. hút nhau bởi một lực 0,18N. Điện tích tổng cộng của hai vật là 4.10-6C. Tính điện tích của mỗi vật.":" ",
+    "Cho hai điện tích điểm q1 = 2.10-7C; q2 = -3.10-7C đặt tại hai điểm A và B trong chân không cách nhau 5cm. Xác định lực điện tổng hợp tác dụng lên q3 = -2.10-7C trong các trường hợp sau:
+    a.	q3 đặt tại C , với CA = 2cm; CB = 3cm
+    b.	q3 đặt tại D , với DA = 2cm; DB = 7cm
+    c.	q3 đặt tại E , với EA = 3cm; EB = 4cm
+    d.	q3 đặt tại F , với FA = 5cm; FB = 5cm
+    ":" ",
+    "Có 3 điện tích điểm q1 = 8.10-9C;  q2 = q3 = -8.10-9C trong chân không tại 3 đỉnh của 1 tam giác đều cạnh 6cm. Xác định lực tức dụng lên điện tích q0 = 6.10-9C đăth tại trọng tâm O của tam giác.":" ",
+    "Có hai điện tích q1 = 2.10-6C; q2 = -2.10-6C đặt tại hai điểm A và B trong chân không cách nhau 6cm. Một điện tích q3 = 2.10-6C đặt trên đường trung trực của AB cách AB một khoảng 4cm. Độ lớn của lực điện do hai điện tích q1 và q2 tác dụng lên điện tích q3":" ",
+    "Hai điện tích q1 = 2.10-8C; q2 = -8.10-8C đặt tại A và B trong không khí , AB = 8cm. Một điện tích q0 đặt tại C. Hỏi: 
+    a.	C ở đâu để q0 cân bằng?
+    b.	Dấu và độ lớn của q0 để q1; q2 cũng cân bằng?
+    ":" ",
+    "Hai điện tích q1 = -2.10-8C; q2 = -1,8.10-7C đặt tại A và B trong không khí , AB = 8cm. Một điện tích q0 đặt tại C. Hỏi: 
+    a.	C ở đâu để q0 cân bằng?
+    b.	Dấu và độ lớn của q0 để q1; q2 cũng cân bằng?
+    ":" ",
+    "Hai điện tích q1 = 10-8C; q2 = 4.10-8C đặt tại A và B trong không khí , AB = 9cm.
+    a.	Xác định lực tương tác giữa hai điện tích
+    b.	Xác định véctơ lực tác dụng lên điện tích q0 = 3.10-6C đặt tại trung điểm của AB
+    c.	Phải đặt điện tích q3 = 2.10-6C tại đâu để q3 cân bằng?
+    ":" ",
+    "Hai quả cầu kim loại nhỏ như nhau mang các điện tích q1 và q2 đặt trong không khí cách nhau 2cm, đẩy nhau bằng một lực 2,7.10-4N. Cho hai quả cầu tiếp xúc với nhau rồi lại đưa về vị trí cũ, chúng đẩy nhau bằng một lực 3,6.10-4N. Tính q1 và q2?":" ",
+    "Hai quả cầu kim loại nhỏ giống nhau, có cùng khối lượng m = 0,1g; cùng điện tích q= 10-7C được treo tại cùng một điểm bằng hai sợi dây mảnh có cùng chiều dài. Do lực đẩy tĩnh điện hai quả cầu tách ra xa nhau một đoạn a = 30cm. Tính góc lệch của dây treo so với phương thẳng đứng . Lấy g = 10m/s2.":" ",
+    "Một quả cầu có khối lượng riêng D0 = 9,8.103kg/m3; bán kính R = 1cm tích điện q1 =+10-6C được treo vào sợi dây mảnh có chiều dài l = 10cm.Tại điểm treo có đạt một điện tích q2 =+10-6C Tất cả được đặt trong dầu có khối lượng riêng D = 0,8.103kg/m3 và hằng số điện môi  = 2. Lấy g = 10m/s2. Tính lực căng của dây treo khi quả cầu ở trạng thái cân bằng? Bỏ qua ma sát và lực cản của môi trường. ":" ",
+    "Trong các hình biểu diễn lực tương tác tĩnh điện giữa các điện tích (có cùng độ lớn điện tích và đứng yên) dưới đây. Hình nào biểu diễn không chính xác?":" ",
+    "Bốn tụ điện được mắc thành bộ theo hình vẽ. Biết điện dung của các tụ điện là   ;   Khi nối hai điểm M,N với nguồn điện thì tụ điện C_1 có điện tích   và cả bộ tụ điện có điện tích   Hiệu điện thế đặt vào hai đầu của bộ tụ điện và điện dung của tụ điện C_4 là":" ",
+    "Tam giác ABC vuông tại C đặt trong điện trường đều E ⃗ có cường độ 5000 V/m và cùng chiều với (AC) ⃗. Biết CA = 4 cm, CB = 3 cm. 
+    a. Điện thế tại điểm B có đơn vị là Jun (J). 
+    b. Công của lực điện trường khi làm dịch chuyển một electron dọc theo đường gấp khúc ABC có giá trị lớn hơn công của lực điện trường khi làm dịch chuyển một electron từ A đến C. 
+    c. Điện thế tại điểm B được xác định theo công thức: V_B=A_B∞/q.  
+    d. Công của lực điện trường khi làm dịch chuyển một electron dọc theo đường gấp khúc ACB có giá trị 3,2.10^(-17) N. 
+    ":" ",
+    "Hai điện tích điểm cùng độ lớn 5.10^(-6) C đặt trong chân không, để tương tác nhau bằng lực có độ lớn 2,5.10-2 N thì chúng phải đặt cách nhau bao nhiêu m?":" ",
+    "Quả cầu nhỏ mang điện tích 10^(-9) Cđặt trong không khí. Cường độ điện trường tại 1 điểm cách quả cầu 5 cm là bao nhiêu kV/m? ":" ",
+    "Cho điện tích dịch chuyển giữa 2 điểm cố định trong một điện trường đều với cường độ điện trường 100 V/m thì công của lực điện trường là 75 mJ. Nếu cường độ điện trường là 200 V/m thì công của lực điện trường dịch chuyển điện tích giữa hai điểm đó là là bao nhiêu Jun? (Kết quả lấy đến 2 chữ số có nghĩa).":" ",
+    "Trên một tụ điện có ghi: 47μF-50V. Mắc tụ vào hiệu điện thế 20 V thì điện tích mà tụ tích được là bao nhiêu μC?":" ",
+    "Người ta đặt 3 điện tích q_1=8.10^(-9) C;q_2=q_3=-8.10^(-9) C tại 3 đỉnh của tam giác đều ABC cạnh 6cm trong không khí. Lực tác dụng lên điện tích q_0=6.10^(-9) C đặt ở tâm O của tam giác có độ lớn bằng bao nhiêu mN? (Kết quả lấy đến 2 chữ số có nghĩa).":" ",
+    "Một electron chuyển động dọc theo đường sức của một điện trường đều. Cường độ điện trường có độ lớn bằng 910V/m. Vận tốc ban đầu của electron là v_0=8.10^5 m/s, khối lượng của electron là m_e=9,1.10^(-31) kg. Từ lúc bắt đầu chuyển động đến khi có vận tốc bằng 0 thì electron đã đi được quãng đường là bao nhiêu mm? ":" ",
+    "Những đường sức điện trong hình nào được vẽ ở dưới đây là những đường sức của điện trường đều?":" ",
+    "Trên hình vẽ bên có vẽ một số đường sức của hệ hai điện tích điểm A và B. Kết luận nào sau đây đúng?":" ",
+    "Hình nào sau đây biểu diễn lực tương tác giữa hai điện tích điểm đứng yên là sai?":" ",
+    "Đồ thị nào trong hình vẽ phản ánh sự phụ thuộc của độ lớn cường độ điện trường E của một điện tích điểm vào khoảng cách r từ điện tích đó đến điểm mà ta xét?":" ",
+    "Cho một quả cầu kim loại khối lượng m = 100g tích điện q được treo vào đầu sợi dây khối lượng không đáng kể có chiều dài 20 cm trong điện trường đều có cường độ 5.10^6 V/mvà véctơ cường độ điện trường E ⃗nằm ngang thì dây treo lệch sang trái góc 45º như hình vẽ. Lấy g = 10 m/s2.
+    a) q là điện tích âm
+    b) điện tích q có độ lớn là 2.10^(-7) C.
+    c) Nếu kích thích cho quả cầu dđ trong điện trường thì chu kì dao động gần bằng 0,747s
+    d) lực điện tác dụng lên điện tích q có phương vuông góc với véc tơ E ⃗
+    ":" ",
+    "A, B, C là ba điểm tạo thành tam giác vuông tại A đặt trong điện trường đều của một tụ phẳng không khí. Biết hiệu điện thế giữa hai bản tụ là U = 300V và khoảng cách giữa hai bản là d = 15cm. Cho α=60°; BC=12cm.
+	a) Độ lớn cường độ điện trường là E= 2000 V/m
+	b) Công thực hiện để dịch chuyển điện tích q=10^(-9) Ctừ B đến C là 1,2.10-5 J
+	c) Điện trường bên trong tụ điện là điện trường đều và đường sức điện hướng từ bản âm sang bản dương
+    d) Đặt một điện tích dương tại điểm B thì nó sẽ di chuyển sang bản âm":" ",
+    "Hai điện tích điểm q_1= 10^(-8 ) C và q_2  = -3.10^(-8 ) C đặt trong không khí tại hai điểm A và B cách nhau 8 cm. Đặt điện tích điểm q = 3. 10^(-8 ) C tại điểm M trên đường trung trực của đoạn thẳng AB và cách AB một khoảng 3 cm. Lấy k = 9.10^9  N.m^2/C^2. Lực điện tổng hợp do q_1 và q_2 tác dụng lên q tính theo đơn vị mN có độ lớn bao nhiêu?":" ",
+    "Hai điện tích điểm q_1=-4.10^(-6) C,q_2=-2.10^(-6) C đặt cách nhau 10cmtrong không khí thì lực tương tác giữa chúng tính theo đơn vị mN bằng bao nhiêu?":" ",
+    "Hai quả cầu kim loại nhỏ có kích thước giống nhau, đặt trong chân không, quả cầu thứ nhất tích điện q_1=-25μCđặt tại điểm A và quả cầu thứ hai tích điện q_2 = -9 μC đặt tại điểm B. Biết AB = 16 cm. Đặt điện tích q_3 tại điểm M thì thấy điện tích q_3 nằm cân bằng. Khoảng cách AM có giá là bao nhiêu cm?":" ",
+    "Hai tụ điện C_1=25,00 mF và C_2=5,00 mF được nối song song và gắn vào một nguồn điện có hiệu điện thế 100 V. Tổng năng lượng được tích trữ trên 2 tụ bằng":" ",
+    "Giữa hai bản kim loại phẳng song song cách nhau 4 cm có một hiệu điện thế không đổi 200 V. Cường độ điện trường ở khoảng giữa hai bản kim loại có độ lớn bằng":" ",
+    "Công của lực điện dịch chuyển một điện tích 〖– 〗⁡4  0μC từ A đến B  có giá trị là 16 mJ. Hiệu điện thế U_AB có giá trị là":" ",
+    "Một vòng tròn tâm O nằm trong điện trường của một điện tích điểm q; A và B là hai điểm trên vòng tròn đó. Gọi AA1B, AA2B và AAB là công của lực điện tác dụng lên điện tích điểm q trong các dịch chuyển dọc theo 3 quỹ đạo như hình vẽ. So sánh công của 3 quỹ đạo trên.":" ",
+    "Tại 2 điểm A, B cách nhau 20 cm trong dầu có hằng số điện môi là 20, người ta đặt 2 điện tích điểm q1 và q2. Biết q1= 8.10-8C; q2 = -4.10-8C. Hỏi lực tương tác giữa 2 điện tích điểm là lực hút hay lực đẩy? Tính độ lớn của lực đó? Vẽ hình. ":" ",,
+    "Trong chân không, tại 2 điểm A, M có 2 điện tích q1 và q2. Biết q1=3.10-8    C, q2 = 4.10-8C. Xác định cường độ điện trường tổng hợp tại điểm C, biết CA=8cm, CB=6cm, AB=10cm.":" ",
+    "Trên vỏ một tụ điện có ghi thông số 2μF-220V. Nối hai bản tụ với hiệu điện thế 200V. Khoảng cách giữa 2 bản tụ 4 mm.
+    a. Giải thích các đại lượng trên.
+    b. Tính điện tích cực đại mà tụ tích được.
+    c. Tính cường độ điện trường lớn nhất giữa hai bản tụ.
+    ":" ",
+    "Trong dông sét, một điện tích âm có độ lớn 1C được phóng xuống đất trong khoảng thời gian  . Tính cường độ dòng điện của tia sét đó.":" ",
+    "Trong thời gian 30 giây, có một điện lượng 60C chuyển qua tiết diện thẳng của dây dẫn. Tính cường độ dòng điện qua dây và số electron chuyển qua tiết diện thẳng của dây dẫn trong thời gian 2 giây.":" ",
+    "Số electron qua tiết diện thẳng của một dây dẫn kim loại trong 1 giây là   electron. Tính cường độ dòng điện chạy qua dây dẫn và điện lượng chạy qua tiết diện đó trong 2 phút.":" ",
+    "Cường độ của dòng điện không đổi chạy qua dây tóc của bóng đèn là 0,64A.
+    a) Tính điện lượng dịch chuyển qua tiết diện thẳng của dây tóc trong thời gian 2 phút.
+    b) Tính số electron dịch chuyển qua tiết diện thẳng của dây tóc trong khoảng thời gian nói trên.
+    ":" ",
+    "Dòng điện không đổi chạy trong một dây dẫn, cứ mỗi giây có 1,6 C chuyển qua tiết diện thẳng của dây dẫn. Tính cường độ dòng điện.":" ",
+    "Dòng điện không đổi có cường độ 1,5 A chạy trong dây dẫn kim loại.
+    a) Tính điện lượng chuyển qua tiết diện thẳng của dây trong 1 s.
+    b) Tính số electron chuyển qua tiết diện thẳng của dây trong 1 s.
+    ":" ",
+    "Một dây dẫn bằng đồng có dòng điện 5 A chạy qua. Biết rằng các điện tích dịch chuyển có hướng tạo nên dòng điện này là các electron.
+    a) Hãy xác định điện lượng dịch chuyển qua một tiết diện thẳng của dây dẫn trong 4 phút.
+    b) Tính số electron đã chuyển qua tiết diện thẳng trong câu a
+    ":" ",
+    "Hãy so sánh cường độ của hai dòng điện không đổi sau:
+    Dòng điện 1: Cứ mỗi giây có   hạt electron chuyển qua tiết diện thẳng của dây dẫn.
+    Dòng điện 2: Cứ mỗi phút có điện lượng 150 C chuyển qua tiết diện thẳng của dây dẫn.
+    ":" ",
+    "Mỗi khi trời mưa hay giông bão thường kèm theo các tia sét, đó là các dòng điện phóng từ đám mây xuống mặt đất với cường độ trung bình cỡ 300 000 A. Tia sét kéo dài 1,5 s. Hãy tính điện lượng đã di chuyển giữa đám mây và mặt đất trong mỗi tia sét.":" ",
+    "Một ống chứa khí hydrogen bị ion hoá đặt trong điện trường mạnh giữa hai điện cực làm xuất hiện dòng điện. Các electron chuyển động về cực dương, các proton chuyển động về cực âm. Biết mỗi giây có   electron và   proton chuyển động qua một tiết diện của ống. Hãy tính cường độ dòng điện và xác định chiều của nó.":" ",
+    "Một quả cầu bằng đồng cô lập. Một dây dẫn kim loại mang dòng điện đi vào nó và một dây dẫn kim loại khác mang dòng điện đi ra khỏi nó. Biết cường độ dòng điện đi vào lớn hơn cường độ dòng điện đi ra khỏi quả cầu là  .
+    a) Hỏi số electron của quả cầu tăng hay giảm theo thời gian?
+    b) Tính thời gian để quả cầu tăng (hoặc giảm) một lượng 1 000 tỉ electron.
+    ":" ",
+    "Hai dòng điện không đổi (1) và (2) có đồ thị biểu diễn sự phụ thuộc của cường độ dòng điện theo thời gian như hình.
+    a) Hãy tính điện lượng do dòng điện (1) đi qua tiết diện thẳng của dây trong khoảng thời gian từ   đến  .
+    b) Hãy tính điện lượng do dòng điện (2) đi qua tiết diện thẳng của dây trong khoảng thời gian từ   đến  .
+    ":" ",
+    "Coi Trái Đất là một quả cầu bán kính 6400 km. Giả sử có một lượng điện tích tương ứng với dòng điện 1,0 A chuyển qua một tiết diện thẳng của vật dẫn trong 1 giờ được phân bố đều trên bề mặt thì mật độ điện tích trên bề mặt Trái Đất bằng bao nhiêu C/m2 ?":" ",
+    "Trong 2,00 s, lượng điện tích chạy qua một bóng đèn là 1,67 C.
+    a) Tìm cường độ dòng điện chạy qua bóng đèn.
+    b) Tìm số electron di chuyển qua bóng đèn trong 5,00 s. Biết điện tích của electron có độ lớn là  
+    c) Biết hiệu điện thế giữa hai đầu bóng đèn là 12,0 V, tính năng lượng điện mà bóng đèn tiêu thụ trong 2,00 s (bỏ qua điện trở trong của nguồn)
+    d) Tính năng lượng điện mà bóng đèn tiêu thụ trong mỗi giây.
+    ":" ",
+    "Tính cường độ dòng điện qua dây dẫn điện nếu   electron đi qua tiết diện thẳng của dây dẫn điện trong 1,0 phút.":" ",
+    "Cường độ dòng điện 0,60 A chạy qua sợi đốt của một bóng đèn. Nếu để bóng đèn sáng trong 8,0 phút thì có bao nhiêu electron di chuyển qua bóng đèn? Biết điện tích của electron là  ":" ",
+    "Tính cường độ dòng điện khi một điện tích 240 C chạy qua một tiết diện thẳng của dây dẫn trong thời gian 2 phút.":" ",
+    "Trong một thí nghiệm mạ bạc, cần có điện tích   để lắng đọng một khối lượng bạc. Tính thời gian để khối bạc này lắng đọng khi cường độ dòng điện là 0,20 A.":" ",
+    "Cường độ dòng điện trong một dây dẫn là 200 mA. Tính:
+    a) Lượng điện tích đi qua tiết diện thẳng của dây trong 5 phút.
+    b) Số lượng electron cần thiết để mang điện tích này. Biết  
+    ":" ",
+    "Trong một dây dẫn điện có dòng điện với cường độ 80,0 mA.
+    a) Có bao nhiêu electron chạy qua tiết diện thẳng của dây trong 10,0 phút?
+    b) Các electron chuyển động theo chiều nào đối với dòng điện?
+    ":" ",
+    "Một dây dẫn bằng kim loại, tiết diện tròn, có đường kính tiết diện là d = 2 mm, có dòng điện I = 5 A chạy qua. Cho biết mật độ electron tự do là  . Hãy tính tốc độ dịch chuyển có hướng của các electron trong dây dẫn":" ",
+    "Mật độ electron tự do trong một đoạn dây nhôm hình trụ là  . Cường độ dòng điện chạy qua dây nhôm hình trụ có đường kính 2mm là 2A. Tính tốc độ dịch chuyển có hướng của electron trong dây nhôm đó.":" ",
+    "Dòng điện không đổi I = 1,3 A chạy trong một dây dẫn bằng đồng có đường kính tiết diện d = 1,8 mm. Khối lượng riêng và nguyên tử lượng của đồng lần lượt là  tấn/m3 và  . Giả sử mỗi nguyên tử đồng có một electron tự do. Tính độ lớn vận tốc trôi của các electron tự do tạo nên dòng điện":" ",
+    "Cho dòng điện 4,2 A chạy qua một đoạn dây dẫn bằng kim loại dài 80 cm có đường kính tiết diện 2,5 mm. Mật độ electron dẫn của kim loại này là  . Hãy tính thời gian trung bình mỗi electron dẫn di chuyển hết chiều dài đoạn dây.":" ",
+    "Dòng điện không đổi có cường độ 2,8 A chạy trong một dây dẫn kim loại có diện tích tiết diện thẳng  . Biết mật độ electron trong dây dẫn là  . Tính vận tốc trôi của electron":" ",
+    "Hai dây dẫn (1) và (2) được làm từ cùng một loại vật liệu kim loại, có cùng một cường độ dòng điện chạy qua nhưng bán kính dây (1) lớn gấp 3 lần bán kính dây (2). Tính tỉ số tốc độ trôi của electron dẫn trong hai dây dẫn đang xét.":" ",
+    "Một lượng kim loại được nấu nóng chảy và kéo thành một đoạn dây dẫn. Cho dòng điện I chạy qua đoạn dây đó thì thời gian trung bình một electron đi từ đầu đến cuối đoạn dây là 4 giờ 30 phút. Nếu đoạn dây đó được nấu nóng chảy rồi kéo thành đoạn dây có chiều dài gấp đôi chiều dài ban đầu, sau đó vẫn cho dòng điện I như trên chạy qua thì thời gian trung bình một electron đi từ đầu đến cuối đoạn dây bằng bao nhiêu?":" ",
+    "Nhôm là loại vật liệu có khối lượng riêng 2,7 tấn/m3 và khối lượng mol nguyên tử là 27 g/mol. Biết rằng mỗi nguyên tử nhôm có tương ứng 3 electron tự do. Một dây dẫn bằng nhôm có đường kính tiết diện 3,0 mm mang dòng điện 15 A. Tính tốc độ trôi của electron trong dây dẫn bằng nhôm này.":" ",
+    "Tính cường độ dòng điện chạy trong dây đồng có tiết diện   để tốc độ dịch chuyển có hướng của electron dẫn là  .":" ",
+    "Trong mô hình nguyên tử hyđro của Bohr, một electron ở mức năng lượng thấp nhất chuyển động với tốc độ bằng   theo một quỹ đạo tròn có bán kính  . Tính cường độ dòng điện tương ứng với chuyển động này của electron.":" ",
+    "Một dây đồng có   electron tự do trong một mét khối. Dây có tiết diện thẳng (diện tích mặt cắt ngang) là 1,2 mm2 và trong dây có cường độ dòng điện 2,0 A. Tính tốc độ chuyển động có hướng của các electron":" ",
+    "Tốc độ dịch chuyển có hướng của các eclectron dẫn trong một dây kim loại là   khi cường độ dòng điện là 0,80 A. Đường kính của dây là 0,50 mm. Tính số electron dẫn trên một đơn vị thể tích dây dẫn.":" ",
+    "Trong một dây dẫn điện bằng đồng có cường độ dòng điện 10,0 A. Giả sử số electron tự do trong kim loại đồng là do mỗi nguyên tử đồng đóng góp một electron. Biết dây đồng có tiết diện   khối lượng riêng của đồng là 8,92 g/m3; khối lượng mol nguyên tử đồng là 63,5 g/mol; số Avogadro là   nguyên tử/mol. Tìm tốc độ dịch chuyển có hướng của các electron trong dây đồng này.":" ",
+    "Cường độ dòng điện đi qua một vật dẫn là 6,3 A khi hiệu điện thế giữa hai đầu vật dẫn là 12 V. Tính điện trở của vật dẫn.":" ",
+    "Khi hiệu điện thế giữa hai đầu LED là 2,0 V thì cường độ dòng điện đi qua nó là 20 mA. Tính điện trở của LED.":" ",
+    "Thông tin kĩ thuật của một loại cáp điện được in trên vỏ sản phẩm như sau: Diện tích tiết diện:  , điện trở mỗi km chiều dài:  . Hãy xác định điện trở suất của vật liệu làm cáp điện này.":" ",
+    "Một đoạn dây dẫn bằng đồng có điện trở suất   , dài 2,0 m và đường kính tiết diện là 1,0 mm. Cho dòng điện 1,5 A chạy qua đoạn dây.
+    a) Tính điện trở của đoạn dây.
+    b) Tính hiệu điện thế giữa hai đầu đoạn dây
+    ":" ",
+    "Với cùng một khối lượng đồng nguyên chất như nhau, người ta tạo thành hai đoạn dây dẫn hình trụ (1) và (2). Biết đường kính tiết diện của dây (1) bằng một nửa so với dây (2). Tính tỉ số điện trở của hai đoạn dây dẫn (1) và (2).":" ",
+    "Hai dây dẫn đồng chất. Dây thứ nhất dài gấp 5 lần dây thứ hai và có tiết diện gấp 2 lần dây thứ hai. Biết điện trở dây thứ nhất là  . Tính điện trở của dây thứ hai":" ",
+    "Một sợi dây làm bằng nhôm có điện trở suất  , đường kính tiết diện bằng 0,2mm quấn thành một lớp kín trên một lõi hình trụ dài 20 cm, đường kính tiết diện 4 cm. Các vòng dây quấn sát nhau. Tính điện trở của cuộn dây.":" ",
+    "Một cuộn dây dẫn bằng đồng với khối lượng của dây dẫn là 0,5kg và dây dẫn có tiết diện  
+    a) Tính chiều dài dây dẫn, biết khối lượng riêng của đồng là  
+    b) Tính điện trở của cuộn dây này, biết điện trở suất của đồng là  
+    ":" ",
+    "Tính điện trở của một dây dẫn hình trụ làm bằng nhôm, cho biết đường kính của dây là 2 mm, khối lượng của dây bằng 10kg. Khối lượng riêng của nhôm là   và điện trở suất  .":" ",
+    "Đặt hiệu điện thế U = 1,5 V vào hai đầu một sợi dây dẫn bằng đồng có điện trở  . Tính cường độ dòng điện chạy qua sợi dây đồng.":" ",
+    "Khi hiệu điện thế giữa hai đầu của một vật dẫn là 2,00 V, cường độ dòng điện qua nó là 10,0 mA. Khi hiệu điện thế là 8,00 V, cường độ dòng điện là 60,0 mA.
+    a) Tính điện trở của vật dẫn ứng với hiệu điện thế 2,0 V và 8,0 V.
+    b) Vật dẫn này có tuân theo định luật Ohm không?
+    ":" ",
+    "Với 2 điện trở    và    mắc thành bộ rồi đặt hiệu điện thế U vào hai đầu bộ điện trở. Xét hai trường hợp:
+    a) Hai điện trở mắc nối tiếp. Tính U sao cho hiệu điện thế giữa hai đầu điện trở   bằng 4 V.
+    b) Hai điện trở mắc song song. Tính U sao cho cường độ dòng điện qua điện trở   là 0,5 A.
+    ":" ",
+    "Có 3 điện trở   ghép thành bộ. Tìm tất cả các giá trị có thể có của bộ 3 điện trở này. ":" ",
+    "Có 3 điện trở giống nhau được ghép thành bộ theo tất cả các cách và hai đầu bộ điện trở được đặt vào một hiệu điện thế không đổi. Đo cường độ dòng điện chạy qua mạch chính của bộ điện trở, kết quả cho thấy trường hợp cường độ dòng điện có giá trị nhỏ nhất là 0,3 A.
+    a) Có bao nhiêu giá trị khác nhau của cường độ dòng điện trên?
+    b) Tính các giá trị cường độ dòng điện trong các trường hợp còn lại.
+    ":" ",
+    "Đặt một hiệu điện thế không đổi vào hai đầu đoạn dây kim loại đồng chất có tiết diện đều thì khoảng thời gian trung bình một hạt tải điện đi hết chiều dài đoạn dây là 5,0 phút. Nếu tăng chiều dài đoạn dây lên gấp 3 lần thì thời gian trung bình mà hạt tải điện đi bằng bao nhiêu?":" ",
+    "Cho mạch điện như hình vẽ:
+    Tìm điện trở tương đương của đoạn mạch. 
+    ": " ",
+    "Cho đoạn mạch như hình vẽ:
+ 
+    a) Tính điện trở tương đương của đoạn mạch AB. 
+    b) Tính cường độ dòng điện qua mạch chính và qua mỗi điện trở.
+    ":" ",
+    "Cho mạch điện như hình vẽ:
+ 
+    Tìm cường độ dòng điện qua mỗi điện trở. 
+    ":" ",
+    "Cho mạch điện như hình vẽ:
+  
+    Tìm R1
+    ":" ",
+    "Cho mạch điện như hình vẽ. Trong đó
+ 
+    Tính điện trở tương đương của đoạn mạch AB và cường độ dòng điện qua từng điện trở.
+    ":" ",
+    "Cho mạch điện như hình. Các giá trị điện trở  
+    a) Tính hiệu điện thế giữa hai đầu điện trở R2 nếu cường độ dòng điện qua điện trở R1 có giá trị 1A
+    b) Tính hiệu điện thế giữa hai đầu điện trở R2 nếu cường độ dòng điện qua điện trở R5 có giá trị 1A
+    ":" ",
+    "Cho một đoạn mạch điện như hình. Biết các giá trị điện trở:  
+    Hãy tính điện trở của đoạn mạch AB.
+    ":" ",
+    "Cho mạch điện như hình. Các giá trị điện trở: 
+ . Hiệu điện thế giữa hai đầu đoạn mạch  .
+    a) Tính điện trở của đoạn mạch AB.
+    b) Tìm cường độ dòng điện chạy qua các điện trở và hiệu điện thế trên mỗi điện trở.
+    ":" ",
+    "Cho mạch điện như hình. Giá trị các điện trở:  . Hiệu điện thế giữa hai đầu đoạn mạch  .
+    a) Tính điện trở của đoạn mạch AB  .
+    b) Tính cường độ dòng điện qua các điện trở.
+    ":" ",
+    "Cho mạch điện như hình. Cho biết các giá trị điện trở:  Hiệu điện thế giữa hai đầu đoạn mạch  .
 
+    a) Tính điện trở  của đoạn mạch AB.
+    b) Tìm cường độ dòng điện và hiệu điện thế của mỗi điện trở.
+    ":" ",
+    "Cho mạch điện như hình vẽ:
+    Dòng điện qua dây CB là 3 A.
+    Tìm UAB.
+    ":" ",
+    "Cho mạch điện như hình vẽ. Trong đó R1=2,4 om, R2=14 om, R3=4 om, R4=R5=6 om, I3=2A
+    Tính điện trở tương đương của đoạn mạch AB và hiệu điện thế giữa hai đầu các điện trở
+    ":" ",
+    "Cho mạch điện như hình. Giá trị các điện trở: 
+    Biết dòng điện chạy qua điện trở  là 1A.
+    a) Tính điện trở của đoạn mạch AB.
+    b) Tính cường độ dòng điện qua các điện trở.
+    c) Tính hiệu điện thế giữa hai đầu đoạn mạch AB.
+    ":" ",
+    "Tính giá trị điện trở R ở hình. Bỏ qua điện trở các dây nối. Biết điện trở tương đương giữa hai điểm A và B có giá trị 3Ω. ":" ",
+    ": Cho đoạn mạch như hình vẽ.   Biết khi K1 đóng; K2 mở ampe kế chỉ 1 A. Khi K1 mở; K2 đóng thì ampe kế chỉ 2 A. 
+    Tìm cường độ dòng điện qua mỗi điện trở và số chỉ của ampe kế khi cả 2 khóa K đều đóng.
+    ":" ",
+    "Cho mạch như hình vẽ.
+    Biết   
+    Tìm điện trở của đoạn mạch AB khi:
+    a)   và   ngắt.
+    b)   ngắt;   đóng. 
+    c)   đóng;   ngắt.
+    d)   và   đóng.
+    ":" ",
+    "Cho mạch điện như hình. Giá trị các điện trở:  Cường độ dòng điện chạy qua mạch chính là I = 3A. Tính: 
+    a) Hiệu điện thế giữa hai đầu đoạn mạch UAB và hiệu điện thế của mỗi điện trở.
+    b) Hiệu điện thế giữa hai điểm A và D;E và D.
+    ":" ",
+    "Cho mạch điện như hình vẽ:
+ 
+    a) Khi K mở,  . Tìm  . 
+    b) Khi K đóng,  . Tìm  .
+    ":" ",
+    "Cho mạch điện như hình vẽ.
+    Nếu đặt vào AB hiệu điện thế 100 V thì người ta có thể lấy ra ở hai đầu CD một hiệu điện thế UCD = 40 V và ampe kế chỉ 1A. 
+    Nếu đặt vào CD hiệu điện thế 60 V thì người ta có thể lấy ra ở hai đầu AB hiệu điện thế UAB = 15 V. Coi điện trở của ampe kế không đáng kể. Tính giá trị của mỗi điện trở.
+    ":" ",
+    "Mạch điện như hình với hai đầu mạch A, B gọi là mạch cầu. Đặt hai đầu A và B vào một hiệu điện thế không đổi U, nếu không có dòng điện chạy qua điện trở R5 thì khi đó mạch cầu này ở trạng thái được gọi là mạch cầu cân bằng. Chứng minh rằng, điều kiện để mạch cầu cân bằng là:R1/R3=R2/R4 ":" ",
+    "Các điện trở mắc như hình. Hãy tính điện trở tương đương giữa hai điểm A và B.":" ",
+    "Hai đồ thị trong Hình a, b mô tả đường đặc trưng vôn - ampe của một dây kim loại ở hai nhiệt độ khác nhau t1 và t2.
+    a) Tính điện trở của dây kim loại ứng với mỗi nhiệt độ t1 và t2.
+    b) Dây kim loại ở đồ thị nào có nhiệt độ cao hơn?
+    ":" ",
+    "Đồ thị I – U của một vật dẫn được biểu diễn ở hình dưới.
+
+    a) Từ đồ thị có thể suy ra định luật nào biểu diễn mối liên hệ giữa I và U?
+    b) Tính điện trở của vật dẫn này.
+    ":" ",
+    "Cho mạch điện như hình. 
+    NTC là điện trở nhiệt ngược.
+    Bỏ qua điện trở của ampe kế và dây nối.
+    Khi ngắt công tắc K, ampe kế A chỉ 0,48 A.
+    Khi đóng công tắc K, ampe kế A chỉ 0,72 A.
+    a) Tính hiệu điện thế U.
+    b) Tính điện trở của điện trở nhiệt.
+    c) Khi tăng nhiệt độ của điện trở nhiệt, số chỉ của ampe kế tăng hay giảm? Vì sao?
+    ":" ",
+    "Người ta mắc hai cực nguồn điện ko đổi với một biến trở. Điều chỉnh biến trở, đo hiệu điện thế U giữa hai cực của nguồn và dòng điện I chạy qua mạch ta vẽ lược đồ thị như hình vẽ. Xác định suất điện động và điện trở trong của nguồn?":" ",
+    "Cho mạch điện có sơ đồ như hình bên: E=12V ; R1 = 4 Ω; R2 = R3 = 10 Ω. Bỏ qua điện trở của ampe kế và dây nối. Số chỉ của ampe kế là 0,6 A. Giá trị điện trở trong r của nguồn điện là":" ",
+    "Cho mạch điện như sơ đồ hình vẽ, trong đó bộ nguồn có suất điện động 42,5 V và điện trở trong 1,0 Ω, điện trở R1=10,0Ω, R2 =15,0 Ω. Điện trở của các ampe kế và các dây nối không đáng kể. Biết ampe kế A1 chỉ 1,5 A. Số chỉ ampe kế A2 và trị số của điện trở R bằng":" ",
+    "Cho mạch điện có sơ đồ như hình bên: E=12V ; R1 = 4 Ω; R2 = R3 = 10 Ω. Bỏ qua điện trở của ampe kế và dây nối. Số chỉ của ampe kế là 0,6 A. Giá trị điện trở trong r của nguồn điện là":" ",
+    "Cho mạch điện như sơ đồ hình vẽ, trong đó bộ nguồn có suất điện động 42,5 V và điện trở trong 1,0 Ω, điện trở R1=10,0Ω, R2 =15,0 Ω. Điện trở của các ampe kế và các dây nối không đáng kể. Biết ampe kế A1 chỉ 1,5 A. Số chỉ ampe kế A2 và trị số của điện trở R bằng":" ",
+    "Cho mạch điện như hình bên. Biết suất điện động của bộ nguồn là E = 7,8 V; Điện trở trong r = 0,4 Ω; R1 = R2 = R3 = 3 Ω; R4 = 6 Ω. Chọn phát biểu đúng và sai?
+    a) Điện trở tương đương của mạch là 3,6Ω
+    b) Cường độ dòng điện chạy qua nguồn bằng 1,95 A
+    c) Hiệu điện thế hai đầu nguồn điện là 6,0 V
+    d) Cường độ dòng điện chạy qua R1 bằng 1,7 A
+    ":" ",
+    "Cho mạch điện như hình vẽ: Biết E = 9 V; r = 1 Ω; R1 = 5 Ω; R2 = 20 Ω; R3 = 30 Ω. Bỏ qua điện trở của dây nối. Chọn phát biểu đúng và sai?
+    a) Tổng điện trở của toàn mạch (mạch trong và mạch ngoài) là 17 Ω
+    b) Cường độ dòng điện qua mạch chính bằng 0,5 A
+    c) Hiệu điện thế hai đầu R1 là 2,5 V
+    d) Cường độ dòng điện chạy qua R3 bằng 0,3 A
+    ":" ",
+    "Cho mạch điện như hình vẽ: Biết E = 12 V; r = 1 Ω; R1 = 5 Ω; R2 = R3 = 10 Ω. Bỏ qua điện trở của dây nối. Chọn phát biểu đúng và sai?
+    a) Điện trở tương đương của mạch ngoài bằng 25Ω
+    b) Cường độ dòng điện chạy qua mạch chính bằng 2,4 A
+    c) Hiệu điện thế giữa hai đầu R1 là 9,6 V
+    d) Cường độ dòng điện chạy qua R2 bằng 0,96 A
+    ":" ",
+    "Cho mạch điện như sơ đồ hình vẽ: Trong đó nguồn điện có suất điện động 6 V và điện trở trong không đáng kể. Các điện trở R1 = R2 = 30Ω; R3 = 7,5 Ω. Chọn phát biểu đúng và sai?
+
+    a) Điện trở tương đương của mạch ngoài là 6Ω
+    b) Hiệu điện thế hai cực của nguồn điện là 5 V
+    c) Cường độ dòng điện chạy qua R1 là 0,3 A
+    d) Cường độ dòng điện chạy qua R3 là 0,8 A
+    ":" ",
+    "Cho mạch điện có sơ đồ như hình, trong đó nguồn điện có suất điện động E=30V, r = 3 Ω, R1 = 12Ω, R2 = 27Ω, R3 = 18Ω, vôn kế V có điện trở rất lớn. Số chỉ của vôn kế bằng bao nhiêu Vôn?":" ",
+    "Cho mạch điện có sơ đồ như hình vẽ. Trong đó:
+    E=1,2V; r = 0,5 Ω; R_1=R_3=2Ω; R_2=R_4=4Ω
+    Hiệu điện thế giữa hai điểm A, B bằng bao nhiêu Vôn?
+    ":" ",
+    "Cho mạch điện như hình vẽ, trong đó: E = 48 V, r = 2 Ω, 
+    R1 = 2 Ω, R2 = 8 Ω, R3 = 6 Ω, R4 = 16 Ω. Điện trở của các dây nối không đáng kể. Hiệu điện thế giữa hai điểm M và N bằng bao nhiêu Vôn?
+    ":" ",
+    "Cho mạch điện có sơ đồ như hình vẽ: Suất điện động của nguồn là Evà  điện trở trong r = 0,4 Ω, R1 = 0,8 Ω, R2 = 2 Ω, R3 = 3 Ω. Tỉ số cường độ dòng điện mạch ngoài khi K đóng và khi K ngắt bằng bao nhiêu?":" ",
+    "Cho mạch điện như hình vẽ. Biết R1 = 6 Ω. Điện trở của ampe kế và khóa K là không đáng kể, điện trở của vôn kế rất lớn. Khi K mở vôn kế chỉ 6 V. Khi K đóng vôn kế chỉ 5,75V và ampe kế chỉ 0,5A. Điện trở R2 có giá trị bằng bao nhiêu Ôm?":" ",
+    "Cho mạch điện có sơ đồ như hình vẽ. Biết R_2=2Ω 〖;R〗_3⁡= 3Ω. Khi K mở, vôn kê chỉ 6V. Khi K đóng vôn kế chỉ 5,6 V và ampe kế chỉ 2 A. Tính suất điện động theo đơn vị Vôn và điện trở trong của nguồn theo đơn vị Ôm?":" ",
+    "Để xác định điện trở trong r của một nguồn điện, một học sinh mắc mạch điện như hình bên. Đóng khóa K và điều chỉnh con chạy C, kết quả đo đượcmô tả bởi đồ thị biểu diễn sự phụ thuộc số chỉ của vôn kế V và số chỉ I của ampe kế A như hình bên.":" ",
+    "Công thức nào dưới đây xác định độ lớn lực tương tác tĩnh điện giữa hai điện tích điểm q1; q2 đặt cách nhau một khoảng r trong chân không, với   Nm2/C2 là hằng số Coulomb?":" ",
+    "Trong các hình biểu diễn lực tương tác tĩnh điện giữa các điện tích (có cùng độ lớn điện tích và đứng yên) dưới đây. Hình nào biểu diễn không chính xác?":" ",
+    "Có thể sử dụng đồ thị nào ở hình dưới, để biểu diễn sự phụ thuộc giữa độ lớn của lực tương tác F giữa hai điện tích điểm và khoảng cách r giữa hai điện tích đó?":" ",
+    "Xét các tụ điện giống nhau có điện dung C = 20 pF. Ghép các tụ điện thành bộ tụ như Hình và nổi hai điểm M, N với nguồn điện có hiệu điện thế U = 12 V. Điện tích của bộ tụ là":" ",
+    "Từ đồ thị biểu diễn sự phụ thuộc của cường độ dòng điện vào hiệu điện thế đối với hai điện trở R1; R2 trong hình sau: Điện trở R1; R2 có giá trị là":" ",
+    "Cho hai điện tích q_1=4.10^(-9)  C và q_2=2.10^(-9)  C đặt trong không khí cách nhau một khoảng 4 cm. Hãy tính độ lớn lực tương tác giữa hai điện tích? (Biết hằng số Coulomb: k=9.10^9   (Nm^2)/C^2 ).":" ",
+    "Hai điện tích điểm q_1=-10^(-9)  C và q_2=2.10^(-9)  C hút nhau bằng lực có độ lớn 10^(-5)  N  khi đặt trong không khí. Tính khoảng cách giữa chúng.":" ",
+    "Tụ điện phẳng không khí có điện dung C = 500pF, được tích điện đến hiệu điện thế U = 300V. Ban đầu chưa nối tụ vào nguồn.
+    a) Tính điện tích của tụ 
+    b) Tính năng lượng điện trường trong tụ 
+    c) Giả sử lượng điện tích sau khi nối tụ thì thời gian để toàn bộ điện tích đó được truyền qua dây dẫn có cường độ dòng điện 3A là bao nhiêu?
+    ": " ",
+    "Xét bộ tụ gồm 3 tụ điện có điện dung lần lượt là   mắc song song nhau. Mắc hai đầu bộ tụ vào hai điểm có hiệu điện thế 120 V. Năng lượng của bộ tụ khi ba tụ trên mắc song song nhau là bao nhiêu Jun?  (Kết quả lấy đến 2 chữ số có nghĩa).":" ",
+    "Xét một máy khử rung tim xách tay. Để cấp cứu cho bệnh nhân, nhân viên y tế đặt hai điện cực của máy khử rung tim lên ngực bệnh nhân và truyền năng lượng dự trữ trong tụ điện cho bệnh nhân. Giả sử tụ điện trong máy có điện dung 70 µF và hiệu điện thế giữa hai bản tụ là 5000 V.
+    a) Xác định năng lượng của tụ.
+    b) Giả sử trung bình máy truyền một năng lượng khoảng 200 J qua bệnh nhân trong một xung có thời gian khoảng 2 ms. Xác định công suất trung bình của xung.
+    ":" ",
+    "Hãy so sánh cường độ của hai dòng điện không đổi sau:
+    Dòng điện 1: Cứ mỗi giây có 1,25.1019 hạt electron chuyển qua tiết diện thẳng của dây dẫn.
+    Dòng điện 2: Cứ mỗi phút có điện lượng 150 C chuyển qua tiết diện thẳng của dây dẫn.
+    ":" ",
+    "Cho dòng điện 4,2 A chạy qua một đoạn dây dẫn bằng kim loại dài 80 cm có đường kính tiết diện 2,5 mm. Mật độ electron dẫn của kim loại này là  . Hãy tính thời gian trung bình mỗi electron dẫn di chuyển hết chiều dài đoạn dây":" ",
+    "Có ba tụ điện C1 = 3 nF, C2 = 2 nF, C3 = 20 nF được mắc như hình. Nối bộ tụ điện với hai cực một nguồn điện có hiệu điện thế 30 V. Tính hiệu điện thế của mỗi tụ.":" ",
+    ". Có 3 tụ điện C1 = 2μF, C2 = C3 = 1μF mắc như hình vẽ. Nối hai đầu của bộ tụ vào hai cực của nguồn điện có hiệu điện thế U = 4 V. Tính điện tích của các tụ điện.":" ",
+    "Cho một hạt mang điện dương chuyển động từ điểm A đến điểm B, C, D theo các quỹ đạo khác nhau trong điện trường đều như hình vẽ. Gọi A1, A2, A3 lần lượt là công do điện trường sinh ra khi hạt chuyển động trên các quỹ đạo (1), (2), (3). Nhận xét nào sau đây đúng?":" ",
+    "Hai đồ thị trong hình a, b mô tả đường đặc trưng vôn - ampe của một dây kim loại ở hai nhiệt độ khác nhau t1 và t2. Điện trở của dây kim loại ứng với mỗi nhiệt độ t1 và t2 là":" ",
+    "Trong các hình dưới đây, hình nào biểu diễn điện trường đều?":" ",
+    "Hình bên là một tụ điện, được dùng nhiều trong các mạch điện tử. Các thông số trên tụ điện đó cho ta biết điện dung của tụ là":" ",
+    "Cho mạch điện như hình vẽ, số chỉ của Ampe kế và Vôn kế thay đổi như thế nào khi dịch chuyển con trượt sang bên trái hình vẽ?":" ",
+    "Xét đường sức điện của hai điện tích điểm q1 và q2 như hình vẽ.
+    a) Điện tích q1 > 0 và q2 < 0. 
+    b) Độ lớn điện tích q2 lớn hơn điện tích q1.
+    c) Nếu đặt một điện tích q3 gần hai điện tích trên thì nó có thể cân bằng khi nằm trên đường thẳng nối hai điện tích đó và tại điểm trong khoảng giữa hai điện tích.
+    d) Vị trí của điểm có cường độ điện trường bằng 0 tạo với vị trí đặt hai điện tích thành tam giác đều. 
+    ":" ",
+    "Một electron được bắn với vận tốc đầu là  vào một điện trường đều theo phương vuông góc với đường sức điện. Cường độ điện trường là 100 V/m. Biết electron có điện tích là   và khối lượng là   Bỏ qua tác dụng của trọng lực và lực cản của không khí.
+    a) Độ lớn của lực tác dụng lên hạt electron trong điện trường là  
+    b) Electron chuyển động trong điện trường với quỹ đạo là đường cong Parabol.
+    c) Electron sẽ chuyển động đều trong điện trường.
+    d) Vận tốc của e khi nó chuyển động được   trong điện trường là  .
+    ":" ",
+    "Một trường học có 20 phòng học, trung bình mỗi phòng học sử dụng điện trong 10 giờ mỗi ngày, với công suất điện tiêu thụ 500 W.
+    a) Công suất điện tiêu thụ trung bình của trường học trên là 20 kW. 
+    b) Năng lượng điện tiêu thụ của trường học trên trong 30 ngày là 6000 kWh. 
+    c) Giả sử giá điện trung bình là 2000 đồng/kWh, thì tiền điện của trường học trên phải trả trong 30 ngày sẽ là 6.000.000 đồng. 
+    d) Nếu tại các phòng học của trường học trên, các bạn học sinh đều có ý thức tiết kiệm điện bằng cách tắt các thiết bị điện khi không sử dụng. Thời gian dùng các thiết bị điện ở mỗi phòng học chỉ còn 8 giờ mỗi ngày, thì tiền điện mà trường học trên đã tiết kiệm được trong một năm học (9 tháng, mỗi tháng 30 ngày) là 10.000.000 đồng. 
+    ":" ",
+    "Hai quả cầu nhỏ giống nhau bằng kim loại A và B đặt trong không khí, có điện tích lần lượt là  C và  C, cách nhau một khoảng 12 cm.
+    a) Điện tích q1 thiếu   
+    b) Điện tích q2 thừa  
+    c) Lực tương tác tĩnh điện giữa hai quả cầu là 0,48 N.
+    d) Cho 2 quả cầu tiếp xúc điện với nhau rồi đặt về chỗ cũ.Lực tương tác điện giữa hai quả cầu sau đó là  
+    ":" ",
+    "Hai điện tích  ,  , đặt tại A và B cách nhau 9 cm trong chân không.
+    a) Lực tương tác giữa hai điện tích có độ lớn 1/2250 (N).
+    b) Nếu nhúng hệ   vào trong Dầu hỏa có   thì lực tương tác giữa hai điện tích sẽ tăng 2,1 lần. 
+    c) Lực tác dụng lên điện tích  = 3.10-6 C đặt tại trung điểm AB sẽ có phương AB, chiều từ B sang A và độ lớn  . 
+    d) Nếu đặt điện tích   = 2.10-6 C tại C thỏa mãn CA= 3cm và CB=6cm điện tích q3 sẽ nằm cân bằng.
+    ":" ",
+    "Electron đang chuyển động với vận tốc  thì đi vào một điện trường đều, cường độ điện trường  cùng chiều đường sức điện trường. 
+    a) Electron sẽ chuyển động nhanh dần dọc theo chiều điện trường đến.
+    b) Lực điện trường tác dụng lên điện tích sẽ cùng chiều với cường độ điện trường.
+    c) Khi chuyển động cùng chiều điện trường electrong có gia tốc  
+    d) Sau khi đi được quãng đường 5cm dọc đường sức điện trường, electron sẽ dừng lại đổi chiều chuyển động và chuyển động nhanh dần đều theo chiều ngược lại (ngược chiều với điện trường).
+    ":" ",
+    "Ba điểm  ,  ,   tạo thành tam giác vuông tại   đặt trong điện trường đều có véc tơ cường độ điện trường song song với  .Cho góc  ;BC = 10cm và UBC = 400V. Một điện tích q = 2C với khối lượng 
+    m = 400g được đặt tại B di chuyển trong điện trường 
+    a) Công của lực điện làm di chuyển điện tích từ B tới A nhỏ hơn công của lực điện làm điện tích di chuyển đi từ B tới C.
+    b) Hiệu điện thế UBA= 400V.
+    c) Công của lực điện làm điện tích dịch chuyển từ B tới A là 800J.
+    d) Nếu điện tích được thả nhẹ trong điện trường tại điểm B, khi bay đến A điện tích có tốc độ 20m/s.
+    ":" ",
+    "Một nguồn điện không đổi có cường độ dòng điện  4,8 A chạy qua một dây kim loại tiết diện thẳng S = 1 cm2. 
+    a) Dòng điện chạy qua đoạn dây kim loại là dòng chuyển dời của các electron ngược chiều điện trường.
+    b) Dòng điện chạy trong mạch được đo bằng vôn kế.
+    c) Số êlectrôn qua tiết diện thẳng của dây trong 1s là  hạt.
+    d) Biết mật độ êlectrôn tự do  . Vận tốc trung bình của chuyển động định hướng của êlectrôn là  .
+    ":" ",
+    "chân không, ba điểm A, B, C nằm thẳng hàng theo thứ tự với AB = 4 cm, BC = 6 cm. Lần Trong lượt đặt các điện tích điểm Q1 = 2.10-9 C  và Q1 = -8.10-10  C tại A và B (như hình vẽ).
+    a)	Lực tương tác điện giữa  và  là lực hút.
+    b)	Cường độ điện trường do   gây ra tại điểm C có độ lớn là 0,180 V/m.
+    c)	Cường độ điện trường tổng hợp do  và   gây ra tại điểm C có độ lớn 200 V/m.
+    d)	Nếu đặt điện tích q0 < 0  tại điểm C thì q0 sẽ chuyển động theo phương ngang, từ trái sang phải.
+    ":" ",
+    "Một tụ điện khởi động cho động cơ có các thông số như Hình 1. Đơn vị VAC (hoặc V.AC) là điện áp ứng với dòng điện xoay chiều, còn VDC (hay V.DC) là điện áp ứng với dòng điện một chiều cùng được đọc là vôn. 
+    a) Điện dung của tụ điện là  .
+    b) 370V là điện áp mà tụ điện hoạt động tốt nhất.
+    c) 370V là điện áp xoay chiều hiệu dụng cao nhất để đảm bảo cho tụ hoạt động tốt. Đây không phải là thông số điện áp một chiều.
+    d) Nếu điện áp giữa hai bản tụ điện là 350V thì điện tích của tụ là  
+    ":" ",
+    "Trên nhãn của một ấm điện có ghi 220 V - 1000 W. Sử dụng ấm điện với hiệu điện thế 220 V để đun sôi 2 lít nước từ nhiệt độ 25oC. Biết hiệu suất của ấm nước là 90% và nhiệt dung riêng của nước là 4190 J/kg.K.
+    a) 220 V,  1000 W lần lượt là hiệu điện thế định mức và công suất định mức của ấm điện.
+    b) Điện trở định mức của ấm điện là 84,4 J. 
+    c) Nhiệt lượng cần đun sôi nước là 65280 J. 
+    d) Thời gian đun sôi nước là 11 phút 38 giây.
+    ":" ",
+    "Đồ thị hình 2 là đường đặc trưng Vôn - Ampe biểu diễn sự phụ thuộc của cường độ dòng điện vào hiệu điện thế đối với hai điện trở R1 và R2.
+    a) Từ đồ thị cho thấy nếu I tỉ lệ nghịch với U. 
+    b) Điện trở R1 có giá trị lớn hơn R2.
+    c) Điện trở  
+    d) Điện trở 
+    ":" ",
+    "Cho hai điện tích q1 = q2 = 6.10-9 C đặt tại hai điểm A và B cách nhau 20 cm trong chân không.
+    a) Hai điện tích trên đẩy nhau.
+    b) Lực tương tác giữa hai điện trên là 8,1.10-6 N.
+    c) Cường độ điện trường tổng hợp do hai điện tích đó gây ra tại trung điểm AB bằng 0. 
+    d) Trên đường trung trực của AB cách đường thẳng AB một đoạn   cm thì cường độ điện trường tổng hợp do q1 và q2 gây ra là lớn nhất và bằng  V/m. 
+    ":" ",
+    ": Người ta có thể tạo ra ion bằng cách thổi hơi ẩm vào giữa hai bản kim loại phẳng song song cách nhau 2 cm, hiệu điện thế giữa hai bản kim loại là 500 V. Giả sử hơi ẩm được thổi vào với vận tốc 50 m/s, một phân tử H2O ở vị trí cách đều hai bản phẳng bị tách thành một ion OH- (khối lượng m1 = 2,833.10-26 kg, điện tích q1 = -1,6.10-19 C) và một ion H+ (khối lượng m2 = 0,1678.10-26 kg, điện tích q2 = +1,6.10-19 C). Bỏ qua trọng lực và các loại lực cản môi trường, quỹ đạo chuyển động của các ion được mô tả như hình vẽ H1.
+    a) Điện trường trong không gian giữa hai bản kim loại là điện trường đều.
+    b) Bản kim loại phía trên tích điện âm, bản kim loại phía dưới tích điện dương.
+    c) Lực điện tác dụng lên ion OH- có độ lớn là 8.10-17 N.
+    
+    d) Khi chạm vào bản kim loại phía dưới thì ion H+ cách trục oy một đoạn 5,48.10-6 m.":" ",
+    "Đồ thị hình H2 thể hiện đường đặc trưng vôn–ampe của hai linh kiện là dây tóc bóng đèn và dây kim loại. 
+    a) Đường X là đường đặc trưng vôn-ampe của dây kim loại.
+    b) Hiệu điện thế mà tại đó dây tóc bóng đèn và dây kim loại có điện trở bằng nhau là 8 V.
+    c) Điện trở của dây dây tóc bóng đèn khi điện áp 8 V là 3,2  .
+    d) Ở hiệu điện thế 4 V thì điện trở của dây tốc bóng đèn lớn hơn điện trở của dây kim loại.
+    ":" ",
+    "Cho mạch điện như hình vẽ H3. Biết E = 24 V; r = 1 Ω; R = 3 Ω; bóng đèn Đ1 loại (12 V - 6 W); bóng đèn Đ2 loại (12 V – 12 W) 
+    a) Mạch ngoài được mắc theo kiểu R nt (Đ1 // Đ2).
+    b) Điện trở của bóng đèn Đ1 và Đ2 lần lượt là   và  .
+    c) Cường độ dòng điện chạy trong mạch ngoài là 0,38 A. 
+    d) Đèn Đ1 và Đ2 sáng bình thường. 
+    ":" ",
+    "Điện tích   thừa bao nhiêu electron? ":" ",
+    "Cho một điện tích   đặt trong chân không,  . Cường độ điện trường tại điểm M cách Q một khoảng 1cm là bao nhiêu V/m? ":" ",
+    "Quan sát hình ảnh bên cho biết điện dung của tụ là bao nhiêu µF?":" ",
+    "Thực hiện thí nghiệm chứng minh định luật Ôm với lần lượt 2 điện trở R1 và R2 được đồ thị như hình vẽ. Tỉ số R1/R2 bằng bao nhiêu?":" ",
+    "Một acquy 12V cung cấp dòng điện có cường độ 5A trong thời gian 2 giờ. Năng lượng mà acquy này cung cấp trong khoảng thời gian trên là bao nhiêu kJ? ":" ",
+    "Cho mạch điện như hình vẽ. Nguồn điện có E = 12V và điện trở trong  . Các điện trở mạch ngoài  . Hiệu điện thế giữa hai điểm C và D bằng bao nhiêu vôn? ":" ",
+    "Hai điện tích điểm q1 = 2.10-7 C và q2 = -2.10-7 C đặt cách nhau 3 cm trong dầu có hằng số điện môi ε = 2. Lực hút giữa chúng có độ lớn bằng bao nhiêu Newton?":" ",
+    "Một điện tích q = 5.10-9 C đặt tại một điệm M trong điện trường, chịu tác dụng của một lực 3.10-5 N. Cường độ điện trường tại M bằng bao nhiêu V/m?":" ",
+    "Trong thời gian 4 s có một điện lượng 1,8 C chuyển qua tiết diện thẳng của dây tóc bóng đèn. Cường độ dòng điện qua bóng đèn là bao nhiêu ampe? ":" ",
+    "Một nguồn điện có suất điện động 2 V thì khi thực hiện một công 10 J. trong thời gian đó lực lạ đã dịch chuyển một điện lượng qua nguồn là bao nhiêu cu-lông?":" ",
+    "Cho mạch điện như hình vẽ. Biết E  = 6 V, r = 0,5 Ω, 
+    R1 = R2 = 2 Ω,  R3 = R5 = 4 Ω, R4 = 6 Ω. Điện trở của ampe kế và dây nối không đáng kể. Khi đó ampe kế chỉ bao nhiêu ampe? (lấy sau dấu phẩy 2 chữ số)
+    ":" ",
+    "Cho một tụ điện trên vỏ có ghi là   Đặt vào hai bản tụ điện một hiệu điện thế 40 V. Điện tích mà tụ điện tích được bằng bao nhiêu µC (micrô Culông)?":" ",
+    "Một proton bay trong điện trường. Lúc proton ở điểm A thì vận tốc của nó bằng 25.104 m/s. Khi bay đến B vận tốc của proton bằng không. Hạt proton có khối lượng là  kg và điện tích là  C. Biết điện thế tại A bằng 500 V. Điện thế tại B bằng bao nhiêu V (Vôn)?":" ",
+    "Một hạt bụi có khối lượng  kg, mang điện tích C nằm cân bằng trong khoảng giữa hai tấm kim loại phẳng tích điện trái dấu và đặt song song nằm ngang. Lấy g = 10 m/s2. Cường độ điện trường giữa hai tấm kim loại là bao nhiêu V/m (Vôn trên mét)?":" ",
+    "Tại vị trí A có một cường độ điện trường với độ lớn 3800 V/m. Lực do điện trường tác dụng lên điện tích q = - 5,0 C đặt tại A bằng bao nhiêu mN (mini Niutơn)?":" ",
+    "Hình bên là đường đặc trưng vôn-ampe của hai điện trở X và Y. Khi mắc một mạch điện gồm hai điện trở này mắc nối tiếp vào một nguồn điện thì cường độ dòng điện trong mạch là 2 A. Điện trở tương đương của mạch có giá trị là bao nhiêu  (Ôm)? ":" ",
+    "Mạch điện gồm có suất điện động E với điện trở trong nhỏ không đáng kể, nối với mạch ngoài là một biến trở R. Đồ thị công suất tỏa nhiệt trên R theo cường độ dòng điện được thể hiện trên hình vẽ bên. Giá trị của E là bao nhiêu V (Vôn)? ":" ",
+    "Cho điện tích Q = 20 pC đặt trong không khí. Cường độ điện trường do điện tích gây ra tại điểm M cách điện tích 10 cm có độ lớn bằng bao nhiêu V/m?":" ",
+    "Cho hai điện tích điểm q1 = 2.10-7 C và q2 = 6,4.10-7 C đặt cố định tại hai điểm A và B cách nhau 10 cm trong không khí. Lấy k = 9.109 N.m2/C2. Lực tương tác của hai điện tích có độ lớn bằng bao nhiêu N?":" ",
+    "Một đoạn cáp dài 15 km dẫn dòng điện có cường độ 100 A. Biết điện trở trên một đơn vị chiều dài của dây cáp này là 0,20 /km. Công suất điện hao phí dưới dạng nhiệt trên đoạn dây trên bằng bao nhiêu kW?":" ",
+    "Một proton bay trong điện trường. Lúc proton ở điểm A thì vận tốc của nó bằng 25.104 m/s. Khi bay đến B vận tốc của proton bằng không. Điện thế tại A bằng 500 V. Biết proton có khối lượng 1,67.10 27 kg và có điện tích 1,6.10 19 C. Điện thế tại B có giá trị là bao nhiêu V? ":" ",
+    "Một giọt dầu hình cầu nằm lơ lửng trong điện trường của hai bản kim loại tích điện trái dấu đặt nằm ngang, bản phía trên là bản dương. Đường kính của giọt dầu là 1 mm. Khối lượng riêng của dầu là 800 kg/m3. Khoảng cách giữa hai bản là 2 cm. Hiệu điện thế giữa hai bản là 200 V. Lấy g = 10 m/s2. Bỏ qua lực đẩy Asimet. Điện tích của giọt dầu bằng bao nhiêu pC?":" ",
+    "Một vật dao động điều hoà với pt x = 5cos(2t +/3)(cm)
+    a.	Tính li độ, vận tốc và gia tốc của vật tại thời điểm t = 0,5s   
+    b.	Tính tốc độ cực đại và gia tốc cực đại của vật
+    ":" ",
+    "Một con lắc lò xo có độ cứng 50N/m, vật có khối lượng 200g; dao động điều hoà với biên độ 5cm theo phương thẳng đứng. Lấy 2 = 10. Chọn gốc toạ độ tại VTCB, chiều dương hướng lên, gốc thời gian lúc vật qua vị trí có li độ x = 2,5cm theo chiều dương
+    a. Viết phương trình dao động của vật			b. Tính cơ năng của con lắc
+    c. Tính động năng của vật khi nó qua vị trí x = 2cm
+    ":" ",
+    "Một con lắc đơn có chiều dài 1m, dao động điều hoà tại nơi có gia tốc trọng trường g = 10m/s2. Lấy 2 = 10. Tính chu kì và tần số của con lắc.":" ",
+    "Cho hai điện tích q1 = 4.10-6C và q2 = - 4.10-6C đặt tại hai điểm A và B cách nhau 10cm trong không khí. 
+    a. Tính và vẽ lực điện tương tác giữa hai điện tích.
+    b. Tính lực điện tổng hợp tác dụng lên q0 = 4.10-6C trong các trường hợp sau:
+    + TH1: q0 cách A 4cm, cách B 6cm		+ TH2:  q0 cách A 2cm, cách B 12cm
+    + TH3:  q0 cách A 6cm, cách B 8cm		+ TH4:  q0 cách A 10cm, cách B 10cm
+    c. Xác định độ lớn cường độ điện trường do hai điện tích này gây ra tại điểm M là trung điểm của AB
+    ":" ",
+    "Cho 3 tụ điện C1 = 10F; C2 = 5F; C3 = 4F được mắc vào nguồn điện có hiệu điện thế 38V như hình vẽ.
+    a. Tính điện dung của bộ tụ và hiệu điện thế giữa hai cực của mội tụ điện
+    b. Tính năng lượng của bộ tụ
+    c. Nếu tụ C3 bị đánh thủng thì điện tích trên C1 bằng bao nhiêu?
+    ":" ",
+    "Cho mạch điện như hình vẽ. E = 48V; r = 2; R1 = 2; R2 = 8; R3 = 6; R4 = 16. Bỏ qua điện trở của dây nối. 
+    a.	Tính điện trở tương đương mạch ngoài. Cường độ dòng điện của mạch chính và qua các điện trở.
+    b.	Nếu mắc giữa M, N một tụ điện có điện dung C = 2F khi đó tụ tích được điện tích bao nhiêu? Bản dương của tụ nối với điểm nào?
+    c.	Nếu mắc giữa A, B một Ampe kế thì ampe kế chỉ bao nhiêu?
+    ":" ",
+    "Một điện tích điểm dương q đặt trong môi trường có hằng số điện môi  = 2,1 gây ra một điện trường có cường độ E = 25000V/m tại điểm M cách q một đoạn 10cm. Tính q?":" ",
+    "Cho sơ đồ mạch điện như hình vẽ. 4 nguồn giống nhau, mỗi nguồn có E = 8V và r = 0,5. Đèn Đ(6V – 3W) sáng bình thường; R1 = 18.
+    a.	Tính suất điện động và điện trở tỏng của bộ nguồn.
+    b.	Tính R2 và nhiệt lượng toả ra trên R2 trong 5 phút
+    c.	Tính hiệu suất của bộ nguồn và công suất của mỗi nguồn.
+    ":" ",
+    "Một sợi dây đồng có điện trở 74Ω ở 50oC, có điện trở suất α = 4,1.10-3K-1. Tính điện trở của sợi dây đó ở 100o C.":" ",
+    "Cho sơ đồ mạch điện như hình vẽ. Biết E = 24V và r = 4; biến trở R = 20; đèn ghi 6V – 6W. Đầu C của biến trở có thể trượt dọc từ A đến B
+    a.	Điều chỉnh biến trở để RAC = 6. Tính cường độ dòng điện mạch chính, công suất tiêu thụ của đèn, xác định độ sáng đèn
+    b.	Xác định vị trí con chạy C để đèn sáng bình thường.
+    ":" ",
+    "Một sợi dây bằng nhôm có điện trở 120Ω ở nhiệt độ 20oC, điện trở của sợi dây đó ở 179oC là 204Ω. Tính hệ số nhiệt điện trở suất của nhôm.":" ",
+    "Cho sơ đồ mạch điện như hình vẽ. RA = RA1 =0; RV rất lớn; RMN = 12; R1 =8. Khi C ở M, ampe kế A chỉ 2,5A; khi C ở N vôn kế chỉ 24V.
+    a.	Tìm E, r và số chỉ ampe kế A1 khi C ở M, N
+    b.	Khi C di chuyển từ M đến N, số chỉ các máy đo thay đổi như thế nào?
+    ":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. 
+    Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu
+    ":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu":" ",
+    "Đồ thị li độ theo thời gian của hai vật dao động điều hòa A và B có cùng tần số được cho như hình vẽ. Tính độ lệch pha của dao động A so với dao động B trong các hình dưới đây?":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Biên độ của vật dao động bằng ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Chu kì của của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Đồ thị li độ của vật dao động điều hòa theo thời gian được biểu diễn như hình vẽ. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc vận tốc theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc của vận tốc theo thời gian của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Một vật dao động điều hòa theo phương trình  . Hình bên là đồ thị biểu diễn sự phụ thuộc của vận tốc v của vật theo thời gian t. Ở thời điểm t = 0,2 s, pha của dao động có giá trị bằng":" ",
+    "Hình bên là hai đường hình sin biểu diễn hai trong ba đại lượng: li độ x, vận tốc v và gia tốc a theo thời gian t. Đường số (1) và đường số (2) lần lượt biểu diễn cho":" ",
+    "Hình bên là hai đường hình sin biểu diễn hai trong ba đại lượng: li độ x, vận tốc v và gia tốc a theo thời gian t. Đường số (1) và đường số (2) lần lượt biểu diễn cho":" ",
+    "Hình bên là hai đường hình sin biểu diễn hai trong ba đại lượng: li độ x, vận tốc v và gia tốc a theo thời gian t. Đường số (1) và đường số (2) lần lượt biểu diễn cho":" ",
+    "Hai chất điểm A và B dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x1 của chất điểm A và li độ x2 của chất điểm B theo thời gian t. Hai chất điểm A và B lệch pha nhau":" ",
+    "Hai vật dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x1 của chất điểm A và li độ x2 của chất điểm B theo thời gian t. Vật A dao động sớm pha hơn vật B một góc":" ",
+    "Hai vật M1 và M2 dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x1 của M1 và vận tốc v2 của M2 theo thời gian t. Hai dao động của M1 và M2 lệch pha nhau":" ",
+    " Hai vật M1 và M2 dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x1 của M1 và vận tốc v2 của M2 theo thời gian t. Hai dao động của M1 và M2 lệch pha nhau":" ",
+    "Hai chất điểm A và B dao động điều hòa cùng phương, cùng tần số. Trong quá trình dao động, gia tốc của chất điểm A là a1 và vận tốc của chất điểm B là v2. Hình bên là đồ thị biễu diễn sự phụ thuộc của a1 và v2 theo thời gian t. Hai dao động điều hòa A và B lệch pha nhau":" ",
+    "Một vật dao động điều hòa trên trục Ox với tần f. Hình bên là đồ thị mô tả mối quan hệ giữa li độ dao động x và vận tốc tức thời v của vật. Vận tốc của vật có độ lớn cực đại bằng":" ",
+    " Một vật dao động điều hòa trên trục Ox với tần f. Hình bên là đồ thị mô tả mối quan hệ giữa gia tốc a của vật x và vận tốc tức thời v của vật. Vận tốc của vật có độ lớn cực đại bằng":" ",
+    "Một vật dao động điều hòa dọc theo trục Ox, có đồ thị biểu diễn sự phụ thuộc của bình phương vận tốc (v2) vào li độ x như hình vẽ. Tần số góc của vật là ":" ",
+    "Một chất điểm dao động điều hòa quanh vị trí cân bằng O với chiều dài quỹ đạo L = 8 cm. Hình bền là đồ thị biểu diễn pha dao động của chất điểm theo thời gian t. Phương trình dao động của chất điểm là":" ",
+    "Một vật có khối lượng m = 200 g đang dao động điều hòa với tần số góc 20 rad/s với biên độ A = 10 cm. Lấy  . Xác định :
+    a) Cơ năng của của con lắc.
+    b) Động năng của con lắc tại li độ x = 8 cm.
+    c) Li độ của vật tại thời điểm động năng của vật bằng thế năng của hệ.
+    d) Li độ của vật tại thời điểm động năng của vật bằng 3 lần thế năng của hệ.
+    e) Li độ của vật tại thời điểm thế năng của hệ bằng 3 lần động năng của vật.
+    g) Tần số góc của động năng và thế năng
+    ":" ",
+    "Đồ thị hình bên mô tả sự thay đổi động năng theo li độ của của quả cầu có khối lượng 0,4 kg trong một con lắc lò xo treo thẳng đứng. Xác định:
+    a) Cơ năng của con lắc.
+    b) Tốc độ cực đại của quả cầu.
+    c) Thế năng của con lắc lò xo  khi quả cầu ở vị trí có li độ 2 cm
+    ":" ",
+    "Một số tòa nhà cao tầng sử dụng các con lắc nặng trong bộ giảm chấn khối lượng để giảm thiểu sự rung động gây ra bởi gió hay những cơn địa chấn nhỏ. Giả sử vật nặng của con lắc có khối lượng 3,0.105 kg, thực hiện dao động điều hòa với tần số 15 Hz với biên độ dao động 15 cm. Thế năng cực đại của hệ con lắc trong bộ giảm chấn khối lượng là bao nhiêu?":" ",
+    "Cho đồ thị vận tốc theo thời gian của một vật dao động điều hòa như hình vẽ. Biết rằng khối lượng của vật 
+    m = 0,2 kg. Hãy xác định:
+    a) Chu kì và tần số góc của con lắc.
+    b) Độ lớn vận tốc cực đại của vật.
+    c) Cơ năng của con lắc.
+    d) Biên độ dao động của vật
+    ":" ",
+    "Hai vật dao động điều hòa có động năng biến thiên theo thời gian như đồ thị như hình vẽ bề. Tỉ số cơ năng của vật (1) so với vật (2) bằng":" ",
+    "Một vật có khối lượng 2 kg dao động điều hòa có đồ thị vận tốc theo thời gian như hình vẽ. Động năng cực đại của vật trong quá trình dao động bằng":" ",
+    "Một vật khối lượng 400 g thực hiện dao động điều hòa. Đồ thị bên mô tả động năng Wđ vật theo thời gian t. Lấy  . Biên độ dao động của vật là":" ",
+    "Đồ thị động năng theo thời gian của một vật có khối lượng 0,4 kg dao động điều hòa. Tại thời điểm ban đầu vật đang chuyển động theo chiều dương. Lấy  . Phương trình dao động của vật có dạng":" ",
+    "Một chất điểm có khối lượng 160 g đang dao động điều hòa. Hình bên là đồ thị biểu diễn sự phụ thuộc của động năng Wđ của chất điểm theo thời gian t. Lấy  . Biên độ dao động của chất điểm là":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ.
+    Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu
+    ":" ",
+    "Đồ thị biểu diễn li độ theo thời gian của một vật được mô tả như hình vẽ. Hãy xác định, biên độ, chu kì, tần số, tần số góc và pha ban đầu":" ",
+    "Đồ thị li độ theo thời gian của hai vật dao động điều hòa A và B có cùng tần số được cho như hình vẽ. Tính độ lệch pha của dao động A so với dao động B trong các hình dưới đây?":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Biên độ của vật dao động bằng ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Tần số của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Chu kì của của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Một vật dao động điều hòa trên trục Ox. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x vào thời gian t. Pha ban đầu của dao động là ":" ",
+    "Đồ thị li độ của vật dao động điều hòa theo thời gian được biểu diễn như hình vẽ. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là ":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc vận tốc theo thời gian t của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Hình bên là đồ thị biểu diễn sự phụ thuộc của vận tốc theo thời gian của một vật dao động điều hòa. Phương trình dao động của vật là":" ",
+    "Một vật dao động điều hòa theo phương trình  . Hình bên là đồ thị biểu diễn sự phụ thuộc của vận tốc v của vật theo thời gian t. Ở thời điểm t = 0,2 s, pha của dao động có giá trị bằng":" ",
+    "Hình bên là hai đường hình sin biểu diễn hai trong ba đại lượng: li độ x, vận tốc v và gia tốc a theo thời gian t. Đường số (1) và đường số (2) lần lượt biểu diễn cho":" ",
+    "Hình bên là hai đường hình sin biểu diễn hai trong ba đại lượng: li độ x, vận tốc v và gia tốc a theo thời gian t. Đường số (1) và đường số (2) lần lượt biểu diễn cho":" ",
+    "Hình bên là hai đường hình sin biểu diễn hai trong ba đại lượng: li độ x, vận tốc v và gia tốc a theo thời gian t. Đường số (1) và đường số (2) lần lượt biểu diễn cho":" ",
+    "Hai chất điểm A và B dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x1 của chất điểm A và li độ x2 của chất điểm B theo thời gian t. Hai chất điểm A và B lệch pha nhau":" ",
+    "Hai vật dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc li độ x1 của chất điểm A và li độ x2 của chất điểm B theo thời gian t. Vật A dao động sớm pha hơn vật B một góc":" ",
+    "Hai vật M1 và M2 dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x1 của M1 và vận tốc v2 của M2 theo thời gian t. Hai dao động của M1 và M2 lệch pha nhau":" ",
+    "Hai vật M1 và M2 dao động điều hòa cùng tần số. Hình bên là đồ thị biểu diễn sự phụ thuộc của li độ x1 của M1 và vận tốc v2 của M2 theo thời gian t. Hai dao động của M1 và M2 lệch pha nhau":" ",
+    "Hai chất điểm A và B dao động điều hòa cùng phương, cùng tần số. Trong quá trình dao động, gia tốc của chất điểm A là a1 và vận tốc của chất điểm B là v2. Hình bên là đồ thị biễu diễn sự phụ thuộc của a1 và v2 theo thời gian t. Hai dao động điều hòa A và B lệch pha nhau":" ",
+    "Một vật dao động điều hòa trên trục Ox với tần f. Hình bên là đồ thị mô tả mối quan hệ giữa li độ dao động x và vận tốc tức thời v của vật. Vận tốc của vật có độ lớn cực đại bằng":" ",
+    "Một vật dao động điều hòa trên trục Ox với tần f. Hình bên là đồ thị mô tả mối quan hệ giữa gia tốc a của vật x và vận tốc tức thời v của vật. Vận tốc của vật có độ lớn cực đại bằng": " ",
+    "Một vật dao động điều hòa dọc theo trục Ox, có đồ thị biểu diễn sự phụ thuộc của bình phương vận tốc (v2) vào li độ x như hình vẽ. Tần số góc của vật là ":" ",
+    "Câu 52. 	 Một chất điểm dao động điều hòa quanh vị trí cân bằng O với chiều dài quỹ đạo L = 8 cm. Hình bền là đồ thị biểu diễn pha dao động của chất điểm theo thời gian t. Phương trình dao động của chất điểm là":" ",
 }
