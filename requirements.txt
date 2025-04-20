@@ -2,3 +2,7 @@ pandas
 pypdf
 python-docx
 yellowbrick
+flask
+flask-cors
+flask-restful
+flask-sqlalchemy
