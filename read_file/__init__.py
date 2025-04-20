@@ -6,9 +6,10 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from package import (
     pandas as pd,
     PdfReader,
-    Document
+    Document,
+    Dict,
+    json
 )
-
 class Get_Path:
     def __init__(self,path : str)->None:
         '''
@@ -33,7 +34,7 @@ class Read_File_PDF(Get_Path):
         Kế thừa đường dẫn từ class Get_Paths
         '''
     
-    def Read(self):
+    def Read(self) -> str:
         reads = PdfReader(self.path)
         texts = ""
         for read in reads.pages:
@@ -48,16 +49,18 @@ class Read_File_WORD(Get_Path):
         Kế thừa đường dẫn từ class Get_Path
         '''
     
-    def Read(self):
-        texts = ""
-        docs = Document(self.path)
-        
+    def Read(self) -> str:
         for doc in docs.paragraphs:
+        texts = ""
             texts += doc.text
         return texts
 
 
-# class Read_File_Json(Get_Path):
-#     def __init__(self, path : str) -> None:
-#         pass
-
+class Read_File_Json(Get_Path):
+    def __init__(self, path : str) -> None:
+        super().__init__(path)
+    
+    def Read(self) -> list[Dict[str, str | Dict[str, str]]]:
+        with open(self.path, 'r', encoding="utf-8") as file:
+            data = json.load(file)
+            return data

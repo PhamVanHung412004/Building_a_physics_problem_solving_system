@@ -1,0 +1,7 @@
+2025/04/19-00:05:39.206 6240 Reusing MANIFEST E:\PROJECT_GITHUB\Building_a_physics_problem_solving_system\Profile\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2025/04/19-00:05:39.206 6240 Recovering log #3
+2025/04/19-00:05:39.206 6240 Reusing old log E:\PROJECT_GITHUB\Building_a_physics_problem_solving_system\Profile\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000003.log 
+2025/04/19-00:05:39.297 5408 Level-0 table #5: started
+2025/04/19-00:05:39.300 5408 Level-0 table #5: 8476 bytes OK
+2025/04/19-00:05:39.303 5408 Delete type=0 #3
+2025/04/19-00:05:39.304 5408 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
