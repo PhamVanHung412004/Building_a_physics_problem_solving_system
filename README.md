@@ -15,6 +15,10 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 ## 💡 Ý tưởng tổng quan
 ![ID_Chung](image/ID_Chung.png)
 
+## 💡 Ý tưởng sử dụng RAG
+![ID_Chung](image/ID_RAG.png)
+
+
 ## 🧩 Viết package (Nguyễn Ngọc Hải & Phạm Văn Hùng)
 ![ID_package](image/ID_package.png)
 
@@ -23,3 +27,7 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 
 ## 🌐 Thiết kế & Triển khai Web (Vũ Đức Hải & Phạm Văn Hùng)
 ![Thiết kế & Triển khai Web](image/ID_web_desgin.png)
+
+## 💡 Ý tưởng fine-turning model LLM
+![Ý tưởng finr-turning](image/genator.png)
+
