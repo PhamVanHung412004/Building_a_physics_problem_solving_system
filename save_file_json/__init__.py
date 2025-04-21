@@ -33,7 +33,7 @@ class Save_File_Json(Get_Path):
 
     def save(self) -> None:
         with open(self.path , "w", encoding="utf-8") as file:
-            json.dump(convert_ndarray(self.__data), file, indent=4)
+            json.dump(convert_ndarray(self.__data), file, ensure_ascii=False, indent=4)
 
 
 

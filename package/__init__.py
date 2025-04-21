@@ -1,3 +1,4 @@
+# path_utils.py
 import numpy 
 import pandas
 import json
@@ -10,4 +11,6 @@ from sklearn.cluster import KMeans
 from yellowbrick.cluster import KElbowVisualizer
 import matplotlib.pyplot as plt
 from sklearn.metrics import silhouette_score
+import os
+
 
