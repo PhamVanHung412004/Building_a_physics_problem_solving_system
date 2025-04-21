@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from pathlib import Path
 from read_file import Read_File_WORD
 from sentence_transformers import SentenceTransformer
@@ -12,3 +13,6 @@ def main():
     vecto = Get_Embedding(model,data).use_model()
     print(vecto)
 main()
+=======
+print("hello Pham Van Hung")
+>>>>>>> b3216dcebf8380de4fcc36acb203abecab2659c2
