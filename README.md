@@ -8,6 +8,7 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 |--------------------|------------------------------------|
 | **Phạm Văn Hùng**  | Leader -    Thiết kế hệ thống RAG và fine-turning model       |
 | **Vũ Đức Hải**     | Leader - Thiết kế & Triển khai Web |
+| **Trần Hữu Phúc**  | cào data                         |
 | **Nguyễn Ngọc Hải**| Thành viên                         |
 | **Đàm Xuân Long**  | Thành viên                         |
 ---
