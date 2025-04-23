@@ -1,16 +1,17 @@
 # 📘 Building a Physics Problem Solving System
 ## 🚀 Giới thiệu  
-Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi team AI. Hệ thống được thiết kế dưới dạng một website chatbot, sử dụng kỹ thuật **RAG (Retrieval-Augmented Generation)** và được tối ưu với các kiến thức từ **Machine Learning**.
+Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi team AI. Hệ thống được thiết kế dưới dạng một website chatbot, sử dụng kỹ thuật **RAG (Retrieval-Augmented Generation) , Multi LLM, Fine-turning Model, tạo AI Agent** và được tối ưu với các kiến thức từ **Machine Learning**.
 
 ## 👨‍💻 Thành viên nhóm
 
-| Họ tên             | Vai trò                            |
+| Họ tên             | Vị trí - Vai trò                            |
 |--------------------|------------------------------------|
-| **Phạm Văn Hùng**  | Leader -    Thiết kế hệ thống RAG và fine-turning model       |
-| **Vũ Đức Hải**     | Leader - Thiết kế & Triển khai Web |
-| **Trần Hữu Phúc**  | cào data                         |
-| **Nguyễn Ngọc Hải**| Thành viên                         |
-| **Đàm Xuân Long**  | Thành viên                         |
+| **Phạm Văn Hùng**  | Leader  - Thiết kế hệ thống RAG , fine-turning model, viết package , clean data, Multi LLM(ảnh + text), tạo AI Agent.       |
+| **Vũ Đức Hải**     | Leader - Thiết kế & Triển khai Web. |
+| **Nguyễn Ngọc Hải**  | Thành viên - Clean data, viết package.
+| **Trần Hữu Phúc**  | Thành viên - Crawl data.                         |
+| **Đàm Xuân Long**| Thành viên - Clean data.                         |
+                         |
 ---
 
 ## 💡 Ý tưởng tổng quan
@@ -32,3 +33,6 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 ## 💡 Ý tưởng fine-turning model LLM tối ưu cho hệ thống RAG
 ![Ý tưởng finr-turning](image/genator.png)
 
+
+## 🧹 Làm sạch 500 câu hỏi vật lý lớp 10, 11, 12 (Đàm Xuân Long & Nguyễn Ngọc)
+![Ý tưởng finr-turning](image/task(Long&Hai).png)
