@@ -11,7 +11,7 @@ def solution(string : str) -> str:
             if (string[i] == ">"):
                 end = i
         
-        if (begin == -1 and end == -1):
+        if (begin == -1 or end == -1):
             oke = False
         string = string.replace(string[begin : end + 1], "")
         if (string[-1] == '→'):

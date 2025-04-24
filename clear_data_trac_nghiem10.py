@@ -7,6 +7,8 @@ from package import (
 
 from solution_string import solution
 
+from gen import Answer_Question_From_Documents
+
 def char_test(char : str):
     return 65 <= ord(char) and ord(char) <= 65 + 32
 
@@ -67,31 +69,18 @@ def main():
         datas_new["cac_dap_an"] = text
         
         answers = data["dap_an"]
+
         vector_answers = []
         for ans in answers:
             text_new = solution(ans)
-            vector_answers.append(text_new)
-        
-        
-        
-        if ("Đáp án đúng là" not in vector_answers[0]):
-            datas_new["giai_thich"] = index_char_true(vector_answers)
-            datas_new["check"] = "Không giải thích"
-
-        else:        
-            check = check_char(vector_answers)
-            if (check):
-                datas_new["giai_thich"] = "\n".join([vector_answers[0],check_char_index(vector_answers[1 : ], get_char(vector_answers[0]))])
-                datas_new["check"] = "2 -> 4"
-
+            if (text_new != "1"):
+                vector_answers.append(text_new)
             else:
-                text_result = "\n".join(vector_answers)
-                datas_new["giai_thich"] = text_result
-                datas_new["check"] = "1 -> 3"
-                
-        Save_File_Json(str(path_json_save),datas_new).save()
-        print("Câu thứ: {}".format(cnt))
+                print("error")
+        datas_new["giai_thich"] = vector_answers
+        
+        Save_File_Json(str(path_json_save),datas_new).save()            
         cnt += 1
-        data_all.append(datas_new)
-    
+        # data_all.append(datas_new)
+    print(cnt)
 main()
