@@ -77,10 +77,8 @@ def main():
                 vector_answers.append(text_new)
             else:
                 print("error")
-        datas_new["giai_thich"] = vector_answers
-        
-        Save_File_Json(str(path_json_save),datas_new).save()            
-        cnt += 1
-        # data_all.append(datas_new)
-    print(cnt)
+        datas_new["giai_thich"] = vector_answers        
+        data_all.append(datas_new)
+    Save_File_Json(str(path_json_save),data_all).save()            
+    
 main()

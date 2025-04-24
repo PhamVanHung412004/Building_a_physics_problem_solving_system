@@ -23,7 +23,7 @@ def convert_ndarray(obj):
         return obj
 
 class Save_File_Json(Get_Path):
-    def __init__(self,path : str, data : Dict[str , str]) -> None:
+    def __init__(self,path : str, data : Dict[str , str] | list[Dict[str , str]]) -> None:
         super().__init__(path)
         '''
         path: Đường dẫn đầu vào
