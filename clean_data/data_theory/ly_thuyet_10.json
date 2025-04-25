@@ -1,0 +1,821 @@
+[
+  {
+    "title": "Lý thuyết Bài 1: Làm quen với Vật lí",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-1-lam-quen-voi-vat-li.jsp",
+    "content": {
+      "Đối tượng nghiên cứu của vật lí và mục tiêu của môn vật lí": "- Vật lí là môn khoa học tự nhiên có đối tượng nghiên cứu tập trung vào các dạng vận động của vật chất (chất, trường), năng lượng.\n- Các lĩnh vực nghiên cứu của vật lí: cơ học, điện học, điện từ học, quang học, âm học, nhiệt học, nhiệt động lực học đến vật lí nguyên tử và hạt nhân, vật lí lượng tử, thuyết tương đối.\n- Việc học tập môn Vật lí giúp các em hình thành, phát triển năng lực vật lí với các biểu hiện chính sau đây:\n+ Có được những kiến thức, kĩ năng cơ bản về vật lí.\n+ Vận dụng được kiến thức, kĩ năng đã học để khám phá, giải quyết các vấn đề có liên quan trong học tập cũng như trong đời sống.\n+ Nhận biết được năng lực, sở trường của bản thân, định hướng nghề nghiệp.",
+      "Quá trình phát triển của Vật lí": "Các giai đoạn chính trong quá trình phát triển của Vật lí.",
+      "Vai trò của vật lí đối với khoa học, kĩ thuật và công nghệ": "- Vật lí được coi là cơ sở của khoa học tự nhiên, các khái niệm, định luật, nguyên lí của Vật lí được sử dụng rộng rãi trong mọi lĩnh vực của KHTN, dùng để giải thích cơ chế của các hiện tượng tự nhiên từ vi mô đến vĩ mô.\n- Vật lí là cơ sở của công nghệ.\n+ Máy hơi nước do James Watt sáng chế năm 1765 đã tạo nên bước khởi đầu cho cuộc cách mạng công nghiệp lần thứ nhất.\n+ Việc khám phá ra hiện tượng cảm ứng điện từ của nhà vật lí Faraday vào cuối thế kỉ XIX đã mở đầu cho kỉ nguyên sử dụng điện năng và là một trong những cơ sở cho sự ra đời của cuộc cách mạng công nghiệp lần thứ hai.\n+ Cuộc cách mạng công nghiệp lần thứ ba bắt đầu từ những năm 70 của thế kỉ XX với đặc trưng là tự động hóa các quá trình sản xuất cũng là nhờ có những thành tựu nghiên cứu về điện tử, chất bán dẫn và vi mạch…\n+ Cuộc cách mạng công nghiệp lần thứ 4 bắt đầu vào thế kỉ XXI, đặc trưng của cuộc cách mạng này là sử dụng trí tuệ nhân tạo, robot, internet toàn cầu, công nghệ nano, các thiết bị thông minh.\n- Vai trò của Vật lí trong sự phát triển các công nghệ trên cho thấy sự ảnh hưởng to lớn của nó đối với cuộc sống con người, mọi thiết bị con người sử dụng đều gắn với những thành tựu nghiên cứu của Vật lí.\n- Việc ứng dụng các thành tựu của Vật lí vào công nghệ không chỉ mang lại lợi ích cho nhân loại mà còn có thể làm ô nhiễm môi trường sống, hủy hoại hệ sinh thái, … nếu không được sử dụng đúng phương pháp và đúng mục đích.",
+      "Phương pháp thực nghiệm": "Phương pháp thực nghiệm là phương pháp quan trọng của Vật lí. Người ta thực hiện phương pháp này theo quy trình trong sơ đồ sau:",
+      "Phương pháp mô hình": "Một số mô hình thường dùng ở trường phổ thông\n- Mô hình vật chất: đó là các vật thu nhỏ hoặc phóng to của vật thật, có một số đặc điểm giống vật thật.\nMô hình quả địa cầu\n- Mô hình lí thuyết: đưa ra một số khái niệm mô hình về chất điểm, tia sáng để biểu diễn sự chuyển động của vật, sự truyền ánh sáng.\nMô hình tia sáng\n- Mô hình toán học: đó là các công thức, phương trình, đồ thị, kí hiệu … của toán học dùng để mô tả các đặc điểm của các đối tượng nghiên cứu.\nCác công thức\n- Các bước cần thiết cho việc xây dựng mọi loại mô hình:\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Các quy tắc an toàn trong phòng thực hành Vật lí",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-2-cac-quy-tac-an-toan-trong-phong-thuc-hanh-vat-li.jsp",
+    "content": {
+      "Sử dụng các thiết bị điện": "Khi sử dụng các thiết bị điện cần quan sát kĩ các kí hiệu, nhãn thông số trên thiết bị để sử dụng đúng chức năng, đúng yêu cầu kĩ thuật.",
+      "Sử dụng các thiết bị nhiệt và thủy tinh": "Các thiết bị đun nóng có thể gây bỏng với người sử dụng, gây nứt, vỡ các bộ phận làm bằng thủy tinh.",
+      "Sử dụng các thiết bị quang học": "Các thiết bị quang học rất dễ mốc, xước, nứt, vỡ và dính bụi bẩn, làm ảnh hướng đến đường truyền tia sáng và sai lệch kết quả thí nghiệm.\nBộ dụng cụ quang học",
+      "Nguy cơ gây nguy hiểm cho người sử dụng": "Việc thực hiện sai thao tác sử dụng các thiết bị có thể dẫn đến nguy hiểm cho người sử dụng. Vì vậy khi tiến hành thí nghiệm cần tuân thủ nghiêm ngặt các quy định trong phòng thực hành và hướng dẫn của giáo viên.\nRút phích điện sai cách\nDây điện bị hỏng vỏ bọc",
+      "Nguy cơ hỏng thiết bị đo điện": "Khi sử dụng các thiết bị đo điện cần chọn đúng thang đo, không nhầm lẫn khi thao tác để đảm bảo an toàn cho thiết bị đo.",
+      "Nguy cơ cháy nổ trong phòng thực hành": "Khi tiến hành thí nghiệm với các thiết bị điện và những hóa chất, chất dễ cháy nổ trong phòng thực hành cần tuân thủ quy tắc an toàn, nhất là những quy tắc an toàn về phòng cháy, chữa cháy và an toàn khi sử dụng hóa chất dễ cháy, nổ.\nĐèn cồn",
+      "Quy tắc an toàn trong phòng thực hành": "- Đọc kĩ hướng dẫn sử dụng thiết bị và quan sát các chỉ dẫn, các kí hiệu trên các thiết bị thí nghiệm.\n- Kiểm tra cẩn thận thiết bị, phương tiện, dụng cụ thí nghiệm trước khi sử dụng.\n- Chỉ tiến hành thí nghiệm khi được sự cho phép của giáo viên hướng dẫn thí nghiệm.\n- Tắt công tắc nguồn thiết bị điện trước khi cắm hoặc tháo thiết bị điện.\n- Chỉ cắm phích/ giắc cắm của thiết bị điện vào ổ cắm khi hiệu điện thế của nguồn điện tương ứng với hiệu điện thế định mức của dụng cụ.\n- Phải bố trí dây điện gọn gàng, không bị vướng khi qua lại.\n- Không tiếp xúc trực tiếp với các vật và các thiết bị thí nghiệm có nhiệt độ cao khi không có dụng cụ bảo hộ.\n- Không để nước cũng như các dung dịch dẫn điện, dung dịch dễ cháy gần thiết bị điện.\n- Giữ khoảng cách an toàn khi tiến hành thí nghiệm nung nóng các vật, thí nghiệm có các vật bắn ra, tia laser.\n- Phải vệ sinh, sắp xếp gọn gàng các thiết bị và dụng cụ thí nghiệm, bỏ chất thải thí nghiệm vào đúng nơi quy định sau khi tiến hành thí nghiệm.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 3: Thực hành tính sai số trong phép đo. Ghi kết quả đo",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-3-thuc-hanh-tinh-sai-so-trong-phep-do-ghi-ket-qua-do.jsp",
+    "content": {
+      "Phép đo trực tiếp và phép đo gián tiếp": "- Đo trực tiếp một đại lượng bằng dụng cụ đo, kết quả được đọc trực tiếp trên dụng cụ đo được gọi là phép đo trực tiếp.\n- Đo một đại lượng không trực tiếp mà thông qua công thức liên hệ với các đại lượng có thể đo trực tiếp gọi là phép đo gián tiếp.",
+      "Sai số hệ thống": "- Khi sử dụng dụng cụ đo để đo các đại lượng vật lí luôn có sự sai lệch do đặc điểm và cấu tạo của dụng cụ gây ra. Sự sai lệch này gọi là sai số dụng cụ hoặc sai số hệ thống.\n- Sai số hệ thống có nguyên nhân khách quan (do dụng cụ), nguyên nhân chủ quan do người đo (cần loại bỏ).",
+      "Sai số ngẫu nhiên": "Sai số ngẫu nhiên là sai số không rõ nguyên nhân, có thể do thao tác đo không chuẩn, điều kiện làm thí nghiệm không ổn định hoặc hạn chế về giác quan. Để khắc phục người ta thường tiến hành thí nghiệm nhiều lần và tính sai số.",
+      "Cách xác định sai số phép đo": "- Sai số ngẫu nhiên tuyệt đối của từng lần đo là trị tuyệt đối của hiệu số giữa giá trị trung bình các lần đo và giá trị của mỗi lần đo của phép đo trực tiếp\nΔ\nA\n1\n=\n(\n¯¯¯\nA\n−\nA\n1\n)\n;\nΔ\nA\n2\n=\n(\n¯¯¯\nA\n−\nA\n2\n)\n;\n...\n;\nΔ\nA\nn\n=\n(\n¯¯¯\nA\n−\nA\nn\n)\nTrong đó:\n¯¯¯\nA\n=\nA\n1\n+\nA\n2\n+\n...\n+\nA\nn\nn\nlà giá trị trung bình của n lần đo.\n¯¯¯¯¯¯\nΔ\nA\n=\nΔ\nA\n1\n+\nΔ\nA\n2\n+\n...\n+\nΔ\nA\nn\nn\n- Sai số ngẫu nhiên tuyệt đối trung bình của n lần đo:\n- Sai số tuyệt đối của phép đo là tổng sai số ngẫu nhiên tuyệt đối trung bình và sai số dụng cụ:\nΔ\nA\n=\n¯¯¯¯¯¯\nΔ\nA\n+\nΔ\nA\nd\nc\n- Sai số tỉ đối của phép đo là tỉ lệ phần trăm giữa sai số tuyệt đối và giá trị trung bình của đại lượng đo, cho biết mức độ chính xác của phép đo\nδ\nA\n=\nΔ\nA\n¯¯¯\nA\n.100\n%",
+      "Cách xác định sai số phép đo gián tiếp": "- Sai số tuyệt đối của một tổng hay hiệu bằng tổng các sai số tuyệt đối của các số hạng\nA = B + C\n∆A = ∆B + ∆C\n- Sai số tỉ đối của một tích hay thương thì bằng tổng các sai số tỉ đối của các thừa số\nA = B.C\nδA = δB + δC\n- Từ sai số tỉ đối, có thể sử dụng công thức\nδ\nA\n=\nΔ\nA\n¯¯¯\nA\n.100\n%\nđể tính được sai số tuyệt đối.",
+      "Cách ghi kết quả đo": "- Kết quả đo đại lượng A được ghi dưới dạng một khoảng giá trị:\n¯¯¯\nA\n−\nΔ\nA\n≤\nA\n≤\n¯¯¯\nA\n+\nΔ\nA\nhoặc\nA\n=\n¯¯¯\nA\n±\nΔ\nA\nTrong đó:\n+ ∆A là sai số tuyệt đối thường viết đến số chữ số có nghĩa tới đơn vị của độ chia nhỏ nhất (ĐCNN) trên dụng cụ đo.\n+ Giá trị trung bình\n¯¯¯\nA\nđược viết đến bậc thập phân tương ứng với ∆A .\n- Quy tắc làm tròn số:\n+ Nếu chữ số ở hàng bỏ đi nhỏ hơn 5 thì chữ số bên trái vẫn giữ nguyên.\n+ Nếu chữ số ở hàng bỏ đi lớn hơn hoặc bằng 5 thì chữ số bên trái tăng thêm một đơn vị.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 4: Độ dịch chuyển và quãng đường đi được",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-4-do-dich-chuyen-va-quang-duong-di-duoc.jsp",
+    "content": {
+      "Vị trí của vật chuyển động tại các thời điểm": "Khi vật chuyển động thì vị trí của vật so với vật được chọn làm mốc thay đổi theo thời gian.\n- Để xác định vị trí của vật người ta dùng hệ tọa độ vuông góc có gốc là vị trí của vật mốc, trục hoành Ox và trục tung Oy. Các giá trị trên các trục tọa độ được xác định theo một tỉ lệ xác định.\nVí dụ:\n- Để xác định thời điểm, người ta phải chọn một mốc thời gian, đo khoảng thời gian từ thời điểm được chọn làm mốc đến thời điểm cần xác định.\n⇒ Hệ tọa độ kết hợp với mốc thời gian và đồng hồ đo thời gian được gọi là hệ quy chiếu.",
+      "Độ dịch chuyển": "- Đại lượng vừa cho biết độ dài vừa cho biết hướng của sự thay đổi vị trí của vật gọi là độ dịch chuyển. Độ dịch chuyển là đại lượng vectơ.\n- Độ dịch chuyển được biểu diễn bằng một mũi tên nối vị trí đầu và vị trí cuối của chuyển động có độ dài tỉ lệ với độ lớn của độ dịch chuyển. Kí hiệu là\n→\nd\n.\nVí dụ:\nVecto độ dịch chuyển của một vật chuyển động\nVecto độ dịch chuyển của một vật chuyển động",
+      "Phân biệt độ dịch chuyển và quãng đường đi được": "- Quãng đường là độ dài quỹ đạo chuyển động của vật.\n- Độ dịch chuyển được biểu diễn bằng một mũi tên nối vị trí đầu và vị trí cuối của chuyển động có độ dài tỉ lệ với độ lớn của độ dịch chuyển.\nVí dụ: bạn A xuất phát từ 46 Khâm Thiên đến trường THPT Kim Liên.\nQuãng đường là đường màu xanh\nĐộ dịch chuyển là đường màu vàng\n- Khi vật chuyển động thẳng, không đổi chiều thì độ lớn của độ dịch chuyển và quãng đường đi được bằng nhau. Khi vật chuyển động thẳng, có đổi chiều thì độ lớn của độ dịch chuyển và quãng đường đi được không bằng nhau.",
+      "Tổng hợp độ dịch chuyển": "Có thể dùng phép cộng vectơ để tổng hợp độ dịch chuyển của vật.\nVí dụ:\nNgười thứ nhất đi theo quỹ đạo A → B → C.\nĐộ dịch chuyển tổng hợp là:\n−−→\nA\nC\n=\n−−→\nA\nB\n+\n−−→\nB\nC\nĐộ lớn của độ dịch chuyển là:\nA\nC\n=\n√\nA\nB\n2\n+\nB\nC\n2\nHướng của độ dịch chuyển hợp với phương ngang góc 45o.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 5: Tốc độ và vận tốc",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-5-toc-do-va-van-toc.jsp",
+    "content": {
+      "Tốc độ trung bình": "- Tốc độ trung bình là đại lượng dùng để xác định độ nhanh, chậm của chuyển động.\n- Biểu thức:\nv\n=\ns\nt\nTrong đó: s là quãng đường đi được, t là thời gian đi hết quãng đường đó.\n- Nếu gọi quãng đường đi được từ thời điểm ban đầu tới thời điểm t1 là s1, tới thời điểm t2 là s2 thì:\n+ Thời gian đi là: ∆t = t2 – t1\n+ Quãng đường đi được trong thời gian ∆t là: ∆s = s2 – s1\n+ Tốc độ trung bình của chuyển động là:\nv\n=\nΔ\ns\nΔ\nt",
+      "Tốc độ tức thời": "Tốc độ tức thời là tốc độ tại một thời điểm xác định.\nVí dụ:\nThời điểm người lái ô tô xe đọc số chỉ trên tốc kế, tốc độ này được gọi là tốc độ tức thời.\nTốc kế",
+      "Vận tốc trung bình": "- Vận tốc trung bình là đại lượng được xác định bằng thương số của độ dịch chuyển và thời gian dịch chuyển để xác định độ nhanh, chậm của chuyển động theo một hướng xác định.\n→\nv\n=\n→\nd\nt\n- Hoặc có thể viết:\nv\n=\nΔ\nd\nΔ\nt\ntrong đó ∆d là độ dịch chuyển trong thời gian ∆t.\n- Vận tốc là đại lượng vectơ có:\n+ Gốc nằm trên vật chuyển động.\n+ Hướng là hướng của độ dịch chuyển.\n+ Độ dài tỉ lệ với độ lớn của vận tốc.",
+      "Vận tốc tức thời": "Vận tốc tức thời là vận tốc tại một thời điểm xác định, được kí hiệu là\n→\nv\nt\n:\n→\nv\nt\n=\nΔ\n→\nd\nΔ\nt\nvới ∆t rất nhỏ",
+      "Tổng hợp hai vận tốc cùng phương": "Người chuyển động cùng hướng với tàu\n→\nv\n1,3\n: vận tốc của người đối với mặt đường.\n→\nv\n1,2\n: vận tốc của người đối với tàu.\n→\nv\n2,3\n: vận tốc của tàu đối với mặt đường.\n- Biểu thức:\n→\nv\n1,3\n=\n→\nv\n1,2\n+\n→\nv\n2,3\n- Độ lớn:\nv1,3 = v1,2 + v2,3 khi\n→\nv\n1,2\n↑\n⏐\n⏐\n↑\n⏐\n⏐\n→\nv\n2,3\nv1,3 = |v1,2 + v2,3| khi\n→\nv\n1,2\n↑\n⏐\n⏐\n⏐\n⏐\n↓\n→\nv\n2,3",
+      "Tổng hợp hai vận tốc vuông góc với nhau": "Biểu thức:\n→\nv\n1,3\n=\n→\nv\n1,2\n+\n→\nv\n2,3\nĐộ lớn:\nv\n1,3\n=\n√\nv\n2\n1,2\n+\nv\n2\n2,3\nkhi\n→\nv\n1,2\n⊥\n→\nv\n2,3\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 6: Thực hành: Đo tốc độ của vật chuyển động",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-6-thuc-hanh-do-toc-do-cua-vat-chuyen-dong.jsp",
+    "content": {
+      "Cách đo tốc độ trong phòng thí nghiệm": "Để đo tốc độ chuyển động của một vật có thể đo thời gian và quãng đường chuyển động của vật đó.",
+      "Đồng hồ đo thời gian hiện số và cổng quang điện": "Đồng hồ đo thời gian hiện số có thể đo thời gian chính xác đến phần nghìn giây, được điều khiển bằng cổng quang điện.",
+      "Thiết bị đo thời gian bằng cần rung (đồng hồ cần rung)": "Đồng hồ cần rung sử dụng một cần rung đều đặn khoảng 50 lần trong một giây và đánh dấu các chấm trên băng giấy gắn vào xe chuyển động. Đo khoảng cách giữa các dấu chấm xác định được quãng đường đi được của xe trong 0,02 s.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "084 283 45 85": "( tài liệu )",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 7: Đồ thị độ dịch chuyển – thời gian",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-7-do-thi-do-dich-chuyen-thoi-gian.jsp",
+    "content": {
+      "Chuyển động thẳng": "- Chuyển động thẳng có quỹ đạo chuyển động là đường thẳng.\n- Khi vật chuyển động thẳng theo một chiều không đổi thì độ dịch chuyển và quãng đường đi được có độ lớn như nhau (d = s), vận tốc và tốc độ có độ lớn như nhau.\n- Khi vật đang chuyển động thẳng theo chiều dương, nếu đổi chiều chuyển động thì trong khoảng thời gian chuyển động ngược chiều đó quãng đường đi được vẫn có giá trị dương, còn độ dịch chuyển có giá trị âm, tốc độ vẫn có giá trị dương còn vận tốc có giá trị âm.",
+      "Cách vẽ đồ thị độ dịch chuyển – thời gian (d – t) trong chuyển động thẳng đều": "Trong chuyển động thẳng đều thì d = v.t (với v là một hằng số). Biểu thức d = v.t có dạng giống biểu thức của hàm số y = a.x nên đồ thị có dạng là một đoạn thẳng.\nVí dụ:\nVật đứng yên\nVật chuyển động thẳng đều theo một chiều",
+      "Sử dụng đồ thị độ dịch chuyển – thời gian trong chuyển động thẳng": "Ví dụ với đồ thị độ dịch chuyển – thời gian như hình dưới\n- Sử dụng đồ thị mô tả được chuyển động của vật\n+ Từ giây 0 đến giây thứ 3: xe chuyển động thẳng.\n+ Từ giây thứ 3 đến giây thứ 5: xe đứng yên không chuyển động.\n- Sử dụng đồ thị để tính được vận tốc\n+ Độ dịch chuyển của xe trong 3 giây đầu là: d = 7 – 1 = 6 m\n+ Vận tốc của xe trong 3 s đầu là:\nv\n=\nd\nt\n=\n6\n3\n=\n2\nm\n/\ns",
+      "Vận tốc và đồ thị độ dịch chuyển – thời gian trong chuyển động thẳng": "Từ đồ thị độ dịch chuyển – thời gian tính được giá trị của vận tốc.\nHệ số góc (độ dốc) của đường biểu diễn OL chính là độ lớn của vận tốc.\nĐộ dốc =\nL\nM\nO\nM\n- Độ dốc của đồ thị trong chuyển động thẳng cho biết độ lớn vận tốc chuyển động.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 8: Chuyển động biến đổi. Gia tốc",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-8-chuyen-dong-bien-doi-gia-toc.jsp",
+    "content": {
+      "Chuyển động biến đổi": "Chuyển động có vận tốc thay đổi được gọi là chuyển động biến đổi.\n- Vận tốc tăng dần: chuyển động nhanh dần.\n- Vận tốc giảm dần: chuyển động chậm dần.\nXe ô tô tăng tốc\nXe ô tô phanh gấp giảm tốc độ",
+      "Khái niệm gia tốc": "- Đại lượng a cho biết sự thay đổi nhanh hay chậm của vận tốc được gọi là gia tốc chuyển động (gọi tắt là gia tốc).\na\n=\nΔ\nv\nΔ\nt\n=\nv\nt\n−\nv\n0\nt\n−\nt\n0\nTrong đó:\n+ ∆v là độ biến thiên vận tốc (m/s).\n+ ∆t là thời gian biến thiên vận tốc (s).\n+ a là gia tốc (m/s2).\n- Gia tốc là đại lượng vectơ:\n→\na\n=\nΔ\n→\nv\nΔ\nt\n- Khi a.v > 0 thì chuyển động nhanh dần, a.v < 0 thì chuyển động chậm dần.\nÔ tô tăng tốc độ là chuyển động có gia tốc\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 9: Chuyển động thẳng biến đổi đều",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-9-chuyen-dong-thang-bien-doi-deu.jsp",
+    "content": {
+      "Gia tốc của chuyển động thẳng biến đổi đều": "- Chuyển động thẳng biến đổi đều là chuyển động thẳng mà vận tốc có độ lớn tăng hoặc giảm đều theo thời gian.\n- Chuyển động thẳng có độ lớn vận tốc tăng đều theo thời gian gọi là chuyển động thẳng nhanh dần đều\nVí dụ về một chuyển động thẳng nhanh dần đều\n- Chuyển động thẳng có độ lớn vận tốc giảm đều theo thời gian gọi là chuyển động thẳng chậm dần đều.\nVí dụ về một chuyển động thẳng chậm dần đều\n- Do vận tốc thay đổi đều theo thời gian nên gia tốc của chuyển động này không đổi theo thời gian:\na\n=\nΔ\nv\nΔ\nt\n= hằng số.",
+      "Vận tốc tức thời của chuyển động thẳng biến đổi đều": "Gọi v0 là vận tốc tại thời điểm ban đầu t0; vt là vận tốc tại thời điểm t\n- Vận tốc tức thời tại thời điểm t: vt = v0 + a(t – t0)\n- Nếu ở thời điểm ban đầu t0 = 0 thì: vt = v0 + at\n- Nếu ở thời điểm ban đầu t0 = 0 vật mới bắt đầu chuyển động thì: v0 = 0 và vt = at",
+      "Đồ thị vận tốc – thời gian của chuyển động thẳng biến đổi đều": "Vận tốc tức thời v trong chuyển động thẳng biến đổi đều là hàm bậc nhất của thời gian t, nên đồ thị vận tốc – thời gian của chuyển động này có dạng như hình dưới",
+      "Tính độ dịch chuyển bằng đồ thị vận tốc – thời gian (v – t)": "- Trong khoảng thời gian t, vật chuyển động thẳng đều với vận tốc v thì độ dịch chuyển có độ lớn bằng diện tích của hình chữ nhật, các cạnh có độ dài là v và t. Độ lớn: d = v.t.\n- Trong khoảng thời gian t, vật chuyển động thẳng biến đổi đều với vận tốc ban đầu v0 thì độ dịch chuyển có độ lớn bằng diện tích của hình thang vuông có đường cao là t và các đáy có độ lớn v0, v.",
+      "Tính độ dịch chuyển bằng công thức": "- Độ lớn của độ dịch chuyển trong chuyển động thẳng biến đổi đều:\nd\n=\nv\n0\nt\n+\n1\n2\na\nt\n2\n- Hệ thức: vt2 – v02 = 2ad\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 10: Sự rơi tự do",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-10-su-roi-tu-do.jsp",
+    "content": {
+      "Sự rơi trong không khí": "- Sự rơi nhanh hay chậm của vật phụ thuộc vào độ lớn của lực cản không khí tác dụng lên vật. Lực cản càng nhỏ so với trọng lực tác dụng lên vật thì vật sẽ rơi càng nhanh và ngược lại.",
+      "Sự rơi tự do": "- Sự rơi tự do là sự rơi chỉ dưới tác dụng của trọng lực.\n- Nếu vật rơi trong không khí mà độ lớn của lực cản không khí không đáng kể so với trọng lượng của vật thì cũng coi là rơi tự do.\nSự rơi tự do",
+      "Đặc điểm của chuyển động rơi tự do": "a) Phương và chiều của chuyển động rơi tự do\n- Phương thẳng đứng.\n- Chiều từ trên xuống dưới.\nb) Tính chất của chuyển động rơi tự do\n- Là chuyển động thẳng nhanh dần đều.\n- Kiểm chứng bằng ảnh hoạt nghiệm.\nc) Gia tốc rơi tự do\n- Ở cùng một nơi trên Trái Đất, mọi vật rơi tự do với cùng một gia tốc.\n- Gia tốc rơi tự do kí hiệu là g, giá trị của g phụ thuộc vào vĩ độ địa lí và độ cao. Ở gần bề mặt Trái Đất người ta thường lấy giá trị của g bằng 9,8 m/s2.",
+      "Công thức rơi tự do": "- Độ dịch chuyển, quãng đường đi được tại thời điểm t:\nd\n=\ns\n=\n1\n2\ng\nt\n2\n- Vận tốc tức thời tại thời điểm t: vt = gt .\n- Liên hệ giữa vận tốc và quãng đường đi được với gia tốc: vt2 = 2gs .\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 12: Chuyển động ném",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-12-chuyen-dong-nem.jsp",
+    "content": {
+      "Khái niệm chuyển động ném ngang": "Chuyển động ném ngang là chuyển động có vận tốc ban đầu theo phương nằm ngang và chuyển động dưới tác dụng của trọng lực.\nMáy bay thả hàng cứu trợ là một chuyển động ném ngang",
+      "Thí nghiệm": "Dùng búa đập nhẹ vào thanh thép giữ bi B, thanh thép chuyển động thả bi B rơi tự do đồng thời đẩy bi A theo phương nằm ngang khỏi giá đỡ với vận tốc v0.",
+      "Phân tích kết quả thí nghiệm": "Phân tích chuyển động ném ngang thành hai thành phần:\n- Thành phần chuyển động theo phương thẳng đứng.\n- Thành phần chuyển động theo phương nằm ngang.",
+      "Thành phần chuyển động theo phương thẳng đứng": "- Nếu bỏ qua sức cản không khí thì chuyển động thành phần theo phương thẳng đứng của vật là chuyển động rơi tự do với vận tốc ban đầu bằng 0.\n- Chọn chiều dương hướng xuống, độ cao của vật bị ném ngang:\nH\n=\n1\n2\ng\nt\n2\n⇒\nt\n=\n√\n2\nH\ng\nNhận xét:\n- Thời gian rơi của vật bị ném ngang chỉ phụ thuộc độ cao H của vật bị ném, không phụ thuộc vận tốc ném.\n- Nếu từ cùng một độ cao, đồng thời ném ngang các vật khác nhau với các vận tốc khác nhau thì chúng đều rơi xuống đất cùng một lúc.",
+      "Thành phần chuyển động theo phương nằm ngang": "- Giá trị cực đại của độ dịch chuyển trong chuyển động thành phần nằm ngang được gọi là tầm xa L của chuyển động ném ngang.\nL = dx max = v0.tmax với tmax là thời gian rơi của vật\n- Suy ra:\nL\n=\nv\n0\n√\n2\nH\ng\nNhận xét:\n- Tầm xa của vật bị ném ngang phụ thuộc và độ cao H của vật khi bị ném và vận tốc ném. Nếu từ cùng một độ cao đồng thời ném các vật khác nhau với vận tốc khác nhau thì vật nào có vận tốc ném lớn hơn sẽ có tầm xa lớn hơn.\n- Nếu từ các độ cao khác nhau ném ngang các vật với cùng vận tốc thì vật nào được ném ở độ cao lớn hơn sẽ có tầm xa lớn hơn.",
+      "Chuyển động ném xiên": "Chuyển động của vật có quỹ đạo hình dạng parabol được gọi là chuyển động ném xiên.\nQuỹ đạo chuyển động của quả bóng rổ",
+      "Phân tích chuyển động ném xiên": "Phân tích chuyển động ném xiên thành hai chuyển động thành phần: chuyển động thành phần theo phương thẳng đứng và chuyển động thành phần theo phương nằm ngang.",
+      "Công thức xác định tầm cao và tầm xa của chuyển động ném xiên": "- Tầm cao:\nH\n=\nd\ny\nmax\n=\nv\n2\n0\n.\nsin\n2\nα\n2\ng\n- Tầm xa:\nL\n=\nd\nx\nmax\n=\nv\n2\n0\n.\nsin\n2\nα\ng\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 13: Tổng hợp và phân tích lực. Cân bằng lực",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-13-tong-hop-va-phan-tich-luc-can-bang-luc.jsp",
+    "content": {
+      "Tổng hợp lực – Hợp lực tác dụng": "- Tổng hợp lực là phép thay thế các lực tác dụng đồng thời vào cùng một vật bằng một lực có tác dụng giống hệt như các lực ấy.\n- Lực thay thế này gọi là hợp lực\n- Biểu thức:\n→\nF\n=\n−→\nF\n1\n+\n−→\nF\n2\n+\n−→\nF\n3\n+\n...\nLực\n→\nF\nđược coi là hợp lực của lực\n−→\nF\n1\nvà\n−→\nF\n2",
+      "Tổng hợp hai lực cùng phương": "- Hai lực cùng phương, cùng chiều thì làm tăng tác dụng lên vật và có độ lớn hợp lực bằng: F = F1 + F2\n- Hai lực cùng phương, ngược chiều thì chúng hạn chế, thậm chí có thể triệt tiêu tác dụng của nhau lên vật và hợp lực có giá trị bằng: F = F1 – F2\n+ Nếu F > 0 thì hợp lực F cùng chiều với lực thành phần F1.\n+ Nếu F < 0 thì lực F ngược chiều với lực F1.",
+      "Tổng hợp hai lực đồng quy – Quy tắc hình bình hành": "- Bước 1: Vẽ hai vectơ\n−→\nF\n1\nvà\n−→\nF\n2\nđồng quy tại O.\n- Bước 2: Vẽ một hình bình hành có hai cạnh liền kề trùng với hai vectơ\n−→\nF\n1\nvà\n−→\nF\n2\n.\n- Bước 3: Vẽ đường chéo của hình bình hành có cùng gốc O. Vectơ hợp lực\n→\nF\ntrùng với đường chéo này.",
+      "Các lực cân bằng": "Vật đứng yên dưới tác dụng của nhiều lực, khi đó tổng hợp các lực tác dụng lên vật bằng 0. Ta nói các lực tác dụng lên vật là các lực cân bằng và vật ở trạng thái cân bằng.\n→\nF\n=\n−→\nF\n1\n+\n−→\nF\n2\n+\n−→\nF\n3\n+\n...\n=\n0",
+      "Các lực không cân bằng": "Khi hợp lực của các lực khác 0 thì các lực này không cân bằng. Hợp lực hay các lực không cân bằng này tác dụng vào một vật có thể làm thay đổi vận tốc của vật.\nHợp lực khác không làm xe chuyển động về phía trước",
+      "Phân tích lực": "Phân tích lực là phép thay thế một lực thành hai lực thành phần có tác dụng giống hệt như lực ấy.",
+      "Quy tắc": "Người ta thường phân tích lực thành hai lực thành phần vuông góc với nhau để lực thành phần này không có tác dụng nào theo phương của lực thành phần kia.\nPhân tích lực\n→\nF\nthành hai thành phần vuông góc là\n−→\nF\nx\n;\n−→\nF\ny",
+      "Chú ý": "- Chỉ khi xác định được một lực có tác dụng theo hai phương vuông góc nào thì mới phân tích lực theo hai phương vuông góc đó.\n- Ví dụ: vật trượt xuống dưới trên mặt phẳng nghiêng, trọng lực\n→\nP\nđược phân tích thành hai lực thành phần\n−→\nP\n1\n;\n−→\nP\n2\nvì xác định được trọng lực có tác dụng ép vật vào mặt phẳng nghiêng và kéo vật trượt xuống dưới.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 14: Định luật 1 Newton",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-14-dinh-luat-1-newton.jsp",
+    "content": {
+      "Lực và chuyển động": "Galilei tiên đoán nếu không có lực ma sát và máng nghiêng 2 nằm ngang thì hòn bi sẽ lăn mãi mãi với vận tốc không đổi.",
+      "Định luật 1 Newton": "Nội dung định luật: Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không, thì vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động sẽ tiếp tục chuyển động thẳng đều.",
+      "Quán tính": "Tính chất bảo toàn trạng thái đứng yên hay chuyển động của vật, gọi là quán tính của vật.\n- Do có quán tính mà mọi vật có xu hướng bảo toàn vận tốc cả về hướng và độ lớn.\n- Định luật 1 Newton còn được gọi là định luật quán tính.\nKhi bóp phanh gấp, theo quán tính người và xe bị lao về phía trước\nXe đột ngột rẽ trái, theo quán tính người ngồi trong xe bị nghiêng về bên phải",
+      "Ứng dụng của quán tính trong đời sống": "Khi đã có hiểu biết về quán tính, con người đã ứng dụng vào trong cuộc sống.\nThắt dây an toàn khi đi máy bay\nTra búa vào cán búa\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 15: Định luật 2 Newton",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-15-dinh-luat-2-newton.jsp",
+    "content": {
+      "Định luật 2 Newton": "Nội dung định luật: Gia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.\n→\na\n=\n→\nF\nm\nGia tốc của xe thay đổi khi thay đổi khối lượng hoặc lực tác dụng",
+      "Khối lượng và quán tính": "Vật có khối lượng càng lớn thì càng khó thay đổi vận tốc, tức là có mức quán tính lớn hơn. Khối lượng của vật là đại lượng đặc trưng cho mức quán tính của vật.\nXe tải khối lượng lớn khi va chạm gây ra hậu quả nghiêm trọng vì quán tính lớn\nTàu hỏa vị dồn toa khi phanh gấp, do khối lượng rất lớn, nên quán tính rất lớn\n- Khối lượng trong định luật 2 Newton còn được gọi là khối lượng quán tính.\n- Khối lượng là đại lượng vô hướng, dương, không đổi đối với mỗi vật và có tính chất cộng được.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 16: Định luật 3 Newton",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-16-dinh-luat-3-newton.jsp",
+    "content": {
+      "Lực tương tác giữa hai vật": "Lực không tồn tại riêng lẻ. Các lực hút hoặc đẩy luôn xuất hiện thành từng cặp giữa hai vật.\nTương tác giữa các vật",
+      "Định luật 3 Newton": "- Nội dung định luật: Trong mọi trường hợp, khi vật A tác dụng lên vật B một lực thì vật B cũng tác dụng trở lại vật A một lực. Hai lực này là hai lực trực đối.\n- Hai lực trực đối có đặc điểm:\n+ Cùng phương,\n+ Ngược chiều,\n+ Độ lớn bằng nhau,\n+ Điểm đặt lên hai vật khác nhau.\n→\nF\nA\nB\n=\n−\n→\nF\nB\nA\nCặp lực và phản lực\nBóng tác dụng 1 lực vào mặt – Mặt tác dụng ngược trở lại một lực vào bóng",
+      "Các đặc điểm của lực và phản lực": "- Lực và phản lực luôn xuất hiện thành từng cặp (xuất hiện hoặc mất đi đồng thời).\n- Lực và phản lực cùng tác dụng theo một đường thẳng, cùng độ lớn nhưng ngược chiều (hai lực như vậy là hai lực trực đối).\n- Lực và phản lực không cân bằng nhau (vì chúng đặt vào hai vật khác nhau).\n- Cặp lực và phản lực là hai lực cùng loại.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 17: Trọng lực và lực căng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-17-trong-luc-va-luc-cang.jsp",
+    "content": {
+      "Trọng lực": "- Trọng lực là lực hấp dẫn do Trái Đất tác dụng lên vật gây ra cho vật gia tốc rơi tự do. Trọng lực được kí hiệu là vectơ\n→\nP\n.\n- Ở gần Trái Đất, trọng lực có:\n+ Phương thẳng đứng.\n+ Chiều từ trên xuống.\n+ Điểm đặt gọi là trọng tâm của vật.\n- Công thức:\n→\nP\n=\nm\n→\ng",
+      "Trọng lượng": "- Độ lớn của trọng lực tác dụng lên một vật gọi là trọng lượng của vật.\n- Công thức tính trọng lượng: P = mg\n- Trọng lượng của một vật có thể đo bằng lực kế hoặc cân lò xo.\nĐo trọng lượng của vật bằng lực kế",
+      "Phân biệt trọng lượng và khối lượng": "- Trọng lượng của một vật thay đổi khi đem đến một nơi khác có gia tốc rơi tự do thay đổi\n- Khối lượng là số đo lượng chất của vật. Khối lượng của một vật không thay đổi khi chuyển từ nơi này đến nơi khác.\nKhối lượng không thay đổi – Trọng lượng thay đổi\n- Có thể xác định trọng tâm của các vật dựa vào phương của trọng lực",
+      "Lực căng": "- Khi một sợi dây bị kéo thì ở tại mọi điểm trên dây, kể cả hai đầu dây xuất hiện lực để chống lại sự kéo, lực này gọi là lực căng, kí hiệu là\n→\nT\n.\n- Lực căng do sợi dây tác dụng vào vật, có phương trùng với phương của sợi dây, có chiều ngược với chiều của lực do vật kéo dãn dây.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 18: Lực ma sát",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-18-luc-ma-sat.jsp",
+    "content": {
+      "Lực ma sát nghỉ": "- Lực ma sát nghỉ là lực ma sát tác dụng lên mặt tiếp xúc của vật, khi vật có xu hướng chuyển động nhưng chưa chuyển động.\n- Nguyên nhân: do lực hút, được gọi là lực bám dính, giữa các vùng tiếp xúc của các bề mặt, ngoài ra các bề mặt luôn có hình dạng gồ ghề ở cấp độ vi mô.\nVí dụ:\nLực ma sát nghỉ giúp con người đi lại được\nLực ma sát nghỉ giúp cho phấn bám dính trên mặt bảng",
+      "Lực ma sát trượt": "Lực ma sát trượt là lực ma sát cản trở vật trượt trên bề mặt tiếp xúc.\nLực ma sát trượt xuất hiện khi thùng gỗ trượt trên mặt sàn",
+      "Đặc điểm của lực ma sát trượt": "- Độ lớn của lực ma sát phụ thuộc vào vật liệu và tình trạng của bề mặt tiếp xúc, nhưng không phụ thuộc vào diện tích tiếp xúc.\n- Độ lớn lực ma sát trượt tỉ lệ với độ lớn của áp lực lên bề mặt tiếp xúc.",
+      "Hệ số ma sát trượt": "- Tỉ số giữa độ lớn của lực ma sát trượt Fms và áp lực N gọi là hệ số ma sát trượt, kí hiệu là µ.\n- Hệ số µ phụ thuộc vào vật liệu và tình trạng của hai mặt tiếp xúc.\nGỗ trượt trên gỗ",
+      "Công thức tính lực ma sát trượt": "Công thức: Fms = µ.N\n- Ngoài ma sát trượt, ta còn biết đến lực ma sát lăn.\nLực ma sát lăn xuất hiện khi có sự lăn của các vật trên bề mặt của nhau\nLực ma sát lăn xuất hiện khi bánh xe lăn trên mặt đường",
+      "Lực ma sát trong đời sống": "Ví dụ:\n- Vận động viên thể dục dụng cụ thường xoa tay vào phấn trước khi thực hiện động tác.\n- Đế giày dép thường có các rãnh sâu để tránh bị trơn trượt.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 19: Lực cản và lực nâng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-19-luc-can-va-luc-nang.jsp",
+    "content": {
+      "Lực cản": "- Chất lưu thường được dùng để chỉ chất lỏng và chất khí.\n- Mọi vật chuyển động trong chất lưu luôn chịu tác dụng bởi lực cản của chất lưu.\n- Lực này ngược hướng chuyển động và cản trở chuyển động của vật.",
+      "Lực cản phụ thuộc vào những yếu tố nào?": "Lực cản của chất lưu (không khí, nước) phụ thuộc vào hình dạng và tốc độ của vật.\nTàu ngầm di chuyển trong nước có phần đầu thon, dài để giảm lực cản của nước\nĐi bộ trong nước sẽ có tốc độ nhỏ hơn so với khi đi bộ trong không khí\nXe ô tô đua và xe ô tô thông thường có thiết kế hình dạng khí động học khác nhau",
+      "Lực nâng của chất lưu": "- Khi vật chuyển động trong nước hay không khí thì ngoài lực cản (của không khí, của nước), vật còn chịu tác dụng của lực nâng.\nMáy bay bay trong không khí\nTàu thủy di chuyển trong nước\nKhinh khí cầu bay trong không khí\nSinh vật bay lượn trong không khí\n- Khi vật rơi trong chất lưu dưới tác dụng của trọng lực và lực cản của chất lưu thì đến một lúc nào đó vật sẽ đạt tới vận tốc giới hạn và sẽ chuyển động đều với vận tốc này.\n- Lực đẩy Archimedes là trường hợp riêng của lực nâng vật đứng yên trong chất lưu. Công thức tính lực đẩy Archimedes:\nFA = ρ.g.V\nTrong đó:\n+ FA: lực đẩy Archimedes (N).\n+ ρ : khối lượng riêng của chất lỏng (kg/m3).\n+ V: thể tích phần chất lỏng bị vật chiếm chỗ (m3).\nTàu thuyền đi trên nước chịu tác dụng của lực đẩy Archimedes\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 20: Một số ví dụ về cách giải các bài toán thuộc phần động lực học",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-20-mot-so-vi-du-ve-cach-giai-cac-bai-toan-thuoc.jsp",
+    "content": {
+      "Các bước giải chính": "Bước 1: Chọn vật khảo sát chuyển động. Biểu diễn các lực tác dụng lên vật, trong đó làm rõ phương, chiều và điểm đặt của từng lực.\nBước 2: Chọn hai trục vuông góc Ox và Oy trong đó trục Ox cùng hướng với chuyển động của vật hay cùng hướng với lực kéo khi vật đứng yên. Phân tích các lực theo hai trục này. Áp dụng định luật 2 Newton theo hai trục tọa độ Ox và Oy.\n(\nOx\n:\nF\nx\n=\nF\n1\nx\n+\nF\n2\nx\n+\n...\n=\nm\n.\na\nx\n(\n1\n)\nOy\n:\nF\ny\n=\nF\n1\ny\n+\nF\n2\ny\n+\n...\n=\n0\n(\n2\n)\n)\nBước 3: Giải hệ phương trình (1) và (2) để tìm gia tốc hay tìm lực, tùy từng bài toán.",
+      "Các loại bài toán": "1. Bài toán xác định gia tốc của vật khi biết lực tác dụng vào vật.\n2. Bài toán xác định lực tác dụng vào vật khi biết gia tốc.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 21: Moment lực. Cân bằng của vật rắn",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-21-moment-luc-can-bang-cua-vat-ran.jsp",
+    "content": {
+      "Tác dụng làm quay của lực": "- Tác dụng làm quay vật của một lực phụ thuộc vào độ lớn của lực, vị trí của trục quay và cánh tay đòn của lực.\n- Cánh tay đòn của lực là khoảng cách từ trục quay đến giá của lực, kí hiệu là d. Cánh tay đòn càng lớn thì tác dụng làm quay của lực càng lớn.",
+      "Moment lực": "- Moment lực đối với trục quay là đại lượng đặc trưng cho tác dụng làm quay của lực và được đo bằng tích của lực với cánh tay đòn của nó.\nM = F.d\n- Đơn vị của moment lực là niutơn mét (N.m).\nVí dụ:\nMoment lực trong trường hợp này: M = F.d = 4.0,5 = 2 N.m\nMoment lực trong trường hợp này: M = F.d = 2.0,5.cos20o = 0,94 N.m",
+      "Thí nghiệm": "- Lực\n−→\nF\n1\ncó tác dụng làm quay cùng chiều kim đồng hồ.\n- Lực\n−→\nF\n2\ncó tác dụng làm quay ngược chiều kim đồng hồ.\nKhi đĩa cân bằng, tác dụng làm quay của hai lực cân bằng nên moment lực của hai lực trên cân bằng với nhau. Về mặt độ lớn: F1.d1 = F2.d2",
+      "Quy tắc moment lực (hay điều kiện cân bằng của một vật có trục quay cố định)": "- Muốn cho một vật có trục quay cố định ở trạng thái cân bằng, thì tổng các moment lực có xu hướng làm vật quay theo chiều kim đồng hồ phải bằng tổng các moment lực có xu hướng làm vật quay ngược chiều kim đồng hồ.\n- Điều kiện cân bằng của vật có trục quay cố định: Tổng các moment lực tác dụng lên vật (đối với một điểm bất kì) bằng 0.\n∑M = 0\nThanh gỗ nằm cân bằng – Tổng moment lực tác dụng lên vật bằng 0",
+      "Ngẫu lực là gì?": "- Ngẫu lực là hệ hai lực song song, ngược chiều, có độ lớn bằng nhau và cùng đặt vào một vật.\n- Ngẫu lực tác dụng lên một vật chỉ làm cho vật quay chứ không tịnh tiến.",
+      "Moment của ngẫu lực": "- Moment của ngẫu lực M được xác định:\nM = F1d1 + F2d2 hay M = F.d\nTrong đó F là độ lớn của mỗi lực, d là khoảng cách giữa hai giá của lực, gọi là cánh tay đòn của ngẫu lực.",
+      "Điều kiện cân bằng tổng quát của vật rắn": "Điều kiện cân bằng của một vật rắn là:\n- Tổng các lực tác dụng lên vật bằng 0.\n- Tổng các moment lực tác dụng lên vật đối với một điểm bất kì chọn làm trục quay bằng 0 (nếu chọn một chiều quay làm chiều dương).\nThang cân bằng khi tổng các moment tác dụng lên thang với trục quay bất kì bằng 0",
+      "Ví dụ 1:": "A. 49 kg và 1013 N.\nB. 39 kg và 1003 N.\nC. 29 kg và 993 N.\nD. 19 kg và 983 N.",
+      "Đáp án đúng là A": "Tâm quay tại O, thanh AB nằm cân bằng suy ra: MA = MG + MB\nSuy ra: mA.g.AO = m.g.OG + F.OB = 40.10.1 + 120.9 = 1480 => mA ≈ 49,3kg\nN = PA + P + F = 493 + 400 + 120 = 1013N",
+      "Ví dụ 2:": "A. Lực tác dụng lên đầu B là 20 N, lực tác dụng lên thanh là 320 N.\nB. Lực tác dụng lên đầu B là 25 N, lực tác dụng lên thanh là 325 N.\nC. Lực tác dụng lên đầu B là 30 N, lực tác dụng lên thanh là 330 N.\nD. Lực tác dụng lên đầu B là 35 N, lực tác dụng lên thanh là 335 N.",
+      "Đáp án đúng là B": "Ta có: AB = 8m, OA = 2m, OB = 6m, GA = 1,5m, GO = 0,5m\nTrục quay đi qua O, để thanh nằm cân bằng thì MG = MB\nSuy ra: mg.GO = F.OB => F = \nm\ng\n.\nG\nO\nO\nB\n=\n30.10.0\n,\n5\n6\n= 25N\nLực tác dụng lên thanh: N = P + F = 30.10 + 25 = 325N",
+      "Bài 1:": "A. Lực nâng của người là 100 N và phản lực là 500 N.\nB. Lực nâng của người là 100 N và phản lực là 400 N.\nC. Lực nâng của người là 150 N và phản lực là 500 N.\nD. Lực nâng của người là 150 N và phản lực là 400 N.",
+      "Bài 2": "A. 32,6 N.\nB. 42,6 N.\nC. 52,6 N.\nD. 62,6 N.",
+      "Bài 3:": "A. Luôn có giá trị dương.\nB. Vecto.\nC. Để xác định độ lớn của lực tác dụng.\nD. Đặc trưng cho tác dụng làm quay vật của lực.",
+      "Bài 4:": "A. m/s.\nB. kg.m.\nC. N.m.\nD. N.kg.",
+      "Bài 5:": "A. 30,2 g.\nB. 30,9 g.\nC. 31,2 g.\nD. 32,1 g.",
+      "Bài 6": "A. 100 N.\nB. 150 N.\nC. 200 N.\nD. 250 N.",
+      "Bài 10:": "Xem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 23: Năng lượng. Công cơ học",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-23-nang-luong-cong-co-hoc.jsp",
+    "content": {
+      "Năng lượng": "- Năng lượng có các dạng như: cơ năng, hóa năng, nhiệt năng, điện năng, năng lượng ánh sáng, năng lượng âm thanh, năng lượng nguyên tử.\nVận động viên đang có năng lượng dưới dạng cơ năng, nhiệt năng,…\nCa sĩ đang hát có năng lượng dưới dạng năng lượng âm thanh\nNhà máy điện hạt nhân có chứa dạng năng lượng nguyên tử\n- Năng lượng không tự sinh ra hoặc tự mất đi mà chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.\nĐiện năng chuyển hóa thành nhiệt năng\nCơ năng chuyển hóa thành điện năng\nNăng lượng truyền từ người sang gậy và sang bóng",
+      "Thực hiện công": "- Năng lượng có thể truyền từ vật này sang vật khác.\n- Việc truyền năng lượng cho vật bằng cách tác dụng lực lên vật làm vật thay đổi trạng thái chuyển động được gọi là thực hiện công cơ học.\nCầu thủ thực hiện công lên quả bóng – truyền năng lượng cho bóng\nVận động viên thực hiện công lên quả bóng tennis – truyền năng lượng cho bóng",
+      "Khi lực không đổi và cùng hướng với chuyển động": "- Khi lực cùng hướng với chuyển động thì độ dịch chuyển\n→\nd\ncó độ lớn bằng quãng đường đi được s nên công thức tính công có dạng:\nA = F.s = F.d\n- Đơn vị: jun (J). 1J = 1N.1m",
+      "Khi lực không đổi và không cùng phương với chuyển động": "Công thức tính công: A = Fs.s = (F.cosα).s = F.s.cosα\nChú ý:\n- 0 ≤ α < 90o ⇒ A > 0: lực sinh công phát động (công dương).\n- α = 90o ⇒ A = 0 : lực không sinh công.\n- 90o < α ≤ 180o ⇒ A < 0 : lực sinh công cản (công âm).\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 24: Công suất",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-24-cong-suat.jsp",
+    "content": {
+      "Khái niệm công suất": "Đại lượng đặc trưng cho khả năng thực hiện công nhanh hay chậm của người hoặc thiết bị sinh công, được gọi là công suất hay tốc độ sinh công.\nCông suất của người và máy khác nhau",
+      "Công thức tính công suất": "- Nếu trong thời gian t, công thực hiện được là A thì tốc độ sinh công, tức công suất là:\nP =\nA\nt\n- Đơn vị oát (W):\n1\nW\n=\n1\nJ\n1\ns\n- Ngoài đơn vị W thì công suất còn sử dụng các đơn vị khác như: mã lực (HP), …\nĐộng cơ xe BMW 320i – 2021: công suất 184 mã lực\nThông số của một thiết bị điện: công suất 2650 W",
+      "Liên hệ giữa công suất với lực và tốc độ": "- Khi vật chuyển động cùng hướng với lực và lực không đổi thì công suất trung bình\nP\n=\nA\nt\n=\nF\n.\ns\nt\n=\nF\n.\nv\n- Công suất tức thời:\nPt = F.vt\nHộp số trên ô tô là thiết bị chuyển đổi tốc độ xe\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 25: Động năng, thế năng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-25-dong-nang-the-nang.jsp",
+    "content": {
+      "Khái niệm động năng": "- Động năng là năng lượng vật có được do chuyển động\nW\nd\n=\n1\n2\nm\nv\n2\nTrong đó:\n+ m là khối lượng của vật (kg),\n+ v là vận tốc của vật chuyển động (m/s).\n+ W­­d là động năng, có đơn vị là jun (J).\nSóng thần có động năng rất lớn\nThiên thạch có động năng rất lớn\nNgười chạy bộ có động năng",
+      "Liên hệ giữa động năng và công của lực": "- Xét vật khối lượng m chuyển động thẳng biến đổi đều với gia tốc a từ trạng thái đứng yên dưới tác dụng của lực không đổi F.\n- Động năng của vật có giá trị bằng công của lực tác dụng lên vật.\nWđ = A hay\n1\n2\nm\nv\n2\n=\nF\n.\ns",
+      "Khái niệm thế năng trọng trường": "- Một vật ở độ cao h so với mặt đất thì lưu trữ năng lượng dưới dạng thế năng trọng trường.\n- Công thức: Wt = P.h = mgh.\n- Đơn vị: jun (J).",
+      "Lưu ý:": "- Độ lớn của thế năng trọng trường phụ thuộc vào việc chọn mốc tính độ cao.\n- Ngoài thế năng trọng trường còn có dạng thế năng đàn hồi (của những vật có tính chất đàn hồi như lò xo, dây cao su, …)\nBúa máy ở độ cao h dự trữ thế năng trọng trường\nVận động viên bơi lội nhảy cầu dự trữ thế năng trọng trường\nKhi kéo cung, cánh cung dự trữ thế năng đàn hồi",
+      "Liên hệ giữa thế năng và công của lực thế": "- Thế năng của vật ở độ cao h có độ lớn bằng công của lực dùng để nâng đều vật lên độ cao này.\nA = F.s = P.h = m.g.h = Wt\n- Công trong trường hợp này được gọi là công của lực thế, nó không phụ thuộc vào độ lớn quãng đường đi được mà chỉ phụ thuộc vào sự chênh lệch độ cao của vị trí đầu và vị trí cuối.\nVật di chuyển từ B đến A thì công của lực nâng chỉ phụ thuộc vào vị trí A và B chứ không phụ thuộc vào độ dài A và B\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 26: Cơ năng và định luật bảo toàn cơ năng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-26-co-nang-va-dinh-luat-bao-toan-co-nang.jsp",
+    "content": {
+      "Sự chuyển hóa giữa động năng và thế năng": "- Cơ năng của một vật là tổng động năng và thế năng của nó. Khi vật chuyển động trong trường trọng lực thì cơ năng có dạng:\n- Động năng và thế năng có thể chuyển hóa qua lại lẫn nhau.\nW\n=\nW\nd\n+\nW\nt\n=\n1\n2\nm\nv\n2\n+\nm\ng\nh\nTrò chơi tàu lượn: thế năng và động năng chuyển hóa qua lại lẫn nhau\nTrò chơi xích đu: thế năng và động năng chuyển hóa qua lại lẫn nhau",
+      "Thí nghiệm về con lắc đồng hồ": "Vật chuyển động từ A đến O rồi đến B, sau đó quay ngược trở lại về A. Cứ như vậy động năng và thế năng chuyển hóa qua lại lẫn nhau.",
+      "Định luật bảo toàn cơ năng": "Nội dung định luật: Khi một vật chuyển động trong trọng trường chỉ chịu tác dụng của trọng lực thì cơ năng của vật được bảo toàn.\nCơ năng = động năng + thế năng = hằng số\nChuyển động của con lắc đơn có thể được xem là một trường hợp bảo toàn cơ năng\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 27: Hiệu suất",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-27-hieu-suat.jsp",
+    "content": {
+      "Năng lượng có ích và năng lượng hao phí": "- Luôn tồn tại năng lượng hao phí trong các quá trình chuyển hóa năng lượng.\nVí dụ:\n- Động cơ nhiệt thông thường có từ khoảng 60 – 70% năng lượng hao phí.\nĐộng cơ nhiệt\n- Động cơ điện có khoảng 10% năng lượng hao phí.\nĐộng cơ điện 1 pha – máy bơm nước\n- Pin mặt trời chỉ chuyển hóa được 10% năng lượng ánh sáng mặt trời thành điện năng.\nPin mặt trời\nBóng đèn sợi đốt có khoảng 70% năng lượng hao phí chuyển thành nhiệt năng",
+      "Hiệu suất": "- Khái niệm hiệu suất:\nH\ni\nệ\nu\ns\nu\nấ\nt\n=\nN\nă\nn\ng\nl\nư\nợ\nn\ng\nc\nó\ní\nc\nh\nN\nă\nn\ng\nl\nư\nợ\nn\ng\nt\no\nà\nn\np\nh\nầ\nn\n- Biểu thức:\nH\n=\nW\nc\ni\nW\nt\np\n.100\n%\nhoặc\nH\n=\nP\nc\ni\nP\nt\np\n.100\n%\nTrong đó: Pci là công suất có ích, Ptp là công suất toàn phần.\n- Hiệu suất của động cơ nhiệt:\nH\n=\nA\nQ\n.100\n%\nTrong đó:\n+ A là công cơ học mà động cơ thực hiện được (J),\n+ Q là nhiệt lượng mà động cơ nhận được từ nhiên liệu bị đốt cháy (J).\nHiệu suất của một số thiết bị điện\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 28: Động lượng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-28-dong-luong.jsp",
+    "content": {
+      "động lượng": "- Động lượng của một vật khối lượng m đang chuyển động với vận tốc\n→\nv\nlà đại lượng được xác định bởi công thức:\n→\np\n=\nm\n→\nv\n- Động lượng là một đại lượng vectơ có cùng hướng với vận tốc của vật.\n- Đơn vị động lượng: kg.m/s.\nÔ tô đang chuyển động có động lượng\nQuả cầu lông đang chuyển động có động lượng",
+      "Xung lượng": "- Khi một lực\n→\nF\ntác dụng lên một vật trong khoảng thời gian ngắn ∆t thì tích\n→\nF\n=\nΔ\nt\nđược định nghĩa là xung lượng của lực\n→\nF\ntrong khoảng thời gian ∆t ấy.\n- Đơn vị xung lượng: N.s.",
+      "Liên hệ giữa xung lượng của lực và độ biến thiên động lượng": "Xung lượng của lực tác dụng lên vật trong một khoảng thời gian bằng độ biến thiên động lượng của vật trong khoảng thời gian đó.\n→\nF\n.\nΔ\nt\n=\nm\n.\n→\nv\n2\n−\nm\n.\n→\nv\n1\n=\n→\np\n2\n−\n→\np\n1",
+      "Dạng tổng quát của định luật 2 Newton": "Phát biểu khác của định luật 2 Newton: lực tổng hợp tác dụng lên vật bằng tốc độ thay đổi động lượng của vật.\n→\nF\n=\nΔ\n→\np\nΔ\nt\nThủ môn bắt bóng thường co tay và lùi người một chút để giảm lực tác dụng\nTúi khí trên ô tô có tác dụng giảm chấn thương\nVận động viên khi tiếp đất thường trùng gối để giảm chấn thương\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 29: Định luật bảo toàn động lượng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-29-dinh-luat-bao-toan-dong-luong.jsp",
+    "content": {
+      "Hệ kín (hay hệ cô lập)": "- Một hệ nhiều vật được gọi là hệ kín khi không có ngoại lực tác dụng lên hệ hoặc nếu có thì các lực ấy cân bằng nhau.\n- Trong hệ kín chỉ có các nội lực (các lực tác dụng giữa các vật trong hệ) tương tác giữa các vật.\n- Nếu trong quá trình tương tác, các nội lực xuất hiện lớn hơn các ngoại lực rất nhiều thì có thể bỏ qua các ngoại lực và coi hệ là kín.\nPháo hoa nổ có thể coi là hệ kín\nTên lửa chuyển động có thể coi là hệ kín",
+      "Định luật bảo toàn động lượng": "- Phát biểu: động lượng toàn phần của hệ kín là một đại lượng bảo toàn.\n- Biểu thức:\n→\np\n=\n→\np\n1\n+\n→\np\n2\n+\n...\n(không đổi).\n- Định luật bảo toàn động lượng là cơ sở để giải các bài toán va chạm, nguyên tắc chuyển động bằng phản lực.\nBài toán va chạm",
+      "Va chạm đàn hồi": "- Hai xe giống nhau, xe A chuyển động với vận tốc v, đến va chạm với xe B đang đứng yên.\n- Sau va chạm xe A đứng yên, xe B chuyển động với vận tốc v.\nKết luận: xe A đã truyền toàn bộ chuyển động cho xe B.\nĐây là va chạm đàn hồi.\nVí dụ về va chạm đàn hồi\nCon lắc A đến va chạm vào con lắc 1, chuyển động được truyền nguyên vẹn cho con lắc 3, đưa nó lên độ cao đúng bằng h",
+      "Va chạm mềm": "- Hai xe A và B giống nhau, đầu mỗi xe gắn miếng nhựa dính. Xe A chuyển động với vận tốc v, xe B đứng yên.\n- Sau va chạm hai xe dính vào nhau chuyển động với vận tốc\nv\n2\n.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 31: Động học của chuyển động tròn đều",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-31-dong-hoc-cua-chuyen-dong-tron-deu.jsp",
+    "content": {
+      "Mô tả chuyển động tròn": "Trong cuộc sống hằng ngày ta gặp nhiều vật chuyển động tròn như:\nChuyển động tròn của các cabin\nChuyển động tròn của đầu kim đồng hồ\n- Để xác định vị trí của vật chuyển động tròn ta có thể dựa vào quãng đường đi s (độ dài cung tròn) hoặc độ dịch chuyển góc θ tính từ vị trí ban đầu.\nMối quan hệ giữa độ dài cung s với góc chắn tâm θ và bán kính đường tròn r:\nθ\n=\ns\nr\n- Đổi các góc: 360o = 2π (rad).",
+      "Tốc độ": "Chuyển động tròn đều là chuyển động theo quỹ đạo tròn có tốc độ không thay đổi:\nv\n=\ns\nt\n= hằng số",
+      "Tốc độ góc": "- Tốc độ góc trong chuyển động tròn đều bằng độ dịch chuyển góc chia cho thời gian dịch chuyển:\nω\n=\nθ\nt\n- Đơn vị: rad/s\n- Mối liên hệ: v = ω.r\n- Chu kì (T) trong chuyển động tròn đều là thời gian để vật quay hết một vòng tròn.\n- Tần số (f) là số vòng vật đi được trong một giây. Đơn vị: héc (Hz).\nT\n=\n1\nf\n=\n2\nπ\nω",
+      "Vận tốc trong chuyển động tròn đều": "- Tại mỗi thời điểm, vectơ vận tốc tức thời sẽ có phương trùng với tiếp tuyến của đường tròn.\n- Trong chuyển động tròn đều, độ lớn của vận tốc tức thời không đổi nhưng hướng luôn thay đổi.\nHình ảnh trực quan mô tả vận tốc tức thời có phương tiếp tuyến với quỹ đạo\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 32: Lực hướng tâm và gia tốc hướng tâm",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-32-luc-huong-tam-va-gia-toc-huong-tam.jsp",
+    "content": {
+      "Lực hướng tâm": "Lực (hay hợp lực) tác dụng lên vật chuyển động tròn đều hướng vào tâm quỹ đạo gọi là lực hướng tâm.\nLực căng dây đóng vai trò lực hướng tâm\nLực hấp dẫn của Trái Đất lên Mặt Trăng đóng vai trò lực hướng tâm",
+      "Gia tốc hướng tâm": "Trong chuyển động tròn đều, lực hướng tâm gây ra gia tốc hướng vào tâm nên gia tốc này được gọi là gia tốc hướng tâm, kí hiệu là aht:\na\nh\nt\n=\nv\n2\nr\n=\nω\n2\nr",
+      "Công thức độ lớn lực hướng tâm": "Độ lớn lực hướng tâm:\nF\nh\nt\n=\nm\n.\na\nh\nt\n=\nm\n.\nv\n2\nr\n=\nm\nω\n2\nr\nVí dụ: lực hấp dẫn của Trái Đất lên vệ tinh đóng vai trò lực hướng tâm.\nKhi đó lực hướng tâm:\nF\nh\nt\n=\nF\nh\nd\n=\nG\nm\nT\nD\n.\nm\nv\nt\nr\n2\nTrò chơi xe đạp lòng chảo\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 33: Biến dạng của vật rắn",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-33-bien-dang-cua-vat-ran.jsp",
+    "content": {
+      "Biến dạng đàn hồi. Biến dạng kéo và biến dạng nén": "- Khi không có ngoại lực tác dụng, vật rắn có kích thước và hình dạng xác định.\n- Khi có ngoại lực tác dụng, vật rắn thay đổi hình dạng và kích thước, ta nói vật rắn bị biến dạng. Mức độ biến dạng phụ thuộc vào độ lớn của ngoại lực.\nTay ép quả bóng cao su vào tường\nNén lò xo dọc theo trục của nó\nKéo hai đầu lò xo dọc theo trục của nó\nKéo dãn vòng dây cao su\n- Khi không còn tác dụng của ngoại lực, nếu vật rắn lấy lại được hình dạng và kích thước ban đầu thì biến dạng của vật là biến dạng đàn hồi.\n- Giới hạn mà trong đó vật rắn còn giữ được tính đàn hồi được gọi là giới hạn đàn hồi của vật rắn.\n- Khi vật chịu tác dụng của cặp lực nén ngược chiều nhau, vuông góc với bề mặt của vật rắn và hướng vào phía trong vật, ta có biến dạng nén.\n- Khi vật chịu tác dụng của cặp lực kéo ngược chiều nhau, vuông góc với bề mặt của vật rắn và hướng ra phía ngoài vật, ta có biến dạng kéo.",
+      "Lực đàn hồi của lò xo": "- Khi nén hoặc kéo hai đầu lò xo, tay ta cũng chịu tác dụng các lực từ phía lò xo, các lực này ngược chiều với lực tay tác dụng vào lò xo và được gọi là lực đàn hồi của lò xo.\n- Lực đàn hồi của lò xo chống lại nguyên nhân làm nó biến dạng và có xu hướng đưa nó trở về hình dạng và kích thước ban đầu.\nBiểu diễn lực đàn hồi khi lò xo bị kéo",
+      "Định luật Hooke": "- Định luật: Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo tỉ lệ thuận với độ biến dạng của lò xo.\nFđh = k|∆ℓ|\nTrong đó:\n+ k là độ cứng của lò xo, đơn vị N/m.\n+ ∆ℓ = ℓ – ℓ0 là độ biến dạng của lò xo.\n- Khi ngoại lực tác dụng vào vật vượt quá giới hạn đàn hồi thì lúc đó lực đàn hồi không còn tỉ lệ thuận với độ biến dạng nữa, tính đàn hồi của vật bị phá hủy.\n- Ứng dụng:\nBộ phận giảm xóc xe máy\nGiảm xóc ô tô\nVán nhảy ở bể bơi\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 34: Khối lượng riêng. Áp suất chất lỏng",
+    "url": "https://www.vietjack.com/vat-li-10-kn/ly-thuyet-bai-34-khoi-luong-rieng-ap-suat-chat-long.jsp",
+    "content": {
+      "Khối lượng riêng": "- Khối lượng riêng của một chất là khối lượng của một đơn vị thể tích chất đó:\nK\nh\nố\ni\nl\nư\nợ\nn\ng\nr\ni\nê\nn\ng\n=\nK\nh\nố\ni\nl\nư\nợ\nn\ng\nT\nh\nể\nt\ní\nc\nh\nρ\n=\nm\nV\n- Đơn vị: kg/m3.",
+      "Khái niệm áp lực": "Lực ép\n−→\nF\nN\ncó phương vuông góc với bề mặt tiếp xúc được gọi là áp lực",
+      "Áp lực phụ thuộc những yếu tố nào?": "- Áp lực phụ thuộc vào diện tích bề mặt tiếp xúc và khối lượng của vật.",
+      "Áp suất": "- Để đặc trưng cho tác dụng của áp lực người ta dùng khái niệm áp suất, có độ lớn bằng áp lực chia cho diện tích bị ép.\nÁ\np\ns\nu\nấ\nt\n=\nÁ\np\nl\nự\nc\nD\ni\nệ\nn\nt\ní\nc\nh\nb\nị\né\np\np\n=\nF\nN\nS\n- Đơn vị: N/m2, có tên gọi là paxcan (Pa).\n1Pa = 1N/m2\n- Áp suất ở một số trường hợp khác nhau:\nXe tăng đi trên đất bùn dễ dàng\nÔ tô bị sa lầy đi trên đất bùn",
+      "Sự tồn tại áp suất chất lỏng": "Vật ở trong chất lỏng sẽ chịu áp suất của chất lỏng tác dụng lên vật theo mọi phương.\nNgười thợ lặn chịu áp suất của chất lỏng từ mọi phía",
+      "Công thức tính áp suất chất lỏng": "- Công thức: p = pa + ρgh\n- Trong đó:\n+ p là áp suất của chất lỏng tác dụng lên đáy bình.\n+ pa là áp suất của khí quyển trên mặt thoáng của chất lỏng.\n+ ρ là khối lượng riêng của chất lỏng.\n+ g là gia tốc trọng trường.\n+ h là chiều cao của cột chất lỏng, cũng là độ sâu của chất lỏng so với mặt thoáng.\n- Chất lỏng truyền áp suất theo mọi hướng nên áp suất mà ta tính được ở trên cũng là áp suất của chất lỏng tác dụng lên các điểm ở thành bình có khoảng cách tới mặt thoáng chất lỏng là h.",
+      "Phương trình cơ bản của chất lưu đứng yên": "- Độ chênh lệch về áp suất của chất lưu giữa hai điểm M và N:\n∆p = ρg∆h\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 1: Khái quát về môn vật lí",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-1-khai-quat-ve-mon-vat-li.jsp",
+    "content": {
+      "vật chất": "Ví dụ: Một số đối tượng nghiên cứu Vật lí trong tự nhiên:",
+      "Mục tiêu của Vật Lí": "- Khám phá ra quy luật tổng quát nhất chi phối sự vận động của vật chất và năng lượng cũng như tương tác của chúng ở mọi cấp độ: vi mô, vĩ mô.\n- Học tập môn Vật lí, giúp học sinh có thể hiểu được các quy luật của tự nhiên, vận dụng kiến thức vào cuộc sống, từ đó hình thành năng lực khoa học công nghệ.\nVí dụ: Học về quán tính, học sinh sẽ giải thích được tại sao khi thắng gấp người lại ngả về phía trước và từ đó khi đi xe ô tô phải thắt dây an toàn. Hay học về phản xạ âm thanh học sinh sẽ giải thích được tiếng vọng lại trong hang động, từ đó chế tạo ra công nghệ đo sâu hồi âm để đo độ sâu của đáy biển.",
+      "- Phương pháp thực nghiệm": "Ví dụ: Thí nghiệm về sự rơi của các vật của nhà khoa học Galile tại đỉnh tháp Pisa đã bác bỏ nhận định sai lầm của Aristole cho rằng vật nặng rơi nhanh hơn vật nhẹ là do bản chất tự nhiên.",
+      "- Phương pháp lý thuyết": "Ví dụ: Công trình nghiên cứu dự đoán sự tồn tại của Hải Vương Tinh trong hệ Mặt Trời của các nhà nghiên cứu ở thế kỉ XIX.\n- Hai phương pháp này hỗ trợ cho nhau, trong đó phương pháp thực nghiệm có tính quyết định.\n- Quá trình nghiên cứu của các nhà khoa học nói chung và nhà vật lí nói riêng chính là quá trình tìm hiểu thế giới tự nhiên. Quá trình này có tiến trình các bước như sau:",
+      "- Ngay chính trong môn Vật lí:": "Xem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Vấn đề an toàn trong Vật lí",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-2-van-de-an-toan-trong-vat-li.jsp",
+    "content": {
+      "Vấn đề 1:": "- Hiện tượng phóng xạ tự nhiên được tìm ra bởi nhà vật lí người Pháp Becquerel (Béc- cơ- ren) (1852-1908) và được pháp triển nhờ nghiên cứu của nhà khoa học Marie Curie .\n- Việc sử dụng chất phóng xạ không đúng cách sẽ gây ảnh hưởng nghiêm trọng tới sức khỏe và tính mạng của con người.\n- Để hạn chế những rủi ro và nguy hiểm do chất phóng xạ gây ra, chúng ta phải đảm bảo những quy tắc an toàn như sau:\n+ Giảm thời gian tiếp xúc với nguồn phóng xạ.\n+ Tăng khoảng cách từ ta đến nguồn phóng xạ.\n+ Đảm bảo che chắn những cơ quan trọng yếu của cơ thể.\n- Ngày nay các chất phóng xạ được sử dụng rộng rãi trong đời sống:\nSử dụng trong y học trong chuẩn đoán và điều trị ung thư\nSử dụng trong nông nghiệp để tạo đột biến và cải thiện giống cây trồng.\nSử dụng trong sản xuất điện năng từ các nguồn năng lượng hạt nhân\nSử dụng trong khảo cổ để phát hiện tuổi của cổ vật",
+      "Vấn đề 2:": "- Những vấn đề an toàn không được đảm bảo, quá trình tổ chức hoạt động học tập trong phòng thí nghiệm có thể gây ra nhiều sự cố nguy hiểm cho học sinh.\nVí dụ: Học sinh có thể bị bỏng do sự cố chập điện hoặc cháy nổ do hóa chất. Bị thương do dùng vật sắc nhọn, thủy tinh vỡ. Bị giật điện do không tuân thủ các nguyên tắc an toàn khi sử dụng điện.\nKhi nghiên cứu học tập Vật lí, ta cần phải:\n- Hiểu được thông tin liên quan tới các rủi ro và nguy hiểm có thể xảy ra.\n- Tuân thủ và áp dụng các biện pháp bảo vệ để đảm bảo an toàn cho bản thân và cộng đồng.\n- Quan tâm, gìn giữ và bảo vệ môi trường.\n- Trong phòng thí nghiệm ở trường học, những rủi ro và nguy hiểm phải được cảnh báo rõ ràng bằng các biển báo. Học sinh cần chú ý tới sự nhắc nhở của nhân viên phòng thí nghiệm và giáo viên về các quy định an toàn. Ngoài ra các thiết bị bảo hộ cá nhân cần phải được trang bị đầy đủ.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 3: Đơn vị và sai số trong vật lí",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-3-don-vi-va-sai-so-trong-vat-li.jsp",
+    "content": {
+      "Hệ đơn vị SI, đơn vị cơ bản và đơn vị dẫn xuất": "- Kết quả của phép đo bao gồm hai thông tin: số đo cho biết giá trị của đại lượng đang xét và đơn vị của số đo.",
+      "7 đơn vị cơ bản.": "- Khi số đo của đại lượng đang xem xét là một bội số hoặc ước số thập phân của mười, ta có thể sử dụng tiếp đầu ngữ ngay trước đơn vị để phần số đo được trình bày ngắn gọn.",
+      "đơn vị dẫn xuất": "Ví dụ: Đơn vị của 1 km = 1000 m; đơn vị của vận tốc \nk\nm\n/\nh\n=\n1000\nm\n3600\ns\n=\n10\n36\nm\n/\ns",
+      "Thứ nguyên": "- Thứ nguyên của một đại lượng là quy luật nêu lên sự phụ thuộc của đơn vị đo đại lượng đó vào các đơn vị cơ bản.\n- Thứ nguyên của một đại lượng X được biểu diễn dưới dạng [X].\n- Một đại lượng có thể được biểu diễn bằng nhiều đơn vị khác nhau nhưng chỉ có một thứ nguyên duy nhất. Một số đại lượng vật lí có thể có cùng thứ nguyên.\nVí dụ:\n- Tọa độ, quãng đường có thể được biểu diễn bằng đơn vị mét, dặm, cây số, hải lí, feet… nhưng chỉ có một thứ nguyên duy nhất là L.\n- Tốc độ, vận tốc có thể có các đơn vị m/s; km/h; dặm/giờ … nhưng chỉ có một thứ nguyên là L.T-1\nLưu ý: Trong các biểu thức vật lí:\n- Số hạng trong phép cộng (hoặc trừ) phải có cùng thứ nguyên.\n- Hai vế cùng một biểu thức phải có cùng một thứ nguyên.",
+      "Các phép đo trong Vật lí": "- Phép đo các đại lượng vật lí là phép so sánh chúng với đại lượng cùng loại được quy ước làm đơn vị.\n- Phép đo trực tiếp: giá trị của đại lượng cần đo được đọc trực tiếp trên dụng cụ đo (ví dụ như đo khối lượng bằng cân, đo thể tích bằng bình chia độ).\n- Phép đo gián tiếp: giá trị của đại lượng cần đo được xác định thông qua các đại lượng được đo trực tiếp.\nVí dụ như đo khối lượng riêng thông qua khối lượng (đo bằng cân) chia cho thể tích (đo bằng bình chia độ) theo công thức.",
+      "Các loại sai số trong phép đo": "- Độ chênh lệch giữa giá trị thật và số đo (giá trị đo được) được gọi là sai số.\n- Nguyên nhân là do giới hạn về độ chính xác của dụng cụ đo, do kĩ thuật đo, quy trình đo, chủ quan của người đo…\n- Các loại sai số.",
+      "Cách biểu diễn sai số của phép đo": "- Giá trị x của một đại lượng vật lí thường được ghi dưới dạng: \nx\n=\n¯\nx\n+\nΔ\nx\nTrong đó:",
+      "sai số tuyệt đối": "Sai số tuyệt đối của phép đo cho biết phạm vi biến thiên của giá trị đo được và bằng tổng sai số ngẫu nhiên và sai số dụng cụ:\nΔ\nx\n=\n¯¯¯¯¯\nΔ\nx\n+\nΔ\nx\nd\nc\nTrong đó:\nΔ\nx\nd\nc\n sai số dụng cụ thường được xem như bằng nửa độ chia nhỏ nhất.\nSai số tuyệt đối trung bình: \n¯¯¯¯¯\nΔ\nx\n=\nΔ\nx\n1\n+\nΔ\nx\n2\n+\n...\n+\nΔ\nx\nn\nn\nTa có\nΔ\nx\ni\n=\n|\n¯\nx\n−\nx\ni\n|\n trong đó xi là giá trị đo lần thứ i",
+      "Sai số tương đối": "Sai số tương đối cho biết sự chính xác của phép đo.",
+      "Cách xác định sai số trong phép đo gián tiếp": "Nguyên tắc xác định sai số trong phép đo gián tiếp:\n- Sai số tuyệt đối của một tổng hay một hiệu bằng tổng sai số tuyệt đối của các số hạng:\nNếu\nF\n=\nx\n±\ny\n±\nz\n…thì\nΔ\nF\n=\nΔ\nx\n±\nΔ\ny\n±\nΔ\nz\n…\n- Sai số tương đối\nF\n=\nx\nm\ny\nn\nz\nk\n thì \nδ\nF\n=\nδ\nx\n.\nm\n±\nδ\ny\n.\nn\n±\nδ\nz\n.\nk\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 4: Chuyển động thẳng",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-4-chuyen-dong-thang.jsp",
+    "content": {
+      "- Chất điểm:": "Ví dụ: So với quãng đường từ Hà Nội tới Quảng Ninh 300 km thì ô tô (dài 5 m) được coi là chất điểm.",
+      "Tốc độ trung bình": "v\nt\nb\n=\ns\nΔ\nt\nTrong hệ SI, đơn vị của tốc độ là m/s (mét trên giây). Ngoài ra có các đơn vị khác như là km/h; km/s; …",
+      "nhanh, chậm": "Nếu trong khoảng thời gian ∆t vật di chuyển một quãng đường s thì:",
+      "tốc độ tức thời": "- Một vật chuyển động tức thời không đổi được gọi là chuyển động đều.\n- Một vật chuyển động tức thời thay đổi được gọi là chuyển động không đều.",
+      "Độ dịch chuyển": "- Độ dịch chuyển được xác định bằng độ biến thiên tọa độ của vật.\nd\n=\nx\n2\n−\nx\n1\n=\nΔ\nx\n- Độ dịch chuyển là một đại lượng vecto (\n→\nd\n) có gốc tại vị trí ban đầu, hướng từ vị trí đầu đến vị trí cuối. Độ lớn bằng khoảng cách giữa vị trí đầu và cuối.\n- Độ dịch chuyển có thể nhận giá trị âm hoặc dương. Còn quãng đường là đại lượng không âm.",
+      "Vận tốc": "- Vận tốc trung bình là đại lượng vecto được xác định bằng thương số giữa độ dịch chuyển của vật và thời gian vật thực hiện dịch chuyển đó.\n−→\nv\nt\nb\n=\n→\nd\nΔ\nt\n=\nΔ\n→\nx\nΔ\nt\n- Tốc độ trung bình và vận tốc trung bình bằng nhau khi vật chuyển động thẳng không đổi chiều.",
+      "Vẽ đồ thị độ dịch chuyển - thời gian dựa vào số liệu cho trước.": "- Từ đồ thị (d - t) ta có nhận xét:",
+      "Xác định vận tốc từ độ dốc của đồ thị (d - t)": "- Vận tốc tức thời của một vật tại một thời điểm được xác định bởi độ dốc của tiếp tuyến với đồ thị (d - t) tại thời điểm đang xét.\n- Tốc độ tức thời của vật tại một thời điểm chính là độ lớn của độ dốc tiếp tuyến của đồ thị (d - t) tại thời điểm đó.",
+      "Độ dịch chuyển - Vận tốc trong mặt phẳng": "- Khi vật chuyển động trong mặt phẳng độ dịch chuyển chính là vecto có gốc đặt tại điểm xuất phát và ngọn tại điểm kết thúc quỹ đạo.\n- Vận tốc tức thời có phương tiếp tuyến với quỹ đạo và có chiều là chiều chuyển động.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 5: Chuyển động tổng hợp",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-5-chuyen-dong-tong-hop.jsp",
+    "content": {
+      "Tính tương đối của chuyển động": "- Một vật có thể đứng yên trong hệ quy chiếu này nhưng lại chuyển động trong hệ quy chiếu khác. Do đó, chuyển động có tính tương đối.",
+      "Độ dịch chuyển tổng hợp và vận tốc tổng hợp": "- Quy ước:\n+ Số 1: vật chuyển động đang xét\n+ Số 2: vật chuyển động được chọn làm gốc của hệ quy chiếu chuyển động\n+ Số 3: vật đứng yên được chọn làm gốc của hệ quy chiếu đứng yên.\n- Dùng phương pháp toán học người ta suy ra được độ dịch chuyển tổng hợp:\n→\nd\n13\n=\n→\nd\n12\n+\n→\nd\n23\nTrong đó:\n→\nd\n12\n là độ dịch chuyển trong hệ quy chiếu chuyển động;\n→\nd\n23\n là độ dịch chuyển giữa hệ quy chiếu chuyển động so với hệ quy chiếu đứng yên.\n- Xét trong khoảng thời gian rất nhỏ, kết hợp với định nghĩa của vận tốc, ta suy ra được vận tốc tổng hợp:\n→\nv\n13\n=\n→\nv\n12\n+\n→\nv\n23\nTrong đó:\n+\n→\nv\n13\n: vận tốc tuyệt đối là vận tốc của vật đối với hệ quy chiếu đứng yên;\n+\n→\nv\n12\n: vận tốc tương đối là vận tốc của vật đối với hệ quy chiếu chuyển động;\n+\n→\nv\n23\n: vận tốc kéo theo là vận tốc của hệ quy chiếu chuyển động đối với hệ quy chiếu đứng yên.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 7: Gia tốc – Chuyển động thẳng biến đổi đều",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-7-gia-toc-chuyen-dong-thang-bien-doi-deu.jsp",
+    "content": {
+      "gia tốc trung bình": "a\nt\nb\n=\nΔ\nv\nΔ\nt\n=\nv\n2\n−\nv\n1\nΔ\nt\n- Gia tốc tức thời tại một thời điểm có giá trị bằng độ dốc của tiếp tuyến của đồ thị vận tốc - thời gian (v - t) tại thời điểm đó.\n- Trong hệ SI đơn vị của gia tốc là m/s2.",
+      "Gia tốc trung bình": "→\na\nt\nb\n=\nΔ\n→\nv\nΔ\nt\n=\n→\nv\n2\n−\n→\nv\n1\nΔ\nt",
+      "gia tốc tức thời": "- Trong một số phương tiện giao thông như máy bay, xe đua, gia tốc tức thời được đo trực tiếp bằng gia tốc kế.\n- Ta có thể dựa vào giá trị của gia tốc tức thời để phân chuyển động thành những loại sau:\n+ a = 0: chuyển động thẳng đều, vật có độ lớn vận tốc không đổi.\n+ a\n≠\n 0 và bằng hằng số: chuyển động thẳng biến đổi đều, vật có độ lớn vận tốc thay đổi (tăng hoặc giảm) đều theo thời gian.\n+ a\n≠\n 0 nhưng không phải hằng số: chuyển động thẳng biến đổi phức tạp. Chúng ta không xét loại chuyển động này trong chương trình vật lý THPT.",
+      "Lưu ý:": "x = x0 + v0.t + \n1\n2\na\nt\n2\n- Phương trình liên hệ giữa gia tốc, vận tốc và độ dịch chuyển:\nv\n2\n−\nv\n2\n0\n=\n2\na\n.\nd\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "Vận dụng đồ thị (v - t) để xác định độ dịch chuyển": "- Ví dụ 1: Độ dịch chuyển của vật trong khoảng thời gian từ t1 đến t2 được xác định bằng phần diện tích giới hạn bởi các đường v(t), v = 0, t = t1, t = t2 trong đồ thị (v – t).\nĐộ dịch chuyển bằng diện tích hình chữ nhật ABCD\n- Ví dụ 2: Độ dịch chuyển của vật chuyển động thẳng biến đổi đều",
+      "Các phương trình của chuyển động thẳng biến đổi đều": "- Phương trình gia tốc: a = hằng số\n- Phương trình vận tốc: v = v0 + at\nTrong đó: v0 là vận tốc của vật tại thời điểm t0.\nv là vận tốc của vật tại thời điểm t.\n- Phương trình độ dịch chuyển: d = v0.t + \n1\n2\na\nt\n2\nĐồ thị (d - t) của chuyển động thẳng biến đổi đều được biểu diễn trong hình 7.9 là một nhánh parabol.",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 9: Chuyển động ném",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-9-chuyen-dong-nem.jsp",
+    "content": {
+      "Mô tả chuyển động ném ngang": "Tiến hành thí nghiệm thả viên bi đỏ rơi tự do, đồng thời bắn viên bi vàng theo phương ngang cùng độ cao h.\nĐể đơn giản hóa quá trình khảo sát, chuyển động ném ngang được phân tích thành hai thành phần vuông góc với nhau trên trục Ox nằm ngang và trục Oy thẳng đứng. Quan sát các vị trí liên tiếp của viên bi vàng và hình chiếu của các vị trí này trên hai trục Ox, Oy ta thấy:\n- Quỹ đạo của viên bi vàng có dạng đường cong.\n- Trên trục Ox: hình chiếu vị trí của viên bi vàng di chuyển được những quãng đường như nhau trong những khoảng thời gian bằng nhau. Do đó trên phương này viên bi vàng chuyển động thẳng đều.\n- Trên trục Oy: hình chiếu vị trí của viên bi vàng hoàn toàn trùng với vị trí của viên bi đỏ. Do đó trên phương này viên bi vàng chuyển động thẳng nhanh dần đều.",
+      "Giải thích chuyển động ném ngang": "- Chuyển động ném là một chuyển động phức tạp trong mặt phẳng (hoặc không gian ba chiều trong trường hợp tổng quát). Vật luôn có gia tốc bằng với gia tốc rơi tự do\n→\ng\n thẳng đứng hướng xuống và vuông góc với vận tốc ban đầu\n→\nv\n0\n.\n- Các phương trình chuyển động thành phần theo trục Ox:\n+ gia tốc:  ax = 0 nên vật chuyển động thẳng đều trên trục Ox\n+ vận tốc: vx = v0 là hằng số.\n+ phương trình chuyển động: x = v0.t\n- Các phương trình chuyển động thành phần theo trục Oy:\n+ gia tốc: ay = g nên vật chuyển động thẳng nhanh dần đều trên Oy (do vectơ hình chiếu vận tốc\n→\nv\ny\n và gia tốc luôn cùng chiều\n→\ng\n).\n+ vận tốc: vy = g.t\n+ phương trình chuyển động: y =\n1\n2\ng.t2\n-  Phương trình quỹ đạo: \ny\n=\ng\n2.\nv\n0\n2\nx\n2\nNhận xét: quỹ đạo chuyển động của vật chuyển động ném ngang là một nhánh của đường parabol.\n- Thời gian rơi của vật: \nt\n=\n√\n2\nh\ng\nNhận xét: thời gian của vật chuyển động ném ngang không phụ thuộc vào vận tốc ném ngang ban đầu.\n- Tầm xa: khoảng cách xa nhất theo phương ngang so với vị trí ném được xác định\nL = xmax = v0.t = \nv\n0\n√\n2\nh\ng",
+      "Chuyển động ném xiên.": "- Chuyển động ném xiên là chuyển động của một vật được ném lên với vận tốc ban đầu \n→\nv\n0\nhợp với phương ngang một góc α (gọi là góc ném). Vật ném xiên chỉ chịu tác dụng của trọng lực.\n- Theo phương ngang vật không chịu tác dụng của lực nào: vx = v0.t chuyển động của vật là chuyển động thẳng đều.\n- Theo phương thẳng đứng:\n+ Giai đoạn 1: vật chuyển động đi lên đến độ cao cực đại (tại đó vy = 0) chịu tác dụng của trọng lực hướng xuống, vận tốc của vật: vy = v0.sinα - gt\n⇒\nvật chuyển động thẳng chậm dần đều với gia tốc -g\n+ Giai đoạn 2: vật chuyển động đi xuống vy = g.t lúc này chuyển động của vật tương đương với chuyển động ném ngang.\n- Độ lớn của lực không đổi\n⇒\nthời gian vật chuyển động đi lên đến độ cao cực đại đúng bằng thời gian vật chuyển động đi xuống ngang với vị trí ném.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 10: Ba định luật Newton về chuyển động",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-10-ba-dinh-luat-newton-ve-chuyen-dong.jsp",
+    "content": {
+      "Nhắc lại về khái niệm lực": "- Lực là sự kéo hoặc đẩy",
+      "biến dạng": "- Lực luôn do một vật tạo ra và tác dụng lên vật khác, có hai loại lực: lực tiếp xúc và lực không tiếp xúc.",
+      "Khái niệm quán tính": "Vật luôn có xu hướng bảo toàn vận tốc chuyển động của mình. Tính chất này được gọi là quán tính của vật.\nVí dụ: Khi xe đang đứng yên sau đó đột ngột tăng tốc thì người ngồi trên xe sẽ có xu hướng ngả người về phía sau đối với xe. Khi xe đang chạy đều bất chợt phanh gấp thì người ngồi trên xe sẽ có xu hướng chúi người về phía trước đối với xe.",
+      "Định luật I Newton": "Một vật nếu không chịu tác dụng của lực nào (vật tự do) thì vật đó giữ nguyên trạng thái đứng yên, hoặc chuyển động thẳng đều mãi mãi.\nVí dụ:\nTàu thăm dò Voyager 1 (hình 10.6) được phóng vào vũ trụ tháng 9 năm 1977 có thể được xem gần đúng là vật tự do bởi lực tác dụng vào nó rất bé, có thể bỏ qua. Hiện nay, tàu đã rời khỏi hệ Mặt Trời đi vào vũ trụ với tốc độ không đổi.\nÝ nghĩa của định luật I Newton: Lực không phải là nguyên nhân gây ra chuyển động, mà là nguyên nhân làm thay đổi vận tốc chuyển động của vật.",
+      "Định luật II Newton": "Nội dung định luật: Gia tốc của vật có cùng hướng với lực tác dụng lên vật. Độ lớn gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng vật.\n→\na\n=\n→\nF\nm\n- Trong hệ SI, đơn vị của lực là N (niu tơn).\n1 N = 1 kg.1m/s2\n- Trong trường hợp vật chịu tác dụng của nhiều lực, thì lực\n→\nF\n trong biểu thức là lực tổng hợp của tất cả các lực thành phần:\n→\nF\n=\n−→\nF\n1\n+\n−→\nF\n2\n+\n−→\nF\n3\n+\n....\nVí dụ: Chiếc máy bay trong hình dưới đây chịu tác dụng của nhiều lực đồng thời, thì lực\n→\nF\n trong biểu thức\n→\na\n=\n→\nF\nm\n là lực tổng hợp của tất cả các lực thành phần.",
+      "Mức quán tính của vật.": "- Khối lượng là đại lượng đặc trưng cho mức quán tính của vật.\nVí dụ trong hình 10.10 cho ta thấy, xe ô tô có khối lượng lớn hơn xe máy hay mức quán tính của xe ô tô lớn hơn của xe máy nên rất khó để thay đổi tốc độ của ô tô, nhưng có thể dễ dàng thay đổi tốc độ của xe máy.",
+      "Hai lực bằng nhau:": "Ví dụ:\nKhi hai em bé trong hình 10.12 lần lượt đẩy và kéo một thùng hàng đang đứng yên với hai lực\n−→\nF\n1\n hoặc\n−→\nF\n2\n cùng hướng với nhau và bằng nhau về độ lớn thì thùng hàng sẽ chuyển động với gia tốc như nhau, như vậy\n−→\nF\n1\n=\n−→\nF\n2\n.",
+      "Hai lực không bằng nhau:": "Ví dụ:\nKhi tác dụng lần lượt các lực\n−→\nF\n3\n và\n−→\nF\n4\nđể dịch chuyển quyển sách đặt trên bàn theo hai hướng khác nhau (hình 10.13), quyển sách sẽ chuyển động theo hai hướng khác nhau và đo đó có gia tốc khác nhau, như vậy\n−→\nF\n3\n≠\n−→\nF\n4\n.\n- Nếu cho hai lực đồng thời tác dụng vào cùng một vật theo hướng ngược nhau, ta có hai trường hợp có thể xảy ra:\nTrường hợp 1: Vật đứng yên hoặc chuyển động thẳng đều. Hai lực này được gọi là hai lực cân bằng.\nVí dụ: Các bạn nhỏ đang chơi kéo co, tác dụng hai lực cân bằng lên dây nên dây đứng yên\nTrường hợp 2: Vật thu gia tốc và chuyển động theo hướng của lực có độ lớn lớn hơn. Hai lực này được gọi là hai lực không cân bằng.\nVí dụ: Hai nhóm các bạn chơi kéo co, lực do nhóm các bạn bên trái tác dụng lên dây lớn hơn lực do nhóm các bạn bên phải, nên dây chuyển động về phía trái.",
+      "Định luật III Newton": "- Khi vật A tác dụng lên vật B một lực, thì vật B cũng tác dụng lên vật A một lực. Hai lực này có điểm đặt lên hai vật khác nhau, có cùng giá, cùng độ lớn nhưng ngược chiều.\n−−→\nF\nA\nB\n=\n−\n−−→\nF\nB\nA\n- Một trong hai lực trong định luật III Newton được coi là lực tác dụng, lực kia gọi là phản lực. Cặp lực này:\n+ Có cùng bản chất.\n+ Là hai lực trực đối.\n+ Xuất hiện và biến mất cùng lúc.\n+ Tác dụng vào hai vật khác nhau nên không thể triệt tiêu lẫn nhau.\nVí dụ:\nTrong trò chơi đệm nhún lò xo, khi người tác dụng lên mặt đệm một lực hướng xuống, thì đệm tác dụng lại người chơi một lực hướng lên trên, đẩy người chơi bật lên cao.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 11: Một số lực trong thực tiễn",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-11-mot-so-luc-trong-thuc-tien.jsp",
+    "content": {
+      "Trọng lực": "- Lực làm cho vật rơi chính là lực hấp dẫn của Trái Đất tác dụng lên vật, còn được gọi là trọng lực\n→\nP\n. Theo định luật II Newton, ta có:\n→\nP\n=\nm\n.\n→\ng\n- Đặc điểm của trọng lực: Trọng lực là lực hấp dẫn giữa Trái Đất và vật.\n+ Điểm đặt: tại một vị trí đặc biệt gọi là trọng tâm.\n+ Hướng: hướng vào tâm Trái Đất.\n+ Độ lớn: P = m.g\n- Khi một vật đứng yên trên mặt đất, trọng lượng của vật bằng độ lớn của trọng lực tác dụng lên vật.\n- Vị trí của trọng tâm phụ thuộc vào sự phân bố khối lượng của vật, có thể nằm bên trong vật hoặc bên ngoài vật.\nVí dụ:\n- Trọng tâm có vai trò quan trọng trong sự cân bằng của các vật.",
+      "Các loại lực ma sát": "Lực ma sát là lực xuất hiện ở bề mặt tiếp xúc giữa hai vật, có tác dụng chống lại xu hướng thay đổi vị trí tương đối giữa hai bề mặt.",
+      "Ma sát nghỉ:": "- Lực ma sát nghỉ có:\n+ Điểm đặt trên vật và ngay tại vị trí tiếp xúc của hai bề mặt.\n+ Phương tiếp tuyến và ngược chiều với xu hướng chuyển động tương đối của hai bề mặt tiếp xúc.\n+ Độ lớn của lực ma sát nghỉ bằng độ lớn của lực tác dụng gây ra xu hướng chuyển động.",
+      "Ma sát trượt:": "Ví dụ: bánh xe trượt trên mặt đường khi hãm phanh đột ngột tạo ra vết trượt như hình.\n- Lực ma sát trượt có:\n+ Điểm đặt trên vật và ngay tại vị trí tiếp xúc của hai bề mặt\n+ Phương tiếp tuyến và ngược chiều với chuyển động của vật.\n+ Độ lớn của lực ma sát trượt:\n+ Không phụ thuộc vào diện tích tiếp xúc và tốc độ chuyển động của vật.\n+ Phụ thuộc vào vật liệu và tính chất của hai bề mặt tiếp xúc.\n+ Tỉ lệ với độ lớn của áp lực giữa hai bề mặt tiếp xúc:\nF = μ. N\n- Hệ số μ là hệ số ma sát trượt, phụ thuộc vào vật liệu và tình trạng của hai bề mặt tiếp xúc. Đây là đại lượng không có đơn vị.",
+      "Ma sát lăn": "Ví dụ: Ma sát lăn giữa bánh xe và mặt sàn trong hình 11.5b sau đây.",
+      "Ứng dụng của lực ma sát lăn": "Lực ma sát có tác dụng cản trở chuyển động của vật nhưng đôi khi tác dụng này lại mang lại nhiều ứng dụng trong cuộc sống.\nVí dụ:\n- Que diêm ma sát với bìa nhám của hộp diêm sinh nhiệt làm chất hóa học ở đầu que diêm cháy là ứng dụng của ma sát trượt.\n- Ma sát nghỉ giữ cho các thùng hàng nằm yên trên băng chuyền khi băng chuyền di chuyển.",
+      "Lực căng dây": "- Khi một sợi dây bị kéo căng, nó sẽ tác dụng lên hai vật gắn với hai đầu dây những lực căng có đặc điểm:\n+ Điểm đặt là điểm mà đầu dây tiếp xúc với vật.\n+ Phương trùng với chính sợi dây.\n+ Chiều hướng từ hai đầu dây vào phần giữa của sợi dây.\nVới những dây có khối lượng không đáng kể thì lực căng ở hai đầu dây luôn có cùng một độ lớn.\nLưu ý: Lực căng dây xuất hiện tại mọi điểm trên dây. Độ lớn của lực căng đây được xác định dựa vào điều kiện cụ thể của cơ hệ.\nVí dụ: Lực căng dây cân bằng với trọng lực tác dụng vào quả nặng. Quả nặng cân bằng.",
+      "Lực đẩy Archimeds (ÁC – SI  -  MÉT)": "Lực đẩy Archimedes tác dụng lên vật có điểm đặt tại vị trí trùng với trọng tâm của phần chất lỏng bị vật chiếm chỗ, có phương thẳng đứng, có chiều từ dưới lên trên, có độ lớn bằng trọng lượng phần chất lỏng bị chiếm chỗ.\nFA = ρ.g.V\nLưu ý: Khi vật nằm yên, điểm đặt C của lực đẩy ở trên đường thẳng đứng đi qua trọng tâm G của vật.",
+      "Xây dựng biểu thức xác định độ chênh lệch áp suất giữa hai điểm có độ sâu khác nhau trong chất lỏng.": "- Áp suất p: là đại lượng được xác định bằng độ lớn áp lực F trên một đơn vị diện tích S của mặt bị ép theo công thức\np\n=\nF\nS\nĐơn vị của áp suất trong hệ SI là Pa (1 Pa = 1 N/m2). Trong lòng chất lỏng luôn tồn tại áp suất do trọng lượng của chất lỏng tạo ra.\n- Khối lượng riêng ρ của một chất: là đại lượng được xác định bằng khối lượng m của vật tạo thành từ chất đó trên một đơn vị thể tích V của vật theo công thức\nρ\n=\nm\nV\nĐơn vị của khối lượng riêng trong hệ SI là kg/m3.\n- Độ chênh lệch áp suất giữa hai điểm A và B được xác định bằng công thức\n∆p = ρ.g.∆h\nTrong đó:\n+ ∆p là độ chênh lệch áp suất giữa A và B, có đơn vị Pa hay N/m2.\n+ ρ là khối lượng riêng của chất lỏng, có đơn vị kg/m3.\n+ g là gia tốc trọng trường, có đơn vị m/s2.\n+ ∆h là độ chênh lệch độ sâu giữa hai điểm A và B, có đơn vị m.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 12: Chuyển động của vật trong chất lưu",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-12-chuyen-dong-cua-vat-trong-chat-luu.jsp",
+    "content": {
+      "Chuyển động rơi của vật": "- Khi chuyển động trong không khí, trong nước hoặc trong chất lỏng nói chung (gọi chung là chất lưu), vật đều chịu tác dụng của lực cản.\nVí dụ: Chuyển động của viên bi trong dầu như hình sau\n- Tốc độ rơi của vật được ghi nhận tại từng thời điểm và biểu diễn trong đồ thị sau:\nTừ đồ thị, ta thấy khi xuất hiện lực cản của chất lưu, chuyển động rơi của vật không còn là chuyển động nhanh dần đều đơn giản mà chia làm ba giai đoạn:\n- Nhanh dần đều từ lúc bắt đầu rơi trong một thời gian ngắn.\n- Nhanh dần không đều trong một khoảng thời gian tiếp theo. Lúc này lực cản bắt đầu có độ lớn đáng kể và tăng dần.\n- Chuyển động đều với tốc độ giới hạn không đổi. Khi đó, tổng lực tác dụng lên vật rơi bị triệt tiêu.\n- Lực cản của chất lưu được biểu diễn bởi một lực đặt tại trọng tâm vật, cùng phương và ngược chiều với chiều chuyển động của vật trong chất lưu. Lực cản này phụ thuộc vào hình dạng vật.",
+      "Sự phụ thuộc của lực cản không khí vào hình dạng vật.": "Lực cản của không khí phụ thuộc vào hình dạng của vật chuyển động.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 13: Tổng hợp lực – Phân tích lực",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-13-tong-hop-luc-phan-tich-luc.jsp",
+    "content": {
+      "Phương pháp tổng hợp lực trên một mặt phẳng.": "- Lực tổng hợp là một lực thay thế các lực tác dụng đồng thời vào cùng một vật, có tác dụng giống hệt các lực ấy.\n- Quy tắc tổng hợp lực:\n+ Quy tắc hình bình hành: hợp lực của hai lực quy đồng được biểu diễn bằng đường chéo của hình bình hành mà hai cạnh là những vecto biểu diễn hai lực thành phần.\n+ Quy tắc tam giác lực: ta có thể tịnh tiến vectơ lực\n→\nF\n2\n sao cho gốc của nó trùng với ngọn của vectơ lực\n→\nF\n1\n, khi đó vectơ lực tổng hợp\n→\nF\nt\n là vectơ nối gốc của\n→\nF\n1\n và ngọn của \n→\nF\n2\n+ Quy tắc đa giác lực: Khi vật chịu tác dụng của nhiều hơn hai lực, ta có thể áp dụng một cách liên tiếp quy tắc tam giác lực để tìm hợp lực\n- Ví dụ: Lực tổng hợp tác dụng lên viên đá quý là Ft = 0\n- Ví dụ: Lực tổng hợp tác dụng vào xà lan chở cát.",
+      "Phương pháp phân tích một lực thành các lực thành phần vuông góc": "Phương pháp phân tích lực.\nLực kéo được phân tích thành hai thành phần vuông góc.",
+      "- Quy tắc tổng hợp hai lực song song cùng chiều": "+ Hợp lực của hai lực song song cùng chiều là một lực song song, cùng chiều và có độ lớn bằng tổng các độ lớn của hai lực ấy.\nF = F1 + F2\n+ Giá của hợp lực chia khoảng cách giữa hai giá của hai lực song song thành những đoạn tỉ lệ nghịch với độ lớn của hai lực ấy.\nF\n1\nF\n2\n=\nd\n2\nd\n1\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 14: Moment. Điều kiện cân bằng của vật",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-14-moment-dieu-kien-can-bang-cua-vat.jsp",
+    "content": {
+      "Khái niệm moment lực": "- Khái niệm: Moment lực đối với trục quay là đại lượng đặc trưng cho tác dụng làm quay của lực và được đo bằng tích của lực và được đo bằng tích của lực với cánh tay đòn của nó.\n- Biểu thức: M = F.d\nTrong đó:\nM là momen lực (N.m)\nF là lực tác dụng (N)\nd là cánh tay đòn (m): khoảng cách từ trục quay đến giá của lực.\n- Ví dụ:\n- Ví dụ về cách xác định moment lực",
+      "Khái niệm moment ngẫu lực": "- Khái niệm ngẫu lực: Hệ hai lực song song, nguợc chiều, có độ lớn bằng nhau và cùng tác dụng vào một vật gọi là ngẫu lực. Dưới tác dụng của ngẫu lực, chỉ có chuyển động quay của vật bị biến đổi.\n- Một số ví dụ khác về ứng dụng ngẫu lực trong cuộc sống.\nVặn khóa cửa\nVặn nút ga\nTháo bánh xe\n- Moment ngẫu lực:\n+ Đối với các trục quay vuông góc với mặt phẳng chứa ngẫu lực thì moment của ngẫu lực không phụ thuộc vào vị trí trục quay và luôn luôn có giá trị:\nM = F1.d1 + F2.d2 = F.(d1 + d2) = F.d\nTrong đó:\nF: là độ lớn của mỗi lực (N)\nd: khoảng cách giữa 2 giá của ngẫu lực còn được gọi là cánh tay đòn của ngẫu lực (m)\nM: moment của ngẫu lực (N.m)\n+ Moment của ngẫu lực không phụ thuộc vào vị trí của trục quay vuông góc với mặt phẳng chứa ngẫu lực.",
+      "Quy tắc moment": "- Muốn cho một vật có trục quay cố định ở trạng thái cân bằng, tổng độ lớn các moment lực có xu hướng làm vật quay theo chiều kim đồng hồ phải bằng tổng độ lớn các moment lực có xu hướng làm vật quay theo chiều ngược lại.\nM\n1\n+\nM\n2\n+\n...\n=\nM\n′\n1\n+\nM\n′\n2\n+\n...",
+      "Vận dụng quy tắc moment": "- Ví dụ: Moment của lực F (lực nâng của tay) có tác dụng làm xe quay theo chiều kim đồng hồ cân bằng với moment của trọng lực P (xe chở vật liệu) có tác dụng làm xe quay ngược chiều kim đồng hồ.\nXe đẩy vật liệu",
+      "Điều kiện cân bằng của vật": "Khi vật rắn ở trạng thái cân bằng, lực tác dụng vào vật phải có hai điều kiện sau:\n+ Lực tổng hợp tác dụng lên vật bằng không.\n+ Tổng moment lực tác dụng lên vật đối với một điểm bất kì bằng không.\n→\nF\n1\n+\n→\nF\n2\n+\n...\n+\n→\nF\nn\n=\n→\n0\nM\n1\n+\nM\n2\n+\n...\n+\nM\nn\n=\n0\nTrong điều kiện về moment lực, ta cần quy ước các moment lực có xu hướng làm vật quay theo một chiều có giá trị dương. Từ đó các moment lực có xu hướng làm vật quay theo chiều ngược với chiều dương quy ước sẽ có giá trị âm.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 15: Năng lượng và công",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-15-nang-luong-va-cong.jsp",
+    "content": {
+      "Năng lượng": "- Mọi biến đổi trong tự nhiên đều cần năng lượng.\n- Chúng ta không nhìn thấy năng lượng nhưng có thể cảm nhận được tác dụng của nó.\n- Ví dụ:\n+ Mọi hoạt động hằng ngày của chúng ta đều cần đến năng lượng. Năng lượng được lấy từ năng lượng dự trữ trong thức ăn.\n+ Cây cối lớn lên ra hoa, kết trái được là nhờ hấp thụ năng lượng của ánh sáng mặt trời.\n+ Khi lắp pin vào đèn pin và bật công tắc thì bóng đèn pin phát ra ánh sáng. Ánh sáng được tạo ra là nhờ có năng lượng dự trữ trong pin.\nXe ô tô chuyển động trên đường\nDu thuyền trên sông\nBánh được nướng trong lò\nBóng đèn chiếu sáng\nCây nảy mầm và lớn lên\nCon người hoạt động tư duy",
+      "Tính chất của năng lượng:": "Năng lượng của một hệ bất kì luôn có một số tính chất sau:\n+ Năng lượng là một đại lượng vô hướng.\n+ Năng lượng có thể tồn tại ở những dạng khác nhau.\n+ Năng lượng có thể truyền từ vật này sang vật khác, hoặc chuyển hóa qua lại giữa các dạng khác nhau và giữa các hệ, các thành phần của hệ.\n+ Trong hệ SI năng lượng có đơn vị là jun: J\n+ Đơn vị khác của năng lượng là calo (cal): Một calo là lượng năng lượng cần thiết để làm tăng nhiệt độ 1 g nước lên thêm 10C.\n1 cal = 4,184 J\nVí dụ: 1 thỏi socola nặng 60g chứa 280 cal năng lượng tức là 1171,52 J",
+      "Quá trình truyền và chuyển hóa năng lượng": "- Năng lượng không tự nhiên sinh ra và cũng không tự nhiên mất đi mà chỉ truyền từ vật này sang vật khác hoặc chuyển hóa từ dạng này sang dạng khác. Ta nói năng lượng được bảo toàn.",
+      "- Lưu ý:": "- Ví dụ một số quá trình truyền và chuyển hóa năng lượng trong thực tiễn:\n+ Đốt lửa bằng kính lúp: sự chuyển hóa năng lượng từ quang năng sang nhiệt năng.\nĐốt lửa bằng kính lúp\n+ Đun nước bằng bếp ga: Truyền năng lượng bằng cách truyền nhiệt, trong đó nhiệt năng từ lửa được truyền cho hệ là ấm nước và nước trong ấm.\nĐun nước bằng bếp ga\n+ Cọ xát để tạo lửa: Truyền năng lượng bằng cách thực hiện công cơ học.\nCọ xát để tạo lửa\n+ Sạc điện thoại không dây: Chuyển hóa năng lượng điện từ thành năng lượng hóa học trong pin và điện năng của điện thoại, ngoài ra còn có năng lượng nhiệt do điện thoại tỏa nhiệt ra môi trường xung quanh.\nSạc điện thoại không dây\n+ Công của lực đẩy chuyển động năng của người đẩy thành động năng và thế năng của người ngồi và xích đu.\nTrò chơi xích đu\n+ Công của lực nâng chuyển động năng của tay và bình nước thành thế năng của bình nước.\nNhấc bình nước lên vai\n+ Công của lực đẩy và lực ma sát chuyển động năng của tay và giấy nhám thành nhiệt năng.\nDùng giấy nhám trà phẳng bề mặt gỗ",
+      "Minh họa sự chuyển hóa năng lượng và định luật bảo toàn năng lượng": "+ Mô hình thủy điện: Nước được đưa lên bình chứa, sau đó chảy từ trên cao làm quay tubin của máy phát điện và làm sáng bóng đèn.\n+ Mô hình tháp quang năng: ánh sáng được chiếu từ nguồn sáng (đèn, mặt trời) đến chân tháp để làm nóng dòng khí đi vào chân tháp. Dòng khí nóng chuyển động lên trên làm cho cánh quạt đặt ở đỉnh tháp quay.",
+      "Biểu thức tính công và đơn vị của công": "Về mặt toán học, công của một lực được đo bằng tích của ba đại lượng: độ lớn lực tác dụng F, độ dịch chuyển d và cosin góc hợp bởi vectơ lực tác dụng và vectơ độ dịch chuyển theo công thức:\nA = F.d.cos\nθ",
+      "Lưu ý": "A = F.d.cos\nθ\nTrong đó:\nA: công (J)\ns: quãng đường đi được (m)\nF: độ lớn của lực tác dụng (N)\nθ\n: góc hợp bởi vectơ lực và vectơ chuyển dời.\n+ Đơn vị của công là J với: 1 J = 1 N.m\n(1 J là số đo công thực hiện khi lực có giá trị là 1 N đặt lên vật và làm vật được dịch chuyển 1 m theo phương của lực tác dụng)\n- Ví dụ:\n+ Lực tác dụng có xu hướng theo chiều chuyển động của vật, nghĩa là hình chiếu của lực lên phương chuyển động cùng chiều chuyển động. Khi vật nặng tăng tốc độ động năng của vật tăng lên.\nVận động viên kéo vật nặng\n+ Lực tác dụng có xu hướng ngược chiều chuyển động của chú chó, nghĩa là hình chiếu của lực lên phương chuyển động ngược chiều với chiều chuyển động. Khi này chú cho bị giảm tốc độ, tức là động năng của chú cho giảm đi.\nDùng dây để kéo chú chó\n+ Lực nâng của tay vuông góc với chiều chuyển động của thùng hàng trong quá trình chuyển hàng. Khi đó, năng lượng của vật nặng (gồm cả thế năng và động năng ) không thay đổi vì người khuân hàng đang đi với tốc độ không đổi.\nNhân viên khuân các thùng hàng đi đều",
+      "- Các đặc điểm của công:": "+\n0\n0\n≤\nθ\n<\n90\n0\n: công của lực có giá trị dương (A > 0 ) lực sinh công dương (công phát động)\n+\n90\n0\n<\nθ\n≤\n180\n0\n: công của lực có giá trị âm (A < 0 ) lực sinh công âm (công cản)\n+\nθ\n=\n90\n0\nkhi lực tác dụng vuông góc với độ dịch chuyển thì công A = 0: lực không sinh công.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 16: Công suất – Hiệu suất",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-16-cong-suat-hieu-suat.jsp",
+    "content": {
+      "Khái niệm công suất": "- Công suất là đại lượng đặc trưng cho tốc độ sinh công của lực, được xác định bằng công sinh ra trong một đơn vị thời gian.\n- Biểu thức: P =\nA\nt\nTrong đó:\n+ P: công suất (W)\n+ A: công cơ học (J)\n+ t: thời gian thực hiện công (s)",
+      "Lưu ý:": "+ Một số đơn vị thông dụng khác được sử dụng trong kĩ thuật là mã lực (HP):\n1 HP = 746 W\n+ Các bội số thường được sử dụng trong đơn vị công suất là kW và MW\n1 kW = 103 W; 1MW = 106 W",
+      "Mối liên hệ giữa công suất với lực tác dụng lên vật và vận tốc của vật": "Khi xét cho một khoảng thời gian rất bé, các đại lượng tác dụng lên vật có ý nghĩa tức thời.\nP =\nA\nt\n= F.v",
+      "Khái niệm hiệu suất:": "- Hiệu suất của động cơ H là tỉ số giữa công suất có ích và công suất toàn phần của động cơ, đặc trưng cho hiệu quả làm việc của động cơ.\nH =\nP\n'\nP\n.100%\nKhi đó\nΔ\nP\n= P-P' là công suất hao phí của động cơ.\nTrong đó:\n+ P': công suất có ích (W)\n+ P: công suất toàn phần của động cơ (W)\n- Hiệu suất của động cơ còn được tính theo công thức\nH =\nA\n'\nA\n.100%\nKhi đó\nΔ\nA\n= A-A' là công hao phí của động cơ.\nTrong đó:\n+ A′: công có ích (đã loại bỏ công cản) (J)\n+ A: công toàn phần (J)\n- Ví dụ: Động cơ xe máy hoặc ô tô chuyển hóa năng lượng hóa học trích xuất từ việc đốt nhiên liệu thành cơ năng trong việc làm di chuyển piston và bánh xe, nhưng gần 85% năng lượng đầu vào là vô ích như nhiệt năng, ma sát giữa các thành phần trong hệ, điều này làm cho các bộ phận của xe nóng lên, dẫn đến xe bị hao tổn năng lượng. Như vậy xe máy và xe ô tô chuyển động với phần năng lượng có ích chỉ chiếm khoảng 15% năng lượng toàn phần.",
+      "- Lưu ý:": "+ Hiệu suất của động cơ luôn luôn nhỏ hơn 1, vì không có một máy móc nào hoạt động mà có sự mất mát năng lượng do ma sát, nhiệt và các dạng năng lượng hao phí khác.\n+ Việc ra đời của máy móc hiện đại giúp nâng cao hiệu quả công việc do hiệu suất được nâng lên.\nVận chuyển hàng hóa bằng sức người\nVận chuyển hàng hóa bằng máy móc\n- Ví dụ: Trong mỗi giây một tấm pin mặt trời có thể hấp thụ 750 J năng lượng ánh sáng nhưng nó chỉ có thể chuyển hóa thành 120 J năng lượng điện. Hiệu suất của tấm pin này là 16%\nTấm pin năng lượng mặt trời\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 17: Động năng và thế năng. Định luật bảo toàn cơ năng",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-17-dong-nang-va-the-nang-dinh-luat-bao-toan-co.jsp",
+    "content": {
+      "Định luật bảo toàn cơ năng": "- Khái niệm cơ năng: Tổng động năng và thế năng được gọi là cơ năng của vật.\nW = Wđ + Wt\nTrong đó W là cơ năng của vật, đơn vị là J.\n- Định luật bảo toàn cơ năng: Khi một vật chuyển động chỉ chịu tác dụng của lực bảo toàn thì cơ năng của vật là một đại lượng bảo toàn.\n- Hệ quả: Trong trường trọng lực, tại vị trí vật có động năng cực đại thì thế năng cực tiểu và ngược lại.\n- Ví dụ: Một học sinh thả quả bóng từ độ cao h.\nTrong quá trình quả bóng rơi, nếu bỏ qua lực cản của không khí thì lực duy nhất tác dụng vào quả bóng là trọng lực (lực bảo toàn). Khi quả bóng rơi thì thế năng của quả bóng giảm, trong khi đó động năng tăng lên. Tuy nhiên tổng động năng và thế năng của quả bóng không thay đổi do đó cơ năng được bảo toàn.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "Mối liên hệ giữa động năng và công": "- Công của lực thực hiện: A = F.d = F.s =\n1\n2\nmv2\n- Động năng của một vật là năng lượng vật có được do nó đang chuyển động.\n- Biểu thức: Wđ =\n1\n2\n.mv2\nTrong đó:\n+ m: khối lượng của vật (kg)\n+ v: vận tốc của vật tại thời điểm khảo sát (m/s)\n+ Wđ: động năng của vật (J)\n- Ví dụ: Các vật chuyển động đều mang năng lượng là động năng\nSóng biển\nĐiện gió\nĐi xe đạp\nBáo săn mồi",
+      "Đặc điểm của động năng": "- Động năng của vật phụ thuộc vào khối lượng của vật và tốc độ chuyển động của vật.\n- Động năng là đại lượng vô hướng, không âm.\n- Động năng có giá trị phụ thuộc vào hệ quy chiếu.",
+      "Định lý động năng": "- Nội dung: Độ biến thiên động năng của vật trong khoảng thời gian bằng công của lực tác dụng lên vật trong một khoảng thời gian đó.",
+      "Thế năng trong trường trọng lực đều": "- Một vật khối lượng m ở độ cao h so với một vị trí làm gốc dự trữ một dạng năng lượng gọi là thế năng trọng trường.\nWt = mgh\n- Trong hệ SI đơn vị của thế năng trọng trường là J",
+      "- Lưu ý:": "+ Để xác định thế năng, ta cần phải chọn gốc thế năng là vị trí mà tại đó thế năng có giá trị bằng 0.\n+ Khi chọn gốc tọa độ trùng với gốc thế năng và chiều dương của trục Oz hướng lên trên thì vị trí phía trên gốc thế năng có giá trị h > 0, vị trí phía dưới gốc thế năng có giá trị h < 0.\n+ Độ biến thiên thế năng giữa hai vị trí không phụ thuộc vào việc chọn gốc thế năng.",
+      "Quá trình chuyển hóa giữa động năng và thế năng": "- Trong quá trình chuyển động, động năng và thế năng của vật có thể chuyển hóa qua lại với nhau.\n- Ví dụ:\n+ Trong trò chơi bóng rổ có sự chuyển hóa qua lại giữa động năng và thế năng (khi quả bóng bay lên, độ cao tăng dần còn vận tốc giảm dần như vậy thế năng của quả bóng tăng dần còn động năng giảm dần; khi quả bóng rơi, độ cao giảm dần còn vận tốc tăng dần như vậy thế năng của quả bóng giảm dần còn động năng tăng dần).",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 18: Động lượng và định luật bảo toàn động lượng",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-18-dong-luong-va-dinh-luat-bao-toan-dong-luong.jsp",
+    "content": {
+      "truyền chuyển động": "- Động lượng của một vật là đại lượng được đo bằng tích của khối lượng và vận tốc của vật.\n→\np\n=\nm\n.\n→\nv\nTrong hệ SI, đơn vị của động lượng là kg.m/s",
+      "Lưu ý:": "- Động lượng là một đại lượng vecto có hướng cùng với hướng của vận tốc.\n- Động lượng phụ thuộc vào hệ quy chiếu.\n- Vecto động lượng của nhiều vật bằng tổng các vecto động lượng của các vật đó.",
+      "hệ kín": "- Ngoài ra, khi tương tác của các vật bên ngoài hệ lên hệ bị triệt tiêu hoặc không đáng kể so với tương tác giữa các thành phần của hệ, hệ vẫn có thể được xem gần đúng là hệ kín.\nVí dụ: Hệ hai viên bi va chạm có thể coi gần đúng là hệ kín.",
+      "Định luật bảo toàn động lượng": "Một cách tổng quát, ta có định luật bảo toàn động lượng của hệ kín được phát biểu như sau: Động lượng của một hệ kín luôn bảo toàn.\n→\np\n1\n+\n→\np\n2\n+\n...\n+\n→\np\nn\n=\n−→\np\n1\n'\n+\n−→\np\n2\n'\n+\n...\n+\n−→\np\nn\n'",
+      "Vận dụng định luật bảo toàn động lượng": "Ví dụ:\nBắn một hòn bi thép với vận tốc\n→\nv\nvào một hòn bi ve đang nằm yên. Sau khi va chạm, hai hòn bi cùng chuyển động về phía trước, nhưng bi ve có vận tốc gấp 3 lần vận tốc của bi thép. Tìm vận tốc của mỗi hòn bi sau va chạm. Biết khối lượng bi thép bằng 3 lần khối lượng bi ve.",
+      "Bài giải:": "Ta gọi :\n- Khối lượng bi ve là m.\n- Khối lượng bi thép là 3m.\n- Vận tốc của bi thép trước va chạm là v.\n- Vận tốc sau va chạm của bi ve là v’1\n- Vận tốc sau va chạm của bi thép là v’2.\nChọn chiều (+) là chiều chuyển động ban đầu của bi thép\nÁp dụng định luật bảo toàn động lượng :\n→\np\n1\n+\n→\np\n2\n=\n−→\np\n1\n'\n+\n−→\np\n2\n'\n⇔\n→\np\n1\n+\n→\n0\n=\n−→\np\n1\n'\n+\n−→\np\n2\n'\n(*)\nVì trước va chạm, bi ve đứng yên nên có động lượng\n→\np\n2\n=\n→\n0\nChiếu phương trình (*) lên trục tọa độ đã chọn, ta được :\n3mv = mv’1 + 3mv’2\nVới: v’1 = 3v’2\n⇒\n3mv = 3m’2 v’2 + 3mv’2 = 6mv’2\n⇒\nv’2 =\nv\n2\n; v’1 =\n3\nv\n2\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 19: Các loại va chạm",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-19-cac-loai-va-cham.jsp",
+    "content": {
+      "Mỗi liên hệ giữa lực tổng hợp tác dụng lên vật và tốc độ thay đổi của động lượng.": "- Lực tác dụng lên vật bằng tốc độ thay đổi động lượng của vật.\n→\nF\n=\nΔ\n→\np\nΔ\nt\n- Ví dụ: Lực do mặt vợt tác dụng quả bóng tenis bằng tốc độ thay đổi động lượng của quả bóng.",
+      "Lưu ý :": "- Nếu vật chịu tác dụng của nhiều lực thì\n→\nF\nlà hợp lực tác dụng lên vật.\n- Biểu thức\nΔ\n→\np\n=\n→\nF\n.\nΔ\nt\n: Độ biến thiên động lượng của một vật bằng xung lượng của lực tác dụng lên vật. Trong đó, tích\n→\nF\n.\nΔ\nt\nđược gọi là xung lượng của lực (xung lực).",
+      "Các loại va chạm": "Va chạm đàn hồi và va chạm mềm :\n+ Va chạm đàn hồi là va chạm trong đó vật xuất hiện biến dạng đàn hồi trong khoảng thời gian va chạm. Sau va chạm, vật lấy lại hình dạng ban đầu và tiếp tục chuyển động tách rời nhau.\nVí dụ: Hai viên bi da chuyển động đến va chạm nhau, sau va chạm hai viên bi tiếp tục chuyển động tách rời nhau.\n+ Va chạm mềm (hay còn gọi là va chạm không đàn hồi) xảy ra khi hai vật dính vào nhau và chuyển động với cùng vận tốc sau va chạm.\nVí dụ: Viên đạn bị bắn vào bao cát, sau va chạm, viên đạn nằm trong bao cát và chúng chuyển động với cùng vận tốc.",
+      "Thí nghiệm khảo sát va chạm đàn hồi và va chạm mềm": "Mục đích :\n- Xác định được tốc độ của hai vật trước và sau khi xảy ra va chạm.\n- Đánh giá được động lượng, năng lượng của từng vật và của hệ trước và sau khi xảy ra va chạm.\nTừ kết quả thí nghiệm, ta có thể phân va chạm thành hai loại :\n- Va chạm đàn hồi: Động năng của hệ sau va chạm bằng động năng của hệ trước va chạm.\n- Va chạm mềm: Động năng của hệ sau va chạm nhỏ hơn động năng của hệ trước va chạm.",
+      "Cách thức giảm chấn thương não trong quyền anh (Boxing).": "Khi đấu quyền anh, các đấu sĩ phải đeo găng tay cao su bảo vệ nhằm giảm thiểu chấn thương, trong đó có các chấn thương não. Ngoài ra, võ sĩ thường có phản xạ dịch chuyển theo cú đấm của đối thủ khi bị tấn công nhằm giảm chấn thương cho bản thân mình.",
+      "Vai trò của đai an toàn và túi khí trong ô tô": "Khi xảy ra tai nạn ô tô, người ngồi trong xe sẽ va đập vào vô lăng hoặc kính dẫn đến những chấn thương nghiêm trọng. Do đó, khi thiết kế ô tô, nhà sản xuất luôn trang bị đai an toàn và túi khí nhằm tăng thời gian va chạm của tài xế với các vật dụng trong xe từ 10 – 100 lần. Điều này dẫn đến việc giảm đáng kể độ lớn của lực tác dụng lên tài xe và giảm thiểu khả năng chấn thương của tài xế.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 20: Động học của chuyển động tròn",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-20-dong-hoc-cua-chuyen-dong-tron.jsp",
+    "content": {
+      "Định nghĩa radian": "- Vẽ một đường tròn có bán kính R. Tiếp theo, vẽ một cung tròn có chiều dài bằng R. Khi đó, góc ở tâm chắn cung này có số đo bằng 1 radian (viết tắt: rad)\n- 1 rad là số đo góc ở tâm một đường tròn chắn cung có độ dài bằng bán kính đường tròn đó.\n1rad =\n180\n0\nπ\n=\n180\n0\n3\n,\n1416...\n≈\n57\n,\n2958\n0\nVà\n1\n0\n=\nπ\n180\n0\n=\n3\n,\n1416\n180\n0\n= 0,0174 rad\n- Các hệ thức chuyển đổi đơn vị từ độ sang radian và từ radian sang độ:\nα\n(\nr\na\nd\ni\na\nn\n)\n=\nα\n(\nd\no\n)\n.\nπ\n180\n0\nhoặc\nα\nd\no\n=\nα\n(\nr\na\nd\ni\na\nn\n)\n.\n180\n0\nπ",
+      "Mối liên hệ giữa cung tròn và góc": "Khi góc chắn cung có số đo là α (radian) thì chiều dài cung tròn sẽ bằng\ns = α(radian).R",
+      "Chuyển động tròn": "Định nghĩa:Một chất điểm M chuyển động tròn khi có quỹ đạo là đường tròn.\nVí dụ: Chuyển động của Trái Đất quanh Mặt Trời là chuyển động tròn.",
+      "Tốc độ góc trong chuyển động tròn": "Để đánh giá mức độ nhanh chậm của một chuyển động tròn, người ta dựa vào tốc độ góc.",
+      "Tốc độ góc": "ω\n=\nΔ\nα\nΔ\nt\nTrong đó:\n+ ∆α là độ dịch chuyển góc (hay góc quét bởi bán kính R sau khoảng thời gian ∆t), có đơn vị rad.\n+ ∆t là thời gian, có đơn vị s.\n+ ω là tốc độ góc, có đơn vị rad/s.\n- Khi ω là hằng số thì trong các khoảng thời gian bằng nhau, góc quay được cũng bằng nhau. Chuyển động tròn này là chuyển động tròn đều.\nVí dụ: Chuyển động của đầu mũi kim đồng hồ là chuyển động tròn đều.\nLưu ý: Khi cánh quạt bắt đầu quay, chuyển động quay của cánh quạt là không đều.",
+      "Vận dụng tốc độ góc": "Ví dụ: Xác định tốc độ góc của kim giây trên đồng hồ. Kim giây trên đồng hồ quay một vòng trong thời gian 60 giây.\nω\n=\n2\nπ\n60\n≈\n0,1047 rad/s",
+      "Vận tốc trong chuyển động tròn.": "- Tốc độ của một chất điểm chuyển động tròn được tính bằng quãng đường mà chất điểm di chuyển được trong một đơn vị thời gian:\nv =\ns\nΔ\nt\n=\nω\n.\nR\nTrong đó, R là bán kính của chuyển động tròn.\nKhi ω tính theo đơn vị rad/s và ∆t tính theo s thì v tính theo đơn vị m/s.\n- Chuyển động tròn là đều nếu tốc độ có độ lớn không đổi.",
+      "- Vận tốc": "+ Phương: tiếp tuyến với quỹ đạo (đường tròn).\n+ Chiều: theo chiều chuyển động\n+ Độ lớn: không đổi, bằng: v = ω.R\nVí dụ: Khi quay vô lăng đều, các điểm nằm trên đó chuyển động tròn đều, có vận tốc được mô tả như hình sau:",
+      "Gia tốc hướng tâm": "- Chuyển động tròn đều có gia tốc (do vận tốc có độ lớn không đổi nhưng phương thay đổi liên tục). Gia tốc của chuyển động tròn đều có đặc điểm:\n+ Phương: trùng với bán kính\n+ Chiều: hướng về tâm của vòng tròn quỹ đạo (nên có tên là gia tốc hướng tâm);\n+ Độ lớn: không đổi và bằng:\na\nh\nt\n=\nv\n2\nR\n=\nω\n2\n.\nR\nTrong đó:\n- ω là tốc độ góc, có đơn vị rad/s\n- R là bán kính quỹ đạo, có đơn vị m/s\n- aht là gia tốc hướng tâm, có đơn vị m/s2",
+      "Vận dụng gia tốc hướng tâm.": "Ví dụ:Kim giây của một chiếc đồng hồ dài 10 cm, tính gia tốc hướng tâm của nó khi nó chuyển động đều.\nTa áp dụng công thức:\na\nh\nt\n=\nω\n2\n.\nR\n=\n(\n2\nπ\n60\n)\n2\n.0\n,\n1\n≈\n0\n,\n0011\n(m/s2)\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 21: Động lực học của chuyển động tròn. Lực hướng tâm",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-21-dong-luc-hoc-cua-chuyen-dong-tron-luc-huong-tam.jsp",
+    "content": {
+      "Khái niệm lực hướng tâm": "- Theo định luật II Newton, khi một chất điểm có khối lượng m chuyển động tròn đều với gia tốc hướng tâm\n−→\na\nh\nt\n, thì:\n−→\nF\nh\nt\n=\nm\n.\n−→\na\nh\nt\nTrong đó,\n−→\nF\nh\nt\nlà hợp lực tác dụng lên vật.\n-\n−→\nF\nh\nt\ncó phương dọc theo bán kính, chiều hướng vào tâm quỹ đạo và được gọi là lực hướng tâm, có độ lớn không đổi, bằng:\nF\nh\nt\n=\nm\n.\na\nh\nt\n=\nm\n.\nv\n2\nR\n=\nm\n.\nω\n2\n.\nR\nVí dụ: Chuyển động của vật\n- Điều kiện để một vật có thể chuyển động tròn đều: hợp lực tác dụng lên vật phải hướng vào tâm của quỹ đạo của vật. Hợp lực này là lực hướng tâm.\nVí dụ: Hợp lực của lực căng dây và trọng lực đóng vai trò lực hướng tâm khi ta quay một vật được buộc ở đầu sợi dây để vật chuyển động tròn đều trong một mặt phẳng ngang như hình vẽ.",
+      "Ứng dụng trong thực tế của chuyển động tròn": "Trường hợp xe chạy theo đường vòng cung trên mặt đường ngang.\nXét một xe chạy trên đường nằm ngang theo cung tròn. Nếu mặt đường trơn trượt, ma sát giữa các bánh xe và mặt đường không đáng kể, hợp lực của trọng lực\n→\nP\n=\nm\n.\n→\ng\nthẳng đứng hướng xuống và phản lực của mặt đường vuông góc với mặt đường hướng lên là\n→\nF\n=\n→\nP\n+\n→\nN\n=\n→\n0\nNhư vậy, xe không thể chuyển động theo quỹ đạo tròn mà tiếp tục chuyển động thẳng do quán tính, từ đó có thể bị lệch ra khỏi cung đường và gây ra tai nạn.",
+      "lực ma sát nghỉ đóng vai trò lực hướng tâm": "Như ta đã biết, nếu gọi μ là hệ số ma sát nghỉ thì lực ma sát nghỉ có độ lớn : fms = μ.N với N = P = mg.\nTheo định luật II newton, ta có:\nF\nh\nt\n=\nf\nm\ns\n=\nμ\n.\nN\n=\nm\n.\na\nh\nt\n⇔\nμ\n.\nm\n.\ng\n=\nm\n.\nv\n2\nR\nTừ đó, ta có công thức tốc độ giới hạn:\nv =\n√\nμ\n.\ng\n.\nR\nChú ý: Khi xe chạy trên đường đèo, trong đường đua có tốc độ cao, hoặc mặt đường trơn trượt, lực ma sát giữa các bánh xe và mặt đường không đủ để tạo lực hướng tâm, do phải tồn tại lực hướng tâm để xe có thể thực hiện chuyển động tròn, mặt đường phải được thiết kế nghiêng một góc θ so với phương ngang để hợp lực hướng vào tâm đường tròn và đóng vai trò lực hướng tâm, đảm bảo cho xe chạy vòng theo quỹ đạo tròn. Dù vậy, tốc độ của xe cũng bị giới hạn để xe không bị trượt khỏi cung tròn.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 22: Biến dạng của vật rắn. Đặc tính của lò xo",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-22-bien-dang-cua-vat-ran-dac-tinh-cua-lo-xo.jsp",
+    "content": {
+      "Biến dạng kéo và biến dạng nén": "- Biến dạng kéo: kích thước của vật theo phương tác dụng của lực tăng lên so với kích thước tự nhiên của nó.\n- Biến dạng nén: kích thước của vật theo phương tác dụng của lực giảm xuống so với kích thước tự nhiên của nó.\nVí dụ:\nBiến dạng kéo\nBiến dạng nén",
+      "Các đặc tính của lò xo": "- Lò xo luôn bị biến dạng khi chịu lực tác dụng. Biến dạng của lò xo là kéo hay nén tùy thuộc vào chiều của lực đặt vào hai đầu của lò xo. Đặc trưng cho độ biến dạng của lò xo là độ biến dạng.\nLò xo bị biến dạng\n- Độ biến dạng của lò xo là hiệu số giữa chiều dài khi bị biến dạng và chiều dài tự nhiên của lò xo.\n+ Khi lò xo biến dạng nén: độ biến dạng của lò xo âm, độ lớn của độ biến dạng được gọi là độ nén.\n+ Khi lò xo biến dạng kéo: độ biến dạng của lò xo dương, độ lớn của độ biến dạng được gọi là độ dãn.\n- Lưu ý:\n+ Khi độ dãn của lò xo không quá lớn, ở hai đầu lò xo xuất hiện lực đàn hồi ngược chiều biến dạng. Khi ngoại lực tác dụng lên lò xo có độ lớn tăng dần thì độ dãn của lò xo cũng tăng. Khi ngừng tác dụng lực, lò xo tự động lấy lại chiều dài ban đầu. Ta nói lò xo có tính đàn hồi.\n+ Khi hai lò xo chịu tác dụng của lực kéo/ nén có độ lớn bằng nhau và đang bị biến dạng đàn hồi, lò xo có độ cứng lớn hơn sẽ bị biến dạng ít hơn.\n+ Giới hạn trong đó vật rắn còn giữ được tính đàn hồi của nó được gọi là giới hạn đàn hồi.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 23: Định luật Hooke",
+    "url": "https://www.vietjack.com/vat-li-10-ct/ly-thuyet-bai-23-dinh-luat-hooke.jsp",
+    "content": {
+      "Định luật Hooke": "- Nội dung định luật: Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo tỉ lệ thuận với độ biến dạng của lò xo.\nFđh = k.|\nΔ\nl|\nTrong đó:\nk: độ cứng của lò xo (N/m)\nl0: chiều dài tự nhiên của lò xo (m)\nl: chiều dài của lò xo khi bị biến dạng (m)\nΔ\nl = l - l0 : Độ biến dạng của lò xo (m)\n- Lưu ý:\n+ Lực đàn hồi có tác dụng chống lại sự biến dạng của vật, do đó luôn ngược chiều với lực gây ra sự biến dạng cho vật.\n+ Những yếu tố ảnh hưởng đến độ cứng của lò xo: vật liệu làm lò xo, chiều dài của lò xo, kích thước vòng xoắn, số vòng xoắn…\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 1: Tốc độ, độ dịch chuyển và vận tốc",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-1-toc-do-do-dich-chuyen-va-van-toc.jsp",
+    "content": {
+      "Tốc độ trung bình": "Tốc độ trung bình là đại lượng đặc trưng cho độ nhanh, chậm của chuyển động và được tính bằng thương số giữa quãng đường đi được với khoảng thời gian đi hết quãng đường ấy.\nCông thức:\nv\nt\nb\n=\ns\nt\nTrong đó:\ns: quãng đường đã đi\nt: khoảng thời gian đi\nvtb: tốc độ trung bình",
+      "Đơn vị đo tốc độ": "Đơn vị đo tốc độ thường dùng là m/s.\nNgoài ra còn có các đơn vị khác như: km/h; km/s, … .",
+      "Quãng đường và độ dịch chuyển": "- Quãng đường là độ dài quỹ đạo chuyển động của vật, là đại lượng vô hướng.\n- Khoảng cách mà vật di chuyển được theo một hướng xác định là độ dịch chuyển.\n- Độ dịch chuyển là đại lượng vectơ, khi xác định độ dịch chuyển phải xác định cả độ lớn và hướng của nó.\nVí dụ: bạn A xuất phát từ 46 Khâm Thiên đến trường THPT Kim Liên.\nQuãng đường là đường màu xanh\nĐộ dịch chuyển là đường màu vàng",
+      "Vận tốc": "- Vận tốc là đại lượng vectơ có biểu thức:\n→\nv\n=\n−→\nΔ\nd\nΔ\nt\nTrong đó:\n+\n−→\nΔ\nd\nlà độ dịch chuyển\n+\nΔ\nt\nlà khoảng thời gian dịch chuyển\n- Vận tốc cho biết tốc độ và hướng vật chuyển động. Vận tốc có thể được coi là tốc độ của nó theo một hướng cụ thể.\n- Giá trị của vận tốc:\nv\n=\nΔ\nd\nΔ\nt\ncó thể được gọi là vận tốc trung bình.\n- Xét trong khoảng thời gian rất ngắn, vận tốc được gọi là vận tốc tức thời.\nTốc kế trên xe oto cho biết vận tốc tức thời.",
+      "Phương pháp đo tốc độ": "Đo thời gian vật đi giữa hai vị trí xác định và khoảng cách (hay quãng đường) giữa chúng.\nTrong một số trường hợp không đo trực tiếp được quãng đường bằng dụng cụ đo độ dài mà phải qua các bước trung gian.\nDùng thước đo độ dài quãng đường\nDùng đồng hồ để đo thời gian di chuyển",
+      "Đo tốc độ trong phòng thực hành": "- Đo tốc độ của xe với một cổng quang điện: mục đích đo thời gian xe đi qua cổng quang điện từ đó tính được tốc độ của xe, với quãng đường chính là độ dài của tấm chắn sáng.\n- Đo tốc độ của xe dùng xe kĩ thuật số: mục đích đo độ dịch chuyển của xe thông qua tốc độ quay của trục bánh xe trong những khoảng thời gian bằng nhau.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Đồ thị độ dịch chuyển theo thời gian. Độ dịch chuyển tổng hợp và vận tốc tổng hợp",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-2-do-thi-do-dich-chuyen-theo-thoi-gian.jsp",
+    "content": {
+      "Vẽ đồ thị độ dịch chuyển theo thời gian": "- Biểu diễn sự thay đổi vị trí của một vật chuyển động trên đường thẳng bằng cách vẽ đồ thị độ dịch chuyển – thời gian. Từ đồ thị có thể tính được vận tốc của vật.\nVí dụ: Sự thay đổi vị trí của một vật chuyển động trên đường thẳng\nĐộ dịch chuyển (m)\n0\n10\n20\n30\n40\n50\nThời gian (s)\n0\n1\n2\n3\n4\n5\nĐồ thị độ dịch chuyển – thời gian\n- Độ dốc của đồ thị (hay còn gọi là hệ số góc) giá trị này chính là vận tốc\n- Dựa vào độ dốc của đường biểu diễn độ dịch chuyển – thời gian, có thể biết một vật đang chuyển động nhanh hay chậm. Độ dốc càng lớn thì vật chuyển động càng nhanh. Nếu độ dốc âm, vật đang chuyển động theo ngược chiều dương đã chọn.\n- Một số đồ thị độ dịch chuyển – thời gian\nVật đứng yên, độ dốc bằng không\nVật đang chuyển động đột ngột đổi chiều, độ dốc từ dương chuyển sang âm\nVật chuyển động thẳng theo một chiều, tốc độ không đổi, độ dốc không đổi",
+      "Tính tốc độ từ đồ thị độ dịch chuyển – thời gian": "Giá trị của vận tốc bằng độ dốc của đường biểu diễn độ dịch chuyển-thời gian trong chuyển động thẳng:\nTốc độ:\nv\n=\nΔ\nd\nΔ\nt\n(\nΔ\nd\nlà độ dịch chuyển trong khoảng thời gian\nΔ\nt\n).",
+      "Độ dịch chuyển tổng hợp": "- Khi vật di chuyển từ vị trí này đến một vị trí khác theo một số đoạn dịch chuyển khác nhau thì độ dịch chuyển cuối cùng của vật là tổng các độ dịch chuyển đó.\n- Độ dịch chuyển tổng hợp chính là độ dịch chuyển từ vị trí đầu đến vị trí cuối.\n- Ví dụ: Vật đi từ điểm A đến I qua các địa điểm B, C, D, E, F, G, H.\n- Độ dịch chuyển tổng hợp:\n−→\nA\nI\n=\n−−→\nA\nB\n+\n−−→\nB\nC\n+\n−−→\nC\nD\n+\n−−→\nD\nE\n+\n−−→\nE\nF\n+\n−−→\nF\nG\n+\n−−→\nG\nH\n+\n−→\nH\nI\ncó độ dài bằng độ dài đoạn AI.\n- Quãng đường tổng hợp bằng độ dài s = AB + BC + CD + DE + EF + FG + GH + HI.",
+      "Vận tốc tổng hợp": "Nếu một vật tham gia đồng thời hai chuyển động theo hai phương và mỗi phương có một vận tốc thì vận tốc tổng hợp bằng tổng các vận tốc này\n→\nv\n=\n→\nv\n1\n+\n→\nv\n2\n.\nVận tốc là một đại lượng vectơ nên hai hoặc nhiều vận tốc có thể được kết hợp bằng phép cộng vectơ.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 3: Gia tốc và đồ thị vận tốc, thời gian",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-1-gia-toc-va-do-thi-van-toc-thoi-gian.jsp",
+    "content": {
+      "Gia tốc": "- Gia tốc là độ thay đổi vận tốc trong một đơn vị thời gian\nBiểu diễn bằng kí hiệu:\n→\na\n=\n−→\nΔ\nv\nΔ\nt\n(\n−→\nΔ\nv\nlà độ thay đổi vận tốc trong khoảng thời gian\nΔ\nt\n).\n- Gia tốc là đại lượng vectơ nên khi xác định cần xác định cả độ lớn và hướng của nó. Đơn vị m/s2.\n- Gia tốc như trên là gia tốc trung bình. Nếu khoảng thời gian rất nhỏ thì gia tốc được gọi là gia tốc tức thời.\n- Nếu xét trong khoảng thời gian\nΔ\nt\n, vật chuyển động thẳng, vận tốc thay đổi từ v1 đến v2 thì giá trị gia tốc là:\na\n=\nv\n2\n−\nv\n1\nΔ\nt",
+      "Vẽ đồ thị vận tốc – thời gian trong chuyển động thẳng": "Ta có thể biểu diễn tốc độ thay đổi vận tốc của một vật chuyển động bằng cách vẽ đồ thị vận tốc -thời gian.\n- Độ dốc của đồ thị vận tốc – thời gian có giá trị bằng gia tốc của chuyển động.\n- Độ dốc càng lớn, gia tốc càng lớn. Nếu độ dốc là âm và vật đang chuyển động với vận tốc theo chiều được quy ước là dương thì gia tốc của vật mang giá trị âm, nghĩa là vật đang chuyển động chậm dần.\nVật chuyển động thẳng đều, độ dốc bằng 0, gia tốc bằng 0.\nVật chuyển động ngược chiều dương đã chọn, độ dốc âm (chuyển động chậm dần)\nVật chuyển động nhanh dần với gia tốc không đổi, độ dốc dương",
+      "Tính gia tốc từ đồ thị vận tốc – thời gian": "Gia tốc là đại lượng vectơ, được xác định bằng độ thay đổi vận tốc trong một đơn vị thời gian.\nCông thức tính gia tốc từ đồ thị:\na\n=\nΔ\nv\nΔ\nt\n(\nΔ\nv\nlà độ thay đổi vận tốc trong khoảng thời gian\nΔ\nt\n).",
+      "Tính độ dịch chuyển từ đồ thị vận tốc – thời gian": "Độ lớn độ dịch chuyển = diện tích dưới đồ thị vận tốc - thời gian\nVí dụ: Chuyển động thẳng với vận tốc không đổi\nĐồ thị vận tốc – thời gian của chuyển động thẳng với vận tốc không đổi. Độ dịch chuyển là diện tích vùng màu xanh.\nVí dụ: Chuyển động thẳng với vận tốc biến đổi đều\nĐồ thị vận tốc – thời gian của chuyển động thẳng với vận tốc thay đổi. Độ dịch chuyển là diện tích vùng màu vàng.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 4: Chuyển động biến đổi",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-2-chuyen-dong-bien-doi.jsp",
+    "content": {
+      "Công thức của chuyển động thẳng biến đổi đều": "Chuyển động thẳng với gia tốc không đổi được gọi là chuyển động thẳng biến đổi đều.",
+      "Công thức tính vận tốc": "Đồ thị vận tốc – thời gian biểu diễn chuyển động của một vật với vận tốc tăng dần đều từ vo đến v trong thời gian t.\nĐộ dốc của đường thẳng có giá trị bằng gia tốc:\na\n=\nv\n−\nv\no\nt\nhay\nv\n=\nv\no\n+\na\nt",
+      "Công thức tính độ dịch chuyển": "Đồ thị vận tốc – thời gian của một vật chuyển động với vận tốc tăng dần đều.\nVận tốc trung bình =\nv\no\n+\nv\n2\nĐộ dịch chuyển = vận tốc trung bình\n×\nthời gian\nCông thức độ dịch chuyển:\nd\n=\nv\no\n+\nv\n2\n.\nt",
+      "Công thức tính quãng đường": "Trong chuyển động thẳng theo một chiều xác định, độ dịch chuyển chính là quãng đường\ns\n=\nv\no\nt\n+\n1\n2\na\nt\n2\nTrong đó:\n+ v0 là vận tốc của vật tại thời điểm khảo sát.\n+ a là gia tốc của vật.\n+ t là thời gian vật chuyển động từ lúc bắt đầu khảo sát.\n+ s là quãng đường vật đi được trong khoảng thời gian t.",
+      "Công thức liên hệ giữa quãng đường, vận tốc và gia tốc": "Công thức:\nv\n2\n−\nv\n2\no\n=\n2\na\ns\nTrong đó:\n+ v0 là vận tốc của vật tại thời điểm khảo sát.\n+ a là gia tốc của vật.\n+ s là quãng đường vật đi được khi đạt vận tốc v.",
+      "Gia tốc rơi tự do": "Sự rơi của các vật khi chỉ chịu tác dụng của trọng lực được gọi là sự rơi tự do.\nGia tốc rơi tự do trên Trái Đất có:\n- giá trị tùy thuộc vào vị trí mà vật rơi (thường lấy 9,81 m/s2)\n- có phương thẳng đứng\n- có chiều hướng từ trên xuống dưới",
+      "Đo gia tốc rơi tự do": "Giới thiệu bộ dụng cụ đo gia tốc rơi tự do\nBộ dụng cụ gồm:\n(1) Nam châm điện\n(2) Viên bi thép\n(3) Cổng quang điện\n(4) Công tắc điều khiển\n(5) Đồng hồ đo thời gian\n(6) Giá\nBộ dụng cụ đo thời gian viên bi thép bắt đầu rơi cho đến khi đi qua cổng quang điện.\nĐo khoảng cách từ vị trí viên bi thép bắt đầu rơi đến cổng quang điện (lặp lại với các khoảng cách khác nhau).\nXác định gia tốc rơi tự do bằng công thức:\ng\n=\n2\ns\nt\n2\n(s là quãng đường vật đi được trong đơn vị thời gian t).",
+      "Vận tốc ban đầu theo phương ngang": "- Một vật được bắn theo phương ngang với vận tốc ban đầu xác định, thì chuyển động của vật theo phương ngang và theo phương thẳng đứng độc lập với nhau. Vật rơi theo phương thẳng đứng với gia tốc g, đồng thời chuyển động sang ngang với vận tốc không đổi.\n- Thời gian vật rơi theo phương ngang bằng thời gian quả bóng rơi theo phương thẳng đứng.\n- Thời gian vật chạm đất:\nt\n=\n√\n2\ns\ng\nTrong đó:\n+ s là độ cao của vật (m)\n+ g là gia tốc rơi tự do (m/s2)\n- Khoảng cách vật đi được theo phương nằm ngang: s = v. t\nTrong đó:\n+ t là thời gian vật rơi (s)\n+ v là vận tốc ban đầu của vật (m/s)",
+      "Vận tốc ban đầu tạo góc xác định với phương ngang": "Độ cao và tầm xa của vật bị ném phụ thuộc vào góc giữa vận tốc ban đầu và phương nằm ngang.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 1: Lực và gia tốc",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-1-luc-va-gia-toc.jsp",
+    "content": {
+      "Liên hệ giữa gia tốc với lực và khối lượng": "- Lực có thể làm thay đổi tốc độ nhanh chậm hoặc hướng của chuyển động. Ta nói rằng lực gây ra gia tốc cho vật.\na\n=\nF\nm\n- Độ lớn gia tốc của một vật có khối lượng xác định tỉ lệ thuận với độ lớn của lực gây ra gia tốc cho vật.\n- Một lực có độ lớn xác định gây ra cho các vật có khối lượng khác nhau các gia tốc có độ lớn tỉ lệ nghịch với khối lượng của mỗi vật.",
+      "Đơn vị cơ bản và đơn vị dẫn xuất": "Trong hệ SI có 7 đơn vị là đơn vị cơ bản",
+      "Đơn vị": "Chiều dài\nMét (m)\nKhối lượng\nKilogam (kg)\nThời gian\nGiây (s)\nCường độ dòng điện\nAmpe (A)\nNhiệt độ\nKenvin (K)\nLượng chất\nMol (mol)\nCường độ sáng\nCandela (cd)\n- Các đơn vị khác đều có thể biểu diễn qua các đơn vị cơ bản và được gọi là đơn vị dẫn xuất. Đơn vị dẫn xuất để đo một đại lượng được xác định bằng cách sử dụng định nghĩa hoặc biểu thức tính của đại lượng đó.\n- Ví dụ: tốc độ trung bình được tính bằng tỉ số giữa quãng đường đi được và thời gian đi hết quãng đường đó nên đơn vị của nó trong hệ SI là m/s.",
+      "Định nghĩa đơn vị lực": "- Một niutơn là độ lớn của một lực gây ra gia tốc 1 m/s2 cho vật có khối lượng 1 kg. Do đó: 1 N = 1 kg . 1 m/s2 = 1 kg.m/s2.\n- Lực là một đại lượng được biểu diễn qua các đơn vị cơ bản theo biểu thức khá phức tạp. Khi đó để thuận tiện người ta dùng đơn vị niuton (N) thay cho kg.m/s2.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Một số lực thường gặp",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-2-mot-so-luc-thuong-gap.jsp",
+    "content": {
+      "Vật chuyển động dưới tác dụng của các lực cân bằng và không cân bằng": "- Hai lực nằm dọc theo một đường thẳng, ngược chiều, tác dụng vào cùng một vật và có độ lớn bằng nhau là hai lực cân bằng. Tác dụng của hai lực cân bằng lên vật triệt tiêu nhau, ta nói lực tổng hợp của hai lực đó bằng không. Khi đó vật đang chuyển động sẽ chuyển động thẳng đều, vật đang đứng yên sẽ tiếp tục đứng yên.\nÔ tô chịu tác dụng của hai lực cân bằng\n- Các trường hợp hai lực là không cân bằng khi lực tổng hợp của hai lực khác không và có hướng phụ thuộc vào hướng và độ lớn của hai lực thành phần. Khi chịu tác dụng của các lực không cân bằng, vật chuyển động có gia tốc dưới tác dụng của lực tổng hợp.\nÔ tô chịu tác dụng của hai lực không cân bằng\n- Lực tổng hợp của các lực tác dụng lên vật được gọi là hợp lực.",
+      "trọng tâm": "Quả táo chịu tác dụng của trọng lực\nTrọng tâm của một số vật\n- Trọng lượng là độ lớn của lực gây ra gia tốc rơi tự do của vật (trọng lực): P = mg\nTrong đó:\n+ P là trọng lượng của vật.\n+ m là khối lượng của vật.\n+ g là gia tốc rơi tự do của vật.",
+      "b. Trọng lượng và khối lượng": "- Độ lớn gia tốc rơi tự do chính là tỉ số giữa trọng lượng và khối lượng của một vật. Khối lượng của vật càng lớn thì trọng lượng của vật càng lớn nên gia tốc rơi tự do là như nhau.\n- Khối lượng của vật không thay đổi khi vật di chuyển đến các vị trí khác nhau, tuy nhiên lực hấp dẫn của Trái Đất tác dụng lên vật thay đổi, do đó trọng lượng của vật cũng thay đổi.\nKhối lượng và trọng lượng của nhà phi hành vũ trụ khi ở trên Mặt Trăng và Trái Đất",
+      "Lực ma sát": "- Lực ma sát là lực cản sự trượt hoặc lăn của vật này so với vật khác.\n- Nguyên nhân: do lực hút, được gọi là lực bám dính, giữa các vùng tiếp xúc của các bề mặt, ngoài ra các bề mặt luôn có hình dạng gồ ghề ở cấp độ vi mô.\n- Nếu một vật đứng yên trên một bề mặt nhưng có xu hướng trượt theo một hướng nào đó thì lực ma sát sẽ tác dụng ngăn nó trượt theo hướng đó, đây là lực ma sát nghỉ.\n- Lực ma sát trượt: xuất hiện khi một vật trượt trên bề mặt của một vật khác, có phương dọc theo bề mặt tiếp xúc và có hướng ngược với hướng chuyển động trượt.\n- Đặc điểm lực ma sát trượt:\n+ Lực ma sát trượt không phụ thuộc vào diện tích tiếp xúc.\n+ Lực ma sát trượt tỉ lệ với lực ép vuông góc giữa các bề mặt lại với nhau.\n+ Tỉ số giữa lực ma sát trượt Fms và lực ép N được gọi là hệ số ma sát trượt, kí hiệu là (đọc là muy):\nμ\n=\nF\nm\ns\nN\n+ Lực ma sát nghỉ có độ lớn từ 0 đến giá trị cần thiết để vật bắt đầu trượt. Lực ma sát nghỉ khi vật bắt đầu trượt gọi là lực ma sát nghỉ cực đại: Fma sát trượt\n≤\nFma sát\n- Lực ma sát lăn: xuất hiện khi có một vật lăn trên bề mặt của vật khác, có độ lớn nhỏ hơn lực ma sát trượt.",
+      "Lực cản của nước hoặc không khí": "- Khi một vật chuyển động trong môi trường không khí hoặc trong nước, có ma sát giữa bề mặt vật đó và môi trường.\nLực cản của không khí lên ô tô khi đang chuyển động\n- Lực cản luôn ngược hướng và có tác dụng cản trở chuyển động của vật.\nÔ tô có hình dạng khí động học để giảm tối đa lực cản của không khí\nTàu ngầm có hình dạng khí động học để giảm lực cản của nước\nChuyển động rơi của người nhảy dù chịu lực cản của không khí",
+      "Lực đẩy Ác – xi – mét": "- Áp suất chất lỏng hoặc chất khí tăng theo độ sâu nên áp suất lên bề mặt dưới của một vật hớn hơn áp suất lên mặt trên. Mỗi vật thể ở trong chất lỏng hoặc chất khí đều chịu một lực nâng hướng lên trên. Lực nâng này được gọi là lực đẩy Archimedes.\n- Điểm đặt của lực này là tâm đối xứng của phần vật nằm trong chất lỏng hoặc chất khí.\n- Độ lớn lực đẩy Ác – xi – mét bằng trọng lượng của phần chất lỏng hoặc chất khí mà vật chiếm chỗ.\nTrạng thái nổi lên hay chìm xuống của vật ở trong chất lỏng",
+      "Lực căng dây": "- Khi kéo căng một sợi dây thì trong sợi dây xuất hiện lực căng chống lại xu hướng bị kéo giãn. Nếu dây đứng yên, độ lớn lực căng là như nhau tại tất cả các điểm trên dây. Khi dây chuyển động thì độ lớn lực căng tại mọi điểm trên dây vẫn như nhau nếu dây mảnh và có khối lượng không đáng kể.\n- Lực căng dây xuất hiện khi dây bị kéo căng, có phương dọc theo dây, chiều chống lại xu hướng bị kéo giãn. Lực đàn hồi của lò xo là lực căng của lò xo.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 3: Ba định luật Newton về chuyển động",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-3-ba-dinh-luat-newton-ve-chuyen-dong.jsp",
+    "content": {
+      "Định luật I Newton": "Nội dung định luật: Vật sẽ đứng yên hoặc chuyển động thẳng đều mãi mãi trừ khi có hợp lực khác không tác dụng lên vật.\n- Trạng thái đứng yên hoặc chuyển động thẳng đều được gọi là trạng thái cân bằng của vật.",
+      "quán tính": "Xe dừng đột ngột người trong xe có xu hướng ngả người về phía trước",
+      "Định luật II Newton": "Nội dung định luật: Gia tốc của một vật có khối lượng không đổi tỉ lệ thuận với độ lớn và có cùng hướng với hợp lực khác không tác dụng lên vật.\n→\na\n=\n→\nF\nm\nHợp lực gây ra gia tốc a cho vật có khối lượng m\n- Khối lượng đặc trưng cho mức quán tính của vật. Khối lượng càng lớn thì mức quán tính càng lớn và ngược lại.\nTàu hỏa có khối lượng rất lớn nên quán tính lớn\n- Lưu ý: trong trường hợp kết quả tính hợp lực cho giá trị âm thì ta lấy độ lớn của lực bằng giá trị tuyệt đối của kết quả này và lấy hướng của hợp lực ngược với chiều đang chọn. Nếu hợp lực bằng không thì gia tốc bằng không, nghĩa là vật đứng yên hoặc chuyển động thẳng đều.",
+      "Định luật III Newton": "Nội dung định luật: Khi hai vật tương tác, mỗi vật tác dụng một lực lên vật kia, hai lực này ngược hướng và có độ lớn bằng nhau.\n- Hai lực này được gọi là lực và phản lực, có đặc điểm:\n+ Tác dụng lên hai vật có tương tác (điểm đặt lực khác nhau)\n+ Cùng phương, ngược chiều\n+ Có độ lớn bằng nhau\nLực do tay tác dụng lên cửa và lực do cửa tác dụng lên tay\nLực do thanh nam châm B tác dụng lên thanh nam châm A và ngược lại\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 4: Khối lượng riêng. Áp suất chất lỏng",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-4-khoi-luong-rieng-ap-suat-chat-long.jsp",
+    "content": {
+      "Khối lượng riêng": "Khối lượng riêng của một chất là khối lượng của một đơn vị thể tích chất đó.\nρ\n=\nm\nV\nTrong đó\n+ (đọc là rô) là khối lượng riêng (kg/m3)\n+ m là khối lượng vật (kg)\n+ V là thể tích vật (m3)\nChất\nKhông khí\n1,29\nOxygen\n1,43\nNước\n1000\nĐá hoa cương\n2750\nĐồng\n8900\nKhối lượng riêng của một số chất",
+      "Áp suất": "- Áp suất đặc trưng cho tác dụng của áp lực lên mỗi đơn vị diện tích bị ép.\nThí nghiệm minh họa tác dụng của áp lực\n- Với một áp lực nhất định, diện tích bị ép càng lớn thì tác dụng của áp lực lên diện tích đó càng nhỏ, hay áp suất càng nhỏ.\n- Công thức tính áp suất:\np\n=\nF\nS\nTrong đó\n+ F là độ lớn áp lực, được đo bằng niuton (N)\n+ S là diện tích bị ép, được đo bằng mét vuông (m2)\n+ p là áp suất, được đo bằng pascan (Pa)\n- Ngoài ra, áp suất còn được đo bằng một số đơn vị khác như atmotphe (atm), mmHg, …\n1 atm = 760 mmHg = 105 Pa",
+      "Áp suất chất lỏng": "- Chất lỏng không chỉ gây ra áp suất lên đáy bình chứa mà còn lên thành bình và lên mọi điểm trong chất lỏng.\n- Tại mỗi điểm, áp lực lên diện tích bị ép được biểu thị bằng một mũi tên.\nÁp lực do chất lỏng tác dụng lên bề mặt bị ép\n- Áp suất của chất lỏng tại điểm có độ sâu h:\np\n=\np\no\n+\nρ\ng\nh\nTrong đó\n+ po là áp suất khí quyển trên mặt thoáng của chất lỏng (N/m2)\n+ h là độ sâu của điểm ta xét đến mặt thoáng chất lỏng (m)\n+ g là gia tốc trọng trường tại nơi đang xét (m/s2)\n+\nρ\nlà khối lượng riêng của chất lỏng đang xét (kg/m3)\n- Độ chênh lệch áp suất giữa hai điểm trong chất lỏng:\nΔ\np\n=\nρ\ng\nΔ\nh\nkhông phụ thuộc vào áp suất po tại mặt thoáng.\n- Một số ứng dụng:\nBình thông nhau\nMáy nén thủy lực\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 5: Tổng hợp và phân tích lực",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-5-tong-hop-va-phan-tich-luc.jsp",
+    "content": {
+      "Tổng hợp lực đồng quy": "- Tổng hợp lực là thay thế nhiều lực tác dụng đồng thời vào một vật bằng một lực có tác dụng giống hệt như tác dụng của những lực ấy.\n- Lực thay thế này gọi là hợp lực, các lực được thay thế gọi là các lực thành phần.\nLực tổng hợp thay thế cho hai lực thành phần",
+      "Hai lực cùng phương": "- Hai lực cùng phương, cùng chiều thì làm tăng tác dụng lên vật và có độ lớn hợp lực bằng: F = F1 + F2\n- Hai lực cùng phương, ngược chiều thì chúng hạn chế, thậm chí có thể triệt tiêu tác dụng của nhau lên vật và hợp lực có giá trị bằng: F = F1 – F2\n+ Nếu F > 0 thì hợp lực F cùng chiều với lực thành phần F1.\n+ Nếu F < 0 thì lực F ngược chiều với lực F1.",
+      "Hai lực vuông góc": "- Hai lực thành phần vuông góc với nhau, hợp lực có độ lớn:\nF\n=\n√\nF\n2\n1\n+\nF\n2\n2\n- Hướng của hợp lực F tạo với lực thành phần F1 góc thỏa mãn:\ntan\nα\n=\nF\n2\nF\n1",
+      "Hai lực tạo với nhau một góc bất kì": "Xét hai lực F1; F2 đồng quy và hợp thành góc\nα\n. Ta có thể biểu diễn hợp lực theo quy tắc hình bình hành hoặc quy tắc cộng vectơ.\n- Độ lớn hợp lực F:\nF\n2\n=\nF\n2\n1\n+\nF\n2\n2\n+\n2\nF\n1\n.\nF\n2\n.\ncos\nα\n- Hướng của hợp lực F so với F2 thỏa mãn:\ncos\nθ\n=\nF\n2\n+\nF\n2\n2\n−\nF\n2\n1\n2.\nF\n.\nF\n2",
+      "Phân tích lực": "- Lực thường được phân tích thành hai thành phần có phương vuông góc với nhau, sau đó, xác định tác dụng của từng thành phần riêng biệt. Tác dụng các thành phần lực vuông góc độc lập với nhau.\n+ thành phần theo phương ngang\nF\nx\n=\nF\ncos\nθ\n+ thành phần theo phương thẳng đứng\nF\ny\n=\nF\nsin\nθ\n- Tiếp theo, vận dụng phương pháp phân tích lực thành hai thành phần vuông góc để xem xét các trường hợp vật chịu tác dụng của nhiều lực.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 6: Mômen lực. Điều kiện cân bằng của vật",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-6-momen-luc-dieu-kien-can-bang-cua-vat.jsp",
+    "content": {
+      "Tổng hợp lực song song": "- Hợp lực của hai lực song song, cùng chiều là một lực song song, cùng chiều với hai lực ấy và có độ lớn bằng tổng các độ lớn của hai lực thành phần:\nF = F1 + F2\n- Điểm đặt O của F chia đoạn thẳng nối điểm đặt O1; O2 của F1; F2 thành những đoạn thẳng tỉ lệ nghịch với độ lớn của hai lực ấy:\nO\nO\n1\nO\nO\n2\n=\nF\n2\nF\n1\nHình ảnh minh họa quy tắc tổng hợp lực song song, cùng chiều\n- Sử dụng quy tắc tổng hợp hai lực song song cùng chiều có thể giúp xác định được trọng tâm của một vật.",
+      "Momen lực": "- Đại lượng đặc trưng cho tác dụng làm quay của một lực là mômen của nó. Mômen M của một lực được tính bằng tích độ lớn của lực với khoảng cách từ trục quay đến đường thẳng trùng với phương của lực (giá của lực).\nM = F.d\nTrong đó:\n+ M là mômen lực (N.m).\n+ F là lực tác dụng lên vật (N).\n+ d là khoảng cách từ trục quay đến giá của lực (m).\n- Đơn vị của momen lực là niuton.mét (N.m).\nThanh quay quanh trục O dưới tác dụng của các lực khác nhau\nLưu ý: Lực tác dụng lên vật có giá của lực đi qua trục quay không gây ra tác dụng làm quay của vật.\nMomen lực xuất hiện trong tình huống vặn ốc vít",
+      "Ngẫu lực. Momen ngẫu lực": "- Để tạo thành một ngẫu lực, hai lực phải:\n+ tác dụng vào cùng một vật;\n+ song song, nhưng ngược chiều;\n+ có giá cách nhau một khoảng d;\n+ bằng nhau về độ lớn: F1 = F2 = F.\n- Do hai lực tạo thành ngẫu lực là hai lực song song, ngược chiều và cùng độ lớn nên ngẫu lực chỉ có tác dụng làm quay vật.\n- Momen của ngẫu lực: M = F.d với d là khoảng cách giữa giá của hai lực.\n- Momen của ngẫu lực chỉ phụ thuộc vào khoảng cách giữa giá của hai lực, không phụ thuộc vào điểm đặt của mỗi lực tác dụng hay vị trí trục quay của vật.\nNgẫu lực xuất hiện trong tình huống vặn vòi nước\nNgẫu lực xuất hiện trong tình huống lái xe điều khiển vô lăng",
+      "Quy tắc momen lực": "Một vật có trục quay cố định sẽ cân bằng khi tổng các momen lực có xu hướng làm vật quay theo chiều kim đồng hồ bằng với tổng các momen lực có xu hướng làm vật quay ngược chiều kim đồng hồ.\n∑\nM\nx\nu\no\ni\n=\n∑\nM\nn\ng\nu\no\nc",
+      "Điều kiện cân bằng của vật": "Một vật ở trạng thái cân bằng khi thỏa mãn đồng thời hai điều kiện sau:\n- Hợp lực tác dụng lên vật bằng không\n- Tổng momen của các lực tác dụng lên vật đối với trục quay bất kì bằng không.\nHòn đá nằm cân bằng do thỏa mãn điều kiện cân bằng của vật\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 1: Năng lượng và công",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-1-nang-luong-va-cong.jsp",
+    "content": {
+      "Công": "- Năng lượng đặc trưng cho khả năng thực hiện công. Công được tính bằng biểu thức:\nCông = lực tác dụng độ dịch chuyển theo phương của lực\n- Biểu thức tính công được viết dưới dạng kí hiệu: A = F.d\nTrong đó:\n+ A là công (J)\n+ F là giá trị lực tác dụng (N)\n+ d là độ dịch chuyển theo phương của lực (m)\n- Đơn vị công: N.m hoặc J\n- Khi lực F không đổi tác dụng lên một vật và điểm đặt của lực đó chuyển dời một đoạn s theo phương hợp với hướng của lực góc\nα\nthì biểu thức tính công là:\nA\n=\nF\n.\ns\n.\ncos\nα\n- Nhận xét:\n+ Khi lực vuông góc với phương dịch chuyển thì sinh công bằng 0\n+ Khi\n0\n0\n≤\nα\n<\n90\n0\nthì lực sinh công dương (A > 0)\n+ Khi\n90\n0\n<\nα\n≤\n180\n0\nthì lực sinh công âm (A < 0)",
+      "Sự truyền năng lượng": "- Thực hiện công là một cách truyền năng lượng từ vật này sang vật khác.\nTruyền năng lượng cho vật bằng cách thực hiện công\n- Độ lớn của công mà lực đã thực hiện bằng phần năng lượng mà lực tác dụng truyền cho vật, làm vật dịch chuyển một khoảng nào đó theo phương của lực.\nCông đã thực hiện = Phần năng lượng đã được truyền\n- Đơn vị công là đơn vị đo năng lượng: jun (J). 1N.1m = 1N.m = 1J.",
+      "Tốc độ thực hiện công": "Hai lực khác nhau thực hiện cùng một công như nhau nhưng thời gian để thực hiện công có thể khác nhau. Hoặc trong cùng một khoảng thời gian, lực này thực hiện công lớn hơn lực kia. Điều đó có nghĩa là: tốc độ thực hiện công của hai lực là nhanh chậm khác nhau.",
+      "Định nghĩa công suất": "Công suất biểu thị tốc độ thực hiện công của một lực. Công suất có độ lớn bằng công sinh ra trong một đơn vị thời gian.\nP\n=\nA\nt\nTrong đó A là công thực hiện trong thời gian t.\nĐây là biểu thức xác định công suất trung bình.\nĐơn vị đo công suất là W (oát)\nVí dụ:\nTổ máy phát điện\n240 MW\nTàu biển\n50 MW\nVận động viên nâng tạ 150 kg\n3,3 kW\nMáy phát thanh\n3 kW\nLò nướng\n2 kW\nBóng đèn điện\n100 W\nTrái tim đập 60 nhịp/ phút\n30 W\nMáy tính bỏ túi\n10-3 W\nMột số giá trị công suất trung bình\nCông suất của một thiết bị điện tử",
+      "Mối liên hệ công suất với lực và vận tốc": "- Động cơ tạo ra lực phát động làm xe chuyển động về phía trước. Động cơ hoạt động với công suất càng lớn thì có thể tác dụng lực càng lớn, làm xe chuyển động càng nhanh.\n- Xe chuyển động với vận tốc v không đổi, động cơ tác dụng lực F cùng hướng chuyển động để cân bằng với lực cản của đường và không khí. Trong khoảng thời gian t, xe (có động cơ) di chuyển được quãng đường: s = v.t. Lực F coi như không đổi và cùng hướng với độ dịch chuyển của vật, sinh công: A = F.s\n- Công suất hoạt động của động cơ là:\nP\n=\nA\nt\n=\nF\n.\ns\nt\n=\nF\n.\nv\n.\nt\nt\n=\nF\n.\nv\nHộp số động cơ xe máy\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Bảo toàn và chuyển hóa năng lượng",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-2-bao-toan-va-chuyen-hoa-nang-luong.jsp",
+    "content": {
+      "Thế năng": "Trong trường trọng lực đều, thế năng của vật có khối lượng m ở độ cao h so với mặt đất được xác định bằng công thức: Wt = mgh.\nTrong đó:\n+ m là khối lượng của vật trong trường trọng lực (kg)\n+ g là gia tốc trọng trường (m/s2)\n+ h là độ cao của vật so với mốc tính thế năng (m)\n+ Wt là năng lượng nên được đo bằng jun (J).\nNước ở hồ chứa có năng lượng dự trữ là thế năng",
+      "Động năng": "Động năng của một vật có khối lượng m chuyển động với tốc độ v được xác định bằng công thức:\nW\nd\n=\n1\n2\nm\nv\n2\nTrong đó:\n+ m là khối lượng của vật đang chuyển động (kg)\n+ v là vận tốc của vật chuyển động (m/s)\n+ Wđlà năng lượng nên được đo bằng jun (J).\nVận động viên đang chạy có động năng",
+      "Sự chuyển hóa động năng và thế năng của vật": "Động năng của vật có thể chuyển hóa thành thế năng và ngược lại.\nVí dụ:\nTrong trò chơi tàu lượn siêu tốc: thế năng và động năng chuyển hóa cho nhau.\nTại đỉnh thứ nhất, năng lượng của tàu tồn tại dưới dạng thế năng cực đại, sau khi tàu di chuyển dần xuống chân dốc thì thế năng chuyển hóa dần thành động năng.\nSau đó tàu di chuyển lên đỉnh thứ hai, tức là động năng đã chuyển hóa dần thành thế năng. Tuy nhiên trong quá trình di chuyển, một phần năng lượng chuyển hóa thành năng lượng nhiệt và năng lượng âm thanh dẫn đến tàu không thể di chuyển lên đỉnh sau có độ cao bằng đỉnh trước đó.\nTrò chơi xích đu mà một ví dụ về sự chuyển hóa động năng – thế năng",
+      "Định luật bảo toàn cơ năng": "- Thế năng và động năng là hai dạng của cơ năng. Cơ năng W của một vật bằng tổng thế năng Wt và động năng Wđ của nó\nW = Wt + Wđ\n- Trong các trường hợp mà ma sát rất nhỏ, có thể bỏ qua sự hao phí năng lượng, động năng giảm bao nhiêu thì thế năng tăng bấy nhiêu và ngược lại. Nói cách khác, tổng động năng và thế năng là không đổi. Đó là định luật bảo toàn cơ năng.\nHệ con lắc đơn mô phỏng định luật bảo toàn cơ năng",
+      "Sự chuyển hóa năng lượng": "Năng lượng có thể được dự trữ và chuyển từ dạng này sang dạng khác (chuyển hóa năng lượng), từ vật này sang vật khác (truyền năng lượng) khi có lực tác dụng hoặc các tác động vật lí khác.",
+      "Hiệu suất": "Hiệu suất H mô tả tỉ lệ (có thể tính theo phần trăm) giữa năng lượng có ích được tạo ra Wcó ích và tổng năng lượng cung cấp Wcung cấp:\nVí dụ:",
+      "Minh họa định luật bảo toàn năng lượng": "Năng lượng không tự sinh ra hoặc không tự mất đi; năng lượng chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác. Nói cách khác, năng lượng được bảo toàn.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 1: Động lượng và định luật bảo toàn động lượng",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-1-dong-luong-va-dinh-luat-bao-toan-dong-luong.jsp",
+    "content": {
+      "Động lượng": "- Động lượng là đại lượng được đo bằng tích của vận tốc và khối lượng, để đặc trưng cho vật chuyển động trong tương tác.\n→\np\n=\nm\n→\nv\n- Động lượng là một đại lượng vectơ, cùng hướng với vận tốc.\n- Đơn vị của động lượng là kg.m/s.\nQuả bóng đang lăn có động lượng",
+      "Động lượng và định luật II Newton": "Hợp lực tác dụng lên một vật bằng tốc độ thay đổi động lượng của nó.\nHợp lực\n→\nF\nđược xác định:\n→\nF\n=\nΔ\n→\np\nΔ\nt\n(Với\nΔ\n→\np\nlà độ thay đổi động lượng trong thời gian\nΔ\nt\n).\nHướng của hợp lực theo hướng của độ thay đổi động lượng.",
+      "Định luật bảo toàn động lượng": "- Nếu không có ngoại lực nào tác dụng lên hệ thì tổng động lượng của hệ không đổi, tức là được bảo toàn.\n→\np\n1\n+\n→\np\n2\n=\nkhông đổi\n- Hệ vật chỉ có những lực của các vật trong hệ tác dụng lẫn nhau, không có tác dụng của những lực từ bên ngoài hệ hoặc nếu có thì các lực này triệt tiêu lẫn nhau được gọi là hệ kín.\nVí dụ:\nĐịnh luật bảo toàn động lượng:\n→\np\n1\n+\n→\np\n2\n=\n→\np\n′\n1\n+\n→\np\n′\n2\nhay\nm\n1\n→\nv\n1\n+\nm\n2\n→\nv\n2\n=\nm\n1\n→\nv\n′\n1\n+\nm\n2\n→\nv\n′\n2",
+      "Thí nghiệm kiểm chứng định luật bảo toàn động lượng": "Dùng hai xe kĩ thuật số có khối lượng bằng nhau lên giá đỡ nằm ngang. Cho xe 1 chuyển động đến va chạm với xe 2 đang nằm yên. Sau va chạm hai xe dính vào nhau và chuyển động cùng vận tốc.\nĐọc và ghi tốc độ của từng xe trước và sau va chạm, từ đó tính động lượng của hai xe trước và sau và chạm để so sánh, kiểm chứng định luật bảo toàn động lượng.",
+      "Vận dụng định luật bảo toàn động lượng": "Trong thực tế có rất nhiều hiện tượng, ứng dụng sử dụng định luật bảo toàn động lượng\nVí dụ:\n- Pháo hoa nổ, các mảnh pháo hoa bay theo mọi hướng và đều có động lượng, luôn có mảnh khác bay theo hướng ngược lại.\nHình ảnh pháo hoa nổ trên bầu trời\n- Chuyển động bằng phản lực, phần nhiên liệu bị đốt cháy chuyển động về phía sau, đẩy cho tên lửa chuyển động về phía trước.\nTên lửa chuyển động theo nguyên tắc chuyển động bằng phản lực\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Động lượng và năng lượng trong va chạm",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-2-dong-luong-va-nang-luong-trong-va-cham.jsp",
+    "content": {
+      "Đánh giá động lượng và năng lượng của vật va chạm bằng dụng cụ thực hành": "Thí nghiệm kiểm chứng\nDùng hai xe có khối lượng bằng nhau, đặt lên giá đỡ nằm ngang. Cho hai xe va chạm vào nhau, sau va chạm hai xe chuyển động rời xa nhau. Đọc và ghi tốc độ của từng xe trước và sau va chạm. Từ kết quả thu được tính và đánh giá động lượng, năng lượng của hai xe trước và sau va chạm.",
+      "Đánh giá động lượng của hai xe trước và sau va chạm": "Trong va chạm, động lượng của mỗi xe đều thay đổi, tuy nhiên động lượng của xe này giảm bao nhiêu thì động lượng của xe kia sẽ tăng bấy nhiêu. Như vậy, tổng động lượng của hệ hai xe được bảo toàn.",
+      "Sự thay đổi năng lượng trong va chạm giữa hai xe": "- Trường hợp sau va chạm, hai xe chuyển động ngược chiều nhau: động năng của hai xe đều thay đổi, tuy nhiên động năng của xe này giảm bao nhiêu thì động năng của xe kia tăng bấy nhiêu. Tổng động năng của hai xe được bảo toàn.\nDo hai xe chuyển động trên giá đỡ nằm ngang nên thế năng của hai xe không đổi, như vậy cơ năng của hệ cũng được bảo toàn. Va chạm này gọi là va chạm hoàn toàn đàn hồi.\nVa chạm đàn hồi\n- Trường hợp sau va cham, các vật dính vào nhau, động năng của hệ giảm so với trước va chạm. Va chạm này gọi là va chạm hoàn toàn mềm. Trong trường hợp này cơ năng của hệ không bảo toàn, một phần đã chuyển hóa thành năng lượng nhiệt, năng lượng âm thanh, năng lượng do biến dạng, …\nVa chạm mềm",
+      "Một số hiện tượng va chạm trong thực tiễn": "Trong thực thế có rất nhiều hiện tượng liên quan đến định luật bảo toàn động lượng.\nKhi tiếp đất thường có động tác nhún chân để giảm chấn thương\nVa chạm trong giao thông\nKiểm tra hệ thống túi khí của ô tô\nThủ môn bắt bóng thường rụt tay lại và cuộn người\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 1: Chuyển động tròn",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-1-chuyen-dong-tron.jsp",
+    "content": {
+      "Mô tả chuyển động tròn": "Một vật thực hiện chuyển động tròn khi nó di chuyển trên một đường tròn.\nChuyển động tròn của đầu kim đồng hồ\nChuyển động tròn của các khoang hành khách với trục quay",
+      "Độ dịch chuyển góc và tốc độ góc": "- Giả sử một vật chuyển động trên một đường tròn bán kính r. Trong thời gian t vật đi được quãng đường s. Góc ứng với cung tròn s mà vật đã đi được kể từ vị trí ban đầu gọi là độ dịch chuyển góc.\nHay\nθ\n=\ns\nr\n- Đơn vị của độ dịch chuyển góc là radian (rad).\n- Đại lượng được xác định bởi độ dịch chuyển góc trong một đơn vị thời gian gọi là tốc độ góc\nHay\nω\n=\nθ\nt\n- Đơn vị của tốc độ góc là radian trên giây (rad/s).\n- Cách đổi đơn vị:\n1\nr\na\nd\ni\na\nn\n=\n360\n0\n2\nπ\n≈\n57\n,\n3\n0",
+      "Tốc độ và vận tốc của chuyển động tròn đều": "- Tốc độ của chuyển động tròn đều là không đổi:\nv\n=\n2\nπ\nr\nT\n(với r là bán kính quỹ đạo, T là thời gian vật đi hết một vòng).\n- Vận tốc của chuyển động tròn tại mỗi điểm trên quỹ đạo có phương tiếp tuyến với quỹ đạo tại điểm đó.",
+      "Liên hệ giữa tốc độ và tốc độ góc": "- Tốc độ góc\nω\ntại mọi điểm trên quỹ đạo chuyển động tròn là như nhau.\n- Tốc độ v của vật chuyển động tròn phụ thuộc vào hai đại lượng: tốc độ góc\nω\nvà khoảng cách từ vật đến tâm quỹ đạo.",
+      "Lực hướng tâm": "Lực tác dụng lên vật luôn hướng vào tâm quỹ đạo tròn nên được gọi là lực hướng tâm.\nLực hấp dẫn của Trái Đất tác dụng lên vệ tinh đóng vai trò lực hướng tâm",
+      "Gia tốc hướng tâm": "Lực hướng tâm gây ra gia tốc hướng tâm cho vật, gia tốc hướng tâm này luôn hướng vào tâm của quỹ đạo tròn. Biểu thức:\na\n=\nv\n2\nr\nTrong đó:\n+ v là tốc độ (m/s).\n+ r là bán kính quỹ đạo (m).\n+ a là gia tốc hướng tâm (m/s2).",
+      "Lực hướng tâm và một số tình huống chuyển động tròn trong thực tế": "- Ô tô đi vào đoạn đường cong cần phải giảm tốc độ để tránh bị lật hoặc văng ra khỏi quỹ đạo cong.\n- Máy bay lượn vòng để chuyển hướng nên người phi công cần làm nghiêng cánh máy bay.\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  },
+  {
+    "title": "Lý thuyết Bài 2: Sự biến dạng",
+    "url": "https://www.vietjack.com/vat-li-10-cd/ly-thuyet-bai-2-su-bien-dang.jsp",
+    "content": {
+      "Biến dạng kéo và biến dạng nén": "- Khi một vật chịu tác dụng của ngoại lực, nếu hình dạng của vật thay đổi so với hình dạng ban đầu tức là vật đã bị biến dạng.\nBóng cao su bị biến dạng khi chịu tác dụng của ngoại lực\n- Biến dạng nén: chiều dài của vật bị ngắn lại khi chịu tác dụng của sự nén\n>                                              Thanh cao su bị biến dạng nén\n- Biến dạng kéo: chiều dài của vật tăng thêm khi chịu tác dụng của sự kéo.\nThanh thép bị biến dạng kéo",
+      "Đặc tính của lò xo": "- Lực đàn hồi\n+ Khi ta kéo hoặc nén một lò xo, tức làm lò xo biến dạng, lực đàn hồi xuất hiện ở hai đầu của lò xo và chống lại lực gây ra sự kéo hoặc nén này.\n+ Hướng của lực đàn hồi ở mỗi đầu lò xo ngược với hướng của lực gây biến dạng lò xo.\nLực đàn hồi xuất hiện chống lại nguyên nhân gây ra biến dạng\n- Độ giãn\n+ Đối với lò xo treo thẳng đứng, khi treo vật vào đầu dưới của lò xo, dưới tác dụng của trọng lượng vật treo, lò xo bị kéo giãn xuống dưới và bị dài thêm ra.\n+ Độ dài thêm ra được gọi là độ giãn (độ biến dạng) của lò xo.\n- Giới hạn đàn hồi: Giá trị giới hạn của trọng lượng vật treo, nếu vượt quá giá trị này thì khi bỏ vật treo đi lò xo không thể trở lại chiều dài ban đầu.\nLò xo chịu tác dụng của lực vượt quá giới hạn đàn hồi",
+      "Định luật Hooke (Húc)": "- Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo tỉ lệ thuận với độ biến dạng của lò xo:\nF\n=\nk\n(\nΔ\nl\n)\n- Hệ số tỉ lệ k được gọi là độ cứng của lò xo, đơn vị là niutơn trên mét (N/m).\n- Lò xo nào càng cứng thì càng ít bị biến dạng, hệ số k của nó càng lớn.\nMỗi lò xo có độ cứng k khác nhau",
+      "Ứng dụng định luật Hooke (Húc)": "Định luật Hooke ứng dụng rất nhiều trong một số đồ dùng, dụng cụ, đều hoạt động dựa trên sự biến dạng của lò xo.\nCân đồng hồ\nCân móc\nLực kế\nXem thêm tóm tắt lý thuyết Vật Lí lớp 10 hay khác:",
+      "71": "( 8 tài liệu )"
+    }
+  }
+]
