@@ -91,8 +91,8 @@ def dict_to_text(data : Dict[str, str]) -> list[str]:
     return [key + "." + value for key, value in data.items()]
 
 def main():
-    path_json = Path(__file__).parent / "500_trac_nghiem_10.json"
-    path_json_save = Path(__file__).parent / "data_clean_fine_turning.json"
+    path_json = Path(__file__).parent / "500_cau_hoi_trac_nghiem" / "500_trac_nghiem_10.json"
+    path_json_save = Path(__file__).parent / "clear_data_trac_nghiem10.json"
     
     datas = Read_File_Json(path_json).Read()  
     data_all = []

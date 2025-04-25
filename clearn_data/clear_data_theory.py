@@ -19,8 +19,8 @@ def solution(dict_new : Dict[str, str]) -> Dict[str, str]:
     return data_new
 
 def main():
-    file_path_read_file_json = Path(__file__).parent / "Get_data_web" / "data_theory"
-    file_path_save_file_json = Path(__file__).parent / "data_theory.json"
+    file_path_read_file_json = Path(__file__).parent / "data_theory"
+    file_path_save_file_json = Path(__file__).parent / "data_fine_turning" / "data_theory.json"
     vector_list_dir = os.listdir(file_path_read_file_json)    
     data = [solution(text) for path in vector_list_dir for text in Read_File_Json(file_path_read_file_json / path).Read()]
     datas = { key : value for vector_question in data for key, value in vector_question.items()}
