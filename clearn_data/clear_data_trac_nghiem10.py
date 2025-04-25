@@ -1,3 +1,8 @@
+import sys
+import os
+# thêm path thủ công 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from read_file import Read_File_Json
 from save_file_json import Save_File_Json
 from package import (
@@ -5,7 +10,7 @@ from package import (
     json,
     Dict
 )
-from solution_string import solution
+from clearn_data.solution_string import solution
 from gen import Answer_Question_From_Documents
 import re
 
@@ -30,8 +35,7 @@ def check_char_index(vector_answer : list[str], char : str) -> str:
                 break
     return vector_answer[index]
 
-def get_char(text : str) -> str:
-    
+def get_char(text : str) -> str:    
     for i in range(len(text) - 1, -1, -1):
         if (char_test(text[i])):
             return i
@@ -147,11 +151,8 @@ def main():
         # Đừng quên lưu đáp án cuối cùng
         if current_key is not None:
             options[current_key] = " ".join(current_text).strip()
-        # Tìm đáp án đúng
-        correct_line = next((s for s in item["giai_thich"] if "Đáp án đúng là" in s), "")
-        correct_match = re.search(r"Đáp án đúng là:?\s*([A-D])", correct_line)
-        correct_answer = correct_match.group(1) if correct_match else ""
-
+        
+        
         # Gộp giải thích lại
         explanation = "\n".join([line.strip() for line in item["giai_thich"]])
         
@@ -161,11 +162,19 @@ def main():
             options = check(options)
         
         result = "\n".join(dict_to_text(options))
+            
+        check_oke = False
+        for i in range(len(question)):
+            if (question[i] == '?'):
+                check_oke = True 
+                break    
+        if (not check_oke):
+            question += '?'
+
         cleaned_data.append({
-            "question": question,
-            "options": result,
-            "correct_answer": correct_answer,
-            "explanation": explanation
+            "cau_hoi": question,
+            "cac_lua_chon": result,
+            "giai_thich": explanation
         })
 
     Save_File_Json(str(path_json_save),cleaned_data).save()            
