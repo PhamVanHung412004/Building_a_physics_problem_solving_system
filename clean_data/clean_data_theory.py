@@ -40,8 +40,17 @@ def main():
     datas = { key : value for vector_question in data for key, value in vector_question.items()}
     
     cleaned_data = {k: clean_text(v) for k, v in datas.items()}
-    # Save_File_Json(str(file_path_save_file_json),datas).save()
-    with open("data_theory_cleaned.json", "w", encoding="utf-8") as f:
-        json.dump(cleaned_data, f, ensure_ascii=False, indent=4)
+    
+    data_best = []
+    for key, value in cleaned_data.items():
+        dict_value = {}
+        dict_value["title"] = "ly thuyet"
+        dict_value["cau_hoi"] = key
+        dict_value["dap_an"] = value
+        data_best.append(dict_value)
+    
+    Save_File_Json(str(file_path_save_file_json),data_best).save()
+    # with open("data_theory_cleaned.json", "w", encoding="utf-8") as f:
+    #     json.dump(cleaned_data, f, ensure_ascii=False, indent=4)
 main()
 
