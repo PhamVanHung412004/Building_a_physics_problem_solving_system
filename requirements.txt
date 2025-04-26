@@ -13,3 +13,4 @@ Flask-Login
 Flask-Bcrypt
 Flask-WTF
 Flask-Mail
+bs4

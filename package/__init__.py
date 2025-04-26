@@ -13,4 +13,5 @@ from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import os
 import re
+from bs4 import BeautifulSoup
 
