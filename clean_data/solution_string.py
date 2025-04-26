@@ -44,8 +44,8 @@ def clean_question(raw_text : str) -> tuple:
     # Tách phần câu hỏi và đáp án
     if "\nA" in raw_text:
         parts = raw_text.split("\nA", 1)
-    elif "\\A" in raw_text:
-        parts = raw_text.split("\\A", 1)
+    elif "\A" in raw_text:
+        parts = raw_text.split("\A", 1)
     else:
         parts = [raw_text, ""]
 
@@ -61,8 +61,8 @@ def clean_question(raw_text : str) -> tuple:
     # Xử lý phần đáp án
     select = parts[1].strip()
     select = select.replace('\n', '')
-    
-    select = re.sub(r'(?=[BCD]\.)', r'\n', select)
+    select = re.sub(r'(?=\n[BCD]\.)', r'\n', select)
+
     select = select.strip()
 
     if not select.startswith("A."):

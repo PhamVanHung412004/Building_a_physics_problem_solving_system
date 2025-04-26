@@ -1,0 +1,14 @@
+[
+    {
+        "title": "trac nghiem",
+        "cau_hoi": ". Một con lắc lò xo dao động điều hòa. Lò xo có độ cứng k = 80 N/m. Trong một chu kì, con lắc đi được một đoạn đường dài 20 cm. Cơ năng của con lắc là",
+        "cac_lua_chon": [
+            "A.. 0,1 J.\nB. 0,2 J.\nC. 0,3 J.\nD. 0,4 J."
+        ],
+        "giai_thich": [
+            "Quãng đường vật đi được trong một chu kì là: ST=4A⇒A=5cm ST=4A⇒A=5cm S_T = 4 ⇒ A = 5cm",
+            "Cơ năng của con lắc: W=1/2kA^2=0,1J W=1/2kA^2=0,1J  = (1/2)k^2 = 0,1J",
+            "Đáp án đúng là A."
+        ]
+    }
+]
