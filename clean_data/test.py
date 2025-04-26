@@ -1,5 +1,5 @@
 
 
 
-text = "Lời giải"
+text = 
 print(len(text))

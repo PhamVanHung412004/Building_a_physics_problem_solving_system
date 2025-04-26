@@ -8,7 +8,10 @@ from package import (
     Dict,
     re
 )
-from solution_string import solution
+from solution_string import (
+    solution,
+    clean_mathml
+)
 
 def char_test(char : str):
     '''
