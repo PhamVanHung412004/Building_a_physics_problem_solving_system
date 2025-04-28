@@ -1,0 +1,2927 @@
+[
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong cuộc sống hằng ngày và trong kĩ thuật ta thường gặp những vật dao động, ví dụ như dây đàn ghi ta rung động, chiếc đu đung đưa, pít-tông chuyển động lên xuống trong xi lanh của động cơ,... Chuyển động của những vật này được gọi là dao động cơ. Vậy dao động cơ có những đặc điểm gì chung? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chuẩn bị: Hoạt động trang 6 Vật Lí 11: Chuẩn bị: Hoạt động trang 6 Vật Lí 11: Chuẩn bị: Sử dụng con lắc lò xo hoặc con lắc đơn (Hình 1.1). Tiến hành: Tiến hành: Treo một vật nhỏ, nặng vào đầu tự do của một lò xo nh",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Để vẽ đồ thị hoặc viết phương trình của một dao động điều hoà cần biết những đại lượng vật lí nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ta có thể dựa vào đồ thị (x – t) của dao động điều hoà để xác định vận tốc và gia tốc của vật được không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi biết phương trình hoặc đồ thị của vật dao động điều hoà, làm thế nào để xác định được vận tốc và gia tốc của vật? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ở lớp 10, khi học về chuyển động của vật, ta đã biết có sự chuyển hoá giữa động năng và thế năng của vật. Vậy trong dao động điều hoà có sự chuyển hoá tương tự không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 5.3 là đồ thị động năng và thế năng của một vật dao động điều hoà theo li độ. Hãy phân tích sự chuyển hoá giữa động năng và thế năng bằng đồ thị. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 5.4 là đồ thị động năng và thế năng của một vật dao động điều hoà theo thời gian. Hoạt động 2 trang 21 Vật Lí 11: Hình 5.4 là đồ thị động năng và thế năng của một vật dao động điều hoà theo thời gian. Hoạt động 2 trang 21 Vật Lí 11: a) Động năng và thế năng của vật thay đổi như thế nào trong các khoảng thời gian: từ 0 đếnT4, từT4 đếnT2, từT2 đến3T4, từ3T4 đến T. a) Động năng và thế năng của vật thay đổi như thế nào trong các khoảng thời gian: từ 0 đếnT4, từT4 đếnT2, từT2 đến3T4, từ3T4 đến T. T4 T4 T4 T4 T4 T4 T T T 4 4 4 T4 T4 T4 T4 T4 T4 T T T 4 4 4 T2 T2 T2 T2 T2 T2 T ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Làm thí nghiệm để xác nhận rằng khi góc lệchα0 ≤100thì chu kì của con lắc đơn gần như không phụ thuộc vào biên độ dao động. Hoạt động trang 22 Vật Lí 11: Là",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một con lắc lò xo có độ cứng k và vật nặng có khối lượng m. Hoạt động trang 22 Vật Lí 11: Một con lắc lò xo có độ cứng k và vật nặng có khối lượng m. Hoạt động tr",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một con lắc lò xo có vật nặng khối lượng 0,4 kg, dao động điều hoà. Đồ thị vận tốc v theo thời gian t như Hình 5.7. Câu hỏi 1 trang 23 Vật Lí 11: Một con lắc lò xo có vật nặng khối lượng 0,4 kg, dao động điều hoà. Đồ thị vận tốc v theo t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Phân tích sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà ở một số ví dụ trong đời sống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một em bé đang chơi xích đu trong sân. Tại sao để xích đu tiếp tục dao động, người mẹ thỉnh thoảng lại đẩy nhẹ vào ghế xích đu? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy giải thích tại sao dao động của em bé chơi xích đu trong ví dụ ở đầu bài lại tắt dần nếu không có người mẹ thỉnh thoảng đẩy nhẹ vào em bé. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy tìm trong thực tế ví dụ về dao động tắt dần và cho biết trong mỗi trường hợp thì dao động tắt dần là có lợi hay có hại. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm thêm ví dụ về dao động cưỡng bức. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đánh giá được sự có lợi hay có hại của cộng hưởng trong các ví dụ nêu trên. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một con lắc dao động tắt dần. Cứ sau mỗi chu kì, biên độ giảm 3%. Tính phần năng lượng của con lắc bị mất đi trong một dao động toàn phần. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một con lắc dài 44 cm được treo vào trần của một toa xe lửa. Con lắc bị kích động mỗi khi bánh của toa xe gặp chỗ nối nhau của đường ray. Hỏi tàu chạy thẳng đều với tốc độ bằng bao nhiêu thì biên độ dao động của con lắc sẽ lớn nhất? Cho biết chiều dài của mỗi đường ray là 12,5m. Lấy g = 9,8 m/s2. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy được ví dụ thực tế về dao động tắt dần, dao động cưỡng bức và hiện tượng cộng hưởng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nhận biết được sự có lợi hay có hại của cộng hưởng và vận dụng nó vào cuộc sống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ta có thể sử dụng định luật bảo toàn cơ năng để tìm li độ và vận tốc của vật dao động điều hoà được không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 7.3 mô tả một máy đo địa chấn đơn giản hoạt động theo nguyên tắc sau đây: Khi xảy ra động đất thì hệ gồm lò xo và vật nặng của máy đo sẽ dao động theo tần số của địa chấn. Bút dạ gắn với vật nặng sẽ ghi lại đồ thị của địa chấn trên cuộn giấy quay đều. Biết sóng địa chấn có tần số nằm trong khoảng từ 30 Hz đến 40 Hz. Hãy giải thích tại sao tần số riêng của hệ (vật nặng + lò xo) trong máy địa chấn phải có giá trị nhỏ hơn tần số này rất nhiều. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 7.5 là đồ thị động năng theo thời gian của một vật khối lượng 0,4 kg dao động điều hoà. Tại thời điểm ban đầu vật đang chuyển động theo chiều dương, lấyπ2 = 10. Viết phương trình dao động của vật. Bài 3 ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật có khối lượng m dao động điều hoà với tần số góc ω và biên độ A. Bài 4 trang 30 Vật Lí 11: Một vật có khối lượng m dao động điều hoà với tần số góc ω và biên độ A. Bài 4 trang 30 Vật Lí 11: a) Khi vật có li độ bằng một n",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Phân tích được sự chuyển hóa năng lượng trong dao động điều hòa trong một số bài tập cụ thể. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong cuộc sống hằng ngày, chúng ta thường gặp hay nghe đến nhiều loại sóng như: sóng nước, sóng âm, sóng vô tuyến, sóng biển, sóng địa chấn...Vậy sóng được hình thành như thế nào và có những đặc điểm gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy quan sát chuyển động của miếng xốp trong thí nghiệm Hình 8.1 và cho biết miếng xốp có chuyển động ra xa nguồn cùng với sóng không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong đồ thị của sóng Hình 8.3d, các điểm nào trong các điểm M, N, P trên phương Ox dao động lệch phaπ2, ngược pha, đồng pha với nhau? Câu hỏi trang ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trên mặt hồ yên lặng, một người làm cho con thuyền dao động tạo ra sóng trên mặt nước. Thuyền thực hiện được 24 dao động trong 40 s, mỗi dao động tạo ra một ngọn sóng cao 12 cm so với mặt hồ yên lặng và ngọn sóng tới bờ cách thuyền 10 m sau 5 s. Với số liệu này, hãy xác định: Câu hỏi 1 trang 35 Vật Lí 11: Trên mặt hồ yên lặng, một người làm cho con thuyền dao động tạo",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 8.4 là đồ thị (u - t) của một sóng âm trên màn hình của một dao động kí. Biết mỗi cạnh của ô vuông theo phương ngang trên hình tương ứng với 1 ms. Tính tần số của sóng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm ở Hình 8.1, nếu ta thay đổi tần số dao động của nguồn sóng thì đại lượng nào sau đây không thay đổi? Câu hỏi 3 trang 35 Vật Lí 11: Trong thí nghiệm ở Hình 8.1, nếu ta tha",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sóng mặt nước và sóng âm truyền trong không khí có đặc điểm gì chung và riêng? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 9.1 mô tả một sóng ngang truyền trên dây đàn hồi. Hãy quan sát các mũi tên, từ đó chỉ ra phương dao động của các phần tử của dây và phương truyền sóng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào Hình 9.1 và Hình 9.2, hãy chỉ ra điểm giống và khác nhau giữa sóng dọc và sóng ngang. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 9.4 mô tả biên độ và tần số của âm qua dao động kí để trả lời các câu hỏi sau: Hoạt động trang 39 Vật Lí 11: Quan sát Hình 9.4 mô tả biên độ và tần số của âm qua dao động kí để trả lời các câu hỏi sau: Hoạt động trang 39 Vật Lí 11: - Ở Hình 9.4a loa phát ra âm có chu kì bằng bao nhiêu? - Ở Hình 9.4a loa phát ra âm có ch",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tại thời điểm mà sóng trên lò xo được mô tả trên Hình 9.2. Hãy xác định: Câu hỏi 1 trang 39 Vật Lí 11: Tại thời điểm mà sóng",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dải tần số mà một học sinh có thể nghe thấy từ 30 Hz đến 16 000 Hz. Tốc độ truyền âm trong không khí là 330 m/s. Tính bước sóng ngắn nhất của âm thanh trong không khí mà bạn học sinh đó nghe được. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu được ví dụ trong thực tế chứng tỏ sóng truyền năng lượng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu được ví dụ về sóng dọc và sóng ngang trong thực tiễn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng mô hình sóng để giải thích được một số tính chất đơn giản của âm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Để chỉnh các dây đàn, có thể so sánh tần số âm của nhạc cụ với âm phát ra từ âm thoa có tần số xác định. Làm thế nào kiểm tra tần số âm được ghi trên âm thoa bằng dụng cụ thí nghiệm? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát màn hình hiển thị tín hiệu dao động điện trên dao động kí (Hình 10.2), hãy xác định tần số dao động của tín hiệu. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát thí nghiệm Hình 10.4. Trả lời các câu hỏi sau: Hoạt động trang 42 Vật Lí 11: Quan sát thí nghiệm Hình 10.4. Trả lời các câu hỏi sau: Hoạt động trang 42 Vật Lí 11: 1. Sóng âm truyền tới dao động kí như thế nào? 1. Sóng âm truyền tới dao động kí như thế nào? 2. Tại sao tần số dao động của tín hiệu đưa vào dao động kí lại bằng tần số dao động của âm",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thí nghiệm trang 43 Vật Lí 11: Thí nghiệm trang 43 Vật Lí 11: Ghi lại kết quả đo chu kì và xử lí kết quả thí nghiệm: Ghi lại kết quả đo chu kì và xử lí kết quả thí nghiệm: - T",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh tần số sóng âm đo được với tần số ghi trên âm thoa. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng một số phần mềm trên điện thoại thông minh để chỉnh dây đàn ghita. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chỉ với một chiếc điện thoại thông minh hay chiếc máy tính được kết nối với internet, ta có thể trao đổi thông tin với nhau trên khắp toàn cầu. Vậy tại sao thông tin lại có thể lan truyền được trong không gian? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vệ tinh thông tin (vệ tinh địa tĩnh) chuyển động trên quỹ đạo tròn ngay phía trên xích đạo của Trái Đất, quay cùng hướng và cùng chu kì tự quay của Trái Đất ở độ cao 36 600 km so với đài phát trên mặt đất. Đài phát nằm trên đường thẳng nối vệ tinh và tâm Trái Đất. Coi Trái Đất là một hình cầu có bán kính R = 6 400 km. Vệ tinh nhận sóng truyền hình từ đài phát rồi phát lại tức thời tín hiệu đó về Trái Đất. Biết sóng có bước sóng λ= 0,5 m; tốc độ truyền sóng c = 3.108 m/s. Tính khoảng thời gian lớn nhất mà sóng truyền hình đi từ đài phát đến một điểm trên mặt Trái Đất, vẽ hình minh hoạ. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh tần số của ánh sáng đỏ và ánh sáng tím. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích tại sao mỗi khi cho phóng hồ quang người thợ hàn cần mặt nạ che mặt (Hình 11.5). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích tại sao Mặt Trời là một nguồn năng lượng khổng lồ phát ra tia tử ngoại mà con người và các sinh vật trên Trái Đất vẫn có thể sinh sống dưới ánh nắng mặt trời được. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bảng 11.1 cho biết phạm vi của bước sóng trong chân không của các dải chính tạo nên thang sóng điện từ. Hãy xác định phạm vi của tần số tương ứng với các dải bước sóng đó. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu tên sóng điện từ trong chân không ứng với mỗi bước sóng. Hoạt động 1 trang 47 Vật Lí 11: Nêu tên sóng điện từ trong châ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu loại sóng điện từ ứng với mỗi tần số sau: Hoạt động 2 trang 47 Vật Lí 11: Nêu loại sóng điện từ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nhận biết được các loại bức xạ trong thang sóng điện từ dựa vào bước sóng hoặc tần số của nó. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho hai loa giống nhau cùng phát âm thanh như hình bên, dịch chuyển một micro có nối với dao động kí phía trước hai loa để ghi đồ thị sóng âm thì thấy có những điểm tại đó biên độ sóng âm thu được rất lớn (L) và những điểm biên độ rất bé (B) nằm xen kẽ. Hiện tượng thú vị này giải thích như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích hiện tượng nêu ở mục khởi động của đầu bài. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm trên, nếu thay nguồn sáng laze trong thí nghiệm trên bằng bóng đèn dây tóc phát ánh sáng trắng thì vẫn sáng chính giữa sẽ có màu gì. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm ở Hình 12.1, tốc độ truyền sóng trên mặt nước là 20 cm/s, cần rung có tần số 40 Hz. Tính khoảng cách giữa hai điểm cực đại giao thoa cạnh nhau trên đoạn thẳng S1S2. Câ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một thí nghiệm Y-âng về giao thoa ánh sáng với a = 0,2 mm, D = 1,2 m, người ta đo được i = 0,36 mm. Tính bước sóng λ và tần số f của bức xạ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một thí nghiệm Y-âng, biết a = 0,15 mm, D = 1,20 m, khoảng cách giữa 12 vân sáng liên tiếp là 5,2 mm. Tính bước sóng ánh sáng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ hiện tượng giao thoa sóng nước, giải thích được hiện tượng giao thoa của các sóng khác như sóng âm, sóng ánh sáng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi vỗ tay đều trước miệng các ống của đàn K’lông pút có độ dài khác nhau như hình bên, thì thấy âm phát ra ở các miệng ống trầm bổng khác nhau. Sóng âm lan truyền trong mỗi ống không phải là sóng chạy. Vậy đó là loại sóng gì và có những đặc điểm nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ kết quả thí nghiệm rút ra điều kiện để có sóng dừng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy xác định số nút và số bụng của sóng dừng trên sợi dây Hình 13.3. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy giải thích sự tạo thành sóng dừng trên dây PQ ở thí nghiệm Hình 13.1. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một dây đàn hồi dài 0,6 m hai đầu cố định dao động với một bụng sóng. Câu hỏi 1 trang 54 Vật Lí 11: Một dây đàn hồi dài 0,6 m hai đầu cố định dao động với một bụng sóng. Câu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trên sợi dây đàn hồi, có chiều dài L = 1,2 m người ta tạo ra sóng dừng có hình dạng được mô tả ở Hình 13.6. Biết tần số rung của sợi dây là f = 13,3 Hz. Xác định tốc độ truyền sóng trên dây. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm điều kiện để có sóng dừng trong cột không khí một đầu cố định, một đầu tự do (Hình 13.7). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được sự hình thành sóng dừng trong thực tế. Ví dụ trong ống sáo, đàn K’lông pút. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Có thể sử dụng mối liên hệ nào để xác định các đại lượng λ, v, f, T? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một lò xo có chiều dài 1,2 m, đầu trên gắn vào một nhánh âm thoa, đầu dưới treo một quả cân. Dao động của âm thoa được duy trì bằng một nam châm điện để có tần số 50 Hz. Khi đó, trên lò xo có sóng dừng và trên lò xo chỉ có một nhóm vòng dao động với biên độ cực đại. Tính tốc độ truyền sóng trên lò xo. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một sóng hình sin được mô tả như Hình 14.2. Bài 2 trang 57 Vật Lí 11: Một sóng hình sin được mô tả như Hình 14.2. Bài 2 trang 57 Vật Lí 11: a) Xác định bước sóng của sóng. a) Xác định bước sóng của sóng. b) Nếu chu kì của sóng là 1 s thì tần số và tốc độ truyền sóng bằng bao nhiêu? b) Nếu chu kì của sóng là 1 s thì tần ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một thí nghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng đơn sắc. Khoảng cách giữa hai khe là 0,6 mm. Khoảng vân trên màn quan sát đo được là 1 mm. Từ vị trí ban đầu, nếu tịnh tiến màn quan sát một đoạn 25 cm lại gần mặt phẳng chứa hai khe thì khoảng vân mới trên màn là 0,8 mm. Tính bước sóng của ánh sáng dùng trong thí nghiệm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được cách đo bước sóng ánh sáng qua thí nghiệm giao thoa ánh sáng với khe Y – âng thông qua mối liên hệ giữa các đại lượng I, D, a, λ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Âm thanh truyền trong một môi trường có tốc độ xác định, làm thế nào đo được tốc độ truyền âm trong không khí bằng dụng cụ thí nghiệm? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nối máy phát tần số với loa, bật công tắc nguồn của máy phát tần số, điều chỉnh biên độ và tần số để nghe rõ âm (hoặc dùng búa cao su gõ vào một nhánh của âm thoa), đồng thời dịch chuyển dần pít-tông ra xa loa. Trả lời câu hỏi sau: Hoạt động trang 58 Vật Lí 11: Nối máy phát tần số với loa, bật công tắc nguồn của máy phát tần số, điều chỉnh biên độ và tần số để nghe rõ âm (hoặc dùng búa cao su gõ vào một nhánh của âm thoa), đồng thời dịch chuyển dần pít-tông ra xa loa. Trả lời câu hỏi sau: ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xử lí kết quả thí nghiệm Hoạt động trang 59 Vật Lí 11: Xử lí kết quả thí nghiệm Hoạt động trang 59 Vật Lí 11: a) Tính chiều dài cột không khí giữa hai vị trí của pít-tông khi âm to nhấtd=l2−l1=? d=l2−l1=? d=l2−l1=? d=l2−l1=? d d = = l2 l l l 2 2 2 − − l1 l l l 1 1 1 = = ? ? b) Tính tốc độ truyền âmv=λ.f=2df=? v=λ.f=2df=? v=λ.f=",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chế tạo chiếc đàn K’lông pút bằng các ống nứa hoặc ống nhựa rỗng, có độ dài khác nhau và có thể phát ra được âm có tần số bằng tần số các nốt nhạc cơ bản. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Em đã biết các điện tích cùng dấu đẩy nhau, khác dấu hút nhau. Theo em, độ lớn của lực tương tác giữa hai điện tích phụ thuộc như thế nào vào độ lớn của các điện tích và khoảng cách giữa chúng? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Độ lớn của lực tương tác giữa các điện tích có phụ thuộc như thế nào vào khoảng cách giữa các điện tích? Đề xuất phương án thí nghiệm để kiểm tra dự đoán. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy nêu tên các đại lượng và tên các đơn vị trong biểu thức (16.2) và (16.3). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nếu khoảng cách giữa hai điện tích điểm tăng lên 2 lần và giá trị của mỗi điện tích điểm tăng lên 3 lần thì lực điện tương tác giữa chúng tăng hay giảm bao nhiêu lần? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy vẽ các vectơ lực điện tương tác giữa hai điện tích điểm q1 = 10-5 C và q2 = 10-7 C đặt cách nhau 10 cm trong chân không theo tỉ lệ 1 cm ứng với khoảng cách 2 cm và lực 0,4 N. Lấy k = 9.109 Nm2/C2 Câu hỏi ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Người ta có thể dùng lực tĩnh điện để tách các trang sách bị dính chặt vào nhau mà không làm chúng hỏng. Hãy mô tả cách làm này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Có thể dùng định luật Coulomb để xác định độ lớn của lực tương tác giữa các điện tích trong các thí nghiệm ở Hình 16.1 không? Tại sao? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định lực điện tương tác giữa electron và proton của nguyên tử hydrogen. Biết khoảng cách từ electron trong nguyên tử hydrogen đến hạt nhân của nguyên tử này là 5.10-11 m; điện tích của electron và proton có độ lớn bằng nhau 1,6.10-19 C. Lấyε0=8,85.10−12C2N.m2. Bài 3 trang 63 Vật Lí 11: Xác định lực điện tương tác giữa electron và proton của nguyên tử hydrogen. B",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai điện tích điểm q1 = 15 µC; q2 = -6 µC đặt cách nhau 0,2 m trong không khí. Phải đặt một điện tích q3 ở vị trí nào để lực điện tác dụng lên điện tích này bằng 0? Bài",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trình bày được nguyên tắc hoạt động của máy lọc không khí trong gia đình dựa trên sơ đồ Hình 16.7. Em có thể trang 64 Vật Lí 11: Trình bày được nguyên tắc hoạt động của máy lọc không khí trong gia đình dựa trên sơ đồ Hình",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai quả cầu tích điện cùng dấu được treo bằng hai sợi dây mảnh không dẫn điện như hình bên. Tại sao chúng không tiếp xúc nhưng vẫn tương tác được với nhau? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt điện tích q cách điện tích Q một khoảng r (Hình 17.1): Hoạt động trang 65 Vật Lí 11: Đặt điện tích q cách điện tích Q một khoảng r (Hình 17.1): Hoạt động trang 65 Vật Lí 11: 1. Có phải không",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chứng tỏ rằng vectơ cường độ điện trường→Ecó: Hoạt động trang 66 Vật Lí 11: Hãy chứng tỏ rằng vectơ cường độ điện trường→Ecó: Hoạt động trang 66 Vật Lí 11: →E →E →E →E →E → → → E E E + Phương trùng với phương của lực điện tác dụng lên điện tích. + Phương trùng với phương của lực điện tác dụng lên điện tích. + Chiều cùng với chiều của lực đi",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét điện trường của điện tích Q = 6.10-14 C, sử dụng đoạn thẳng dài 1 cm để biểu diễn cho độ lớn vectơ cường độ điện trườngE=10−106πε0(V/m). Hãy tính và vẽ vectơ cường độ điện trường tại một điểm cách Q một khoảng 2 cm và 3 cm. Hoạt động trang 66 Vật Lí 11: Xét điện trường của điện tích Q = 6.10-1",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chứng tỏ rằng: Độ lớn cường độ điện trường tại một điểm trong công thức (17.1) bằng độ lớn của lực điện tác dụng lên một đơn vị điện tích đặt tại điểm đó. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một điện tích điểm Q = 6.10 -13 C đặt trong chân không. Câu hỏi 2 trang 67 Vật Lí 11: Một điện tích điểm Q = 6.10 -13 C đặt trong chân không. Câu hỏi 2 trang 67 Vật Lí 11: -13 a) Xác định phương, chiều, độ lớn của cường độ điện trường do điện tích điểm Q gây ra tại một điểm cách nó một khoảng 1 cm, 2 cm, 3 cm. a) Xác định phương, chiều, độ lớn của cường độ điện trường do điện tích điểm Q gây ra tại một điểm cách nó một khoảng 1 cm, 2 cm, 3 cm. b) Nhận xét về cườ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nếu trong không gian có hai điện tích điểm dương Q1 = Q2 được đặt ở hai điểm B và C, một điện tích thử q được đặt tại một điểm A như Hình 17.4. Hãy mô tả bằng hình vẽ lực điện tổng hợp do Q1 và Q2 tác dụng lên điện tích thử q. Hoạt",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt điện tích điểm Q1 = 6.10-8 C tại điểm A và điện tích điểm Q2 = - 2.10-8 C tại điểm B cách A một khoảng bằng 3 cm (Hình 17.5). Hãy xác định những điểm mà cường độ điện trường tại đó bằng 0. Câu h",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một hạt bụi mịn loại pm2,5 có điện tích bằng 1,6.10-19 C lơ lửng trong không khí nơi có điện trường của Trái Đất bằng 120 V/m. Bỏ qua trọng lực, tính lực điện của Trái Đất tác dụng lên hạt bụi mịn và từ đó giải thích lí do hạt bụi loại này thường lơ lửng trong không khí. Câ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Em hãy quan sát Hình 17.6 và đưa ra nhận xét về đặc điểm của điện phổ: Hoạt động 1 trang 69 Vật Lí 11: Em hãy quan sát Hình 17.6 và đưa ra nhận xét về đặc điểm của điện phổ:",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 17.7 và các nhận xét trên, em hãy vẽ các đường sức điện của một điện tích âm; các đường sức điện của hai điện tích âm Q1 = Q2 < 0 đặt gần nhau. Ho",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định được phương, chiều, độ lớn của vectơ cường độ điện trường tại một điểm bất kì trong điện trường. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính được độ lớn cường độ điện trường và mô tả được vectơ cường độ điện trường do một điện tích điểm gây ra tại một điểm trong không gian. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vẽ được hệ các đường sức điện trong trường hợp một điện tích hoặc hệ hai điện tích. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng được công thứcE=|Q|4πε0r2để tính toán và mô tả điện trường của hệ nhiều điện tích, vật tích điện hình cầu. Em có thể trang 70 Vật Lí 11: Vận dụng được công thứcE=|Q|4πε0r2để t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dùng hình ảnh điện phổ để qua đó giải thích được ngay sát bề mặt của Trái Đất có điện trường theo phương thẳng đứng hướng từ trên xuống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chúng ta đã biết, cường độ điện trường tại mỗi điểm thường sẽ có giá trị khác nhau. Vậy có tồn tại những vùng điện trường mà cường độ điện trường tại mỗi điểm có giá trị như nhau không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Để chuẩn đoán hình ảnh trong y học người ta thường sử dụng tia X (hay tia Rơn-ghen) để chụp X quang và chụp CT. Cho rằng vùng điện trường giữa hai cực của ống tia X (Hình 18.2) là một điện trường đều. Khoảng cách giữa hai cực bằng 2 cm, hiệu điện thế giữa hai cực là 120 kV. Hãy tính lực điện trường tác dụng lên electron. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giữa hai bản phẳng song song nhiễm điện có cường độ điện trường đều là E. Một điện tích q > 0 có khối lượng m bay vào trong điện trường đều trên với vận tốc →v0theo phương vuông góc với đường sức. Môi trường giữa hai bản phẳng nhiễm điện là chân không. Biết rằng trong hiện tượng này, trọng lực là rất nhỏ so với lực điện. Hãy so sánh vectơ lực điện tác dụng lên điện tích q trong Hình 18.3 với vectơ trọng lực tác dụng lên vật khối lượng m chuyển động ném ngang trong trường trọng lực như Hình 18.4. Từ đó chỉ ra rằng có sự tương tự giữa hai chuyển động nói trên. Hoạt động 1 trang 72 V",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy thảo luận về tác dụng của điện trường đều lên chuyển động của điện tích bay vào điện trường đều theo phương vuông góc với đường sức điện: Hoạt động 2 trang 73 Vật Lí 11: Hãy thảo luận về tác dụng của điện trường đều lên chuyển động của",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dao động kí là một loại thiết bị dùng để hiển thị dạng tín hiệu đưa vào. Cấu tạo của một dao động kí gồm 4 bộ phận chính: Ống phóng tia điện tử, màn huỳnh quang, súng điện tử, hệ thống lái tia (Hình 18.6). Ống phóng tia điện tử phát ra electron bay qua hai bản lái tia theo phương x và phương y rồi đập lên màn huỳnh quang tạo ra điểm sáng trên màn. Hoạt động trang 74 Vật Lí 11: Dao động kí là ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy tìm hiểu về công nghệ ion âm lọc không khí được sử dụng rất phổ biến hiện nay (để lọc không khí trong ô tô, trong gia đình, trong nhà xưởng....). Máy hút ẩm (Hình 18.7) có các ion âm được phát ra theo phương vuông góc với đường sức điện trường của Trái Đất. Hãy nêu tác dụng của điện trường đều của Trái Đất đối với chuyển động của chùm ion âm để giải thích cho khả năng lọc bụi trong không khí của chúng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Máy lọc không khí tạo ra chùm các ion âm OH- (mỗi ion OH- có khối lượng m = 2,833.10-26 kg, điện tích –1,6.10-19 C) có vận tốc ban đầu từ 20 m/s đến 40 m/s theo phương song song với mặt đất và cách mặt đất 50 cm. Điện trường đều đo được ở bề mặt Trái Đất là 114 V/m. Bỏ qua trọng lực và các loại lực cản khác, hãy xác định quỹ đạo của chùm ion âm này. Câu hỏ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả được ảnh hưởng của điện trường đều lên chuyển động của một điện tích khi bay vào điện trường đều theo phương vuông góc với các đường sức. Từ đó giải thích được nguyên tắc lái tia điện tử trong ống phóng tia điện tử. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được cơ chế gia tốc cho electron trong ống phóng tia X, từ đó giúp điều khiển một số đặc tính của chùm tia X theo mong muốn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chúng ta đã biết, có sự tương tự giữa chuyển động của một điện tích q trong điện trường đều với chuyển động của một vật khối lượng m trong trường trọng lực. Như vậy thì điện tích q trong điện trường có tồn tại thế năng tương tự như vật khối lượng m trong trọng trường không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một điện tích dương q được đặt tại điểm M trong điện trường đều của một tụ điện có độ lớn của cường độ điện trường là E (Hình 19.2). Hoạt động trang 77 Vật Lí 11: Một điện tích dương q được đặt tại điểm M trong điện trường đều của một ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chứng tỏ rằng, công của lực điện trong sự dịch chuyển của điện tích q từ điểm M đến điểm N sẽ bằng độ giảm thế năng của điện tích q trong điện trường. Hãy mở rộng cho trường hợp M ở xa vô cùng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định được thế năng điện của quả cầu tích điện đều đặt trong điện trường đều của Trái Đất. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định được công dịch chuyển một điện tích giữa hai điểm trong điện trường đều của Trái Đất. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thực tế chúng ta gặp những đường dây dẫn điện cao thế, trung thế, hạ thế. Từ \"thế\" ở đây được hiểu như thế nào? Có liên quan tới thế năng điện đã học ở Bài 19 hay không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Để đặt một điện tích q vào điểm M trong điện trường chúng ta cần cung cấp thế năng WM cho điện tích q. Điều này tương ứng với việc thực hiện một công A dịch chuyển điện tích q từ vô cực về điểm M. Hãy vận dụng công thức (19.3) và (19.4) để thu được công thức: V=Aq Hoạt động 1 trang 79 V",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tỉ sốV=Aqnhư trên được gọi là điện thế của điện trường tại điểm M. Hoạt động 2 trang 79 Vật Lí 11: Tỉ sốV=Aqnhư trên được gọi là điện thế của điện trường tại điểm M. Hoạt động 2 trang 79 Vật Lí 11: V=Aq V=Aq V=Aq V V = = Aq Aq A A A q q q a) Hãy dự đoán điện thế V đặc trưng cho đại lượ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy vận dụng công thức để chứng tỏ rằng công thực hiện để dịch chuyển điện tích q từ điểm N đến điểm M bằng: Hoạt động trang 80 Vật Lí 11: Hãy vận dụng công thức để chứng tỏ rằng công thực hiện để dịch chuyển ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính thế năng điện của một electron đặt tại điểm M có điện thế bằng 1 000 V. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng mối liên hệ giữa điện thế và cường độ điện trường để xác định điện thế tại một điểm cách mặt đất 5 m ở nơi có điện trường của Trái Đất là 114 V/m. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được ý nghĩa của hiệu điện thế giữa hai điểm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng được mối liên hệ giữa thế năng điện với điện thế để tính được thế năng điện của điện tích nằm trong điện trường. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính được công dịch chuyển một điện tích q từ điểm N đến điểm M trong điện trường. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nếu một chiếc quạt điện gặp trục trặc như: cánh quạt quay chậm hoặc không quay dù vẫn cắm điện; động cơ nóng, rung và có âm thanh bất thường, thì nguyên nhân mà chúng ta cần xem xét là hỏng tụ điện. Vậy tụ điện có cấu tạo như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho một tụ điện trên vỏ có ghi là 2 µF – 200 V. Câu hỏi 1 trang 85 Vật Lí 11: Cho một tụ điện trên vỏ có ghi là 2 µF – 200 V. Câu hỏi 1 trang 85 Vật Lí 11: a) Đặt vào hai bản tụ điện một hiệu điện thế 36 V. Hãy ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Có hai chiếc tụ điện, trên vỏ tụ điện (A) có ghi 2 µF – 350 V, tụ điện (B) có ghi 2,3 µF – 300 V. Câu hỏi 2 trang 85 Vật Lí 11: Có hai chiếc tụ điện, trên vỏ tụ điện (A) có ghi 2 µF – 350 V, tụ điện (B) có ghi 2,3 µF – 300 V. Câu hỏi 2 trang 85 Vật Lí 11: a) Trong hai tụ điện trên khi tíc",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Có hai chiếc tụ điện, tụ điện D có thông số cơ bản được ghi là 2 mF – 450 V; tụ điện E có thông số cơ bản được ghi là 2,5 – 350 V. Khi các tụ điện trên được tích điện tới mức tối đa cho phép, hãy tính năng lượng của mỗi tụ điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các em hãy sử dụng sách, báo, Internet hoặc các mạng thông tin khác để tìm hiểu, sưu tập một số tụ điện thông dụng. Tiếp theo, các em lựa chọn và sử dụng các thông tin này để xây dựng một báo cáo về Một số ứng dụng của tụ điện trong cuộc sống. Dưới đây là một mẫu báo cáo để chúng ta tham khảo. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đọc hiểu các thông số kĩ thuật cơ bản của tụ điện và xác định được điện dung của tụ điện, hiệu điện thế tối đa cho phép đặt vào tụ điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hiểu và thực hành được các cách ghép nối tiếp và ghép song song của các tụ điện trong mạch điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng được kiến thức về năng lượng của tụ điện để giải thích được nguyên lí hoạt động phóng điện của máy hàn điện, tia sét giữa các đám mây tích điện trái dấu. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu về các ứng dụng của tụ điện trong cuộc sống trên cơ sở thu thập và lựa chọn thông tin, xây dựng báo cáo. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cường độ dòng điện là gì và đặc trưng cho tính chất nào của dòng điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy nhận xét về độ sáng của bóng đèn Đ khi số chỉ của ampe kế tăng dần. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Theo em, thí nghiệm trên cho thấy cường độ dòng điện đặc trưng cho tính chất nào của dòng điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy nhận xét về số ghim giấy mà nam châm hút được khi chỉ số của ampe kế tăng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ kết quả thí nghiệm cho thấy cường độ dòng điện đặc trưng cho tính chất nào của dòng điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trên một thiết bị dùng để nạp điện cho điện thoại di động có ghi thông số 10 000 mAh. Thông số 10 000 mAh cho biết điều gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ước tính được cường độ dòng điện của tia sét trong các cơn dông. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hiểu được ý nghĩa của thông số mA.h ghi trên pin, acquy và sạc dự phòng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được nguyên tắc đo điện tâm đồ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các thiết bị điện thông thường mà chúng ta dùng hằng ngày đều có các điện trở. Vậy điện trở đặc trưng cho tính chất nào của vật dẫn và tại sao một vật dẫn lại có điện trở? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thí nghiệm trang 95 Vật Lí 11: Thí nghiệm trang 95 Vật Lí 11: Chuẩn bị: Chuẩn bị: Chuẩn bị: - 1 ampe kế. - 1 ampe kế. - 1 vôn kế. - 1 vôn kế. - 1 nguồn có thể điều chỉnh thay đổi được hiệu điện thế. - 1 nguồn có thể điều chỉnh thay đổi được hiệu điện thế. - Hai vật dẫn X và Y khác nhau. - Hai vật dẫn X và Y khác nhau. - Dây nối. - Dây nối. - Khoá K. - Khoá K. Tiến hành: Tiến hành: Tiến hành: - Mắc mạch điện như Hình vẽ 23.1. - Mắc mạch điện như Hình vẽ 23.1. - Đóng khoá K. Điều chỉnh hiệu điện thế của nguồn điện ta thu đư",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đường đặc trưng vôn-ampe của điện trở có đặc điểm gì? Đặc điểm này nói lên điều gì về mối quan hệ giữa hiệu điện thế U và cường độ dòng điện I? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Độ dốc của đường đặc trưng vôn-ampe của điện trở liên quan đến điện trở như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng công thức I = Snve để giải thích tại sao điện trở R của vật dẫn kim loại lại phụ thuộc vào chiều dài ℓ, tiết diện S và điện trở suấtρcủa dây theo công thứcR=ρlS. Câu hỏi trang 98 Vật Lí 11: Vận ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ kết quả thí nghiệm em rút ra nhận xét gì về sự phụ thuộc của nhiệt điện trở NTC vào nhiệt độ? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai đồ thị trong Hình 23.9a, b mô tả đường đặc trưng vôn - ampe của một dây kim loại ở hai nhiệt độ khác nhau t1 và t2. Câu hỏi trang 100 Vật Lí 11: Hai đồ thị trong Hình 23.9a, b mô tả đường đặc trưng vôn - ampe của một dây kim loại ở hai",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đồ thị Hình 23.10 thể hiện đường đặc trưng vôn - ampe của hai linh kiện là dây tóc bóng đèn và dây kim loại. Hoạt động trang 100 Vật Lí 11: Đồ thị Hình 23.10 thể hiện đường đặc trưng vôn - ampe của hai linh kiện là dây tóc bóng đèn và dây kim loại. Hoạt động trang 100 Vật Lí 11: a) Xác định đường nào là của dây tóc bóng đèn, đường nào là của ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được nguyên nhân gây ra điện trở trong kim loại, … ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được tại sao sử dụng đèn LED tiết kiệm năng lượng điện hơn so với bóng đèn dây tóc. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ta đã biết nguồn điện có khả năng cung cấp năng lượng điện để tạo ra dòng điện sử dụng trong đời sống. Vậy nguồn điện là gì? Vì sao nguồn điện có thể tạo ra dòng điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi dùng vôn kế để đo hiệu điện thế giữa hai cực của nguồn điện thì số chỉ trên vôn kế và số vôn ghi trên nhãn của nguồn điện có mối liên hệ như thế nào? Điều đó cho biết có gì tồn tại bên trong của nguồn điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao sẽ rất nguy hiểm nếu hiện tượng đoản mạch xảy ra đối với mạng điện ở gia đình? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho mạch điện như Hình 24.5. Suất điện động E = 10 V, bỏ qua điện trở trong của nguồn. Các giá trị điện trở R1 = 20Ω; R2 = 40Ω, R3 = 50Ω. Bài 1 trang 195 Vật Lí 11: Cho mạch điện như Hình 24.5. Suất điện động E = 10 V, bỏ qua điện trở trong của nguồn. Các ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho mạch điện như Hình 24.6. Các giá trị điện trở R1 = 3Ω, R2 = 4Ωvà R3 = 6Ω. Suất điện động của nguồn E = 12 V, điện trở trong của nguồn r = 0,6Ω. Bài 2 trang 195 Vật Lí 11: Cho mạch điện như Hình 24.6. Các giá trị điện trở R1 = 3Ω, R2 = 4Ωvà R3 = 6Ω. Suất điện động của nguồn E = 12 V, điện trở trong của nguồn ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả được ảnh hưởng của điện trở trong của nguồn điện lên hiệu điện thế giữa hai cực của nguồn điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định được cường độ dòng điện, điện trở trong của pin mặt trời. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bảng bên ghi một số nội dung trong Hoá đơn tiền điện giá trị gia tăng (GTGT) của Công ty điện lực. Em hãy cho biết ý nghĩa của các số liệu trong bảng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Năng lượng điện tiêu thụ trong dụng cụ, thiết bị dùng điện ở Hình 25.1 chuyển hoá thành dạng năng lượng nào là nhiều nhất? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chứng minh rằng, nếu đoạn mạch chỉ có điện trở R (đoạn mạch thuần điện trở) thì nhiệt lượng đoạn mạch toả ra khi có dòng điện chạy qua được tính bằng công thức:Q=I2Rt=U2Rt(25.3). Câu hỏi 2 trang 107 Vật Lí 11: Hãy chứng minh rằng, nế",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chứng minh rằng 1 kWh = 3,6.103 kJ. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trên hoá đơn GTGT (tiền điện) ở đầu bài học, tiền điện được tính lũy tiến (càng dùng điện nhiều thì đơn giá của 1 kWh điện càng tăng). Theo em, cách tính này nhằm những mục đích gì? Tại sao? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho các thông tin về bóng đèn sợi đốt và bóng đèn LED cùng có độ sáng như sau: Hoạt động 2 trang 108 Vật Lí 11: Cho các thông tin về bóng đèn sợi đốt và bóng đèn LED cùng có độ sáng ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trên nhãn của bóng đèn 1 có ghi 220 V – 20 W và bóng đèn 2 có ghi 220 V – 10 W. Coi điện trở của mỗi bóng đèn không thay đổi. Bài 1 trang 109 Vật Lí 11: Trên nhãn của bóng đèn 1 có ghi 220 V – 20 W và bóng đèn 2 có ghi 220 V – 10 W. Coi điện trở của mỗi bóng đèn không thay đổi. Bài 1 trang 109 Vật Lí 11: a) Tính năng lượng điện tiêu thụ của mỗi bóng đến khi sử dụng ở hiệu điện thế 200 V trong thời gian 2 giờ. a) Tính năng lượng điện tiêu thụ của mỗi bóng đến khi sử dụng ở hiệu điện thế 200 V trong th",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thông thường, ở nước ta hiệu điện thế mạng điện trong các gia đình, trường học... là 220 V. Em hãy tìm hiểu về hiệu điện thế định mức, công suất định mức của mỗi thiết bị điện, cách mắc các thiết bị điện dùng trong lớp học của em và thời gian sử dụng trung bình của từng thiết bị mỗi tháng để làm các việc sau: Bài 2 trang 109 Vật Lí 11: Thông thường, ở nước ta hiệu điện thế mạng điện trong các gia đình, trường học... là 220 V. Em hãy tìm hiểu về hiệu điện thế định mức, công suất định mức của mỗi thiết bị điện, cách mắc các thiết bị điện ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích được nội dung ghi trong hóa đơn tiền điện và ý nghĩa của việc tính giá điện lũy tiến; lợi ích của việc thay đèn sợi đốt bằng đèn LED. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ước tính được số tiền điện trung bình mỗi tháng phải trả cho các dụng cụ và thiết bị điện dùng trong nhà và các biện pháp tiết kiệm năng lượng điện tiêu thụ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Pin điện hoá khi sử dụng sau một thời gian thì suất điện động và điện trở trong giảm và đến một mức nào đó sẽ cần thay pin mới. Làm thế nào đo được suất điện động và điện trở trong của pin điện hoá bằng dụng cụ thí nghiệm? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy trả lời các câu hỏi sau: Hoạt động trang 111 Vật Lí 11: Hãy trả lời các câu hỏi sau: Hoạt động trang 111 Vật Lí 11: a) Có thể sử dụng đồng hồ đo điện đa năng để đo trực tiếp suất điện động của nguồn điện và điện trở trong của nguồn không? Tại sao? a) Có thể sử dụng đồng hồ đo điện đa năng để đo trực tiếp suất điện động của nguồ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thí nghiệm trang 112 Vật Lí 11: Thí nghiệm trang 112 Vật Lí 11: A. Tiến hành thí nghiệm với nguồn điện là một pin cũ. A. Tiến hành thí nghiệm với nguồn điện là một pin cũ. 1. Bố trí thí nghiệm như Hình 26.2. 1. Bố trí thí nghiệm như Hình 26.2. 2. Điều chỉnh biến trở đến giá trị 100Ω. 2. Điều chỉnh biến trở đến giá trị 100Ω. Ω Ω Ω Ω Ω 3. Đóng khoá K, bật đồng hồ đo hiệu điện thế và cường độ dòng điện. 3. Đóng khoá K, bật đồng hồ đo hiệu điện thế và cường độ dòng điện. 4. Ghi giá trị hiệu điện thế U và cường độ dòng điện I vào mẫu Bảng 26.1. Ngắt khóa K. 4. Ghi giá trị hiệu điện thế U và cường độ dòng điện I vào mẫu Bảng 26.1. Ngắt khóa K. 5. Lặp lại 4 lần các bước 2,3,4 với giá trị R giảm dần. 5. Lặp lại 4 lần các bước 2,3,4 với giá trị R giảm dần. 6. Đánh dấu các điểm thực nghiệm lên hệ trục tọa độ và vẽ đường thẳng đi gần nhất các điểm thực nghiệm (tham khảo Hình 26.3) 6. Đánh dấu các điểm thực nghiệm lên hệ trục tọa độ và vẽ đường thẳng đi gần nhất các điểm thực nghiệm (tham khảo Hình 26.3) 7. Kéo dài đường đồ thị cắt trục tung tại U0 (tham khảo Hình 26.3). 7. Kéo dài đường đồ thị cắt trục ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hoạt động trang 113 Vật Lí 11: Hoạt động trang 113 Vật Lí 11: 1. Nhận xét về dạng đồ thị và mối quan hệ U và I đối với pin cũ và pin mới. 1. Nhận xét về dạng đồ thị và ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích tại sao trong khi tiến hành thí nghiệm không nên đóng mạch điện trong thời gian dài. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sự dao động của các vật diễn ra phổ biến trong cuộc sống hằng ngày như: dao động của quả lắc đồng hồ (Hình 1.1a), dao động của cánh chim ruồi để giữ cho cơ thể bay tại chỗ trong không trung khi hút mật (Hình 1.1b). Vậy dao động có đặc điểm gì và được mô tả như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ một số dụng cụ đơn giản như: lò xo nhẹ, dây nhẹ không dãn, vật nặng và giá đỡ. Câu hỏi 1 trang 5 Vật Lí 11: Từ một số dụng cụ đơn giản như: lò xo nhẹ, dây nhẹ không dãn, vật nặng và giá đỡ. Câu hỏi 1 trang 5 Vật Lí 11: a) Em hãy thực hiện hai thí nghiệm sau: – Cố định một đầu của lò xo, g",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu một số ví dụ về dao động tuần hoàn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy nêu một ứng dụng của dao động tuần hoàn trong cuộc sống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu một số ví dụ về các vật dao động tự do trong thực tế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nhận xét về hình dạng đồ thị toạ độ – thời gian của vật dao động trong Hình 1.4. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 1.5 và chỉ ra những điểm: Câu hỏi 5 trang 8 Vật Lí 11: Quan sát Hình 1.5 và chỉ ra những điểm:",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một con ong mật đang bay tại chỗ trong không trung (Hình 1.6), đập cánh với tần số khoảng 300 Hz. Xác định số dao động mà cánh ong mật thực hiện trong 1 s và chu kì dao động của cánh ong. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 1.7, so sánh biên độ và li độ của hai dao động 1 và 2 tại mỗi thời điểm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào dữ kiện trong câu Thảo luận 6, xác định tần số góc khi ong đập cánh. Xem biên độ dao động của cánh ong là không đổi. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát đồ thị li độ – thời gian của hai vật dao động điều hoà được thể hiện trong Hình 1.8. Hãy xác định biên độ, chu kì, tần số, tần số góc của mỗi vật dao động và độ lệch pha giữa hai dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định độ lệch pha giữa hai dao động trong Hình 1.9. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét vật thứ nhất bắt đầu dao động điều hoà từ vị trí cân bằng, vật thứ hai dao động điều hoà với biên độ lớn gấp hai lần, cùng chu kì và lệch phaΔφ=π4 rad so với vật thứ nhất. Vẽ phác đồ thị li độ – thời gian của hai vật trong hai chu kì dao động đầu tiên. Luyện tập trang 12 Vật Lí 1",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và trình bày một số ứng dụng thực tiễn của hiện tượng dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định biên độ, chu kì, tần số, tần số góc của mỗi dao động và độ lệch pha giữa hai dao động có đồ thị li độ – thời gian như trong Hình 1P.1. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vẽ phác đồ thị li độ – thời gian của hai dao động điều hoà trong các trường hợp: Bài 2 trang 13 Vật Lí 11: Vẽ phác đồ thị li độ – thời gian của hai dao động điều hoà trong các trường hợp: Bài 2 trang 13 Vật Lí 11: a) Cùng biên độ, chu kì của dao động thứ nhất bằng ba lần chu kì của dao động thứ hai. a) Cùng biên độ, chu kì của da",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Việc nghiên cứu các quá trình dao động điều hoà để ứng dụng vào thực tiễn như xây dựng mô hình dự báo động đất yêu cầu ta phải mô tả chính xác trạng thái của vật dao động tại những thời điểm xác định. Ngoài ra, dao động điều hoà có tính chất tuần hoàn theo thời gian và bị giới hạn trong không gian thì phương trình li độ, vận tốc và gia tốc của vật dao động điều hoà có những khác biệt gì so với chuyển động thẳng đều và biến đổi đều mà em đã học ở chương trình Vật lí 10? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát dao động của con lắc lò xo và kết hợp với Hình 1.4, hãy chỉ rõ sự khác nhau giữa hình dạng quỹ đạo chuyển động và đồ thị li độ của vật dao động theo thời gian. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật dao động có đồ thị li độ – thời gian được mô tả trong Hình 2.2. Hãy xác định: Luyện tập trang 15 Vật Lí 11: Một vật dao động có đồ thị li độ – thời gian được mô tả trong Hình 2.2. Hãy xác định: Luyện tập trang 15 Vật Lí 11: a) Biên độ dao động, chu kì, tần số, tần số góc của dao động. a) Biên độ dao động, chu kì, tần số, tần số góc của dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 2.3a và 2.3b, hãy xác định: Câu hỏi 2 trang 15 Vật Lí 11: Quan sát Hình 2.3a và 2.3b, hãy xác định: Câu hỏi 2 trang 15 Vật Lí 11: a) Hình dạng đồ thị vận tốc - thời gian của vật. a) Hình dạng đồ thị vận tốc - thờ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật dao động điều hoà với biên độ 10 cm và chu kì 2 s. Chọn gốc thời gian là khi vật qua vị trí cân bằng theo chiều dương. Xác định vận tốc của vật vào thời điểm đó. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 2.3a và 2.3c, hãy xác định: Câu hỏi 3 trang 17 Vật Lí 11: Quan sát Hình 2.3a và 2.3c, hãy xác định: Câu hỏi 3 trang 17 Vật Lí 11: a) Hình dạng đồ thị gia tốc – thời gian của vật. a) Hình dạng đồ thị gia tốc – thời",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy vẽ phác đồ thị lực tác dụng – thời gian của vật dao động điều hoà có đồ thị li độ – thời gian như Hình 2.2. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nhận xét về độ lệch pha giữa gia tốc và vận tốc của vật dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một máy cơ khí khi hoạt động sẽ tạo ra những dao động được xem gần đúng là dao động điều hoà với phương trình li độ có dạng:x=2cos(180πt) (mm) Luyện tập trang 19 Vật Lí 11: Một máy cơ khí khi hoạt động sẽ tạo ra những dao động được xem gần đúng là dao động điều hoà với phương trình li độ có dạng:x=2cos(180πt) (mm) Luyện tập ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và trình bày ngắn gọn nguyên tắc hoạt động của thiết bị đo khối lượng của các phi hành gia trên tàu vũ trụ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật dao động điều hoà có đồ thị li độ – thời gian và vận tốc – thời gian như Hình 2P.1. Hãy viết phương trình li độ và phương trình vận tốc của dao động này. Từ đó suy ra phương trình gia tốc của vật dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một chất điểm dao động điều hoà với biên độ 4 cm, tần số 1 Hz. Tại thời điểm ban đầu, vật ở vị trí biên âm. Hãy xác định vận tốc và gia tốc của vật tại thời điểm t = 1 s. Bài 2 trang 21 Vật Lí 11: Một chất điểm dao động điều hoà với biên độ 4 cm, tần số 1 H",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật dao động điều hoà có đồ thị gia tốc theo thời gian được thể hiện trong Hình 2P.2. Bài 3 trang 21 Vật Lí 11: Một vật dao động điều hoà có đồ thị gia tốc theo thời gian được thể hiện trong Hình 2P.2. Bài 3 trang 21 Vật ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tiến hành thí nghiệm như mô tả trong Hình 3.1. Đặt một tấm gỗ cố định lên tường, đưa vật nặng của con lắc đơn đến vị trí tiếp xúc với tấm gỗ và thả nhẹ để vật nặng bắt đầu chuyển động không vận tốc ban đầu. Khi dao động, vật nặng có va chạm vào tấm gỗ hay không? Vì sao? Trong quá trình dao động, vật nặng có những dạng năng lượng gì và sự chuyển hoá giữa chúng như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào công thức (3.2) và Hình 3.2, mô tả sự thay đổi của thế năng trong một chu kì dao động của vật. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh chu kì, tần số biến thiên của thế năng với chu kì, tần số dao động của vật. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một số toà nhà cao tầng sử dụng các con lắc nặng trong bộ giảm chấn khối lượng (mass damper) để giảm thiểu sự rung động gây ra bởi gió hay những cơn địa chấn nhỏ. Giả sử vật nặng của con lắc có khối lượng 3,0.105 kg, thực hiện dao động điều hoà với với tần số 15 Hz với biên độ dao động là 15 cm. Hãy xác định thế năng cực đại của hệ con lắc trong bộ giảm chấn khối lượng. L",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào công thức (3.5) và Hình 3.3, mô tả sự thay đổi của động năng trong một chu kì dao động của vật. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh pha dao động của thế năng và động năng khi vật dao động điều hoà. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật có khối lượng 2 kg dao động điều hoà có đồ thị vận tốc – thời gian như Hình 3.4. Xác định tốc độ cực đại và động năng cực đại của vật trong quá trình dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 3.5 và mô tả sự thay đổi của động năng và thế năng khi vật dao động di chuyển từ biên âm đến biên dương. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 3.5 và 3.6, nhận xét về độ lớn của động năng, thế năng và cơ năng trong quá trình dao động điều hoà của vật. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào biểu thức (3.2) và (3.5), hãy thiết lập biểu thức (3.7). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét một vật bắt đầu dao động điều hoà từ vị trí cân bằng, hãy chỉ ra những khoảng thời gian trong một chu kì dao động mà: ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Biết phương trình li độ của một vật có khối lượng 0,2 kg dao động điều hoà làx=5cos(20t)(cm). Vận dụng trang 25 Vật Lí 11: Biết phương trình li độ của một vật có khối lượng 0,2 kg dao động điều hoà làx=5cos(20t)(cm). Vận dụng trang 25 Vật Lí 1",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một hệ dao động điều hoà với chu kì 2 s. Chọn gốc thế năng tại vị trí cân bằng của vật. Thời điểm hệ bắt đầu dao động thì động năng và thế năng bằng nhau lần thứ nhất. Hỏi sau bao lâu kể từ khi hệ bắt đầu dao động, động năng và thế năng bằng nhau lần thứ hai? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét một vật bắt đầu dao động điều hoà từ vị trí cân bằng theo chiều âm của trục toạ độ. Chọn gốc thế năng tại vị trí cân bằng của vật. Hãy vẽ phác đồ thị thể hiện sự phụ thuộc vào thời gian của động năng và thế năng trong hai chu kì dao động trên cùng một hệ trục toạ độ. Chỉ ra trên đồ thị những thời điểm mà động năng và thế năng có độ lớn bằng nhau. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bộ giảm chấn khối lượng (mass damper) (Hình 4.1) được sử dụng để giảm thiểu sự rung lắc của các toà nhà cao tầng khi có gió mạnh hay địa chấn. Toà nhà Taipei 101 tầng (cao 508 m) tại thành phố Đài Bắc, Đài Loan cũng được trang bị bộ giảm chấn khối lượng, là một con lắc với vật nặng khoảng 728 tấn được treo tại trung tâm toà nhà từ tầng 92 xuống đến tầng 87. Nhờ vậy, toà nhà có thể chịu được những cơn bão có sức gió lên tới 216 km/h hay những cơn địa chấn lên đến 7 độ richter. Các kĩ sư xây dựng đã dựa trên những hiện tượng vật lí nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 4.2 và mô tả chuyển động của xích đu, ván nhảy cầu sau khi ngừng tác dụng lực. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu một số ví dụ thực tế khác về hiện tượng dao động tắt dần. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bố trí sơ đồ thí nghiệm như Hình 4.4. Kéo vật nặng của con lắc lò xo khỏi vị trí cân bằng theo phương thẳng đứng một đoạn xác định và thả nhẹ để vật dao động không vận tốc ban đầu. Dự đoán và thực hiện thí nghiệm kiểm chứng (nếu có điều kiện) về dao động của con lắc trong các trường hợp vật nặng thực hiện dao động trong: Luyện tập trang 27 Vật Lí 11: Bố trí sơ đồ thí nghiệm như Hình 4.4. Kéo vật nặng của con",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đưa ra một số ví dụ về tác hại và lợi ích của dao động tắt dần. Từ đó tìm hiểu và sưu tầm hình ảnh về một số ứng dụng của dao động tắt dần trong cuộc sống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trên thực tế, sau khi được kích thích để dao động, xích đu (Hình 4.2a) hoặc võng sẽ dao động tắt dần. Làm cách nào để chúng có thể dao động với biên độ không đổi? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu một số ví dụ về dao động cưỡng bức trong thực tế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bố trí thí nghiệm hệ con lắc Barton như Hình 4.10. Mô hình gồm nhiều con lắc đơn có chiều dài dây treo khác nhau được gắn trên cùng một dây treo đàn hồi. Khi con lắc số 1 được kích thích để dao động, những con lắc còn lại (từ số 2 đến 7) sẽ bắt đầu dao động. Giải thích vì sao chúng dao động và dự đoán về biên độ dao động của chúng. Thực hiện thí nghiệm kiểm chứng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trình bày một số lợi ích và tác hại của hiện tượng cộng hưởng trong thực tế mà em đã biết. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và trình bày hoạt động của bộ giảm chấn khối lượng, là một con lắc được treo trên toà nhà Taipei 101 tại thành phố Đài Bắc, Đài Loan (Hình 4.1). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và trình bày ngắn gọn phương án kĩ thuật để hạn chế thiệt hại cho các toà nhà, đặc biệt là các toà nhà cao tầng, tại những nơi thường xảy ra động đất như Nhật Bản. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho ví dụ về một số ứng dụng của dao động tắt dần trong thực tiễn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chỉ ra hai trường hợp cộng hưởng có lợi và hai trường hợp cộng hưởng có hại. Trong từng trường hợp hãy chỉ rõ hệ dao động và nguồn gốc gây ra sự cộng hưởng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Máy đo địa chấn được sử dụng để phát hiện và đo đạc những rung động địa chấn được tạo ra bởi sự dịch chuyển của lớp vỏ Trái Đất. Năng lượng từ các cơn địa chấn có khả năng kích thích con lắc lò xo bên trong máy đo làm đầu bút di chuyển để vẽ lên giấy (Hình 4P.1). Bài 3 trang 31 Vật Lí 11: Máy đo địa chấn được sử dụng để phát hiện và đo đạc những rung động địa chấn được tạo ra bởi sự dịch chuyển của lớp vỏ Trái Đất. Năng lượng từ các cơn địa chấn có khả năng kích thích con lắc lò xo bên trong máy đo làm đầu bút di chuyển để vẽ lên giấy (Hình 4P.1). Bài 3 trang 31 Vật Lí 11: a) Dao động của ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vào lúc 9 giờ 22 phút, sáng ngày 14/03/2022, một trận động đất xảy ra tại tỉnh Điện Biên (Theo Báo Tuổi trẻ). Vì sao tại những nơi như một số huyện giáp ranh của tỉnh Sơn La cách tâm chấn khoảng 20 km, nhà cửa và các đồ đạc, vật dụng của gia đình lại bị rung lắc? Động đất đã lan truyền như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dự đoán trạng thái của mặt nước trong cốc nước khi ta gõ lên mặt bàn một cách liên tục và đủ mạnh tại một vị trí gần cốc nước. Giải thích hiện tượng và tiến hành thí nghiệm để kiểm chứng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 5.3 và dự đoán phương chuyển động của quả bóng khi có sóng trên mặt nước trong điều kiện lặng gió. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Em hãy cho biết những tác hại của sóng địa chấn (động đất). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 5.5, hãy so sánh phương truyền sóng và phương dao động của từng điểm trên lò xo trong hai trường hợp. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy một số ví dụ về sóng dọc và sóng ngang trong thực tế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 5.7, xét trên phương vuông góc với bức tường, nhận xét về chiều truyền của sóng âm trước và sau khi gặp bức tường. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 5.9, nhận xét về hình dạng của chiếc thìa. Thực hiện thí nghiệm kiểm chứng và giải thích. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích vì sao vào những đêm mùa lạnh, ta có thể nghe được âm thanh từ xa trong khi vào mùa nóng ta lại không thể nghe được dù ở cùng khoảng cách. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi mở hé cánh cửa để ánh sáng đi qua khe hẹp (Hình 5.11), ta quan sát thấy ánh sáng loang ra một khoảng lớn hơn kích thước khe hẹp. Hãy giải thích hiện tượng này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng những kiến thức về sóng để giải thích vì sao dơi (Hình 5.13) có thể phát hiện ra chướng ngại vật bằng cơ chế phát sóng siêu âm (là sóng âm có tần số lớn hơn 20 000 Hz). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét sóng nước truyền qua vị trí của phao câu cá đang nổi trên mặt nước khi lặng gió như Hình 5P1. Phao có trôi đi theo phương truyền của sóng nước không? Vì sao? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 5P.2 mô tả hai loại sóng địa chấn truyền trong môi trường khi xảy ra động đất sóng P (sóng sơ cấp) và sóng S (sóng thứ cấp). Hãy phân biệt hai sóng địa chấn này thuộc sóng dọc hay sóng ngang. Giải thích. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Động đất cùng những dịch chuyển địa chất lớn ở mặt nước hoặc dưới mặt nước sẽ sinh ra những đợt sóng lớn và đột ngột. Đó là hiện tượng sóng thần (Hình 6.1). Sóng thần có thể gây ra những thiệt hại đáng kể về người và vật chất. Để thực hiện những mô phỏng, dự báo chính xác nhất về sóng thần, ta cần có những kiến thức vật lí nào liên quan đến hiện tượng sóng? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 6.2, thực hiện các yêu cầu sau: Câu hỏi 1 trang 40 Vật Lí 11: Quan sát Hình 6.2, thực",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 6.3, hãy: Câu hỏi 2 trang 40 Vật Lí 11: Quan sát Hình 6.3, hãy: Câu hỏi 2 trang 40 Vật Lí 11: a) Chỉ ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tốc độ truyền sóng trong môi trường nhanh hay chậm có phụ thuộc tốc độ dao động tại chỗ của các phần tử môi trường không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ ví dụ về tốc độ truyền sóng âm trong các môi trường rắn, lỏng và khí, hãy rút ra nhận xét và giải thích sự khác nhau này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một bạn học sinh đang câu cá trên hồ nước. Khi có sóng đi qua, bạn quan sát thấy phao câu cá nhô lên cao 6 lần trong 4 s. Biết tốc độ truyền sóng là 0,5 m/s. Tính khoảng cách giữa hai đỉnh sóng liên tiếp. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Biết cường độ ánh sáng của Mặt Trời đo được tại Trái Đất là 1,37.103 W/m2 và khoảng cách từ Mặt Trời đến Trái Đất là 1,50.1011 m. Hãy tính công suất bức xạ sóng ánh sáng của Mặt Trời. Luyệ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ phương trình (6.6), xác định khoảng cách giữa hai điểm gần nhau nhất dao động cùng pha và khoảng cách giữa hai điểm gần nhau nhất dao động ngược pha (theo bước sóng). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 6.3, xác định độ lệch pha của hai điểm A và B trên cùng phương truyền sóng vào thời điểmt=7T4 Câu hỏi 6 trang 44 Vật Lí 11: ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích vì sao ở Hình 6.6a, đường biểu diễn có một đoạn nằm ngang sau vị trí có toạ độ x1 và ở Hình 6.6b, đường biểu diễn có một đoạn nằm ngang trước thời điểm t1. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đề xuất phương án thí nghiệm và thực hiện thí nghiệm đơn giản để tạo ra sóng truyền trên một sợi dây và xác định các đại lượng đặc trưng của sóng như chu kì, tần số. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi đi biển, các thuỷ thủ trên thuyền có thể sử dụng kĩ thuật sonar (một kĩ thuật phát ra sóng siêu âm) dùng để định vị hay điều hướng thuyền nhằm tránh các tảng đá ngầm hoặc phát hiện đàn cá (Hình 6P.1). Trong tự nhiên, nhiều loài động vật như dơi, cá heo cũng có thể phát ra sóng siêu âm để di chuyển và định vị con mồi. Kĩ thuật sonar sử dụng tính chất nào của sóng? Theo em, sóng siêu âm do các tàu thuyền phát ra có ảnh hưởng như thế nào đối với loài cá heo và cá voi? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai điểm gần nhất trên cùng phương truyền sóng dao động lệch pha nhau một gócπ2 cách nhau 60 cm. Biết tốc độ truyền sóng là 330 m/s. Tìm độ lệch pha: Bài 2 trang 45 Vật Lí 11: Hai điểm gần nhất trên cùng phương truyền sóng dao động lệch pha nhau một gócπ2 cách nhau 60 cm. Biết tốc độ truyền sóng là 330 m/s. Tìm độ lệch pha: Bài 2 t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một sóng truyền trên một dây rất dài có phương trình:u=10cos(2πt+0,01πx) Bài 3 trang 45 Vật Lí 11: Một sóng truyền trên một dây rất dài có phương trình:u=10cos(2πt+0,01πx) Bài 3 trang 45 Vật Lí 11: u=10cos(2πt+0,01πx) u=10cos(2πt+0,01πx) u=10cos(2πt+0,01πx) u=10cos(2πt+0,01πx) u u = = 10 10 cos cos (2πt+0,01πx) ( ( 2πt+0,01πx 2 2 π π t t + + 0 0 , , 01 01 π π x x ) ) ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tại một số vùng xa xôi, đôi khi ta không thể sử dụng điện thoại để liên lạc bởi điện thoại đang nằm ngoài vùng phủ sóng của đài phát sóng. Vậy sóng mà các đài phát sóng di động đang phát là sóng gì và có tính chất như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh sóng điện từ và sóng cơ về: môi trường truyền, tốc độ truyền, sóng ngang hay sóng dọc. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi sóng điện từ truyền qua hai môi trường khác nhau, bước sóng của nó có bị thay đổi không? Giải thích. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào Hình 7.2 và cho biết bước sóng của vùng ánh sáng nhìn thấy. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào số liệu trong Hình 7.2, xác định tần số của ánh sáng nhìn thấy. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và giải thích vì sao khi sử dụng tia X để chụp ảnh trong y khoa như Hình 7.3, ta có thể thấy được xương của bàn tay. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 7P.1 mô tả các hiện tượng xảy ra đối với sóng vô tuyến có các tần số khác nhau do tác dụng của tầng điện li ở khí quyển. Bài 1 trang 48 Vật Lí 11: Hình 7P.1 mô tả các hiện tượng xảy ra đối với sóng vô tuyến có các tần số khác nhau do tác dụng của tầng điện li ở khí quyển. Bài 1 trang 48 Vật Lí",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các tia UV-A (có bước sóng trong khoảng từ 320 nm đến 400 nm) trong ánh sáng mặt trời có thể có tác dụng sinh học tốt như kích thích sự sản sinh vitamin D. Nhưng các tia UV-B có bước sóng trong khoảng từ 280 nm đến 320 nm lại có thể nguy hiểm như gây ung thư da. Bài 2 trang 48 Vật Lí 11: Các tia UV-A (có bước sóng trong khoảng từ 320 nm đến 400 nm) trong ánh sáng mặt trời có thể có tác dụng sinh học tốt như kích thích sự sản sinh v",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vệ tinh nhân tạo chuyển động ở độ cao 575 km so với mặt đất phát sóng vô tuyến có tần số 92,4 MHz với công suất bằng 25,0 kW về phía mặt đất. Hãy tính cường độ sóng nhận được bởi một máy thu vô tuyến ở mặt đất ngay phía dưới vệ tinh. Bỏ qua sự hấp thụ sóng của khí quyển. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 8.1 cho thấy hình ảnh sóng trên mặt nước là kết quả của sự chồng chất sóng do hai con vịt tạo ra khi bơi. Trong một số trường hợp, sự chồng chất sóng này dẫn đến một hiện tượng thú vị: có những điểm trên mặt nước dao động mạnh và những điểm dao động yếu hoặc đứng yên. Vậy hiện tượng đó là gì và điều kiện nào để hiện tượng này xảy ra? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát thí nghiệm và mô tả lại hiện tượng quan sát được như trong Hình 8.3. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát thí nghiệm được thực hiện theo bố trí trong Hình 8.2 và nhận xét sóng tạo bởi hai viên bi về: tần số, pha và phương dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm giao thoa sóng trên mặt nước với hai nguồn kết hợp dao động cùng biên độ, những điểm nằm trên đường trung trực của đoạn thẳng nối hai nguồn sẽ dao động với biên độ như thế nào nếu: Luyện tập trang 51 Vật Lí 11: Trong thí nghiệm giao thoa sóng trê",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích vì sao trong tự nhiên, ta thường không quan sát được hiện tượng giao thoa của sóng như trường hợp sóng nước tạo bởi hai con vịt đang bơi (Hình 8.1). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 8.6 và mô tả hình ảnh nhận được trên màn M. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích hiện tượng quan sát được trong thí nghiệm Young về giao thoa ánh sáng (Hình 8.6). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm Young về giao thoa ánh sáng, khoảng vân sẽ thay đổi thế nào khi ta thay nguồn sáng đơn sắc có bước sóngλ bằng ánh sáng đơn sắc có bước sóng là1,2λ? Nếu khoảng cách từ hai khe đến màn quan sát giữ cố định, ta phải thay đổi khoảng cách giữa hai khe như thế nào để khoảng vân lại có độ lớn như ban đầu? Luyện tập trang 54 Vật L",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và mô tả sơ lược hình ảnh nhận được trên màn khi ta sử dụng nguồn sáng trắng (như ánh sáng mặt trời) trong thí nghiệm Young về giao thoa ánh sáng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm giao thoa sóng trên mặt nước với hai nguồn kết hợp cùng pha, ta thấy tại một điểm cách hai nguồn các khoảng lần lượt là 20 cm và 12 cm, sóng có biên độ cực đại, đồng thời giữa điểm này và đường trung trực của hai nguồn có 4 dãy gồm những điểm dao động với biên độ cực đại. Biết tốc độ truyền sóng là 40 cm/s. Tinh tần số của sóng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thí nghiệm Young về giao thoa ánh sáng thường được sử dụng để đo bước sóng của ánh sáng đơn sắc. Khi chiếu hai khe bằng một nguồn phát ánh sáng đơn sắc, ta thấy vân sáng thứ năm cách vân trung tâm là 2,8 cm. Biết hai khe đặt cách nhau 0,2 mm và cách màn một khoảng 1,5 m. Xác định bước sóng của ánh sáng được dùng trong thí nghiệm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm Young về giao thoa ánh sáng, người ta sử dụng một nguồn sáng phát ra đồng thời hai ánh sáng đơn sắc có bước sóng lần lượt là 400 nm và 600 nm. Biết khoảng cách giữa hai khe là 0,2 mm và khoảng cách từ hai khe đến màn là 1,5 m. Bài 3 trang 55 Vật Lí 11: Trong thí nghiệm Young về giao thoa ánh sáng, người ta sử dụng một nguồn sáng phát ra đồng thời hai ánh sáng đơn sắc có bước sóng lần lượt là 400 nm và 600 nm. Biết kh",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi gảy đàn guitar, ta quan sát được dây đàn rung và tạo thành các múi như Hình 9.1. Trong điều kiện nào thì ta có thể quan sát được hiện tượng được gọi là sóng dừng này? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 9.2 và nhận xét chiều biến dạng của dây khi có sóng tới và sóng phản xạ trong hai trường hợp: đầu dây cố định và đầu dây tự do. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nhận xét về sự phụ thuộc của số lượng điểm cực đại, cực tiểu trên dây với tần số của máy phát tần số ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào sự hình thành của các điểm dao động với biên độ cực đại và cực tiểu trong hiện tượng giao thoa, hãy dự đoán nguyên nhân hình thành bụng sóng và nút sóng trong hiện tượng sóng dừng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một dây đàn guitar dài 64 cm phát ra âm cơ bản có tần số f khi được gảy. Biết tốc độ truyền sóng trên dây là 422 m/s. Luyện tập trang 60 Vật Lí 11: Một dây đàn guitar dài 64 cm phát ra âm cơ bản có tần số f khi được gảy. Biết tốc độ truyền sóng trên dây là 422 m/s. Luyện tập trang 60 Vật Lí 11: a) Tính giá trị f. a) Tính giá trị f. b) Người chơi đàn ấn đầu ngón tay lên một phím đàn",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm sóng dừng trên sợi dây AB dài 120 cm với đầu B tự do, đầu A được kích thích để thực hiện dao động với biên độ nhỏ. Ngoài đầu A, trên dây xuất hiện thêm một nút. Biết tần số sóng là 12,5 Hz. Luyện tập trang 61 Vật Lí 11: Trong thí nghiệm sóng dừng trên sợi dây AB dài 120 cm với đầu B tự do, đầu A đư",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích vì sao khi vặn khoá để chỉnh dây đàn guitar (Hình 9.7), ta có thể tạo ra hệ sóng dừng trên dây. Biết tốc độ truyền sóng trên dây phụ thuộc lực căng dây. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Người ta thực hiện thí nghiệm sóng dừng trên một dây đàn hồi có hai đầu cố định dài 75,0 cm để đo tốc độ truyền sóng trên dây. Khi tần số sóng bằng 120 Hz thì trên dây xuất hiện 6 bụng sóng. Bài 1 trang 61 Vật Lí 11: Người ta thực hiện thí nghiệm sóng dừng trên một dây đàn hồi có hai đầu cố định dài 75,0 cm để đo tốc độ truyền sóng trên dây. Khi tần số sóng bằng 120 ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một thử nghiệm nướng bánh bằng lò vi sóng, người ta đo được khoảng cách giữa hai phần nóng nhất và gần nhau nhất của bánh là khoảng 6,13 cm. Biết tần số sóng vi ba được sử dụng trong lò là 245 GHz. Sử dụng các số liệu đã cho để ước lượng tốc độ của sóng điện từ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong đời sống hằng ngày, chúng ta có thể nghe âm thanh từ mọi nơi. Ta đã biết âm thanh chính là sóng âm được lan truyền trong môi trường vật chất. Âm thanh có thể có tần số xác định khi được phát ra từ một số nhạc cụ như đàn guitar, đàn piano, sáo,... hoặc có tần số không xác định khi được phát ra từ động cơ xe, máy khoan,... Thời gian âm thanh truyền từ nguồn phát đến tai ta phụ thuộc vào tốc độ truyền sóng âm. Vậy làm thế nào để đo được tần số của sóng âm và tốc độ truyền âm? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào bộ dụng cụ thí nghiệm, hãy thiết kế và thực hiện phương án để đo tần số của sóng âm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trình bày cách tính sai số tuyệt đối của phép đo. Liệt kê một số nguyên nhân gây ra sai số trong phương án thí nghiệm và đề xuất cách khắc phục. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh kết quả tần số đo được với giá trị tần số được ghi trên âm thoa hoặc hiển thị trên màn hình của máy phát tần số. Rút ra kết luận. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hiện nay, ứng dụng SmartScope Oscilloscope trên điện thoại thông minh có thể được sử dụng để ghi nhận đồ thị dao động âm. Sử dụng ứng dụng này, kết hợp với ứng dụng quay màn hình điện thoại, hãy tiến hành lại thí nghiệm đo tần số của sóng âm và so sánh kết quả đo được với kết quả trong phương án thí nghiệm (sử dụng dao động kí điện tử). Phân tích ưu, nhược điểm của hai phương án này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào bộ dụng cụ thí nghiệm, hãy thiết kế và thực hiện phương án để đo tốc độ truyền âm trong không khí. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Liệt kê một số nguyên nhân gây ra sai số trong phương án thí nghiệm và đề xuất cách khắc phục. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích vì sao ta có biểu thức:l2−l1=λ2 Câu hỏi 6 trang 65 Vật Lí 11: Giải thích vì sa",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Có thể xác định tốc độ truyền âm trong không khí thông qua việc đo khoảng thời gian từ lúc bắt đầu thả một vật rơi tự do từ độ cao so với một bề mặt cứng đến khi nghe được âm phát ra từ va chạm của vật với bề mặt. Thực hiện thí nghiệm này và so sánh kết quả đo được với kết quả trong phương án thí nghiệm (sử dụng ống cộng hưởng). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cảm biến âm là cảm biến có nguyên tắc hoạt động tương tự micrô. Khi sóng âm được truyền tới cảm biến thì nó sẽ chuyển tín hiệu âm thành tín hiệu điện có cùng tần số. Kết nối cảm biến âm với bộ xử lí số liệu sẽ thu được tín hiệu điện này trên màn hình (hình 10.4), dựa vào đồ thị và sự cài đặt tỉ lệ trục thời gian ban đầu ta có thể xác định được chu kì của tín hiệu. Vận dụng trang 65 Vật Lí 11: Cảm biến âm là cảm biến có nguyên tắc hoạt động tương tự micrô. Khi sóng âm được truyền tới cảm biến thì nó sẽ chuyển tín hiệu âm thành tín hiệu điện có cùng tần số. Kết nối cảm biến âm với bộ xử lí số liệu sẽ thu được tín hiệu điện này trên màn hình (hình 10.4), dựa vào đồ thị và sự cài đặt tỉ lệ trục thời gian ban đầu ta có thể xác định được",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vào những ngày thời tiết lạnh, đặc biệt là vào mùa đông, ta thường hay gặp một số hiện tượng như: bị điện giật khi chạm tay vào tay nắm cửa kim loại (Hình 11.1) hay nghe tiếng lách tách khi thay quần áo. Vậy nguyên nhân của hiện tượng này là gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét quả cầu kim loại nhỏ có điện tích –3,2.10-7 C. Quả cầu này thừa hay thiếu bao nhiêu electron? Câ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng một số dụng cụ đơn giản như: vải khô, thước nhựa, mảnh lụa, miếng thuỷ tinh, vụn giấy nhỏ, lược nhựa, quả bóng bay, vỏ lon,... em hãy thực hiện thí nghiệm: Câu hỏi 2 trang 69 Vật Lí 11: Sử dụng một số dụng cụ đơn giản như: vải k",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích hiện tượng bị điện giật trong các trường hợp: Luyện tập trang 70 Vật Lí 11: Giải thích hiện tượng bị điện giật trong các trường hợp: Luyện tập trang 70 Vật Lí 11: a) Khi chạm tay vào",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ngày nay, công nghệ sơn tĩnh điện (Hình 11.4) được sử dụng rất phổ biến với các ưu điểm vượt trội so với công nghệ sơn thường. Từ các nguồn tư liệu sách, báo, internet,... em hãy viết một bài giới thiệu ngắn về công nghệ sơn tĩnh điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các cặp lực→F12và→F21trong Hình 11.5 có phải là các cặp lực cân bằng không? Vì sao? Câu hỏi 3 trang 71 Vật Lí 11: Các cặp lực→F12và→F21tron",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một mẩu sắt nhỏ 6 g có thể chứa khoảng 1024 electron. Vậy vì sao các electron này không bay ra khỏi mẩu sắt, mặc dù giữa chúng luôn tồn tại lực đẩy? Câ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai vật nhỏ tích điện cùng dấu, ban đầu được giữ ở vị trí rất gần nhau. Dựa vào công thức (11.1), em hãy mô tả đặc điểm chuyển động của hai vật ngay thời điểm khi chúng được thả tự do. Giả sử hai vật chỉ chịu tác dụng của lực tương tác tĩnh điện giữa chúng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Theo mô hình nguyên tử của nhà vật lí Ernest Rutherford (O-nít Rơ-dơ-pho) (1871 - 1937), nguyên tử gồm hạt nhân (tập trung hầu hết khối lượng của nguyên tử và có kích thước rất nhỏ so với bán kính nguyên tử) mang điện tích dương và các electron mang điện tích âm chuyển động trên các quỹ đạo tròn xung quanh hạt nhân. Luyện tập trang 72 Vật Lí 11: Theo mô hình nguyên tử của nhà vật lí Ernest Rutherford (O-nít Rơ-dơ-pho) (1871 - 1937), nguyên tử gồm hạt nhân (tập trung hầu hết khối lượng của nguyên t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tại 3 điểm A, B, C cố định trong chân không, đặt 3 điện tích điểm có giá trị lần lượt là q1 = 6.10-6 C, q2 = –6.10-6 C và q3 = 3.10-6 C. Biết AB = 3 cm, AC = 4 cm và BC = 5 cm. Tính độ lớn lực tác dụng lên điện tích điểm đặt tại C. Vận dụng",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sau khi cọ xát thanh thuỷ tinh (trung hoà về điện) với mảnh lụa, thanh thuỷ tinh tích điện dương và có giá trị 13 nC. Hãy giải thích quá trình tích điện cho thanh thuỷ tinh và xác định số electron đã bị bứt ra khỏi thanh thuỷ tinh. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một phân tử DNA bao gồm hai nhánh xoắn kép được liên kết với nhau có chiều dài 0,459.10-6 m. Phần đuôi của phân tử có thể bị ion hoá mang điện tích âm q1 = -1,6.10-19 C, đầu còn lại mang điện tích dương q2 = 1,6.10-19 C. Phân tử xoắn ốc này hoạt động như một lò xo và bị nén 1% sau khi bị tích điện. Xác định “độ cứng k\" của phân tử. Biết phân tử DNA trong nhân tế bào và môi trường xung quanh là nước; hằng số điện môi của nước là 81. Bài 2 tr",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai quả cầu A, B có kích thước nhỏ được đặt cách nhau một khoảng 12 cm trong chân không. Biết quả cầu A có điện tích –3,2.10-7 C và quả cầu B có điện tích 2,4.10-7 C. Bài 3 trang 72 Vật Lí 11: Hai quả cầu A, B có kích thước nhỏ được đặt cách nhau một khoảng 12 cm trong chân không. Biết quả cầu A có điện tích –3,2.10-7 C và quả cầu B có điện tích 2,4.10-7 C. Bài 3 trang 72 Vật Lí 11: -7 -7 a) Tính lực",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi một vật nhiễm điện được đặt gần một vật nhiễm điện khác, ta thấy hai vật có thể hút hoặc đẩy nhau, nghĩa là giữa chúng có sự tương tác mặc dù không có sự tiếp xúc. Vậy, hai vật này tương tác với nhau bằng cách nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Làm thế nào để biết trong một vùng không gian nào đó có sự xuất hiện của điện trường? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Làm thế nào để xác định được độ mạnh yếu của điện trường tại một điểm? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một vùng không gian có điện trường mà các đường sức điện trường có phương nằm ngang, song song với nhau và chiều như Hình 12.3. Hãy xác định hướng của lực điện trường tác dụng lên điện tích q trong các trường hợp: Luyện tập trang 75 V",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tại hai điểm A và B trong chân không, người ta đặt hai điện tích trái dấu q1 và q2. Tìm những điểm sao cho hai vectơ cường độ điện trường do hai điện tích q1 và q2 gây ra tại đó có đặc điểm: Câu hỏi 3 trang 76 Vật Lí 11: Tại hai điểm A và B trong chân ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào hình ảnh điện phổ quan sát được ở Hình 12.6, ta có thể kết luận được dấu của mỗi điện tích không? Vì sao? Câu hỏi 4 trang 77 Vật Lí 11: Dựa vào hình ảnh điện phổ quan sát được ở Hình 12.6, ta có thể kết luận được dấu của",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thiết kế phương án và thực hiện thí nghiệm để quan sát hình ảnh điện phổ của một vật tích điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 12.7, em hãy mô tả hình dạng, điểm xuất phát, điểm kết thúc của đường sức điện và so sánh độ mạnh yếu của điện trường tại hai vị trí A và B cho mỗi trường hợp. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 12.9, vẽ đường sức điện trường trong vùng không gian giữa hai tấm kim loại phẳng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ các dụng cụ: pin, dây nối, 2 thanh kim loại, dầu cách điện (như dầu máy), thuốc tím (KMnO4), em hãy thiết kế và thực hiện thí nghiệm để quan sát đường sức điện trường giữa hai thanh kim loại. V",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong điều kiện thời tiết bình thường, bên ngoài bề mặt Trái Đất được bao phủ bởi một điện trường. Biết rằng điện trường này có các đường sức điện luôn hướng vào tâm Trái Đất. Hãy xác định dấu của điện tích trên bề mặt Trái Đất trong tình huống này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt lần lượt một electron và một proton vào cùng một điện trường đều. Hạt nào sẽ chịu tác dụng của lực tĩnh điện có độ lớn lớn hơn? Giả sử chỉ xét tương tác tĩnh điện, các tương tác khác được bỏ qua. So sánh gia tốc hai hạt thu được. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt hai quả cầu nhỏ có điện tích lần lượt là3,0μCvà−3,5μCtại 2 điểm A và B cách nhau một khoảng 0,6 m. Xác định vị trí điểm C sao cho vectơ cường độ điện trường tại đó bằng không. Bài 3 trang 79 Vật Lí 11: Đặt hai quả cầu nhỏ có",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vào ngày 27/5/1994, đường dây cao thế 500 kV Bắc – Nam (Hình 13.1) đã chính thức được đưa vào vận hành. Sự kiện này đánh dấu một cột mốc lịch sử khi tạo ra sự liên kết lưới điện quốc gia. Vậy “thế” trong cụm từ “cao thế” đặc trưng cho khả năng gì về điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Liệt kê một số lực thế đã được học. Trình bày đặc điểm về công của lực thế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 13.2, xác định công của lực điện tác dụng lên điện tích q > 0 khi q di chuyển từ A' đến B'. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Kết hợp công thức (13.5), (13.6) và (13.7), em hãy rút ra công thức (13.8). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét hai điểm M và N trong điện trường đều. Biết vectơ cường độ điện trường hướng từ M đến N. Hãy so sánh giá trị điện thế tại điểm M và N. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích vì sao cường độ điện trường có thể được đo bằng đơn vị vôn trên mét (V/m). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét hai bản kim loại song song, cách nhau 2,0 cm và có hiệu điện thế 5,0 kV. Tính độ lớn lực điện tác dụng lên một hạt bụi nằm trong khoảng giữa hai bản, biết hạt bụi có điện tích 8,0.10-19 C. Lu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Áp dụng định lí động năng, em hãy rút ra công thức (13.11). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định các lực tác dụng lên electron trong Hình 13.7. Từ đó, dự đoán chuyển động của electron. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả chuyển động của proton chuyển động với vận tốc→vovào vùng điện trường đều như Hình 13.7. Câu hỏi 8 trang 85 Vật L",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một electron chuyển động với vận tốc đầu 4.107 m/s vào vùng điện trường đều theo phương vuông góc với các đường sức điện. Biết cường độ điện trường là E = 103 V/m. Hãy xác định: Luyện tập trang 86 Vật Lí 11: Một electron chuyển động với vận tốc đầu 4.107 m/s vào vùng điện trường đều",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Neutron là một hạt không mang điện, có khối lượng xấp xỉ proton. Một hạt neutron tự do có thể tồn tại khoảng 10 đến 15 phút, sau đó phân rã thành electron, proton và phản neutrino (là một hạt không mang điện, có khối lượng rất bé, chuyển động với tốc độ gần bằng tốc độ ánh sáng trong chân không). Em hãy đề xuất phương án để tách hai hạt electron và proton ngay sau khi neutron bị phân rã. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Độ chênh lệch điện thế giữa mặt trong và mặt ngoài của màng tế bào trong cơ thể người là 90 mV. Biết mặt trong và mặt ngoài của màng tế bào lần lượt mang điện âm và mang điện dương. Xác định công mà tế bào cần thực hiện để đưa một ion Na+ chuyển động từ bên trong ra bên ngoài màng tế bào theo cơ chế chủ động qua kênh protein. B",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một electron chuyển động với tốc độ ban đầu vo = 1,6.106 m/s chuyển động vào vùng điện trường đều theo phương song song với hai bản và ở chính giữa khoảng cách hai bản như Hình 13P.1. Biết chiều dài mỗi bản là 3 cm và khoảng cách giữa hai bản là 1 cm. Giữa hai bản có điện trường hướng từ trên xuống, điện trường bên ngoài hai bản bằng 0. Biết electron di chuyển đến vị trí mép ngoài của tấm bản phía trên, tính độ lớn cường độ điện trường giữa hai bản. Bà",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Màn hình cảm ứng (Hình 14.1) được sử dụng ngày càng phổ biến. Trong đó, màn hình cảm ứng điện dung (sử dụng tụ điện) hoạt động dựa vào khả năng nhường hoặc nhận điện tích của cơ thể con người khi có sự tiếp xúc với các thiết bị điện. Vậy, tụ điện là thiết bị có những đặc tính gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Liệt kê một số vật liệu có tính cách điện trong đời sống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào cấu tạo của tụ điện ở Hình 14.4, hãy cho biết tụ điện có cho dòng điện một chiều đi qua không. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét một tụ điện được tích điện. Khi thay đổi điện dung của tụ, hiệu điện thế và điện tích của tụ có thay đổi không trong các trường hợp sau? Luyện tập trang 90 Vật Lí 11: Xét một tụ điện được tích điện. Khi thay đổi điện dung của tụ, hiệu điện thế và điện tí",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào sách, báo, internet, em hãy trình bày ngắn gọn vai trò của tụ điện trong màn hình cảm ứng điện dung của thiết bị điện thoại. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét hai tụ điện có cùng điện dung lần lượt được mắc nối tiếp và song song để tạo ra hai bộ tụ điện khác nhau. Hãy so sánh điện dung của hai bộ tụ điện trên với điện dung của mỗi tụ điện thành phần. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét mạch điện như Hình 14.9. Biết hiệu điện thế giữa hai điểm A, B bằng 6 V và điện dung của hai tụ điện lần lượt làC1=2μFvàC2=4μF. Xác định hiệu điện thế và điện tích trên mỗi tụ điện. Giả sử ban đầu các tụ chưa tích điện. Luyện tập trang 91 Vật Lí 11: Xét mạch điện như Hình 14.9. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 14.10 và cho biết: Vận dụng trang 92 Vật Lí 11: Quan sát Hình 14.10 và cho biết: Vận dụng t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét tụ điện như Hình 14.10. Bài 1 trang 92 Vật Lí 11: Xét tụ điện như Hình 14.10. Bài 1 trang 92 Vật Lí 11: a) Tính điện tích cực đại mà tụ có thể tích được. a) Tính điện tích cực đại mà tụ có thể t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai tụ điện có điện dung lần lượt làC1=0,5μFvàC2=0,7μFđược ghép song song rồi mắc vào nguồn điện có hiệu điện thế U < 60 V thì một trong hai tụ có điện tích35μC. Tính hiệu điện thế U của nguồn và điện tích của tụ còn lại. Bài 2 trang 92 Vật Lí 11: Hai tụ điện có điện dung lần lượt làC1=0,5μFvàC2=0,7μFđược ghép so",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho các tụ điệnC1=C2=C3=C4=3,3μFđược mắc thành mạch như Hình 14P1. Xác định điện dung tương đương của bộ tụ. Bài 3 trang 92 Vật Lí 11: Cho các tụ điệnC1=C2=C3=C4=3,3μFđược mắc thành mạch như Hì",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Máy khử rung tim xách tay là thiết bị được các đội y tế thường dùng để cấp cứu bệnh nhân bị rối loạn nhịp tim và tạo nhịp tim ổn định cho bệnh nhân. Khi hoạt động, các điện cực của máy được đặt trên ngực của bệnh nhân để tạo dòng điện đi qua tim bệnh nhân trong thời gian rất ngắn (Hình 15.1), tạo điều kiện cho tim bệnh nhân hoạt động bình thường. Thiết bị này hoạt động dựa vào khả năng tích trữ năng lượng điện của tụ điện bên trong thiết bị. Theo em, tụ điện dự trữ được năng lượng dựa trên nguyên tắc nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vận dụng kiến thức đã học và công thức (15.1), em hãy rút ra công thức (15.2). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một tụ điện có điện dung C = 2 pF được tích điện đến điện tích 3,2.10-8 C. Tính năng lượng của tụ điện. Tụ điện này có thể được dùng để duy trì dòng điện trong mạch hay không? Vì sao? Lu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và trình bày một số ứng dụng của tụ điện trong cuộc sống. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét một đám mây tích điện –320C. Xem đám mây và bề mặt Trái Đất như một tụ điện phẳng, biết điện dung của tụ điện này khoảng 9,27 nF. Hãy tính: Bài 1 trang 95 Vật Lí 11: Xét một đám mây tích điện –320C. Xem đám mây và b",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét một máy khử rung tim xách tay. Để cấp cứu cho bệnh nhân, nhân viên y tế đặt hai điện cực của máy khử rung tim lên ngực bệnh nhân và truyền năng lượng dự trữ trong tụ điện cho bệnh nhân. Giả sử tụ điện trong máy có điện dung 70 µF và hiệu điện thế giữa hai bản tụ là 5 000 V. Bài 2 trang 95 Vật Lí 11: Xét một máy khử rung tim xách tay. Để cấp cứu cho bệnh nhân, nhân viên y tế đặt hai điện cực của máy khử rung tim lên ngực bệnh nhân và truyền năng lượng dự trữ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi bật công tắc, ta thấy bóng đèn sáng lên gần như ngay lập tức. Phải chăng các hạt tải điện trong dây dẫn nối với bóng đèn đã di chuyển với vận tốc rất lớn? Có thể ước tính vận tốc này bằng cách nào? Ngoài ra, khi so sánh độ sáng hai bóng đèn sợi đốt cùng loại nhưng được đặt vào hai hiệu điện thế khác nhau ta thấy có sự khác biệt (Hình 16.1). Yếu tố nào của dòng điện đã tạo nên sự khác biệt này? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào bộ dụng cụ trong Hình 16.2, em hãy đề xuất phương án thí nghiệm khác để kiểm chứng tính mạnh yếu của dòng điện. Tiến hành thí nghiệm (nếu có điều kiện). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi nói về dòng điện, chúng ta thường nhắc tới chiều của nó. Theo em, cường độ dòng điện I là đại lượng vectơ hay vô hướng? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào công thức (16.1), hãy lập luận để dẫn dắt ra định nghĩa đơn vị đo điện lượng culông. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy so sánh cường độ của hai dòng điện không đổi sau: Luyện tập trang 101 Vật Lí 11: Hãy so sánh cường độ của hai dòng điện không đổi sau: Luyện tập trang 101 Vật Lí 11: Dòng điện 1: Cứ mỗi giây có 1,25.1019 hạt electron chuyển qua ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mỗi khi trời mưa hay giông bão thường kèm theo các tia sét, đó là các dòng điện phóng từ đám mây xuống mặt đất với cường độ trung bình cỡ 300 000 A. Tia sét kéo dài 1,5 s. Hãy tính điện lượng đã di chuyển giữa đám mây và mặt đất trong mỗi tia sét. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao khi chưa có điện trường ngoài, các hạt tải điện trong dây dẫn chuyển động nhiệt không ngừng với tốc độ cỡ 10 m/s mà không có dòng điện trong dây dẫn? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Kết quả tính toán trong ví dụ cho thấy độ lớn vận tốc trôi rất nhỏ (cỡ 0,04 mm/s). Điều này có mâu thuẫn gì với hiện tượng đèn gần như sáng \"tức thì” ngay khi bật công tắc hay không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một ống chứa khí hydrogen bị ion hoá đặt trong điện trường mạnh giữa hai điện cực làm xuất hiện dòng điện. Các electron chuyển động về cực dương, các proton chuyển động về cực âm. Biết mỗi giây có 3,1.1018 electron và 1,1.1018 proton chuyển động qua một tiết diện của ống. Hãy tính cường độ dòng điện và xác định chiều của nó. Bài",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một quả cầu bằng đồng cô lập. Một dây dẫn kim loại mang dòng điện đi vào nó và một dây dẫn kim loại khác mang dòng điện đi ra khỏi nó. Biết cường độ dòng điện đi vào lớn hơn cường độ dòng diện đi ra khỏi quả cầu là 2μA. Bài 2 trang 102 Vật Lí 11: Một quả cầu bằng đồng cô lập. Một dây dẫn kim loại mang dòng điện đi vào nó và một dây dẫn kim loại khác mang dòng điện",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho dòng điện 4,2 A chạy qua một đoạn dây dẫn bằng kim loại dài 80 cm có đường kính tiết diện 2,5 mm. Mật độ electron dẫn của kim loại này là 8,5.1028 electron/m3. Hãy tính thời gian trung bình mỗi electron dẫn di chuyển hết chiều dài đoạn dây. Bài",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi vô tình chạm vào đoạn dây có điện bị hở lớp vỏ cách điện, một thợ sửa chữa bị điện giật nhẹ vì có một dòng điện cỡ 10 mA chạy qua người. Nhưng một người khác cũng chạm vào đoạn dây trên thì có thể nguy hiểm đến tính mạng do có dòng điện 90 mA chạy qua người. Điều gì tạo nên sự khác biệt này? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu nguyên nhân chính gây ra điện trở của vật dẫn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và giải thích vì sao người ta thường sử dụng đồng để làm dây dẫn điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các công thức (17.1) và (17.3) có tương đương nhau không? Giải thích. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt hiệu điện thế U = 1,5 V vào hai đầu một sợi dây dẫn bằng đồng có điện trở R = 0,6Ω. Tính cường độ dòng điện chạy qua sợi dây đồng. Luyện ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định giá trị điện trở của đoạn dây bằng đồng có đường đặc trưng vôn — ampe như Hình 17.3. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt hiệu điện thế U (U có thể điều chỉnh được) vào hai đầu của một điện trở là một đoạn dây bằng đồng dài 10 m, đường kính tiết diện 1 mm và điện trở suất 1,69.10-8Ωmở 20°C. Dùng ampe kế đo cường độ dòng điện chạy qua đoạn dây đồng. Điều chỉnh U, tương ứng với mỗi giá trị của U ta thu được một giá trị của I. Kết quả thể hiện trong Bảng 17.3. Luyện tập 2 trang 105 Vật Lí 11: Đặt hiệu điện thế U (U có thể điều chỉnh được) vào hai đầu của một điện trở là một đoạn dây bằng đồng dài 10 m, đường kính tiết diện 1 mm và điện trở s",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thảo luận về ảnh hưởng của nhiệt độ lên điện trở của đèn sợi đốt. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu một vài ứng dụng của điện trở nhiệt. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thông tin kĩ thuật của một loại cáp điện được in trên vỏ sản phẩm như sau: Diện tích tiết diện: 1,5 mm2, điện trở mỗi km chiều dài: 12,1Ω. Hãy xác định điện trở suất của vật liệu làm cáp điện này. Bài 1 t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đường đặc trưng vôn – ampe của hai điện trở R1 và R2 được cho bởi Hình 17.1. Bài 2 trang 107 Vật Lí 11: Đường đặc trưng vôn – ampe của hai điện trở R1 và R2 được cho ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dòng điện đem lại rất nhiều lợi ích cho cuộc sống con người cũng như sự phát triển của xã hội. Ở chương trình Trung học cơ sở, trong các thí nghiệm cần có dòng điện, các em đã được làm quen với một số nguồn điện (Hình 18.1) và sử dụng chúng. Vì sao nguồn điện có thể tạo ra và duy trì dòng điện lâu dài? Những đại lượng vật lí nào đặc trưng cho nguồn điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát Hình 18.3, mô tả chiều chuyển động của các hạt mang điện trong dây dẫn và bên trong nguồn điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh sự giống và khác nhau của hai khái niệm: suất điện động và hiệu điện thế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét một nguồn điện có suất điện động 12 V. Xác định công cần thiết của nguồn điện để dịch chuyển một electron từ cực dương sang cực âm của nguồn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 18.4 thể hiện một số loại pin và ắc quy trên thị trường. Tìm hiểu và trình bày ngắn gọn thông số của các loại pin và ắc quy này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi di chuyển bên trong nguồn từ một cực sang cực còn lại dưới tác dụng của lực lạ, sự chuyển động của các điện tích có bị cản trở bởi yếu tố nào không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mắc hai cực nguồn điện với một điện trở qua một khoá K. Mắc hai đầu một vôn kế vào hai cực của nguồn (Hình 18.6). Bằng lập luận, em hãy so sánh số chỉ của vôn kế trong hai trường hợp khoá K đóng và mở. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mắc hai cực của một pin có suất điện động 9 V vào hai đầu của một mạch chứa điện trở. Cường độ dòng điện trong mạch và hiệu điện thế giữa hai đầu của mạch lần lượt có giá trị đo được là 0,1 A và 8,9 V. Xác định giá trị điện trở trong của pin. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Em hãy giải thích vì sao lời khuyên khi cất giữ pin là cần để pin nơi khô và thoáng mát. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một nguồn điện có suất điện động 6 V và điện trở trong 0,5Ω. Khi mắc hai cực của nguồn điện với một vật dẫn thì trong mạch xuất hiện dòng điện 1,4 A. Bỏ qua điện trở các dây nối. Tính hiệu điện thế giữa hai đầu vật dẫn. Bài 1 ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ghép nối tiếp một biến trở R với một điện trở R0, thành bộ rồi nối hai đầu vào hai cực của một nguồn điện không đổi. Điều chỉnh R, người ta thu được đồ thị đường biểu diễn sự phụ thuộc của hiệu điện thế giữa hai đầu biến trở vào cường độ dòng điện như Hình 18P1. Bài 2 trang 112 Vật Lí 11: Ghép nối tiếp một biến trở R với một điện trở R0, thành bộ rồi nối hai đầu vào hai c",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi hoạt động, các thiết bị tiêu thụ điện biến đổi điện năng thành các dạng năng lượng khác. Chẳng hạn, bóng đèn (Hình 19.1a) biến đổi một phần điện năng thành quang năng, quạt máy (Hình 19.1b) biến đổi một phần điện năng thành cơ năng, bàn là (Hình 19.1c) biển đổi điện năng thành nhiệt năng,... Năng lượng điện mà các thiết bị tiêu thụ phụ thuộc vào các yếu tố nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dùng các dây dẫn (có điện trở không đáng kể) nối hai đầu một điện trở với hai cực của một nguồn điện thành mạch kín. Khi này, dòng điện có sinh công trên các đoạn dây nối không? Vì sao? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xét hai điện trở R1 và R2 (R2 > R1) được ghép song song thành bộ và nối vào hai cực của một nguồn điện. Hãy cho biết công suất tiêu thụ điện của điện trở nào lớn hơn. Giải thích. Câu ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt một hiệu điện thế 12 V vào hai đầu một điện trở 8 Ω. Luyện tập trang 114 Vật Lí 11: Đặt một hiệu điện thế 12 V vào hai đầu một điện trở 8 Ω. Luyện tậ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi nguồn điện được nối với mạch ngoài và phát ra dòng điện, nhiệt độ của nguồn điện có tăng lên không? Năng lượng của nguồn điện có thể được biến đổi thành những dạng năng lượng nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một nguồn điện có suất điện động 11,5 V và điện trở trong 0,8 Ω được nối với mạch ngoài gồm các điện trở tạo thành một mạch kín. Nguồn phát dòng điện có cường độ 1 A. Tính công suất điện mà nguồn cung cấp cho mạch ngoài. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một pin hay ắc quy khi lưu hành trên thị trường sẽ có thêm thông số cho biết về khả năng cung cấp điện của nó cho các thiết bị khác, đơn vị Ah (ampe giờ). Ví dụ: Một ắc quy có thông số 10 Ah có nghĩa nó có khả năng cung cấp dòng điện 1 A trong 10 giờ, hoặc cung cấp dòng điện 5 A trong 2 giờ, hoặc cung cấp dòng điện 10 A trong 1 giờ..... Hiện nay, pin sạc dự phòng (Hình 19.2) đang được sử dụng phổ biến để nạp điện cho các thiết bị như điện thoại thông minh, máy tính bảng. Xét một pin sạc dự phòng có thông số 15 000 mAh đã tích đầy điện, khi được kết nối với một thiết bị di động sẽ hoạt động ở công suất 10 W và hiệu điện thế giữa hai cực của pin bằng 5 V. Tính điện lượng còn lại trong pin sạc dự phòng khi sử dụng nó để sạc thiết bị trên trong 30 phút. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mắc hai cực của một nguồn điện không đổi có suất điện động 6,0 V và điện trở trong 0,5Ωvào hai đầu một điện trở R = 3,5Ωđể tạo thành mạch kín. Bỏ qua điện trở các dây nối. Tính nhiệt lượng toả ra trên điện trở R trong 1 phút. Bài 1 trang ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mắc hai cực của một nguồn điện không đổi vào hai đầu biến trở R. Điều chỉnh R người ta thu được đồ thị biểu diễn sự phụ thuộc cường độ dòng điện chạy qua biến trở vào giá trị biến trở (Hình 19.1P). Xác định suất điện động và điện trở trong của nguồn điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ta đã biết, suất điện động và điện trở trong là hai đại lượng đặc trưng của một nguồn điện. Trong quá trình sử dụng, suất điện động và điện trở trong của nguồn điện có thay đổi không? Làm thế nào để đo suất điện động và điện trở trong của một nguồn điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào cơ sở lí thuyết và dụng cụ trong Hình 20.3, hãy thảo luận nhóm để đưa ra một phương án thí nghiệm xác địnhEvà r của pin. Câu hỏ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và thảo luận vai trò của điện trở R0 trong mạch điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy nêu các nguyên nhân gây ra sai số trong phương án thí nghiệm lựa chọn và cách khắc phục. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Pin chưa sử dụng thường có điện trở trong nhỏ nên đồ thị thu được sẽ có độ dốc nhỏ. Do đó, để xác định được giao điểm với trục hoành, ta cần phải lấy một dải số liệu rộng hơn. Hãy đề xuất một cách xác định r mà không phải kéo dài đồ thị. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào phần lưu ý trong cơ sở lí thuyết, hãy đề xuất một phương án khác để đo suất điện động của nguồn điện. Tiến hành thí nghiệm cho hai pin đã thực hiện đo và so sánh với kết quả đã nhận được. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hằng ngày, chúng ta thấy rất nhiều chuyển động, trong đó, vật chuyển động qua lại quanh một vị trí cân bằng. Chuyển động của người chơi đu là một ví dụ như vậy (Hình 1.1). Mở đầu trang 6 Vật Lí 11: Hằng ngày, chúng ta thấy rất nhiều chuyển độn",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dùng một lò xo, một quả cầu nhỏ bằng kim loại, sợi dây và giá thí nghiệm, thảo luận với bạn xây dựng phương án và thực hiện phương án tạo ra dao động của quả cầu treo ở một đầu lò xo. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thực hành, khám phá trang 7 Vật Lí 11: Thực hành, khám phá trang 7 Vật Lí 11: Dụng cụ Dụng cụ Quả cầu kim loại nhỏ, sợi dây mảnh nhẹ, giá thí nghiệm. Tiến hành Tiến hành + Treo quả cầu vào giá thí nghiệm. + Khi quả cầu đứng yên tại vị trí cân bằng, dây treo có phương ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu ví dụ về dao động mà bạn quan sát được trong thực tế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Với một cái thước mỏng đàn hồi, hãy đề xuất phương án tạo ra dao động tự do của thước và mô tả cách làm. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nếu bỏ qua lực cản, chuyển động nào sau đây là dao động tự do: Luyện tập 1 trang 8 Vật Lí 11: Nếu bỏ qua lực cản, chuyển động nào sau đây",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ đồ thị Hình 1.7, mô tả sự thay đổi li độ của xe theo thời gian. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm mối liên hệ giữa chu kì T và tần số f của dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định biên độ, chu kì và tần số của dao động có đồ thị li độ – thời gian được biểu diễn ở Hình 1.9. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tim co bóp theo nhịp do được điều khiển bằng một hệ thống các xung điện dẫn truyền trong cơ tim. Máy điện tim ghi nhận những xung điện này và hiển thị dưới dạng đường điện tâm đồ. Đó là những đường gấp khúc, lên xuống biến thiên theo nhịp co bóp của tim. Vận dụng trang 10 Vật Lí 11: Tim co bóp theo nhịp do được điều khiển bằng một hệ thống các xung điện dẫn truyền trong cơ tim. Máy điện tim ghi nhận những xu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thế nào là dao động điều hoà? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tần số góc và tần số của dao động điều hoà có liên hệ như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào đồ thị Hình 1.12, xác định các đại lượng sau: Câu hỏi 8 trang 12 Vật Lí 11: Dựa vào đồ thị Hình 1.12, xác định các đại lượng sau: Câu hỏi 8 trang 12 Vật Lí 11: a) Tần số góc",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào độ dốc của đồ thị li độ - thời gian, ta có thể xác định vận tốc của xe kĩ thuật số tại mỗi thời điểm. Từ các số liệu này, có thể vẽ được đồ thị hình sin biểu diễn sự liên hệ giữa vận tốc và thời gian (Hình 1.12b). Ví dụ, trong Hình 1.12a, tại t = 0, độ dốc của đồ thị li độ – thời gian bằng 0, vận tốc bằng 0. Khi t tăng từ 0 s đến 0,2 s, độ dốc âm, vận tốc có giá trị âm. Tại t = 0,2 s, độ dốc bằng 0 một lần nữa. Từ t = 0,2 s đến t = 0,4 s, độ dốc dương, vận tốc có giá trị dương. Độ dốc của đồ thị li độ – thời gian có độ lớn cực đại tại các thời điểm t = 0,1 s; 0,3 s; 0,5 s... Bằng cách tương tự, dựa vào độ dốc của đồ thị vận tốc – thời gian ở Hình 1.12b, ta có thể tìm được gia tốc của xe tại mỗi thời điểm và vẽ được đồ thị hình sin như Hình 1.12c. Tìm hiểu thêm trang 13 Vật Lí 11: Dựa vào độ dốc của đồ thị li độ - thời gian, ta có thể xác định vận tốc của xe kĩ thuật số tại mỗi ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định pha của dao động tại vị trí 3 và vị trí 4. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật dao động điều hòa với phương trình li độ:x=5cos(10πt+φ2)(cm). Xác định pha của dao động tại thời điểm130s. Luyện tập 3 trang 14 Vật Lí 11: Một vật dao động điều hòa với phương trình li độ:x=5cos(10πt+φ2)(cm). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả trạng thái của hai vật dao động ở thời điểm t3 và t4, trong đồ thị Hình 1.14. Lu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đồ thị Hình 1.18 biểu diễn hai dao động ngược pha. Dựa vào đồ thị, xác định độ lệch pha của hai dao động này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong bài học trước, chúng ta đã tìm hiểu dao động điều hoà và định nghĩa các đại lượng mô tả dao động điều hoà. Trong bài học này, chúng ta sẽ sử dụng các đại lượng đó để mô tả một số dao động điều hoà thường gặp trong cuộc sống. Mở đầu trang 18 Vật Lí 11: Trong bài học trước, chúng ta đã tìm hiểu dao động điều hoà và định nghĩa các đại lượng mô tả dao động điều hoà. Trong bài học này, chúng",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Con lắc đơn trong đồng hồ quả lắc ở Hình 2.2 gồm một thanh nhẹ có chiều dài 0,994 m. Tính chu kì dao động của con lắc nếu đồng hồ được đặt ở nơi có gia tốc rơi tự do g = 9,8 m/s2. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Pít-tông bên trong động cơ ô tô dao động lên và xuống khi động cơ ô tô hoạt động (Hình 2.5). Các dao động này được coi là dao động điều hoà với phương trình li độ của pít-tông là x = 12,5cos(60πt). Trong đó, x tính bằng cm, t tính bằng s. Xác định: Luyện tập 1 trang 20 Vật Lí 11: Pít-tông bên trong động cơ ô tô dao động lên và xuống khi động cơ ô tô hoạt động (Hình 2.5). Các dao động này được coi là dao động điều hoà với ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 2.6 biểu diễn đồ thị gia tốc của quả cầu con lắc đơn theo li độ của nó. Tính tần số của con lắc đơn đó. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi làm việc dài ngày trên các trạm không gian vũ trụ, việc theo dõi các chỉ số sức khoẻ như chiều cao, khối lượng cơ thể của các nhà du hành vũ trụ là rất quan trọng. Hình 2.7 chụp cảnh một nhà du hành vũ trụ đang ngồi trên dụng cụ đo khối lượng được lắp đặt tại trạm vũ trụ Skylab 2. Vận dụng trang 22 Vật Lí 11: Khi làm việc dài ngày trên các trạm không gian vũ trụ, việc theo dõi các chỉ số sức khoẻ như chiều cao, khối lượng cơ thể của các nhà du hành vũ trụ là rất quan trọng. Hình 2.7 chụp cảnh một nhà du hành vũ trụ đang ngồi trên dụng cụ đo khối lượng được lắp đặt tại trạm vũ trụ Skylab 2. Vận dụng trang 22 Vật Lí 11: Dụng cụ này được thiết kế để cho phép các nhà du hành xác định khối lượng của họ ở điều kiện không trọng ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một ứng dụng quan trọng của con lắc đơn là trong lĩnh vực địa chất. Các nhà địa chất quan tâm đến những tính chất đặc biệt của lớp bề mặt Trái Đất và thường xuyên phải đo gia tốc rơi tự do ở một nơi nào đó. Ví dụ như trầm tích khoáng sản hay các mỏ quặng có thể làm thay đổi giá trị gia tốc rơi tự do tại nơi đó. Nhờ vậy, các nhà địa chất đo gia tốc rơi tự do để phát hiện các vị trí có mỏ quặng. Một máy đo gia tốc rơi tự do đơn giản nhất chính là một con lắc đơn. Đo thời gian con lắc đơn có chiều dài l thực hiện một số dao động, từ đó suy ra chu kì T. Sau đó tính g dựa vào công thức (2.1). Lặp lại thí nghiệm nhiều lần với các con lắc đơn có chiều dài dây treo khác nhau. Lấy giá trị trung bình g ở các lần đo, ta được gia tốc rơi tự do tại nơi đó. Tìm hiểu thêm trang 23 Vật Lí 11: Một ứng dụng quan trọng của con lắc đơn là trong lĩnh vực địa chất. Các nhà địa chất quan tâm đến những tính chất đặc biệt của lớp bề mặt Trái Đất và thường xuyên phải đo gia tốc rơi tự do ở một nơi nào đó. Ví dụ như trầm tích ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một con lắc đơn lớn được treo ở sảnh của toà nhà Liên Hợp Quốc tại thành phố New York, Mỹ. Quả cầu có khối lượng 91 kg và sợi dây treo dài 22,9 m. Con lắc liên tục dao động với chu kì 9,6 s. Mở đầu trang 24 Vật Lí 11: Một con lắc đơn lớn được treo ở sảnh của toà nhà Liên Hợp Quốc tại thành phố New York, Mỹ. Quả cầu c",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả sự biến đổi động năng và thế năng của con lắc đơn khi quả cầu đi từ vị trí biên A, qua vị trí cân bằng O rồi sang vị trí biên B. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chứng minh rằng cơ năng dao động của con lắc đơn tỉ lệ thuận với bình phương của biên độ dao động. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào đồ thị Hình 3.3, mô tả sự thay đổi của động năng và thế năng của con lắc đơn khi vật đi từ vị trí biên về vị trí cân bằng và từ vị trí cân bằng đến vị trí biên. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào đồ thị Hình 3.4, tìm số lần vật có động năng bằng thế năng trong mỗi chu kì dao động của vật. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh chu kì biến đổi của động năng và thế năng với chu kì dao động của vật. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho đồ thị vận tốc – thời gian của một con lắc đơn dao động như Hình 3.5. Biết rằng khối lượng của vật treo vào sợi dây là 0,2 kg. Xác định: Luyện tập 3 trang 27 Vật Lí 11: Cho đồ thị vận tốc – thời gian của một con lắc đơn dao động như Hình 3.5. Biết rằng khối lượng của vật treo vào sợi dây là 0,2 kg.",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi nghiên cứu sự biến đổi năng lượng của con lắc đơn trong quá trình dao động, có bạn học sinh khẳng định rằng, nếu ta thay quả lắc đang dùng bằng một quả lắc khác có khối lượng lớn hơn nhưng vẫn giữ nguyên biên độ của dao động thì vận tốc của quả lắc mới sẽ lớn hơn khi qua vị trí cân bằng vì nó có cơ năng lớn hơn. Tìm hiểu thêm trang 27 Vật Lí 11: Kh",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đồ thị Hình 3.6 mô tả sự thay đổi động năng theo li độ của quả cầu có khối lượng 0,4 kg trong một con lắc lò xo treo thẳng đứng. Xác định: Vận dụng trang 27 Vật Lí 11: Đồ thị Hình 3.6 mô tả sự thay đổi động năng theo li độ của quả cầu có khối lượng 0,4 kg trong một con lắc lò xo treo thẳng đứng. Xác định: Vận dụng trang 27 Vật Lí 11: a) Cơ năng của con lắc lò xo. a) C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Toà nhà Đài Bắc 101 (Taipei 101) cao 509 m xác lập kỉ lục là toà nhà cao nhất thế giới vào năm 2004 và duy trì vị thế này cho đến năm 2010 khi toà nhà Buji Kalifa (Bu-zi Ca-li-fa) ở Dubai (Đu-bai) được khánh thành. Để bảo vệ toà nhà khỏi rung lắc mạnh dưới tác dụng của gió, bão hay động đất, một quả cầu giảm chấn khổng lồ đường kính 5,5 m, khối lượng 662 tấn được treo lơ lửng từ tầng 92 xuống tầng 87 của toà nhà. Khối cầu này giúp giảm rung lắc của toà nhà bằng cách nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích tại sao, trong môi trường có lực cản, dao động của các vật lại tắt dần. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao nếu chỉ đẩy một lần, xích đu sẽ dao động một vài chu kì rồi dừng lại? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy ví dụ về dao động tắt dần trong thực tế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy ví dụ các hệ dao động cưỡng bức trong thực tế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm tần số dao động riêng của con lắc lò xo trong Hình 2.4. Câu hỏi 4 trang 30 Vật Lí 11: Tìm tần số da",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dựa vào đồ thị Hình 4.4, mô tả sự thay đổi của biên độ dao động cưỡng bức theo tần số của ngoại lực tuần hoàn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu các giải pháp đã được áp dụng để hạn chế rung lắc nguy hiểm cho các công trình xây dựng trước tác dụng của con người và thiên nhiên như gió bão, động đất,... ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho hai vật dao động điều hoà (1) và (2) có đồ thị li độ – thời gian như Hình 1. Câu hỏi 1 trang 32 Vật Lí 11: Cho hai vật dao động điều hoà (1) và (2) có đồ thị li độ – thời gian như Hình 1. Câu hỏi 1 trang 32 Vật Lí 11: a) Xác định biên độ, chu kì và tần số của hai dao động. a) Xác định biên ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho con lắc lò xo dao động trên mặt phẳng nằm ngang không ma sát như trong Hình 2. Con lắc lò xo thực hiện mỗi dao động mất 2,4 s. Tại t = 0, vật bắt đầu dao động từ chỗ cách vị trí cân bằng x = 3 cm. Câu hỏi 2 trang 32 Vật Lí 11: Cho con lắc lò xo dao động trên mặt phẳng nằm ngang không ma sát như trong Hình ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một chuyến bay lên Mặt Trăng, các nhà du hành đã mang theo một con lắc đơn với dây treo có chiều dài 2,0 m. Phép đo chu kì dao động của con lắc đơn này trên Mặt Trăng cho kết quả T = 7,02 s. Xác định gia tốc rơi tự do tại bề mặt Mặt Trăng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho đồ thị vận tốc – thời gian của một vật dao động điều hoà như Hình 3. Biết rằng khối lượng của vật là 0,15 kg. Hãy xác định: Câu hỏi 4 trang 33 Vật Lí 11: Cho đồ thị vận tốc – thời gian của một vật dao động điều hoà như Hình 3. Biết rằng khối lượng của vật là 0,",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dao động của vật sẽ tắt dần nhanh hơn nếu Câu hỏi 5 trang 33 Vật Lí 11: Dao động của vật sẽ tắt dần nhanh hơn nếu Câu hỏi 5 trang 33 Vật Lí 11: A. giảm lực ma sát. A. giảm lực ma sát",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Phát biểu nào sau đây là sai khi nói về năng lượng của hệ dao động điều hoà: Câu hỏi 6 trang 33 Vật Lí 11: Phát biểu nào sau đây là sai khi nói về năng lượng của hệ dao động điều hoà: Câu hỏi 6 trang 33 Vật Lí 11: sai A. Hệ có thế năng cực đại khi vật ở vị trí biên dương. A. Hệ có thế năng cực đại",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Gờ giảm tốc (Hình 4) có tác dụng cảnh báo (thông qua việc gây ra tác động nhẹ lên phương tiện) cho người tham gia giao thông biết trước đoạn đường nguy hiểm, cần phải giảm tốc độ và chú ý quan sát để bảo đảm an toàn giao thông. Câu hỏi 7 trang 33 Vật Lí 11: Gờ giảm tốc (Hình 4) có tác dụng cảnh báo (thông qua việc gây ra tác động nhẹ lên phương tiện) cho người tham gia giao thông biết trước đoạn đường nguy hiểm, cần phải giảm tốc độ và chú ý quan sát để bảo đảm an toàn giao thông. Câu hỏi 7 trang 33 Vật Lí 11: Một ô tô có khối lượng 1 465 kg chở hai người có tổng khối lượng 110 kg đi qua một đoạn đường có gờ giảm tốc, với những nếp gấp cách nhau 0,50 m. Ô ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các cơ vận động nhãn cầu tạo ra chuyển động của nhãn cầu và chuyển động đồng bộ của mi mắt (Hình 5). Các cơ giữ nhãn cầu này co giãn và có thể coi gần đúng như những lò xo có độ cứng tương đương là k. Các nghiên cứu y khoa cho thấy, nếu đầu người bị rung lắc với tần số 29 Hz thì thị lực sẽ bị mờ đi do tần số rung lắc này cộng hưởng với tần số dao động riêng của nhãn cầu. Nếu khối lượng trung bình của một nhãn cầu người bình thường là 7,5 g thì độ cứng tương đương của hệ thống cơ giữ nhãn cầu là bao nhiêu? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ở bờ biển, ta thấy các con sóng nối tiếp nhau xô vào bờ. Các con sóng lớn có thể lan truyền hàng trăm kilômét trên mặt biển trước khi đập vào bờ. Mở đầu trang 36 Vật Lí 11: Ở bờ biển, ta thấy các con sóng nối tiếp nhau xô vào bờ. Các con sóng lớn có thể lan truyền hàng trăm kilô",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy một ví dụ về sóng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định biên độ và bước sóng của sóng được mô tả trong đồ thị li độ u (cm) - khoảng cách x (cm) ở Hình 1.3. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Chứng tỏ rằng từ định nghĩa về bước sóng, tốc độ sóng, tần số sóng, có thể rút ra công thức (1.2). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định bước sóng của các sóng ở Bảng 1.1. Cho rằng tốc độ sóng trong mỗi môi trường là hằng số với một nhiệt độ và áp suất xác định. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy ví dụ chứng tỏ sóng truyền năng lượng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cường độ của một sóng sẽ bị suy giảm khi truyền đi trong không gian. Khi sóng lan truyền, biên độ sóng giảm dần. Biết rằng cường độ sóng tỉ lệ với bình phương của biên độ sóng. Tại vị trí mà biên độ sóng giảm còn một nửa so với nguồn phát thì cường độ sóng tại đó thay đổi như thế nào so với tại nguồn? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả chuyển động của phần tử số 0 trên Hình 1.4 trong thời gian từ t = 0 đến t = T. Từ đó, chỉ ra mối liên hệ giữa khoảng thời gian T biểu diễn trong Hình 1.4 với chu kì dao động của phần tử số 0 và với chu kì sóng trên dây. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chỉ ra hướng chuyển động của phần tử số 6 ở thời điểmT4, phần tử số 12 ở thời điểm5T4, phần tử số 18 ở thời điểm6T4và so sánh với hướng truyền sóng. Từ đó, phân biệt tốc độ của phần tử môi trường đang dao động với tốc độ sóng. Câu hỏi 5 trang 40 Vật Lí 11: Hãy chỉ ra hướng chuyển động ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy giải thích vì sao về đêm và sáng sớm, ta có thể nghe rõ tiếng chuông chùa hoặc chuông nhà thờ từ rất xa. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bạn sẽ nghe được âm thanh bổng hơn hay trầm hơn của còi xe dẫn đường khi xe đó chạy lại gần bạn? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Với một lò xo mềm, ta có thể làm cho đầu tự do của lò xo dao động dọc theo chiều dài của nó (Hình 2.1) hoặc làm cho đầu tự do của lò xo dao động vuông góc với trục lò xo (Hình 2.2). Mở đầu trang 43 Vật Lí 11: Với một lò xo mềm, ta có thể làm cho đầu tự do c",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chỉ ra hướng chuyển động của phần tử số 6 ở thời điểmT4, phần tử số 12 ở thời điểm5T4. Câu hỏi 1 trang 44 Vật Lí 11: Hãy chỉ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh trạng thái chuyển động của phần tử số 12 ở thời điểm5T4trong Hình 1.4 và Hình 2.4. Luyện tập 1 trang 44 V",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao sóng âm không truyền được trong chân không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thực hành, khám phá trang 45 Vật Lí 11: Thực hành, khám phá trang 45 Vật Lí 11: Dụng cụ Dụng cụ Dụng cụ – Đồng hồ đo điện đa năng có chức năng đo tần số (1). – Đồng hồ đo điện đa năng có chức năng đo tần số (1). – Micro (2). – Micro (2). – Bộ khuếch đại tín hiệu (3). – Bộ khuếch đại tín hiệu (3). – Âm thoa và hộp cộng hưởng (4). – Âm thoa và hộp cộng hưởng (4). – Búa cao su (5). – Búa cao su (5). Thiết kế phương án thí nghiệm Thiết kế phương án thí nghiệm Thiết kế phương án thí nghiệm Tìm hiểu công dụng của từng dụng cụ đã cho. Thiết kế phương án thí nghiệm đo tần số của âm do âm thoa phát ra bằng các dụng cụ này. Tìm hiểu công dụng của từng dụng cụ đã cho. Thiết kế",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đường hiển thị trên màn hình dao động kí điện tử khi đo tần số của một sóng âm có dạng như hình 2.5. Bộ điều chỉnh thời gian của dao động kí được đặt sao cho giá trị của mỗi ô trên trục nằm ngang là 1 ms/độ chia. Hãy nêu cách xác định tần số của sóng âm theo thí nghiệm này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh kết quả đo với tần số ghi ở âm thoa. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi tiến hành đo tần số của âm do âm thoa phát ra, để tránh tạp âm ảnh hưởng đến kết quả đo thì cần phải làm gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Phân biệt sóng dọc và sóng ngang. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Xác định giới hạn bước sóng của miền ánh sáng nhìn thấy trong thang sóng điện từ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy biểu diễn các miền bức xạ trong Bảng 2.2 theo bậc độ lớn bước sóng của chúng trên cùng một thang đo. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một quả cầu chạm nhẹ mặt nước thì khi quả cầu dao động, mỗi điểm trên mặt nước sẽ dao động khi nhận được sóng truyền đến (Hình 3 la). Mở đầu trang 48 Vật Lí 11: Một quả cầu chạm nhẹ mặt nước thì khi quả cầu dao động, mỗi điểm trên mặt nước sẽ dao động khi nhận được sóng truyền đến (Hình 3 la). Mở đầu trang 48 Vật L",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Điểm M nằm cách đều hai nguồn sóng cùng tần số 90 Hz thì có thuộc hệ vân giao thoa của hai sóng đó không? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Biết bước sóng là khoảng cách giữa đỉnh hai gợn lồi hoặc đỉnh hai gợn lõm liên tiếp trên cùng một phương truyền sóng. Hãy nêu cách xác định bước sóng do hai nguồn phát ra trên hình 3.6. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dùng bút chì vẽ đường nối các điểm giao nhau giữa các gợn lồi hoặc của các gợn lõm của hai nguồn sóng trên Hình 3.6 và đối chiếu kết quả với công thức (3.1). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quan sát hình ảnh mặt nước thu được trên màn khi thay đổi tần số dao động của một quả cầu thì không còn thấy các điểm dao động cực đại và cực tiểu nằm trên các đường xác định nữa. Vậy điều kiện để quan sát được hệ vân giao thoa là gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong một thí nghiệm giao thoa ánh sáng với khe Young, người ta được khoảng cách đo từ vân trung tâm đến vân sáng thứ mười là 4,0 mm. Ở vị trí cách vân trung tâm 1,0 mm sẽ là vân sáng hay tối? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu phương án xác định bước sóng ánh sáng bằng thí nghiệm giao thoa với khe Young. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong giao thoa ánh sáng trắng, ngoài vân trung tâm có màu trắng, còn có các vân sáng màu trắng khác do sự chồng lấn của các quang phổ bậc khác nhau. Hãy tìm hiểu để nêu cách xác định vị trí của vân sáng màu trắng gần vân trung tâm nhất. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một sợi dây đàn hồi có một đầu cố định. Làm cho đầu tự do của dây dao động thì có những lúc ta thấy trên dây xuất hiện những điểm đứng yên. Những điểm đứng yên này có giống với những điểm đứng yên trong hiện tượng giao thoa của sóng nước không? Vì sao dao động tại những điểm đó lại triệt tiêu nếu chỉ nhận sóng từ đầu dao động truyền đến? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chỉ ra các nút sóng và các bụng sóng trên các Hình 4.1 và 4.2. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tiến hành thí nghiệm tạo sóng dừng trên dây và lập bảng ghi kết quả vào vở như mẫu Bảng 4.1. Câu hỏi 1 trang 55 Vật Lí 11: Tiến hành thí nghiệm tạo sóng dừng trên dây và lập ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chỉ ra vị trí các nút sóng trên Hình 4.4. Xác định khoảng cách giữa hai nút sóng liên tiếp. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy chỉ ra vị trí các bụng sóng trên Hình 4.4. So sánh biên độ của sóng tổng hợp tại bụng sóng với biên độ của sóng tới. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Có thể nói sóng dừng trên dây là hiện tượng giao thoa sóng được không? Nếu có thì đây là giao thoa của những sóng nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Kiểm tra lại công thức (4.4) với kết quả của Bảng 4.1 thu được trong thí nghiệm quan sát sóng dừng trên dây đã thực hiện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ công thức tính tốc độ sóng, hãy chỉ ra các đại lượng cần xác định khi muốn đo tốc độ truyền âm trong không khí. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đề xuất phương án ứng dụng hiện tượng sóng dừng để đo tốc độ truyền âm trong không khí: Câu hỏi 6 trang 57 Vật Lí 11: Đề xuất phương án ứng dụng hiện tượng sóng dừng để đo tốc độ truyền âm trong không khí: Câu hỏi 6 trang 57 Vật Lí 11: – Vì sao một đầu của ống cộng hưởng cần dịch chuyển được? Tìm phương án giúp thay đổi độ dài của cột khí trong ống. – Vì sao một đầu của ống cộng hưởng cần dịch chuyển được? Tìm phươ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thực hành, khám phá trang 58 Vật Lí 11: Thực hành, khám phá trang 58 Vật Lí 11: Dụng cụ Dụng cụ Dụng cụ Dụng cụ (1) Máy phát âm tần, (1) Máy phát âm tần, (2) loa nhỏ, (2) loa nhỏ, (3) ống cộng hưởng là ống nhựa trong suốt (rải đều các hạt xốp trong lòng ống). (3) ống cộng hưởng là ống nhựa trong suốt (rải đều các hạt xốp trong lòng ống). Thiết kế phương án thí nghiệm Thiết kế phương án thí nghiệm Thiết kế phương án thí nghiệm Thiết kế phương án thí nghiệm Tìm hiểu công dụng của từng dụng cụ đã cho. Thiết kế phương án thí nghiệm đo tần số của âm do âm thoa phát ra bằng các dụng cụ này. Tìm hiểu công dụng của từng dụng cụ đã cho. Thiết kế phương án thí nghiệm đo tần số của âm do âm thoa phát ra bằng các dụng cụ này. Tiến hành Tiến hành Tiến hành – Đặt loa ở một đầu ống, loa nối với máy phát âm tần. – Đặt loa ở một đầu ống, loa",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tiến hành thí nghiệm và lập bảng ghi kết quả như mẫu Bảng 4.2. Tính sai số của phép đo. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao ở thí nghiệm tạo sóng dừng trong ống cộng hưởng nếu một đầu ống để hở thì khi có sóng dừng, ta có thể nghe được âm rất to tại đầu ống đó? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho sơ đồ một số phân tử không khí khi có một sóng âm truyền qua như Hình 1. Câu hỏi 1 trang 59 Vật Lí 11: Cho sơ đồ một số phân tử không khí khi có một sóng âm truyền qua như Hình 1. Câu hỏi 1 trang 59 Vật Lí 11: a) Vẽ lại sơ đồ trên vào vở và đánh dấu một vùng sóng cho thấy khí bị nén (đánh dấu bằng điểm N). a) Vẽ lại sơ đồ trên vào vở và đánh dấu một vùng sóng cho thấy khí bị né",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 2 cho thấy hai sóng được hiển thị trên một màn hình máy hiện sóng. Câu hỏi 2 trang 59 Vật Lí 11: Hình 2 cho thấy hai sóng được hiển thị trên một màn hình máy hiện sóng. Câu hỏi 2 trang 59 Vật Lí 11: a) Các sóng có cùng pha hay không? Giải thích. a) Các sóng có cùng pha hay không? Giải thích. b) Núm điều chỉnh thời gian của màn hình ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tín hiệu từ một sao nằm trong vùng tử ngoại của quang phổ với bước sóng 7,5.108 m. Tính tần số của bức xạ này. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi xem xét quang phổ thu được từ một thiên thể, các nhà thiên văn nhận thấy các vạch phổ trong vùng ánh sáng nhìn thấy bị dịch về phía ánh sáng đỏ, tức là bước sóng của bức xạ ứng với vạch phổ thu được lớn hơn bước sóng của bức xạ do thiên thể đó phát ra. Hiện tượng này được gọi là sự dịch chuyển đỏ. Vật lí thiên văn ứng dụng sự dịch chuyển đỏ rộng rãi trong việc xác định chuyển động của các thiên thể. Câu hỏi 4 trang 59 Vật Lí 11: Khi xem xét quang phổ thu được từ một thiên thể, các nhà thiên văn nhận thấy các vạch phổ trong vùng ánh sáng nhìn thấy bị dịch về ph",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng công thức tính khoảng vâni=λDatrong thí nghiệm giao thoa ánh sáng Young để giải thích các kết quả quan sát sau: Câu hỏi 5 trang 59 Vật Lí 11: Sử dụng công thức tính khoảng vâni=λDatrong thí nghiệm giao thoa ánh sáng Young để giải thích các kết quả quan sát sau: Câu hỏi 5 trang 59 Vật Lí 11: i=λD",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Người ta đặt lần lượt các tấm kính lọc trước nguồn phát ánh sáng trắng trong thí nghiệm giao thoa Young. Lúc đầu, khi dùng kính lọc màu đỏ (λđ = 600 nm) thì khoảng vân đo được là 2,40 mm. Khi dùng kính lọc màu lam thì khoảng vân đo được là 1,80 mm. Xác định bước sóng của ánh sáng đi qua kính lọc màu lam. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dao động của một nguồn âm được ghi lại trên màn hình máy hiện sóng như Hình 3. Câu hỏi 7 trang 60 Vật Lí 11: Dao động của một nguồn âm được ghi lại trên màn hình máy hiện sóng như Hình 3. Câu hỏi 7 trang 60 Vật Lí 11: a) Xác định tần số của nguồn âm biết đơn vị thời gian trên màn hình được đặt là 5,00 ms/ độ chia. a) Xác định tần số của nguồn âm biết đơn vị thời gian trên màn hình được đặt là 5,00 ms/ độ chia. b) Đặt nguồn âm này trước miệng một ống cộng hưởng. Thay đ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lực tác dụng giữa các vật mang điện tuân theo định luật nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thế nào là một vật nhiễm điện? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu ví dụ về một vật nhiễm điện hút hoặc đẩy một vật khác? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Thực hành, khám phá trang 64 Vật Lí 11: Thực hành, khám phá trang 64 Vật Lí 11: Dụng cụ Dụng cụ Dụng cụ Thanh nhựa, miếng vải len, quả cầu kim loại có đế cách điện. Thanh nhựa, miếng vải len, quả cầu kim loại có đế cách điện. Tiến hành Tiến hành Tiến hành • Tích điện cho quả cầu • Tích điện cho quả cầu • Tích điện cho quả cầu Dùng vải len cọ xát thanh nhựa để nó tích điện âm. Dùng vải len cọ xát thanh nhựa để nó tích điện âm. Đưa thanh nhựa đến gần quả cầu kim loại nhưng không để chúng chạm vào nhau (Hình 1.4). Đưa thanh nhựa đến gần quả cầu kim loại nhưng không để chúng chạm vào nhau (Hình 1.4). Trong khi thanh nhựa ở gần quả cầu, chạm đầu ngón tay vào quả cầu trong giây lát rồi bỏ ngón tay ra khỏi quả cầu. Trong khi thanh nhựa ở gần quả cầu, chạm đầu ngón tay vào",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lực mà hai điện tích tác dụng lên nhau tuân theo quy luật nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hãy biểu diễn bằng hình vẽ lực tương tác giữa hai điện tích trái dấu nhau. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính lực tương tác giữa hai electron ở cách nhau 1,0.10-10 m trong chân không. (Điện tích của electron e = -1,6.10-19C) Luyệ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một vật dẫn A cô lập không tích điện đang được nối đất. Vận dụng trang 66 Vật Lí 11: Một vật dẫn A cô lập không tích điện đang được nối đất. Vận dụng trang 66 Vật Lí 11: Đưa một điện tích dương B lại rất gần vật dẫn này. Vật dẫn A được tích điện dương, âm hay k",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong Hình 2.1, thanh nam châm tác dụng lực lên vật bằng sắt mà không tiếp xúc với vật. Tương tự như vậy, chiếc lược tích điện tác dụng lực lên quả cầu tích điện cũng không tiếp xúc với quả cầu. Mở đầu trang 67 Vật Lí 11: Trong Hình 2.1, thanh nam châm tác dụng lực lên vật bằng sắt mà không tiếp xúc với vật. Tương tự như vậy, chiếc lược tích điện tác dụng lực lên quả cầu tích điện cũng không tiếp xúc với quả cầu. Mở đầu trang 67 Vật Lí 11: Ở trung học cơ sở, ta đã biết, giống như lực hấp dẫn giữa các vật có khối lượng được t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Lấy một ví dụ lực hút của nam châm lên vật khác. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Năm 1600, William Gilbert (Uy-li-am Ghin-bơ), (1540 – 1603) đưa ra giả thuyết rằng một số vật liệu, chẳng hạn như hổ phách, khi bị cọ xát sẽ tiết ra một loại “chất lỏng” vào môi trường xung quanh nó. Ông đề xuất rằng “chất lỏng” đó đã tiếp xúc với vật liệu khác và tạo ra lực điện giữa chúng. Bạn có ý kiến gì về đề xuất của Gilbert? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính độ lớn và vẽ hướng của cường độ điện trường do một điện tích điểm 4.10-8 C gây ra tại một điểm cách nó 5 cm trong môi trường có hằng số điện môi là 2. Câ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 2.8 là hình dạng đường sức điện trường giữa hai điện tích. Luyện tập 1 trang 71 Vật Lí 11: Hình 2.8 là hình dạng ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khoảng cách giữa hai bản phẳng song song là 15 mm, hiệu điện thế giữa chúng là 750 V. Lực tác dụng lên một quả cầu nhỏ tích điện ở trong khoảng không gian giữa hai bản là 1,2.10-7 N. Tính: Luyện tập 2 trang 72 Vật Lí 11: Khoảng cách giữa hai bản phẳng song song là 1",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong Hình 2.10, nếu tốc độ ban đầu của electron trong điện trường bằng không thì nó sẽ chuyển động như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong ống phóng điện tử ở Hình 2.11, hiệu điện thế giữa hai cặp bản nằm ngang và giữa hai cặp bản thẳng đứng sẽ làm chùm electron bị lệch như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Ống phóng điện tử có thể được sử dụng ở thiết bị nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vẽ sơ đồ giải thích cách dùng lực điện để tách riêng các ion trong một chùm gồm các ion có khối lượng và điện tích khác nhau. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Để dịch chuyển một điện tích dương đến gần điện tích dương khác, cần phải đẩy nó để thắng lực đẩy giữa chúng, Hình 3.1. Trong trường hợp này, ta nói rằng cần phải thực hiện một công để di chuyển một điện tích lại gần một điện tích khác. Mở đầu trang 75 Vật Lí 11: Để dịch chuyển một điện tích dương đến gần điện tích dươn",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao đường biểu diễn sự thay đổi thế năng điện trong điện trường đều ở Hình 3.2 là một đường thẳng? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao thế năng của điện tích tăng theo chiều ngược với chiều của cường độ điện trường? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "So sánh công của lực điện dịch chuyển một đơn vị điện tích dương từ điểm đang xét ra vô cùng và công thực hiện để dịch chuyển một đơn vị điện tích dương từ vô cùng về điểm đang xét. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Điện thế tại một điểm trong điện trường là gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho hai bản cực song song, cách nhau 25 cm như hình 3.3. Hiệu điện thế giữa hai bản là 2 kV. Luyện tập 1 trang 78 Vật Lí 11: Cho hai bản cực song song, cách nhau 25 cm như hình 3.3. Hiệu điện thế giữa hai bản là 2 kV. Luyện tập 1 trang 78 Vật Lí 11: a) Hiệu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao tụ điện có năng lượng? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một tụ điện có điện dung 2 000 µFđược tích điện đến hiệu điện thế 10 V. Tính năng lượng của tụ điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho các dụng cụ sau: Một tụ điện có điện dung 100 µF và hiệu điện thế định mức khoảng 12 V; 4 pin 1,5 V; Một LED; Một điện trở 50Ω; công tắc, dây dẫn điện. Nêu phương án dùng các dụng cụ này chứng minh tụ điện có lưu trữ năng lượng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Quả cầu nhỏ thứ nhất mang điện tích –0,1 µC, quả cầu nhỏ thứ hai mang điện tích có độ lớn 0,05 µC. Hai quả cầu hút nhau với lực điện có độ lớn 0,05 N. Câu hỏi 1 trang 83 Vật Lí 11: Quả cầu nhỏ thứ nhất mang điện tích –0,1 µC, quả cầu nhỏ thứ hai m",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đặt một điện tích thử dương q1 = 2,0.10-9 C trong một điện trường thì điện trường tác dụng lên nó lực có độ lớn là F = 4,0.10-9 N. Câu hỏi 2 trang 84 Vật Lí 11: Đặt một điện tích thử dương q1 = 2,0.10-",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hai tụ điện có điện dung lần lượt là C1 = 100 µF; C2 = 50 µFvà được mắc vào nguồn điện như hình vẽ. Biết hiệu điện thế giữa hai cực của nguồn điện là U = 12 V. Tính: Câu hỏi 3 trang 84 Vật Lí 11: Hai tụ điện có điện dung lần lượt là C1 = 100 µF; C2 = 50 µFvà được mắc vào ng",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một đèn flash máy ảnh sử dụng tụ điện có điện dung C1 = 4 700 µF và được sạc bằng pin 12 V. Sau đó, tụ điện được ngắt khỏi pin và phóng điện qua đèn để hiệu điện thế giữa hai bản tụ là 9,0 V. Tính năng lượng tụ điện đã chuyển qua đèn. C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Muốn truyền năng lượng điện từ nơi này đến nơi khác người ta dùng dây dẫn để truyền dòng điện. Với một đường dây dẫn diện, năng lượng điện truyền trên dây càng lớn, dòng điện chạy trong dây càng mạnh. Tác dụng mạnh yếu của dòng điện được đặc trưng bằng đại lượng nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các hạt mang điện trong kim loại có đặc điểm gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tại sao các electron chuyển động có hướng khi nối dây dẫn với nguồn điện? Câu hỏi 2 trang 87 Vật Lí 11: Tại sao các electron chuyển động có hướng khi nối dây dẫn với nguồn điện? Câu hỏi 2 t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tại sao các ion mang điện tích trái dấu chuyển động ngược chiều nhau? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dòng điện có thể chạy qua nước sông, nước máy không? Tại sao? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Kể tên một số thiết bị điện. Thiết bị này hoạt động dựa trên tác dụng nào của dòng điện? Luyện tập 1 trang 88 Vật Lí 11: Kể tê",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nối hai đầu một đèn sợi đốt vào hai cực của một viên pin. Luyện tập 2 trang 88 Vật Lí 11: Nối hai đầu một đèn sợi đốt vào hai cực của một viên pin. Luyện tập 2 trang 88 Vật Lí 11: – Chiều và cường độ dòng điện qua đèn có thay",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho các dụng cụ: 01 đồng hồ đo điện đa năng, 01 pin 1,5 V, 01 biến trở 100 Ω, 01 bóng đèn sợi đốt loại 1,5V, dây điện, công tắc, bảng để lắp mạch điện. Thực hành, khám phá trang 88 Vật Lí 11: Cho các dụng cụ: 01 đồng hồ đo điện đa năng, 01 pin 1,5 ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dòng điện không đổi là dòng điện một chiều. Nhưng ngược lại thì không đúng. Có những dòng điện không đổi chiều nhưng lại có cường độ thay đổi, ví dụ như xung điện một chiều trong vật lí trị liệu. Hãy tìm hiểu thêm về đặc điểm của xung điện một chiều. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Dòng điện chạy qua một dây dẫn bằng kim loại có cường độ là 1 A. Tính số electron dịch chuyển qua tiết diện thẳng của dây dẫn này trong khoảng thời gian 1 s. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Đoạn dây đồng có tiết diện thẳng 5.10-6 m, mật độ electron dẫn 8,5.1028/m3 và đang có cường độ dòng điện 1 A chạy qua. Tính tốc độ dịch chuyển có hướng của electron trong đoạn dây này. Giải thích tại sao tốc độ dịch chuyển có hướng của electron rất nhỏ. Vận ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong thí nghiệm minh hoạ cường độ dòng điện đặc trưng cho tác dụng mạnh yếu của dòng điện ở trang 88, khi bạn nối bóng đèn với pin thì dòng điện qua đèn làm cho đèn phát sáng (Hình 2.1). Kết quả thí nghiệm cho thấy: cường độ dòng điện qua đèn càng lớn thì đèn càng sáng. Mở đầu trang 91 Vật Lí 11: Trong thí nghiệm minh hoạ cườ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính cường độ dòng điện chạy qua một bóng đèn khi điện trở của nó là 15Ωvà hiệu điện thế giữa hai đầu bóng đèn là 3,0 V. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm từ thích hợp cho vị trí của (?) trong định nghĩa về đơn vị đo điện trở: Câu hỏi 2 trang 92 Vật Lí 11: Tìm từ thích hợp cho vị trí của (?) trong định nghĩa về đơn vị đo",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tìm hiểu và vẽ sơ đồ mạch điện trong đèn pin (Hình 2.2). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng biểu thức liên hệ (2.1) để chứng minh, ở nhiệt độ xác định, đường đặc trưng I – U là một đoạn thẳng. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vẽ phác trên cùng một đồ thị và thảo luận về hai đường đặc trưng I - U của hai vật dẫn kim loại ở nhiệt độ xác định. Hai vật dẫn có điện trở là R1 và R2 với R1 > R2. Luyệ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vẽ phác đường đặc trưng I – U của điện trở rất nhỏ (vật dẫn điện rất tốt) và điện trở rất lớn (vật cách điện rất tốt). ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vẽ phác đường đặc trưng I - U của vật dẫn kim loại có điện trở 10Ω. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nguyên nhân chính gây ra điện trở là gì? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng mô hình ion dương và electron tự do trong vật dẫn kim loại (Hình 2.6) hoặc mối liên hệ 1.4 ở Bài 1 để lập luận, đưa ra phán đoán về sự phụ thuộc của điện trở vào nhiệt độ. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Sử dụng mô hình ở Hình 2.6 giải thích mối liên hệ giữa điện trở R và chiều dài ℓ, tiết diện thẳng S của vật dẫn kim loại:R=ρlS Vận dụng trang 94 Vật Lí 11: Sử dụng mô hình ở Hình 2.6 giải thích",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi nhiệt độ tăng thì điện trở của dây tóc bóng đèn sợi đốt thay đổi như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi nhiệt độ tăng thì điện trở của một điện trở nhiệt thay đổi như thế nào? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nếu gắn mỗi đầu của một vật dẫn vào một bản của tụ điện đã tích điện thì chỉ có dòng điện chạy qua vật dẫn trong một khoảng thời gian rất ngắn. Nhưng nếu gắn mỗi đầu của cùng một vật dẫn đó vào một cực của pin hoặc acquy thì dòng điện được duy trì lâu hơn nhiều. Mở đầu trang 97 Vật Lí 11: Nếu gắn mỗi đầu của một vật dẫn vào một bản của tụ điện đã tích điện thì c",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một đèn mắc nối tiếp với một pin như Hình 3.3. Câu hỏi 1 trang 98 Vật Lí 11: Một đèn mắc nối tiếp với một pin như Hình 3.",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Từ biểu thức 3.1, chứng minh suất điện động có cùng đơn vị với hiệu điện thế. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nêu điểm giống và khác nhau giữa suất điện động của nguồn điện và hiệu điện thế giữa hai điểm trong mạch điện. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Nối mỗi cực của một pin với mỗi cực của một vôn kế có điện trở rất lớn. Câu hỏi 3 trang 99 Vật Lí 11: Nối",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Mô tả ảnh hưởng của điện trở trong của nguồn điện lên hiệu điện thế giữa hai cực của nguồn. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong trường hợp nào, hiệu điện thế giữa hai cực của nguồn điện bằng suất điện động của nó? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bạn hãy tìm hiểu thêm tại sao cá chình không bị chết vì dòng điện mà nó phóng ra và đi qua chính nó. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho mạch điện như Hình 3.6. Luyện tập 2 trang 101 Vật Lí 11: Cho mạch điện như Hình 3.6. Luyện tập 2 trang 101 Vật Lí 11: Khi mạch hở, vôn kế chỉ 13,0 V. Khi mạch hở, vôn kế chỉ 13,0 V. Khi mạch kín, vôn kế chỉ ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Trong trường hợp đoạn mạch chỉ có điện trở R, phần năng lượng điện mà đoạn mạch tiêu thụ biến đổi hoàn toàn thành năng lượng nhiệt. Câu hỏi 6 trang 101 Vật Lí 11: Trong trường hợp đoạn mạch chỉ có điện trở R, phần năng lượng điện mà",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Tính công suất điện hao phí dưới dạng nhiệt trên một dây cáp dài 15 km dẫn dòng điện có cường độ 100 A. Biết điện trở trên một đơn vị chiều dài của dây cáp này là 0,20 Ω/km. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Giải thích tại sao khi điện thoại sắp hết pin, bạn nên giảm độ sáng của màn hình. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Vì sao có thể xác định điện trở trong bằng biểu thức:r=ΔUΔI. Câu hỏi 7 trang 102 Vật Lí 11: Vì sao",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một acquy ô tô 12 V cung cấp dòng điện có cường độ 5 A trong thời gian 2,0 giờ. Năng lượng mà acquy cung cấp trong thời gian này là bao nhiêu jun? ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho mạch điện như Hình 3.8. Con chạy ở vị trí C, chia điện trở R thành R = RAC + RCB. Luyện tập 6 trang 103 Vật Lí 11: Cho mạch điện như Hình 3.8. Con chạ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Cho các dụng cụ: Vận dụng trang 103 Vật Lí 11: Cho các dụng cụ: Vận dụng trang 103 Vật Lí 11: • 02 đồng hồ đo điện đa năng; • 02 đồng hồ đo điện đa năng; • 02 pin 1,5 V; • 02 pin 1,5 V; • 01 điện trở 10Ω; • 01 điện trở 10Ω; • 01 biến trở 100Ω; •",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Một tia sét truyền dòng điện từ đám mây xuống mặt đất với cường độ trung bình là 30 kA và kéo dài 2 ms. Tính điện lượng truyền qua không khí trong quá trình này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Khi bật công tắc đèn, ta cảm thấy đèn sáng ngay lập tức. Điều này có phải vì các electron chuyển động trong mạch điện với tốc độ xấp xỉ tốc độ ánh sáng 3.108 m/s? C",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Bảng mạch in (Hình 1) được sử dụng để kết nối các linh kiện điện tử với nhau nhờ các đường dẫn điện bằng đồng được in sẵn trên một tấm vật liệu cách điện. Câu hỏi 3 trang 104 Vật Lí 11: Bảng mạch in (Hình 1) được sử dụng để kết nối các linh kiện điện tử với nhau nhờ các đường dẫn điện bằng đồng được in sẵn trên một tấm vật liệu cách điện. Câu",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 2 mô tả đường đặc trưng I – U của hai vật dẫn sợi đốt bóng đèn và một đoạn dây thép. Câu hỏi 4 trang 104 Vật Lí 11: Hình 2 mô tả đường đặc trưng I – U của hai vật dẫn sợi đốt bóng đèn và một đoạn dây thép. Câu hỏi 4 t",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Làm một pin đơn giản bằng các dụng cụ sau: mảnh đồng, mảnh tôn, một quả chanh và các dây dẫn điện. Dùng đồng hồ đo điện đa năng để đo hiệu điện thế giữa mảnh đồng và mảnh tôn. Đề xuất biện pháp để tăng suất điện động của pin này. ",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Hình 3 mô tả đèn điện tử chân không, bao gồm bóng đèn thuỷ tinh đã hút chân không (áp suất trong bóng đèn còn khoảng 10-6 mmHg). Bên trong bóng đèn có hai cực: anode là một bản kim loại, còn cathode là dây vonfam bị đốt nóng, làm bật ra các electron tự do hay còn gọi là các điện tử tự do. Nối anode và cathode với nguồn điện một chiều thì các electron chuyển động thành dòng và tạo thành dòng điện có cường độ 4,5 mA. Câu hỏi 6 trang 105 Vật Lí 11: Hình 3 mô tả đèn điện tử chân không, bao gồm bóng đèn thuỷ tinh đã hút chân không (áp suất trong bóng đèn còn khoảng 10-6 mmHg). Bên trong bóng đèn có hai cực: anode là một bản kim loại, còn cathode là dây vonfa",
+        "loi_giai": ""
+    },
+    {
+        "title": "tu_luan",
+        "cau_hoi": "Các công ti điện lực sử dụng đơn vị kWh để đo năng lượng điện tiêu thụ và tính tiền điện. 1 kWh là năng lượng điện mà một thiết bị điện có công suất 1 kW tiêu thụ trong 1 giờ. Một bình nóng lạnh đang hoạt động ở hiệu điện thế 230 V với công suất 9,5 kW. Câu hỏi 7 trang 105 Vật Lí 11: Các công ti điện lực sử dụng đơn vị kWh để đo năng lượng điện tiêu thụ và tính tiền điện. 1 kWh là năng lượng điện mà một thiết bị điện có công suất 1 kW tiêu thụ trong 1 giờ. Một bình nóng lạnh đang hoạt động ở hiệu điện thế 230 V với công suất 9,5 kW. Câu hỏi 7 trang 105 Vật Lí 11: a) Tính cường độ dòng điện qua bình nóng lạnh. Giải thích tại sao nên sử dụng đường dây riêng và cầu chì/cầu dao tự động riêng cho bình nóng ",
+        "loi_giai": ""
+    }
+]
