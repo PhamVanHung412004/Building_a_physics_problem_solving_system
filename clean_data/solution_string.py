@@ -369,9 +369,8 @@ def smart_clean(raw_text):
     
     return result
 
-def solution_double_string(text : str) -> list[str]:
+def solution_double_string(text : str) -> str:
     oke = True 
-    data = []
     while(oke):
         begin = int(1e9)
         end = -1
@@ -383,17 +382,28 @@ def solution_double_string(text : str) -> list[str]:
             oke = False
 
         texts = text[begin : end + 1]
+        print(texts)
         text_clean = smart_clean(texts)
+        # print("text clean", text_clean)
         text = text.replace(texts,text_clean)
-        print(text)
-        data.append(texts)
-    return data
-    
+    return text
+
+def convert_conthuc(text : str) -> str:
+    char_begin = text[0]
+    index = -1
+    for i in range(1,len(text)):
+        if (text[i] == char_begin):
+            index = i
+            break
+    return text[ : index - 1]
+
 def main():
-
-    text_test = "\nT\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\n"
-    print(solution_double_string(text_test))
-    # print(text_test)
-
-
+    text = " Lời giải: Lời giải: 1. Chu kì\nT\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T T = = 2\nπ\nω 2\nπ\nω 2\nπ 2\nπ 2 2 π π ω ω ω = = 2 2 π π √\nl\ng √\nl\ng √ √ l\ng l\ng l\ng l\ng l l l g g g 2. Sử dụng một lò xo có độ cứng k (có giá trị cụ thể) và gắn vào một vật có khối lượng m (đã được xác định). Tạo ra dao động điều hoà và dùng đồng hồ bấm giây để xác định chu kì (hoặc có thể sử dụng điện thoại thông minh có phần mềm đo thời gian dao động). Từ đó có thể so sánh được, ta thấy kết quả xấp xỉ nhau. Lời giải bài tập Vật lí 11 Bài 5: Động năng. Thế năng. Sự chuyển hoá năng lượng trong dao động điều hoà hay khác: Khởi động trang 20 Vật Lí 11: Ở lớp 10, khi học về chuyển động của vật, ta đã biết có sự chuyển hoá giữa động năng và thế năng của vật. ....\nHoạt động 1 trang 21 Vật Lí 11: Hình 5.3 là đồ thị động năng và thế năng của một vật dao động điều hoà theo li độ ....\nHoạt động 2 trang 21 Vật Lí 11: Hình 5.4 là đồ thị động năng và thế năng của một vật dao động điều hoà theo thời gian ....\nHoạt động trang 22 Vật Lí 11: Làm thí nghiệm để xác nhận rằng khi góc lệch\nα\n0\n≤\n10\no\nthì chu kì của con lắc đơn gần như không phụ thuộc vào biên độ dao động ....\nCâu hỏi 1 trang 23 Vật Lí 11: Một con lắc lò xo có vật nặng khối lượng 0,4 kg, dao động điều hoà ....\nCâu hỏi 2 trang 23 Vật Lí 11: Một con lắc lò xo gồm lò xo có độ cứng k = 100 N/m, vật nặng có khối lượng m = 200 g ....\nEm có thể trang 23 Vật Lí 11: Phân tích sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà ở một số ví dụ trong đời sống .... Khởi động trang 20 Vật Lí 11: Ở lớp 10, khi học về chuyển động của vật, ta đã biết có sự chuyển hoá giữa động năng và thế năng của vật. .... Khởi động trang 20 Vật Lí 11: Ở lớp 10, khi học về chuyển động của vật, ta đã biết có sự chuyển hoá giữa động năng và thế năng của vật. .... Khởi động trang 20 Vật Lí 11: Ở lớp 10, khi học về chuyển động của vật, ta đã biết có sự chuyển hoá giữa động năng và thế năng của vật. .... Khởi động trang 20 Vật Lí 11: Hoạt động 1 trang 21 Vật Lí 11: Hình 5.3 là đồ thị động năng và thế năng của một vật dao động điều hoà theo li độ .... Hoạt động 1 trang 21 Vật Lí 11: Hình 5.3 là đồ thị động năng và thế năng của một vật dao động điều hoà theo li độ .... Hoạt động 1 trang 21 Vật Lí 11: Hình 5.3 là đồ thị động năng và thế năng của một vật dao động điều hoà theo li độ .... Hoạt động 1 trang 21 Vật Lí 11: Hoạt động 2 trang 21 Vật Lí 11: Hình 5.4 là đồ thị động năng và thế năng của một vật dao động điều hoà theo thời gian .... Hoạt động 2 trang 21 Vật Lí 11: Hình 5.4 là đồ thị động năng và thế năng của một vật dao động điều hoà theo thời gian .... Hoạt động 2 trang 21 Vật Lí 11: Hình 5.4 là đồ thị động năng và thế năng của một vật dao động điều hoà theo thời gian .... Hoạt động 2 trang 21 Vật Lí 11: Hoạt động trang 22 Vật Lí 11: Làm thí nghiệm để xác nhận rằng khi góc lệch\nα\n0\n≤\n10\no\nthì chu kì của con lắc đơn gần như không phụ thuộc vào biên độ dao động .... Hoạt động trang 22 Vật Lí 11: Làm thí nghiệm để xác nhận rằng khi góc lệch\nα\n0\n≤\n10\no\nthì chu kì của con lắc đơn gần như không phụ thuộc vào biên độ dao động .... Hoạt động trang 22 Vật Lí 11: Làm thí nghiệm để xác nhận rằng khi góc lệch\nα\n0\n≤\n10\no\nthì chu kì của con lắc đơn gần như không phụ thuộc vào biên độ dao động .... Hoạt động trang 22 Vật Lí 11: α\n0\n≤\n10\no α\n0\n≤\n10\no α\n0\n≤\n10\no α\n0 α α α 0 0 0 ≤ ≤ 10\no 10 10 10 o o o Câu hỏi 1 trang 23 Vật Lí 11: Một con lắc lò xo có vật nặng khối lượng 0,4 kg, dao động điều hoà .... Câu hỏi 1 trang 23 Vật Lí 11: Một con lắc lò xo có vật nặng khối lượng 0,4 kg, dao động điều hoà .... Câu hỏi 1 trang 23 Vật Lí 11: Một con lắc lò xo có vật nặng khối lượng 0,4 kg, dao động điều hoà .... Câu hỏi 1 trang 23 Vật Lí 11: Câu hỏi 2 trang 23 Vật Lí 11: Một con lắc lò xo gồm lò xo có độ cứng k = 100 N/m, vật nặng có khối lượng m = 200 g .... Câu hỏi 2 trang 23 Vật Lí 11: Một con lắc lò xo gồm lò xo có độ cứng k = 100 N/m, vật nặng có khối lượng m = 200 g .... Câu hỏi 2 trang 23 Vật Lí 11: Một con lắc lò xo gồm lò xo có độ cứng k = 100 N/m, vật nặng có khối lượng m = 200 g .... Câu hỏi 2 trang 23 Vật Lí 11: Em có thể trang 23 Vật Lí 11: Phân tích sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà ở một số ví dụ trong đời sống .... Em có thể trang 23 Vật Lí 11: Phân tích sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà ở một số ví dụ trong đời sống .... Em có thể trang 23 Vật Lí 11: Phân tích sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà ở một số ví dụ trong đời sống .... Em có thể trang 23 Vật Lí 11:"
+    solution_double_string(text)
+    # left = int(1e9)
+    # right = -1
+    # for i in range(len(text)):
+    #     if (text[i] == '\n'):
+    #         left 
+    # print(text_new)
 main()
