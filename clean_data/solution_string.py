@@ -327,17 +327,73 @@ def convert_doube_string_from_string(text : str) -> str:
     text_beautiful = " ".join(vector_text_new)
     return text_beautiful   
 
+def smart_clean(raw_text):
+    """
+    Làm sạch text và tự động thêm toán tử (*, /) hợp lý cho công thức vật lý cấp 3.
+    """
+    # 1. Xóa xuống dòng và khoảng trắng thừa
+    text = raw_text.replace('\n', '').replace(' ', '')
+
+    # 2. Các hàm toán học đặc biệt cần bảo toàn
+    functions = ['sin', 'cos', 'tan', 'log', 'ln', 'sqrt', 'exp']
+    
+    # 3. Đánh dấu các hàm đặc biệt (tạm thời)
+    for func in functions:
+        text = re.sub(rf'\b{func}\b', f'#{func}#', text)
+    
+    # 4. Bây giờ mới quét từng ký tự
+    result = ''
+    prev_char = ''
+    operators = set('+-*/^()')
+
+    for ch in text:
+        if prev_char:
+            if (
+                (prev_char.isalpha() and ch.isalpha()) or
+                (prev_char.isalpha() and ch.isdigit()) or
+                (prev_char.isdigit() and ch.isalpha()) or
+                (prev_char == ')' and (ch.isalpha() or ch.isdigit() or ch == '(')) or
+                ((prev_char.isalpha() or prev_char.isdigit()) and ch == '(')
+            ):
+                result += '*'
+        result += ch
+        prev_char = ch
+
+    # 5. Bỏ đánh dấu các hàm đặc biệt
+    for func in functions:
+        result = result.replace(f'#{func}#', func)
+
+    # 6. Trường hợp đặc biệt: nếu input là 1 chữ + 1 số (ví dụ: "T4" => "T / 4")
+    if re.fullmatch(r'[A-Za-z]\d', text.replace('#', '')):
+        return f"{text[0]} / {text[1]}"
+    
+    return result
+
+def solution_double_string(text : str) -> list[str]:
+    oke = True 
+    data = []
+    while(oke):
+        begin = int(1e9)
+        end = -1
+        for i in range(len(text)):
+            if (text[i] == '\n'):
+                begin = min(begin,i)
+                end = max(end,i)
+        if (begin == int(1e9) and end == -1):
+            oke = False
+
+        texts = text[begin : end + 1]
+        text_clean = smart_clean(texts)
+        text = text.replace(texts,text_clean)
+        print(text)
+        data.append(texts)
+    return data
+    
 def main():
-    if (check_charactor('a) hung hung')):
-        print("aaaaaaaaaaaa")
+
+    text_test = "\nT\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\ng T\n=\n2\nπ\nω\n=\n2\nπ\n√\nl\n"
+    print(solution_double_string(text_test))
+    # print(text_test)
 
 
 main()
-# def main():
-#     text = "|v|=ω√A2−x2=2πT√A2−x2=2π2√102−52≈27,21(cm/s)"
-#     for i in range(len(text)):
-#         if (text[i] == 'v'):
-#             print(i)
-#             break
-
-# main()
