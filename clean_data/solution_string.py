@@ -13,6 +13,8 @@ def char_test(char : str):
     '''
     return 65 <= ord(char) and ord(char) <= 65 + 32
 
+def check_charactor(char : str):
+    return chr(ord(char[0]) - 32) + '.' + char[2 : ] if (len(char) >= 2) and (97 <= ord(char[0]) and ord(char[0]) <= 122) and (char[1] == ')') else '-1'
 
 def check_char(vector_answer : list[str]) -> bool:
     '''
@@ -152,7 +154,7 @@ def clean_choice(options_raw : list[str]) -> Dict[str , str]:
     current_text = []
 
     for line in options_raw:
-        match = re.match(r"^([A-D])\.\s*$", line.strip())  # Chỉ chứa "A.", "B.",...
+        match = re.match(r"^([A-D])\.\s*$", line.strip())  # Chỉ chứa "A.", "B.
         if match:
             # Lưu đáp án trước đó nếu có
             if current_key is not None:
@@ -168,8 +170,8 @@ def clean_choice(options_raw : list[str]) -> Dict[str , str]:
         options[current_key] = " ".join(current_text).strip()
     return options
 
-
 def parse_element(el):
+    """Đệ quy parse một element MathML thành chuỗi công thức."""
     children = el.find_all(recursive=False)
     if el.name == "mfrac":
         if len(children) >= 2:
@@ -177,7 +179,7 @@ def parse_element(el):
             denominator = parse_element(children[1])
             return f"({numerator}/{denominator})"
         else:
-            return ""  # Tránh lỗi nếu thiếu phần tử
+            return ""
 
     elif el.name == "mroot":
         if len(children) >= 2:
@@ -220,6 +222,9 @@ def parse_element(el):
 
     elif el.name in {"mi", "mn"}:
         return el.text
+    
+    elif el.name == "mtext":
+        return el.text
 
     elif el.name == "mrow":
         return ''.join(parse_element(child) for child in children)
@@ -229,73 +234,80 @@ def parse_element(el):
 
     else:
         return ''.join(parse_element(child) for child in children)
-    
-def clean_mathml(mathml_string : str) -> str:
+
+def clean_mathml(mathml_string: str) -> str:
+    """Làm sạch MathML thành chuỗi toán học đơn giản."""
     soup = BeautifulSoup(mathml_string, "xml")
-    try:     
-        return parse_element(soup.math)
-    except ZeroDivisionError as e:
+    try:
+        parsed = parse_element(soup.find("math"))
+        return beautify_formula(parsed)
+    except Exception as e:
+        # Nếu MathML lỗi thì trả lại nguyên văn
         return mathml_string
 
-def binary_search(char : str, table_char : list[str], table_check : list[bool]) -> bool:
-    l = 0
-    r = len(table_char)
-    while(l < r):
-        mid = int((l + r) >> 1)
-        if (char == table_char[mid] and table_check[mid] == False):
-            table_check[mid] = True
-            return True
-        elif (char < table_char[mid]):
-            l = mid + 1
-        else:
-            r = mid - 1
-    return False
-
-def caculate(count : int, length : int) -> int:
-    if (length != 0):
-        return int(count / length) * 100
-    else:
-        return 0
-        
-
-def string_seach_character(string_clean : str, string_before : str) -> str:
-    length = len(string_clean)
-    vector_char = [string_clean[i] for i in range(len(string_clean))]
-    vector_char.sort()
-    table_check = [False for i in range(len(string_clean))]
-    for i in range(len(string_before) - length):
-        count_char = 0
-        sub_string = string_before[i : i + length]
-        for j in range(len(sub_string)):
-            if (binary_search(sub_string[i], vector_char, table_check) != -1):
-                count_char += 1
-        if (caculate(count_char, len(sub_string)) >= 60):
-            string_before = string_before.replace(string_before[i : i + length], "")
-            break
-        else:
-            continue
-    return string_before    
-
-def fix_spacing_and_comma(text : str) -> str:
-    '''
-    text : doan text muon lam dep
-    '''    
-    # 1. Sửa dấu phẩy giữa số thành dấu chấm (4 , 2 => 4.2)
+def beautify_formula(text: str) -> str:
+    """Beautify spacing + sửa dấu phẩy thành dấu chấm cho số."""
+    # Đổi dấu phẩy trong số thành dấu chấm
     text = re.sub(r'(\d)\s*,\s*(\d)', r'\1.\2', text)
     
-    # 2. Thêm khoảng trắng trước và sau các toán tử cơ bản (=, +, -, *, /, ^)
+    # Thêm khoảng trắng trước/sau các toán tử cơ bản
     text = re.sub(r'(?<=[^\s])([=+\-*/^])(?=[^\s])', r' \1 ', text)
     
-    # 3. Xóa khoảng trắng thừa (nén về 1 dấu cách)
+    # Bỏ khoảng trắng thừa
     text = re.sub(r'\s+', ' ', text)
     
-    # 4. Xóa khoảng trắng sau dấu mở ngoặc hoặc trước dấu đóng ngoặc
+    # Bỏ khoảng trắng sau dấu ( hoặc trước dấu )
     text = re.sub(r'\(\s+', '(', text)
     text = re.sub(r'\s+\)', ')', text)
-    
-    # 5. Xóa khoảng trắng ở đầu/cuối
-    text = text.strip()
+
+    return text.strip()
+
+def extract_all_mathml(text: str) -> list:
+    """Tách tất cả các đoạn <math>...</math> trong text."""
+    mathmls = re.findall(r'(<math.*?</math>)', text, flags=re.DOTALL)
+    return mathmls
+
+def clean_text_with_mathml(text: str) -> str:
+    """Thay tất cả các đoạn MathML trong text thành công thức đẹp."""
+    mathmls = extract_all_mathml(text)
+    for mathml in mathmls:
+        cleaned = clean_mathml(mathml)
+        text = text.replace(mathml, cleaned)
     return text
+
+def search_index(char : str, string : str) -> str:    
+    index = -1
+    for i in range(len(string)):
+        if (string[i] == char):
+            index = i
+    string = string.replace(string[index: ], "")
+
+    return string
+
+def check_string(string : str) -> int:
+    index = -1
+    for i in range(len(string)):
+        if (string[i] == ':'):
+            index = i
+            break
+    return index 
+
+def string_seach_character(character : str, string_before : str) -> str:
+    oke = False
+    index_ = -1
+    for i in range(len(string_before)):
+        if (string_before[i] == ':'):
+            oke = True
+            index_ = i
+    if (oke):
+        return string_before[ : index_ + 1]
+    else:
+        index = -1
+        for i in range(len(string_before)):
+            if (character == string_before[i]):
+                index = i
+                break
+        return string_before[ : index + 1]
 
 def convert_doube_string_from_string(text : str) -> str:
     vector_text = text.split()
@@ -313,4 +325,19 @@ def convert_doube_string_from_string(text : str) -> str:
             set_check.add(i)
 
     text_beautiful = " ".join(vector_text_new)
-    return text_beautiful
+    return text_beautiful   
+
+def main():
+    if (check_charactor('a) hung hung')):
+        print("aaaaaaaaaaaa")
+
+
+main()
+# def main():
+#     text = "|v|=ω√A2−x2=2πT√A2−x2=2π2√102−52≈27,21(cm/s)"
+#     for i in range(len(text)):
+#         if (text[i] == 'v'):
+#             print(i)
+#             break
+
+# main()

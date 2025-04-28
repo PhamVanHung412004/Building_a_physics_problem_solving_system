@@ -3,6 +3,7 @@ add()
 
 from read_file import Read_File_Json
 from save_file_json import Save_File_Json
+
 from package import (
     Path,
     re,
@@ -11,13 +12,14 @@ from package import (
 
 from solution_string import (
     solution,
-    clean_mathml,
     clean_choice,
     convert_dict,
     check,
     dict_to_text,
-    fix_spacing_and_comma,
-    string_seach_character
+    string_seach_character,
+    clean_text_with_mathml,
+    check_charactor,
+
 )
 
 def remove_string(string_after : str, string_before : str) -> str:
@@ -35,49 +37,55 @@ def remove_string(string_after : str, string_before : str) -> str:
             index = i
             break
     return string_before[: index]
+
+
+def convert_charactor(string : str) -> str:
+    if (check_char(string[0]) and string[1] == ')'):
+        return chr(ord(string) - 32) + "." + string[2: ]
 def main():    
 
     cleaned_data = []
     cnt = 0
-    for i in range(11,13):
+    for i in range(10,13):
         path_json = Path(__file__).parent / "500_cau_hoi_trac_nghiem" / "500_trac_nghiem_{}.json".format(i)
         datas = Read_File_Json(path_json).Read()  
         print("file json lop: {}".format(i))
+        cnt = 0
         for data in datas:
+            print("Cau so:",cnt)
             datas_new = {}
             question = data["cau_hoi"]
+            index = -1
+            for i in range(len(question)):
+                if (question[i] == ':'):
+                    index = i
+            if (index != -1):
+                question = question[index + 1: ]
+
             question = question.split("\n")
 
-            index = -1
-            for i in range(len(question[0])):
-                if (question[0][i] == '.' or question[0][i] == ':'):
-                    index = i
-                    break
-
-            question[0] = question[0][index + 2: ]
-
-            # kiem tra xem co dau ? o cuoi cau hay khong neu khong co thi them dau hoi vao ?
-
-            '''
-            khi ma so luong danh sach cau hoi sau 
-            khi chia bang 1 thi tuc la khong co lua chon
-            ta quy do la thuoc title bai tap
-            '''
+            # khi ma so luong danh sach cau hoi sau 
+            # khi chia bang 1 thi tuc la khong co lua chon
+            # ta quy do la thuoc title bai tap
             if (len(question) == 1):                
                 datas_new["title"] = "bai tap"
-                datas_new["cau_hoi"] = question[0]    
-                text_news = [clean_mathml(text[solution(text)[0] : solution(text)[1] + 1]) if (solution(text) != (-1,-1)) else text for text in texts]                                          
+                datas_new["cau_hoi"] = question[0] 
+                texts = data["dap_an"]   
+                text_news = [clean_text_with_mathml(text[solution(text)[0] : solution(text)[1] + 1]) if (solution(text) != (-1,-1)) else text for text in texts]                                          
                 datas_new["giai_thich"] = "\n".join(text_news)   
-
-            # '''
             # khi ma so luong danh sach tu 2 do len 
             # tuc la co 1 cau va co dap an lua chon
             # ta quy ve do la cau hoi trac nghiem
-            # '''
-            else:                            
+            else:
                 datas_new["title"] = "trac nghiem"
                 datas_new["cau_hoi"] = question[0]
                 selection_choice = question[1 : ]    
+                
+                for i in range(len(selection_choice)):
+                    if (check_charactor(selection_choice[i]) != '-1'):
+                        selection_choice[i] = check_charactor(selection_choice[i])
+
+
                 options = clean_choice(selection_choice)
 
                 if (len(options) == 0):
@@ -86,9 +94,9 @@ def main():
                     options = check(options)
 
                 dict_to_list = dict_to_text(options)
+                datas_new["cac_lua_chon"] = dict_to_list
 
-                list_answers = data["dap_an"]
-                
+                list_answers = data["dap_an"]                
                 vector_text = []
                 for i in range(len(list_answers)):
                     left, right = solution(list_answers[i])
@@ -98,39 +106,17 @@ def main():
                         if (list_answers[i] == list_answers[i][left : right + 1]):
                             vector_text.append(list_answers[i])
                         else:
-                            print("left:",left , "right:", right)
-                            string_end = clean_mathml(list_answers[i][left : right + 1])
-                            # print("string clean:",fix_spacing_and_comma(string_end))
-
-                            string_begin = string_seach_character(string_end,list_answers[i][left : right + 1])
-                            print("string begin:",string_begin)
-                            # print(string_begin + string_end)
-                            # string_beautiful = char_math_begin + char_math_last
-                        # vector_text.append(string_beautiful)
+                            string_end = clean_text_with_mathml(list_answers[i][left : right + 1])
+                            string_begin = string_seach_character(string_end[0],list_answers[i][ : left])
+                            vector_text.append(string_begin + string_end)
                     else:    
-                        print("string before:",list_answers[i])
-                #         vector_text.append(list_answers[i])
-                # text_beautiful = "\n".join(vector_text)
+                        vector_text.append(list_answers[i])
+                text_beautiful = "\n".join(vector_text)
+                datas_new["giai_thich"] = text_beautiful
+                cnt += 1
+            cleaned_data.append(datas_new)
 
-            #     datas_new["cac_lua_chon"] = dict_to_list
-            #     datas_new["giai_thich"] = text_beautiful
-            # cleaned_data.append(datas_new)
-    
-        # check_oke = False
-        # for i in range(len(question[0])):
-        #     if (question[0][i] == '?'):
-        #         check_oke = True 
-        #         break    
-        # if (not check_oke):
-        #     question[0] += '?'
-
-        # cleaned_data.append({
-        #     "title" : "trac nghiem",
-        #     "cau_hoi": question,
-        #     "cac_lua_chon": result,
-        #     "giai_thich": explanation
-        # })
-        # print("Cau thu: {}".format())
-            # cnt += 1
-        print(cleaned_data)
+    path_save_data = Path(__file__).parent / "data_fine_turning" / "data_trac_nghiem.json"            
+    Save_File_Json(str(path_save_data),cleaned_data).save()
+    print("save file sussufully")
 main()

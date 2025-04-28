@@ -3676,15 +3676,6 @@
     ]
   },
   {
-    "cau_hoi": "Câu 3: Chọn câu sai:\nA. Công thức tính động năng:\nW\nd\n=\nm\n.\nν\n2\n2\nB. Đơn vị động năng là:\nk\ng\n.\nm\n/\ns\n2\n.\nC. Đơn vị động năng là đơn vị công.\nD. Đơn vị động năng là: W.s.",
-    "dap_an": [
-      "Đáp án đúng là: B.",
-      "A - đúng",
-      "B - sai, đơn vị động năng là kg.m2/s2kg.m2/s2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>k</mi><mi>g</mi><mo>.</mo><msup><mi>m</mi><mn>2</mn></msup><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup></math>",
-      "C, D - đúng, đều có đơn vị là Jun, biểu thức tính công A=P.tA=P.t<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>=</mo><mtext>P</mtext><mo>.</mo><mi>t</mi></math> có đơn vị khác là W.s, ngoài ra 1J = 1W.1s nên động năng cũng có đơn vị là J hoặc W.s."
-    ]
-  },
-  {
     "cau_hoi": "Câu 4: Tìm phát biểu SAI trong các phát biểu sau. Thế năng trọng trường\nA. luôn luôn có trị số dương.\nB. tuỳ thuộc vào mặt phẳng chọn làm mốc thế năng.\nC. tỷ lệ với khối lượng của vật.\nD. có thể âm, dương hoặc bằng không.",
     "dap_an": [
       "Đáp án đúng là: A.",
