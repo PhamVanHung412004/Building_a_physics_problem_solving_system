@@ -1,1 +1,9 @@
 clean_data/
+dataset/
+Building_a_physics_problem_solving_system/__pycache__/
+Embedding_data/__pycache__/
+gen/__pycache__/
+labels_points/__pycache__/
+package/__pycache__/
+read_file/__pycache__/
+web_app/__pycache__/
