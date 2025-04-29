@@ -46,7 +46,7 @@ def main():
         dict_value = {}
         dict_value["title"] = "ly thuyet"
         dict_value["cau_hoi"] = key
-        dict_value["dap_an"] = value
+        dict_value["giai_thich"] = value
         data_best.append(dict_value)
     
     Save_File_Json(str(file_path_save_file_json),data_best).save()
