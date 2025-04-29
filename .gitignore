@@ -1,7 +1,8 @@
 clean_data/
-Embedding_data\__pycache__
-gen\__pycache__
-labels_points\__pycache__
-package\__pycache__
-read_file\__pycache__
-web_app\__pycache__
+dataset/
+Embedding_data/__pycache__/
+gen/__pycache__/
+labels_points/__pycache__/
+package/__pycache__/
+read_file/__pycache__/
+web_app/__pycache__/
