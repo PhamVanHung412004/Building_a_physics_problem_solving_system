@@ -32,7 +32,3 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 
 ## 💡 Ý tưởng fine-turning model LLM tối ưu cho hệ thống RAG
 ![Ý tưởng finr-turning](image/genator.png)
-
-
-## 🧹 Làm sạch 500 câu hỏi vật lý lớp 10, 11, 12 (Đàm Xuân Long & Nguyễn Ngọc Hải)
-![Ý tưởng finr-turning](image/clean_data_theory.png)
