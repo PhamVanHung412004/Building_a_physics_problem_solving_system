@@ -7,8 +7,9 @@ flask-cors
 flask-restful
 flask-sqlalchemy
 python-dotenv
-Flask-SQLAlchemy
-Flask-Login
+Flask-login
 Flask-Bcrypt
 Flask-WTF
 Flask-Mail
+django
+mysqlclient
