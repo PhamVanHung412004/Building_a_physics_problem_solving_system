@@ -71,23 +71,3 @@ def generate_and_tokenize_prompt(question_theory, question_practice, choices, ex
     
     return tokenized_full_prompt
 
-
-# Ví dụ sử dụng:
-question_theory = "Giải thích định lý bảo toàn năng lượng trong cơ học."
-question_practice = "Một vật nặng 5kg rơi từ độ cao 10m. Tính tốc độ của vật khi chạm đất (giả sử không có ma sát)."
-choices = "A. 10 m/s\nB. 14 m/s\nC. 15 m/s\nD. 20 m/s"
-explanation = """
-1. Lý thuyết: Định lý bảo toàn năng lượng cho biết trong một hệ cô lập không có lực bên ngoài, tổng năng lượng cơ học (năng lượng động học + năng lượng thế) luôn được bảo toàn.
-2. Bài tập:
-   - Năng lượng thế ban đầu: E_p = mgh = 5 * 9.8 * 10 = 490 J
-   - Năng lượng động học khi chạm đất: E_k = (1/2) * m * v^2
-   - Vì bảo toàn năng lượng, E_p = E_k, nên:
-     490 = (1/2) * 5 * v^2
-     Giải ra: v = 14 m/s
-"""
-
-# Gọi hàm để tạo và token hóa prompt
-tokenized_prompt = generate_and_tokenize_prompt(question_theory, question_practice, choices, explanation)
-
-# In kết quả tokenized prompt
-print(tokenized_prompt)

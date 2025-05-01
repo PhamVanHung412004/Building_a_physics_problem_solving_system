@@ -1,4 +1,3 @@
-# path_utils.py
 import numpy 
 import pandas
 import json
@@ -13,4 +12,5 @@ from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import os
 import re
+from bs4 import BeautifulSoup
 

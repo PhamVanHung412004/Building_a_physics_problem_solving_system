@@ -30,9 +30,3 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 ## 🌐 Thiết kế & Triển khai Web (Vũ Đức Hải & Phạm Văn Hùng)
 ![Thiết kế & Triển khai Web](image/ID_web_desgin.png)
 
-## 💡 Ý tưởng fine-turning model LLM tối ưu cho hệ thống RAG
-![Ý tưởng finr-turning](image/genator.png)
-
-
-## 🧹 Làm sạch 500 câu hỏi vật lý lớp 10, 11, 12 (Đàm Xuân Long & Nguyễn Ngọc)
-![Ý tưởng finr-turning](image/clean_data_theory.png)
