@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block title %}Physics Bot - Chat{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="physics-card p-4 mb-4">
+                <h2 class="text-center mb-4">
+                    <i class="fas fa-robot me-2"></i> Physics Bot Chat
+                </h2>
+                
+                <!-- Chat Container -->
+                <div id="chat-container" class="chat-container mb-4">
+                    <!-- Messages will be added here via JavaScript -->
+                </div>
+                
+                <!-- Quick Formula Buttons -->
+                <div class="mb-3">
+                    <h6><i class="fas fa-lightbulb me-2"></i>Quick Formula Access:</h6>
+                    <div id="formula-container" class="formula-container">
+                        <!-- Formula buttons will be added here via JavaScript -->
+                    </div>
+                </div>
+                
+                <!-- Chat Input -->
+                <div class="input-group">
+                    <input type="text" id="message-input" class="form-control chat-input" 
+                           placeholder="Ask a physics question..." aria-label="Your message">
+                    <button id="send-button" class="btn btn-physics">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                
+                <!-- Usage Tips -->
+                <div class="mt-4">
+                    <h6 class="text-center"><i class="fas fa-info-circle me-2"></i>Tips:</h6>
+                    <ul class="small">
+                        <li>Ask about specific physics concepts, formulas, or theories</li>
+                        <li>Request explanations of physical phenomena</li>
+                        <li>Ask for help understanding equations or problem-solving approaches</li>
+                        <li>Explore the history and development of physics concepts</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Topic Suggestions -->
+            <div class="physics-card p-4">
+                <h5 class="mb-3"><i class="fas fa-star me-2"></i>Popular Topics:</h5>
+                <div class="row g-2">
+                    <div class="col-6 col-md-4">
+                        <button class="btn btn-sm btn-outline-info w-100" 
+                                onclick="document.getElementById('message-input').value='What is Newton\'s third law?'">
+                            Newton's Laws
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <button class="btn btn-sm btn-outline-info w-100" 
+                                onclick="document.getElementById('message-input').value='Explain quantum entanglement'">
+                            Quantum Entanglement
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <button class="btn btn-sm btn-outline-info w-100" 
+                                onclick="document.getElementById('message-input').value='How do black holes work?'">
+                            Black Holes
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <button class="btn btn-sm btn-outline-info w-100" 
+                                onclick="document.getElementById('message-input').value='Explain the photoelectric effect'">
+                            Photoelectric Effect
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <button class="btn btn-sm btn-outline-info w-100" 
+                                onclick="document.getElementById('message-input').value='What is the theory of relativity?'">
+                            Theory of Relativity
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <button class="btn btn-sm btn-outline-info w-100" 
+                                onclick="document.getElementById('message-input').value='How do electromagnetic waves work?'">
+                            EM Waves
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
+{% endblock %}

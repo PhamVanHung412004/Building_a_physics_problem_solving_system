@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+{% block title %}Physics Bot - Register{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="auth-container">
+                <h2 class="text-center mb-4">
+                    <i class="fas fa-user-plus me-2"></i> Register
+                </h2>
+                
+                <form method="POST" action="{{ url_for('register') }}">
+                    {{ form.hidden_tag() }}
+                    
+                    <div class="mb-3">
+                        <label for="{{ form.username.id }}" class="form-label">
+                            <i class="fas fa-user me-2"></i>{{ form.username.label.text }}
+                        </label>
+                        {{ form.username(class="form-control form-control-physics", placeholder="Choose a username") }}
+                        {% if form.username.errors %}
+                            <div class="invalid-feedback d-block">
+                                {% for error in form.username.errors %}
+                                    {{ error }}
+                                {% endfor %}
+                            </div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="{{ form.email.id }}" class="form-label">
+                            <i class="fas fa-envelope me-2"></i>{{ form.email.label.text }}
+                        </label>
+                        {{ form.email(class="form-control form-control-physics", placeholder="Enter your email") }}
+                        {% if form.email.errors %}
+                            <div class="invalid-feedback d-block">
+                                {% for error in form.email.errors %}
+                                    {{ error }}
+                                {% endfor %}
+                            </div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="{{ form.password.id }}" class="form-label">
+                            <i class="fas fa-lock me-2"></i>{{ form.password.label.text }}
+                        </label>
+                        {{ form.password(class="form-control form-control-physics", placeholder="Create a password") }}
+                        {% if form.password.errors %}
+                            <div class="invalid-feedback d-block">
+                                {% for error in form.password.errors %}
+                                    {{ error }}
+                                {% endfor %}
+                            </div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="{{ form.confirm_password.id }}" class="form-label">
+                            <i class="fas fa-lock me-2"></i>{{ form.confirm_password.label.text }}
+                        </label>
+                        {{ form.confirm_password(class="form-control form-control-physics", placeholder="Confirm your password") }}
+                        {% if form.confirm_password.errors %}
+                            <div class="invalid-feedback d-block">
+                                {% for error in form.confirm_password.errors %}
+                                    {{ error }}
+                                {% endfor %}
+                            </div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="d-grid gap-2">
+                        {{ form.submit(class="btn btn-physics") }}
+                    </div>
+                </form>
+                
+                <div class="text-center mt-4">
+                    <p>Already have an account? <a href="{{ url_for('login') }}" class="text-info">Login here</a></p>
+                </div>
+            </div>
+            
+            <!-- Physics-themed decoration -->
+            <div class="text-center mt-4">
+                <div class="d-flex justify-content-center">
+                    <div class="physics-icon me-3">
+                        <i class="fas fa-rocket fa-2x" style="color: var(--physics-orange);"></i>
+                    </div>
+                    <div class="physics-icon me-3">
+                        <i class="fas fa-atom fa-2x" style="color: var(--physics-blue);"></i>
+                    </div>
+                    <div class="physics-icon">
+                        <i class="fas fa-flask fa-2x" style="color: var(--quantum-green);"></i>
+                    </div>
+                </div>
+                <p class="mt-2 text-muted">Join our community of physics enthusiasts!</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
