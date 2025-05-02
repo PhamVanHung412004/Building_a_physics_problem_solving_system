@@ -8,18 +8,15 @@ flask-cors
 flask-restful
 flask-sqlalchemy
 python-dotenv
-<<<<<<< HEAD
 flask-login
 flask-bcrypt
 flask-wtf
 flask-mail
 django
 mysqlclient
-=======
 Flask-SQLAlchemy
 Flask-Login
 Flask-Bcrypt
 Flask-WTF
 Flask-Mail
 bs4
->>>>>>> main
