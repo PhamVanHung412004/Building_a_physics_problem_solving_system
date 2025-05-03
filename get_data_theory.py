@@ -24,8 +24,8 @@ def main():
         "giai_thich": "bằng 4"
     }
 ]
-    datas_theory = [data["cau_hoi"]
-    # {data["cau_hoi"]: data["giai_thich"]}
+    datas_theory = [
+    {data["cau_hoi"]: data["giai_thich"]}
     for data in datas
     if data["title"] == "ly thuyet"
 ]
