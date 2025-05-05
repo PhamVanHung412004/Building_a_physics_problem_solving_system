@@ -11,8 +11,17 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 | **Nguyễn Ngọc Hải**  | Thành viên - Clean data, viết package.
 | **Trần Hữu Phúc**  | Thành viên - Crawl data.                         |
 | **Đàm Xuân Long**| Thành viên - Clean data.                         |
-                         |
+
 ---
+### Version 1:
+Công nghệ sử dụng: RAG + fine turning model sử dụng QLora 4bit trên bộ dữ liệu khoảng 2k câu hỏi.
+
+RAG : sẽ đóng vai trò retrival các câu hỏi lý thuyết 
+
+Fine turning: Đóng vai trò là người giải và phân tích
+
+## Version 2:
+Để tối ưu cho khả năng suy luận thì mình sử dụng AI Agent.
 
 ## 💡 Ý tưởng tổng quan
 ![ID_Chung](image/ID_Chung.png)
