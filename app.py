@@ -1,4 +1,2 @@
-
-
 from package import numpy
 
