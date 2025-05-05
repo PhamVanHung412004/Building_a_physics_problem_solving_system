@@ -1,7 +1,7 @@
 import os
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 class Answer_Question_From_Documents:
     def __init__(self,question : str, documents : list[str]) -> None:
