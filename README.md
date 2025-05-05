@@ -20,7 +20,6 @@ Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi te
 ## 💡 Ý tưởng sử dụng RAG
 ![ID_Chung](image/ID_RAG.png)
 
-
 ## 🧩 Viết package (Nguyễn Ngọc Hải & Phạm Văn Hùng)
 ![ID_package](image/ID_package.png)
 
