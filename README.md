@@ -20,7 +20,7 @@ RAG : sẽ đóng vai trò retrival các câu hỏi lý thuyết
 
 Fine turning: Đóng vai trò là người giải và phân tích
 
-## Version 2:
+### Version 2:
 Để tối ưu cho khả năng suy luận thì mình sử dụng AI Agent.
 
 ## 💡 Ý tưởng tổng quan
