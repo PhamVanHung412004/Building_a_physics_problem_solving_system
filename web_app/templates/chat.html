@@ -1,0 +1,147 @@
+{% extends "base.html" %}
+
+{% block title %}Chat with Physics Bot{% endblock %}
+
+{% block extra_css %}
+<style>
+    body {
+        overflow: hidden;
+        height: 100vh;
+    }
+    
+    .chat-layout {
+        display: flex;
+        height: calc(100vh - 56px);
+    }
+    
+    .chat-sidebar {
+        width: 280px;
+        background-color: var(--bs-dark);
+        border-right: 1px solid rgba(255, 255, 255, 0.1);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+    
+    .chat-main {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+    
+    .chat-history {
+        overflow-y: auto;
+        flex: 1;
+        padding: 1rem;
+    }
+    
+    .chat-history-item {
+        padding: 0.75rem 1rem;
+        border-radius: 0.5rem;
+        margin-bottom: 0.5rem;
+        cursor: pointer;
+        transition: background-color 0.2s;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .chat-history-item:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+    
+    .chat-history-item.active {
+        background-color: rgba(var(--bs-primary-rgb), 0.2);
+        font-weight: 500;
+    }
+    
+    .sidebar-header, .sidebar-footer {
+        padding: 1rem;
+    }
+    
+    .new-chat-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+    }
+    
+    @media (max-width: 768px) {
+        .chat-sidebar {
+            position: fixed;
+            left: -280px;
+            top: 56px;
+            bottom: 0;
+            z-index: 1000;
+            transition: left 0.3s ease;
+            width: 280px;
+        }
+        
+        .chat-sidebar.show {
+            left: 0;
+        }
+        
+        .sidebar-toggle {
+            display: block !important;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="chat-layout">
+    <!-- Sidebar -->
+    <div class="chat-sidebar" id="chat-sidebar">
+        <div class="sidebar-header">
+            <button class="btn btn-primary w-100 new-chat-btn" id="new-chat-btn">
+                <i class="bi bi-plus-lg"></i>
+                <span>New Chat</span>
+            </button>
+        </div>
+        
+        <div class="chat-history" id="chat-history">
+            <!-- Chat history will be populated here -->
+        </div>
+        
+        <div class="sidebar-footer">
+            <p class="small text-muted mb-0">Logged in as: {{ current_user.username }}</p>
+        </div>
+    </div>
+    
+    <!-- Main Chat Area -->
+    <div class="chat-main">
+        <!-- Sidebar Toggle Button (for mobile) -->
+        <button class="btn btn-sm btn-outline-secondary position-fixed top-0 start-0 mt-2 ms-2 d-none sidebar-toggle" id="sidebar-toggle" style="z-index: 1001; margin-top: 60px !important;">
+            <i class="bi bi-list"></i>
+        </button>
+        
+        <!-- Chat Messages -->
+        <div class="chat-messages d-flex flex-column" id="chat-messages">
+            <!-- Messages will be added here dynamically -->
+        </div>
+        
+        <!-- Chat Input -->
+        <div class="chat-input-container bg-dark">
+            <div class="container">
+                <form id="chat-form" class="chat-form">
+                    <div class="input-group">
+                        <input type="text" id="message-input" class="form-control chat-input" placeholder="Ask a physics question..." autocomplete="off">
+                        <button type="button" id="mic-button" class="btn btn-outline-secondary mic-btn">
+                            <i id="mic-icon" class="bi bi-mic"></i>
+                        </button>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-send"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+<script src="{{ url_for('static', filename='js/voice.js') }}"></script>
+{% endblock %}

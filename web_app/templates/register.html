@@ -1,100 +1,52 @@
 {% extends "base.html" %}
 
-{% block title %}Physics Bot - Register{% endblock %}
+{% block title %}Register - Physics Bot{% endblock %}
 
 {% block content %}
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-6">
-            <div class="auth-container">
-                <h2 class="text-center mb-4">
-                    <i class="fas fa-user-plus me-2"></i> Register
-                </h2>
-                
-                <form method="POST" action="{{ url_for('register') }}">
-                    {{ form.hidden_tag() }}
-                    
-                    <div class="mb-3">
-                        <label for="{{ form.username.id }}" class="form-label">
-                            <i class="fas fa-user me-2"></i>{{ form.username.label.text }}
-                        </label>
-                        {{ form.username(class="form-control form-control-physics", placeholder="Choose a username") }}
-                        {% if form.username.errors %}
-                            <div class="invalid-feedback d-block">
-                                {% for error in form.username.errors %}
-                                    {{ error }}
-                                {% endfor %}
-                            </div>
-                        {% endif %}
-                    </div>
-                    
-                    <div class="mb-3">
-                        <label for="{{ form.email.id }}" class="form-label">
-                            <i class="fas fa-envelope me-2"></i>{{ form.email.label.text }}
-                        </label>
-                        {{ form.email(class="form-control form-control-physics", placeholder="Enter your email") }}
-                        {% if form.email.errors %}
-                            <div class="invalid-feedback d-block">
-                                {% for error in form.email.errors %}
-                                    {{ error }}
-                                {% endfor %}
-                            </div>
-                        {% endif %}
-                    </div>
-                    
-                    <div class="mb-3">
-                        <label for="{{ form.password.id }}" class="form-label">
-                            <i class="fas fa-lock me-2"></i>{{ form.password.label.text }}
-                        </label>
-                        {{ form.password(class="form-control form-control-physics", placeholder="Create a password") }}
-                        {% if form.password.errors %}
-                            <div class="invalid-feedback d-block">
-                                {% for error in form.password.errors %}
-                                    {{ error }}
-                                {% endfor %}
-                            </div>
-                        {% endif %}
-                    </div>
-                    
-                    <div class="mb-3">
-                        <label for="{{ form.confirm_password.id }}" class="form-label">
-                            <i class="fas fa-lock me-2"></i>{{ form.confirm_password.label.text }}
-                        </label>
-                        {{ form.confirm_password(class="form-control form-control-physics", placeholder="Confirm your password") }}
-                        {% if form.confirm_password.errors %}
-                            <div class="invalid-feedback d-block">
-                                {% for error in form.confirm_password.errors %}
-                                    {{ error }}
-                                {% endfor %}
-                            </div>
-                        {% endif %}
-                    </div>
-                    
-                    <div class="d-grid gap-2">
-                        {{ form.submit(class="btn btn-physics") }}
-                    </div>
-                </form>
-                
-                <div class="text-center mt-4">
-                    <p>Already have an account? <a href="{{ url_for('login') }}" class="text-info">Login here</a></p>
-                </div>
+<div class="container py-5">
+    <div class="auth-container card bg-dark shadow-sm">
+        <h2 class="text-center mb-4">Create Account</h2>
+        
+        <form method="POST" action="{{ url_for('register') }}">
+            <div class="mb-3">
+                <label for="username" class="form-label">Username</label>
+                <input type="text" class="form-control" id="username" name="username" required>
             </div>
-            
-            <!-- Physics-themed decoration -->
-            <div class="text-center mt-4">
-                <div class="d-flex justify-content-center">
-                    <div class="physics-icon me-3">
-                        <i class="fas fa-rocket fa-2x" style="color: var(--physics-orange);"></i>
-                    </div>
-                    <div class="physics-icon me-3">
-                        <i class="fas fa-atom fa-2x" style="color: var(--physics-blue);"></i>
-                    </div>
-                    <div class="physics-icon">
-                        <i class="fas fa-flask fa-2x" style="color: var(--quantum-green);"></i>
-                    </div>
-                </div>
-                <p class="mt-2 text-muted">Join our community of physics enthusiasts!</p>
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" name="email" required>
             </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+            </div>
+            <div class="mb-3">
+                <label for="confirm_password" class="form-label">Confirm Password</label>
+                <input type="password" class="form-control" id="confirm_password" name="confirm_password" required>
+            </div>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Register</button>
+            </div>
+        </form>
+        
+        <div class="auth-divider">
+            <span>OR</span>
+        </div>
+        
+        <div class="d-grid">
+            <a href="{{ url_for('google_auth.login') }}" class="btn btn-outline-light google-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 48 48">
+                    <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path>
+                    <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path>
+                    <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path>
+                    <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path>
+                </svg>
+                Sign up with Google
+            </a>
+        </div>
+        
+        <div class="mt-4 text-center">
+            <p>Already have an account? <a href="{{ url_for('login') }}">Sign in here</a></p>
         </div>
     </div>
 </div>

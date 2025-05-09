@@ -3,173 +3,100 @@
 {% block title %}Physics Bot - Your AI Physics Assistant{% endblock %}
 
 {% block content %}
-<div class="particles-container">
-    <!-- Hero Section -->
-    <section class="hero-section text-center">
-        <div class="container">
-            <h1 class="display-4 mb-4">
-                <i class="fas fa-atom physics-icon"></i> 
-                Welcome to Physics Bot
-            </h1>
-            <p class="lead mb-5">Your intelligent AI assistant for exploring the fascinating world of physics concepts, formulas, and theories.</p>
-            <div class="d-grid gap-2 d-md-flex justify-content-md-center">
-                <a href="{{ url_for('chatbot') }}" class="btn btn-physics btn-lg px-4 me-md-2">
-                    <i class="fas fa-comments me-2"></i> Start Chatting
-                </a>
-                {% if not current_user.is_authenticated %}
-                <a href="{{ url_for('register') }}" class="btn btn-outline-light btn-lg px-4">
-                    <i class="fas fa-user-plus me-2"></i> Sign Up
-                </a>
+<section class="hero-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-10 text-center">
+                <h1>Explore Physics with AI</h1>
+                <p class="lead mb-4">Get instant answers to your physics questions. Chat with our Physics Bot to understand complex concepts in simple terms.</p>
+                
+                {% if current_user.is_authenticated %}
+                <a href="{{ url_for('chat') }}" class="btn btn-primary btn-lg">Start Chatting</a>
+                {% else %}
+                <div class="d-flex justify-content-center gap-3">
+                    <a href="{{ url_for('login') }}" class="btn btn-primary btn-lg">Sign In</a>
+                    <a href="{{ url_for('register') }}" class="btn btn-outline-secondary btn-lg">Register</a>
+                </div>
                 {% endif %}
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <!-- Features Section -->
-    <section class="py-5">
-        <div class="container">
-            <h2 class="text-center mb-5">Explore the Universe of Physics</h2>
-            <div class="row g-4">
-                <!-- Feature 1 -->
-                <div class="col-md-4">
-                    <div class="physics-card h-100 p-4 text-center">
-                        <div class="feature-icon mx-auto">
-                            <i class="fas fa-graduation-cap"></i>
+<section class="py-5 bg-dark">
+    <div class="container">
+        <h2 class="text-center mb-5">Features</h2>
+        
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon text-primary">
+                            <i class="bi bi-chat-dots"></i>
                         </div>
-                        <h3>Learn Concepts</h3>
-                        <p>Understand complex physics concepts through interactive conversations with our AI assistant.</p>
+                        <h3 class="card-title h4">Interactive Chat</h3>
+                        <p class="card-text">Engage in natural conversations with our physics-focused AI assistant. Ask questions about any physics topic.</p>
                     </div>
                 </div>
-                
-                <!-- Feature 2 -->
-                <div class="col-md-4">
-                    <div class="physics-card h-100 p-4 text-center">
-                        <div class="feature-icon mx-auto">
-                            <i class="fas fa-calculator"></i>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon text-primary">
+                            <i class="bi bi-mic"></i>
                         </div>
-                        <h3>Formula Help</h3>
-                        <p>Get help with physics formulas, calculations, and problem-solving techniques in various domains.</p>
+                        <h3 class="card-title h4">Voice Input</h3>
+                        <p class="card-text">Speak your questions naturally with our voice recognition feature. No typing needed!</p>
                     </div>
                 </div>
-                
-                <!-- Feature 3 -->
-                <div class="col-md-4">
-                    <div class="physics-card h-100 p-4 text-center">
-                        <div class="feature-icon mx-auto">
-                            <i class="fas fa-question-circle"></i>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card feature-card h-100">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon text-primary">
+                            <i class="bi bi-mortarboard"></i>
                         </div>
-                        <h3>Ask Anything</h3>
-                        <p>From quantum mechanics to classical physics, astronomy to nuclear physics - ask any question!</p>
+                        <h3 class="card-title h4">Learn Physics</h3>
+                        <p class="card-text">From Newton's Laws to Quantum Mechanics, explore fundamental physics concepts with helpful explanations.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <!-- Topics Section -->
-    <section class="py-5 bg-dark">
-        <div class="container">
-            <h2 class="text-center mb-5">Physics Topics We Cover</h2>
-            <div class="row g-4">
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-rocket mb-3" style="font-size: 2rem; color: var(--physics-blue);"></i>
-                        <h5>Mechanics</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-bolt mb-3" style="font-size: 2rem; color: var(--physics-orange);"></i>
-                        <h5>Electromagnetism</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-temperature-high mb-3" style="font-size: 2rem; color: var(--physics-red);"></i>
-                        <h5>Thermodynamics</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-atom mb-3" style="font-size: 2rem; color: var(--quantum-green);"></i>
-                        <h5>Quantum Physics</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-wave-square mb-3" style="font-size: 2rem; color: var(--physics-blue);"></i>
-                        <h5>Waves & Optics</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-globe mb-3" style="font-size: 2rem; color: var(--physics-purple);"></i>
-                        <h5>Relativity</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-meteor mb-3" style="font-size: 2rem; color: var(--physics-orange);"></i>
-                        <h5>Astrophysics</h5>
-                    </div>
-                </div>
-                <div class="col-md-3 col-6">
-                    <div class="physics-card p-3 text-center h-100">
-                        <i class="fas fa-atom mb-3" style="font-size: 2rem; color: var(--physics-red);"></i>
-                        <h5>Nuclear Physics</h5>
+<section class="py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 order-lg-2">
+                <h2>How It Works</h2>
+                <ol class="mt-4">
+                    <li class="mb-3">Create an account or sign in with Google.</li>
+                    <li class="mb-3">Navigate to the chat page to start your conversation.</li>
+                    <li class="mb-3">Type your physics question or use the voice input feature.</li>
+                    <li class="mb-3">Get instant answers to help you understand physics concepts.</li>
+                </ol>
+                {% if not current_user.is_authenticated %}
+                <a href="{{ url_for('register') }}" class="btn btn-primary mt-3">Get Started Now</a>
+                {% endif %}
+            </div>
+            <div class="col-lg-6 order-lg-1 mt-4 mt-lg-0">
+                <div class="card p-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Example Questions</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">"What are Newton's Laws of Motion?"</li>
+                            <li class="list-group-item">"Explain Einstein's theory of relativity"</li>
+                            <li class="list-group-item">"How does quantum mechanics work?"</li>
+                            <li class="list-group-item">"What is the difference between kinetic and potential energy?"</li>
+                            <li class="list-group-item">"Explain the concept of gravity"</li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-
-    <!-- How It Works Section -->
-    <section class="py-5">
-        <div class="container">
-            <h2 class="text-center mb-5">How It Works</h2>
-            <div class="row align-items-center g-5">
-                <div class="col-md-6">
-                    <div class="physics-card p-4">
-                        <div class="chat-bubble bot-bubble">Hello! I'm Physics Bot. How can I help you today?</div>
-                        <div class="chat-bubble user-bubble">Can you explain how black holes work?</div>
-                        <div class="chat-bubble bot-bubble">Black holes are regions of spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it...</div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <ol class="list-group list-group-numbered">
-                        <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                            <div class="ms-2 me-auto">
-                                <div class="fw-bold">Ask Your Question</div>
-                                Type any physics-related question in natural language
-                            </div>
-                        </li>
-                        <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                            <div class="ms-2 me-auto">
-                                <div class="fw-bold">Get Instant Answers</div>
-                                Our AI processes your question and provides accurate information
-                            </div>
-                        </li>
-                        <li class="list-group-item d-flex justify-content-between align-items-start bg-transparent border-0">
-                            <div class="ms-2 me-auto">
-                                <div class="fw-bold">Deepen Your Understanding</div>
-                                Ask follow-up questions to explore topics further
-                            </div>
-                        </li>
-                    </ol>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Call to Action -->
-    <section class="py-5 text-center">
-        <div class="container">
-            <h2 class="mb-4">Ready to Explore Physics?</h2>
-            <p class="lead mb-5">Join thousands of students, enthusiasts, and professionals who use Physics Bot to deepen their understanding.</p>
-            <a href="{{ url_for('chatbot') }}" class="btn btn-physics btn-lg px-5">
-                <i class="fas fa-rocket me-2"></i> Start Your Journey
-            </a>
-        </div>
-    </section>
-</div>
+    </div>
+</section>
 {% endblock %}

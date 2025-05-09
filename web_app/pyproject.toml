@@ -10,5 +10,8 @@ dependencies = [
     "flask-sqlalchemy>=3.1.1",
     "gunicorn>=23.0.0",
     "psycopg2-binary>=2.9.10",
-    "flask-wtf>=1.2.2",
+    "oauthlib>=3.2.2",
+    "requests>=2.32.3",
+    "sqlalchemy>=2.0.40",
+    "werkzeug>=3.1.3",
 ]
