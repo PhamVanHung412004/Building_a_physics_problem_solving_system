@@ -1,0 +1,294 @@
+/* General styling */
+body {
+    color: #fafafa;
+    background-color: #0f0f0f;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+
+/* Chat container styling */
+.stApp {
+    background-color: #0f0f0f;
+}
+
+/* Sidebar styling */
+.sidebar-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.user-info {
+    margin-bottom: 15px;
+    color: #e1e1e1;
+}
+
+.sidebar-footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #bbbbbb;
+}
+
+/* Chat message styling */
+.user-message-container, .bot-message-container {
+    display: flex;
+    padding: 8px 10px;
+    margin: 15px 0;
+    position: relative;
+    width: auto;
+}
+
+.user-message-container {
+    justify-content: flex-end;
+    padding-right: 20px;
+    margin-left: auto;
+    max-width: 90%;
+}
+
+.bot-message-container {
+    justify-content: flex-start;
+    padding-left: 20px;
+    margin-right: auto;
+    max-width: 90%;
+}
+
+.user-message, .bot-message {
+    width: auto;
+    max-width: 100%;
+    padding: 15px 20px;
+    border-radius: 10px;
+    line-height: 1.5;
+    font-size: 16px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+}
+
+.user-message {
+    background-color: #19c37d;
+    color: #ffffff;
+    border-radius: 18px 18px 2px 18px;
+}
+
+.bot-message {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    border-radius: 18px 18px 18px 2px;
+}
+
+/* Message header styling */
+.message-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+.message-sender {
+    font-weight: bold;
+}
+
+.message-time {
+    font-style: italic;
+}
+
+.message-content p {
+    margin: 0;
+}
+
+/* Add typing animation to bot messages */
+.bot-message-container:last-child .bot-message {
+    position: relative;
+}
+
+/* Add shimmer effect to newest messages */
+.user-message-container:last-child .user-message,
+.bot-message-container:last-child .bot-message {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Add user/bot avatar icons in message headers */
+.message-header::before {
+    content: "";
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+/* .user-message .message-header::before {
+    content: "👤";
+}
+
+.bot-message .message-header::before {
+    content: "🤖";
+} */
+
+/* Welcome message styling */
+.welcome-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    text-align: center;
+    flex-direction: column;
+}
+
+
+
+.welcome-container h2 {
+    color: #fafafa;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    background: linear-gradient(90deg, #19c37d, #127c50);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientShift 3s ease infinite;
+}
+
+@keyframes gradientShift {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* .welcome-container::after {
+    content: "💬";
+    font-size: 40px;
+    margin-top: 20px;
+    animation: float 3s ease-in-out infinite;
+} */
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+/* Chat header styling */
+.chat-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    display: none; /* Hide this in the app, it's handled by Streamlit's title */
+}
+
+/* Input container styling */
+.input-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(15, 15, 15, 0.95);
+    padding: 15px 20px;
+    border-top: 1px solid #333;
+    display: flex;
+    align-items: center;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+/* File upload styling */
+.uploaded-file {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #2c2c2c;
+    border-radius: 8px;
+    width: fit-content;
+}
+
+.uploaded-file p {
+    margin: 0 0 5px 0;
+    font-size: 14px;
+}
+
+.uploaded-file img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.file-icon {
+    font-size: 30px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+/* Override Streamlit default styling */
+.stButton > button {
+    border-radius: 99px;
+    padding: 2px 12px;
+    background-color: transparent;
+    color: #fafafa;
+    border: 1px solid #444;
+}
+
+.stButton > button:hover {
+    background-color: #333;
+    color: #fafafa;
+}
+
+.stTextInput > div > div > input {
+    border-radius: 99px;
+    background-color: #2c2c2c;
+    color: #fafafa;
+    border: 1px solid #444;
+    padding: 10px 15px;
+}
+
+/* Hide everything except "Browse files" button */
+.stFileUploader > div > div > div > div > div:first-child,
+.stFileUploader > div > div > div > div > div:last-child,
+.stFileUploader div[data-testid="stMarkdownContainer"] {
+    display: none !important;
+}
+
+/* Make only the Browse files button visible */
+.stFileUploader > div {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+/* Style the browse files button */
+.stFileUploader button[data-testid="baseButton-secondary"] {
+    display: flex !important;
+    border-radius: 99px;
+    padding: 5px 15px;
+    background-color: transparent;
+    color: #fafafa;
+    border: 1px solid #444;
+}
+
+/* Keep the button text visible */
+.stFileUploader button[data-testid="baseButton-secondary"] p {
+    display: block !important;
+}
+
+button[data-testid="baseButton-secondary"] {
+    background-color: transparent;
+    border: none;
+}

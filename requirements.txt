@@ -1,4 +1,5 @@
 pandas
+numpy
 pypdf
 python-docx
 yellowbrick
@@ -19,4 +20,11 @@ Flask-Login
 Flask-Bcrypt
 Flask-WTF
 Flask-Mail
-bs4
+faiss-cpu
+sentence-transformers
+groq
+hugchat
+deep-translator
+torch
+streamlit==1.25.0
+
