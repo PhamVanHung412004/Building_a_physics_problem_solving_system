@@ -1,8 +1,7 @@
 pandas
+numpy
 pypdf
 python-docx
-yellowbrick
-scikit-learn
 flask
 flask-cors
 flask-restful
@@ -15,3 +14,10 @@ flask-mail
 django
 mysqlclient
 bs4
+faiss-cpu
+sentence-transformers
+groq
+hugchat
+torch
+streamlit
+

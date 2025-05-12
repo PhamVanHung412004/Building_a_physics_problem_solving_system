@@ -1,4 +1,0 @@
-
-
-from package import numpy
-
