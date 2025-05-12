@@ -5,9 +5,9 @@ from package import (
     Image,
     io,
     uuid,
-    faiss
+    faiss,
+    Path
 )
-from huggingface_hub import hf_hub_download
 from datetime import datetime
 
 from read_file import Read_File_CSV
@@ -19,6 +19,7 @@ from RAG import (
 
 
 import time
+
 # Configure page
 st.set_page_config(
     page_title="ChatGPT Clone",
@@ -34,12 +35,8 @@ model = load_model()
 
 @st.cache_resource
 def load_vector_database():
-    faiss_path = hf_hub_download(
-        repo_id="PVH412004/Model_vectorDB",    # Thay bằng tên repo của bạn
-        filename="vector_database.faiss" # Tên file trên Huggingface
-    )
-    # Load FAISS index
-    index = faiss.read_index(faiss_path)
+    path_vector_data = Path(__file__).parent / "vector_database/vector_database.faiss"
+    index = faiss.read_index(str(path_vector_data))
     return index
 
 index = load_vector_database()
@@ -81,7 +78,7 @@ def colored_text(text : str, color : str) -> str:
 
 # Load custom CSS
 def load_css():
-    with open("static/custom.css", "r") as f:
+    with open("static/custom.css", "r", encoding='utf-8') as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Initialize session state
