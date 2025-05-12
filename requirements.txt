@@ -2,8 +2,6 @@ pandas
 numpy
 pypdf
 python-docx
-yellowbrick
-scikit-learn
 flask
 flask-cors
 flask-restful
@@ -24,7 +22,6 @@ faiss-cpu
 sentence-transformers
 groq
 hugchat
-deep-translator
 torch
-streamlit==1.25.0
+streamlit
 
