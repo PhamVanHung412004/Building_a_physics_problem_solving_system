@@ -1,154 +1,53 @@
-{% extends "layout.html" %}
+{% extends "base.html" %}
 
-{% block title %}Register - Physics Chatbot{% endblock %}
+{% block title %}Register - Physics Bot{% endblock %}
 
 {% block content %}
-<!-- Register Hero Section -->
-<section class="hero-section py-5 mb-5">
-    <div class="physics-bg">
-        <svg viewBox="0 0 800 600" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-            <g fill="none" stroke="rgba(79, 129, 189, 0.2)" stroke-width="2">
-                <!-- Physics Equations -->
-                <path d="M100,100 L150,100 M160,90 L160,110 M170,100 L220,100" />
-                <path d="M600,400 L650,400 M660,390 L660,410 M670,400 L720,400" />
-                <path d="M200,500 L250,500 M270,500 L320,500" />
-                
-                <!-- Wave Function -->
-                <path d="M50,300 C100,250 150,350 200,300 C250,250 300,350 350,300 C400,250 450,350 500,300 C550,250 600,350 650,300 C700,250 750,350 800,300" />
-            </g>
-        </svg>
-    </div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 text-center">
-                <h1 class="display-4 fw-bold mb-3">Create an Account</h1>
-                <p class="lead mb-4">Join PhysicsBot to get access to our AI physics assistant.</p>
+<div class="container py-5">
+    <div class="auth-container card bg-dark shadow-sm">
+        <h2 class="text-center mb-4">Create Account</h2>
+        
+        <form method="POST" action="{{ url_for('register') }}">
+            <div class="mb-3">
+                <label for="username" class="form-label">Username</label>
+                <input type="text" class="form-control" id="username" name="username" required>
             </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+            </div>
+            <div class="mb-3">
+                <label for="confirm_password" class="form-label">Confirm Password</label>
+                <input type="password" class="form-control" id="confirm_password" name="confirm_password" required>
+            </div>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Register</button>
+            </div>
+        </form>
+        
+        <div class="auth-divider">
+            <span>OR</span>
+        </div>
+        
+        <div class="d-grid">
+            <a href="{{ url_for('google_auth.login') }}" class="btn btn-outline-light google-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 48 48">
+                    <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path>
+                    <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path>
+                    <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path>
+                    <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path>
+                </svg>
+                Sign up with Google
+            </a>
+        </div>
+        
+        <div class="mt-4 text-center">
+            <p>Already have an account? <a href="{{ url_for('login') }}">Sign in here</a></p>
         </div>
     </div>
-</section>
-
-<!-- Registration Form Section -->
-<section class="py-5">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <div class="card border-0 shadow-sm">
-                    <div class="card-body p-4">
-                        <h2 class="card-title h4 mb-4 text-center">Register</h2>
-                        
-                        <form method="post" action="{{ url_for('register') }}">
-                            {{ form.hidden_tag() }}
-                            
-                            <div class="mb-3">
-                                {{ form.username.label(class="form-label") }}
-                                {% if form.username.errors %}
-                                    {{ form.username(class="form-control is-invalid") }}
-                                    <div class="invalid-feedback">
-                                        {% for error in form.username.errors %}
-                                            {{ error }}
-                                        {% endfor %}
-                                    </div>
-                                {% else %}
-                                    {{ form.username(class="form-control", placeholder="Choose a username") }}
-                                {% endif %}
-                            </div>
-                            
-                            <div class="mb-3">
-                                {{ form.email.label(class="form-label") }}
-                                {% if form.email.errors %}
-                                    {{ form.email(class="form-control is-invalid") }}
-                                    <div class="invalid-feedback">
-                                        {% for error in form.email.errors %}
-                                            {{ error }}
-                                        {% endfor %}
-                                    </div>
-                                {% else %}
-                                    {{ form.email(class="form-control", placeholder="Enter your email address") }}
-                                {% endif %}
-                            </div>
-                            
-                            <div class="mb-3">
-                                {{ form.password.label(class="form-label") }}
-                                {% if form.password.errors %}
-                                    {{ form.password(class="form-control is-invalid") }}
-                                    <div class="invalid-feedback">
-                                        {% for error in form.password.errors %}
-                                            {{ error }}
-                                        {% endfor %}
-                                    </div>
-                                {% else %}
-                                    {{ form.password(class="form-control", placeholder="Create a password (8+ characters)") }}
-                                {% endif %}
-                            </div>
-                            
-                            <div class="mb-3">
-                                {{ form.password2.label(class="form-label") }}
-                                {% if form.password2.errors %}
-                                    {{ form.password2(class="form-control is-invalid") }}
-                                    <div class="invalid-feedback">
-                                        {% for error in form.password2.errors %}
-                                            {{ error }}
-                                        {% endfor %}
-                                    </div>
-                                {% else %}
-                                    {{ form.password2(class="form-control", placeholder="Confirm your password") }}
-                                {% endif %}
-                            </div>
-                            
-                            <div class="d-grid gap-2">
-                                {{ form.submit(class="btn btn-primary") }}
-                            </div>
-                        </form>
-                        
-                        <div class="mt-4 text-center">
-                            <p>Already have an account? <a href="{{ url_for('login') }}" class="text-decoration-none">Sign in here</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Features Section -->
-<section class="py-5 bg-dark">
-    <div class="container">
-        <div class="row justify-content-center mb-5">
-            <div class="col-lg-8 text-center">
-                <h2 class="fw-bold mb-3">Why Register?</h2>
-                <p class="lead">Creating an account gives you full access to our Physics Chatbot and these great features:</p>
-            </div>
-        </div>
-        <div class="row g-4 row-cols-1 row-cols-md-3">
-            <div class="col">
-                <div class="d-flex flex-column h-100">
-                    <div class="feature-icon bg-primary bg-gradient">
-                        <i class="fas fa-user-circle"></i>
-                    </div>
-                    <h3 class="fs-4">Personalized Experience</h3>
-                    <p class="flex-grow-1">Get responses tailored to your learning progress and interests.</p>
-                </div>
-            </div>
-            <div class="col">
-                <div class="d-flex flex-column h-100">
-                    <div class="feature-icon bg-primary bg-gradient">
-                        <i class="fas fa-history"></i>
-                    </div>
-                    <h3 class="fs-4">Chat History</h3>
-                    <p class="flex-grow-1">Access your conversation history with the physics chatbot anytime.</p>
-                </div>
-            </div>
-            <div class="col">
-                <div class="d-flex flex-column h-100">
-                    <div class="feature-icon bg-primary bg-gradient">
-                        <i class="fas fa-star"></i>
-                    </div>
-                    <h3 class="fs-4">Premium Content</h3>
-                    <p class="flex-grow-1">Get access to advanced physics explanations and specialized topics.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+</div>
 {% endblock %}

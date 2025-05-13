@@ -1,87 +1,45 @@
-{% extends "layout.html" %}
+{% extends "base.html" %}
 
-{% block title %}Sign In - Physics Chatbot{% endblock %}
+{% block title %}Sign In - Physics Bot{% endblock %}
 
 {% block content %}
-<!-- Login Hero Section -->
-<section class="hero-section py-5 mb-5">
-    <div class="physics-bg">
-        <svg viewBox="0 0 800 600" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-            <g fill="none" stroke="rgba(79, 129, 189, 0.2)" stroke-width="2">
-                <!-- Physics Equations -->
-                <path d="M100,100 L150,100 M160,90 L160,110 M170,100 L220,100" />
-                <path d="M600,400 L650,400 M660,390 L660,410 M670,400 L720,400" />
-                <path d="M200,500 L250,500 M270,500 L320,500" />
-            </g>
-        </svg>
-    </div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 text-center">
-                <h1 class="display-4 fw-bold mb-3">Sign In</h1>
-                <p class="lead mb-4">Log in to your account to access the Physics Chatbot.</p>
+<div class="container py-5">
+    <div class="auth-container card bg-dark shadow-sm">
+        <h2 class="text-center mb-4">Sign In</h2>
+        
+        <form method="POST" action="{{ url_for('login') }}">
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" name="email" required>
             </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+            </div>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-primary">Sign In</button>
+            </div>
+        </form>
+        
+        <div class="auth-divider">
+            <span>OR</span>
+        </div>
+        
+        <div class="d-grid">
+            <a href="{{ url_for('google_auth.login') }}" class="btn btn-outline-light google-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 48 48">
+                    <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"></path>
+                    <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"></path>
+                    <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"></path>
+                    <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"></path>
+                </svg>
+                Sign in with Google
+            </a>
+        </div>
+        
+        <div class="mt-4 text-center">
+            <p>Don't have an account? <a href="{{ url_for('register') }}">Register here</a></p>
         </div>
     </div>
-</section>
-
-<!-- Login Form Section -->
-<section class="py-5">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <div class="card border-0 shadow-sm">
-                    <div class="card-body p-4">
-                        <h2 class="card-title h4 mb-4 text-center">Welcome Back</h2>
-                        
-                        <form method="post" action="{{ url_for('login') }}">
-                            {{ form.hidden_tag() }}
-                            
-                            <div class="mb-3">
-                                {{ form.username.label(class="form-label") }}
-                                {% if form.username.errors %}
-                                    {{ form.username(class="form-control is-invalid") }}
-                                    <div class="invalid-feedback">
-                                        {% for error in form.username.errors %}
-                                            {{ error }}
-                                        {% endfor %}
-                                    </div>
-                                {% else %}
-                                    {{ form.username(class="form-control", placeholder="Enter your username") }}
-                                {% endif %}
-                            </div>
-                            
-                            <div class="mb-3">
-                                {{ form.password.label(class="form-label") }}
-                                {% if form.password.errors %}
-                                    {{ form.password(class="form-control is-invalid") }}
-                                    <div class="invalid-feedback">
-                                        {% for error in form.password.errors %}
-                                            {{ error }}
-                                        {% endfor %}
-                                    </div>
-                                {% else %}
-                                    {{ form.password(class="form-control", placeholder="Enter your password") }}
-                                {% endif %}
-                            </div>
-                            
-                            <div class="mb-3 form-check">
-                                {{ form.remember_me(class="form-check-input") }}
-                                {{ form.remember_me.label(class="form-check-label") }}
-                            </div>
-                            
-                            <div class="d-grid gap-2">
-                                {{ form.submit(class="btn btn-primary") }}
-                            </div>
-                        </form>
-                        
-                        <div class="mt-4 text-center">
-                            <p>Don't have an account? <a href="{{ url_for('register') }}" class="text-decoration-none">Register here</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+</div>
 {% endblock %}
