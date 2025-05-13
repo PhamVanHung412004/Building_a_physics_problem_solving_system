@@ -33,7 +33,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link {% if request.path == url_for('index') %}active{% endif %}" href="{{ url_for('index') }}">Home</a>
+                        <a class="nav-link {% if request.path == url_for('index') %}active{% endif %}" href="{{ url_for('index') }}">Trang chủ</a>
                     </li>
                     {% if current_user.is_authenticated %}
                     <li class="nav-item">
@@ -44,10 +44,10 @@
                     </li>
                     {% else %}
                     <li class="nav-item">
-                        <a class="nav-link {% if request.path == url_for('login') %}active{% endif %}" href="{{ url_for('login') }}">Sign In</a>
+                        <a class="nav-link {% if request.path == url_for('login') %}active{% endif %}" href="{{ url_for('login') }}">Đăng nhập</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link {% if request.path == url_for('register') %}active{% endif %}" href="{{ url_for('register') }}">Register</a>
+                        <a class="nav-link {% if request.path == url_for('register') %}active{% endif %}" href="{{ url_for('register') }}">Đăng ký</a>
                     </li>
                     {% endif %}
                 </ul>
@@ -82,7 +82,7 @@
                     <p class="mb-0">&copy; 2023 Physics Bot. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    <p class="mb-0">Your AI Physics Assistant</p>
+                    <p class="mb-0">Học Vật Lý qua ChatBot!</p>
                 </div>
             </div>
         </div>

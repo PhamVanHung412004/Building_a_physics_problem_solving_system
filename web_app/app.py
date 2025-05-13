@@ -123,12 +123,12 @@ def logout():
     return redirect(url_for('index'))
 
 @app.route('/chat')
-@login_required
+# @login_required
 def chat():
-    return render_template('chat.html', username=current_user.username)
+    return render_template('chat.html')
 
 @app.route('/api/chat', methods=['POST'])
-@login_required
+# @login_required
 def process_message():
     data = request.json
     message = data.get('message', '').strip()
