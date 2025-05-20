@@ -1,5 +1,5 @@
 from groq import Groq
-client : Groq = Groq(api_key="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")
+client : Groq = Groq(api_key="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")
 
 class Answer_Question_From_Documents:
     def __init__(self, question: str, documents: list[str]) -> None:
