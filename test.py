@@ -11,5 +11,4 @@ user_query = "Buoc song la gi?"
 
 retrival = load_vector_data_base.similarity_search(user_query,4)
 
-
 print(retrival)

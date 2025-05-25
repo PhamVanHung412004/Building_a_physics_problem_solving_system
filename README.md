@@ -1,12 +1,12 @@
 # 📘 Building a Physics Problem Solving System
 ## 🚀 Giới thiệu  
-Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi team AI. Hệ thống được thiết kế dưới dạng một website chatbot, sử dụng kỹ thuật **RAG (Retrieval-Augmented Generation) , Multi LLM, Fine-turning Model, tạo AI Agent** và được tối ưu với các kiến thức từ **Machine Learning**.
+Dự án **Chatbot giải bài tập Vật lý** được phát triển bởi team AI. Hệ thống được thiết kế dưới dạng một website chatbot, sử dụng kỹ thuật **RAG (Retrieval-Augmented Generation) , Multi LLM, Fine-turning Model**
 
 ## 👨‍💻 Thành viên nhóm
 
 | Họ tên             | Vị trí - Vai trò                            |
 |--------------------|------------------------------------|
-| **Phạm Văn Hùng**  | Leader  - Thiết kế hệ thống RAG , fine-turning model, viết package , clean data, Multi LLM(ảnh + text), tạo AI Agent.       |
+| **Phạm Văn Hùng**  | Leader  - Thiết kế hệ thống RAG , fine-turning model, viết package , clean data, tạo Multi Agent.       |
 | **Vũ Đức Hải**     | Leader - Thiết kế & Triển khai Web. |
 | **Nguyễn Ngọc Hải**  | Thành viên - Clean data, viết package.
 | **Trần Hữu Phúc**  | Thành viên - Crawl data.                         |
