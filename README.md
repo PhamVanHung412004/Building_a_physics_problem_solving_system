@@ -20,16 +20,10 @@ Công nghệ sử dụng: RAG + fine turning model sử dụng QLora 4bit trên 
 Để tối ưu cho khả năng suy luận thì mình sử dụng AI Agent.
 
 ## 💡 Ý tưởng tổng quan
-![ID_Chung](image/ID_Chung.png)
-
-## 💡 Ý tưởng sử dụng RAG
-![ID_Chung](image/ID_RAG.png)
+![ID_Chung](image/ID_chatbot-ID_Chung.drawio.png)
 
 ## 🧩 Viết package (Nguyễn Ngọc Hải & Phạm Văn Hùng)
 ![ID_package](image/ID_package.png)
-
-## 🧹 Làm sạch dữ liệu (Đàm Xuân Long, Nguyễn Ngọc Hải & Phạm Văn Hùng)
-![Ý tưởng ](image/clear_data.png)
 
 ## 🌐 Thiết kế & Triển khai Web (Vũ Đức Hải & Phạm Văn Hùng)
 ![Thiết kế & Triển khai Web](image/ID_web_desgin.png)
