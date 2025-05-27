@@ -12,7 +12,11 @@ import ast
 from pathlib import Path
 from pypdf import PdfReader
 from docx import Document
-from typing import Dict
+from typing import (
+    Dict,
+    List
+)
 from numpy.typing import NDArray
 import streamlit
+
 
