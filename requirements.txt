@@ -2,18 +2,14 @@ pandas
 numpy
 pypdf
 python-docx
-flask
 flask-cors
 flask-restful
-flask-sqlalchemy
 python-dotenv
-flask-login
 flask-bcrypt
 flask-wtf
 flask-mail
 django
 mysqlclient
-Flask-Mail
 faiss-cpu
 sentence-transformers
 groq
@@ -26,7 +22,6 @@ flask>=3.1.0
 flask-sqlalchemy>=3.1.1
 gunicorn>=23.0.0
 psycopg2-binary>=2.9.10
-oauthlib>=3.2.2
 requests>=2.32.3
 sqlalchemy>=2.0.40
 werkzeug>=3.1.3
